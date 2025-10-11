@@ -6,26 +6,41 @@ import Section from "../../layouts/section.astro";
 import FeedItem from "../../components/feed-item.astro";
 import Title from "../../components/title.astro";
 
-import { collectFeeds } from "../../feed/fetch";
+import { collectFeeds, fetchFeed } from "../../feed/fetch";
 import { siteList } from "../../feed/list";
+import { pub } from "../../utils";
 
-export const getStaticPaths = (async () => {
-  const feeds = await collectFeeds(siteList);
-  return Object.entries(feeds).map(([site, feed]) => ({
-    params: { site },
-    props: feed,
-  }));
-}) satisfies GetStaticPaths;
+export const getStaticPaths = (async () =>
+  (
+    await Promise.all(
+      siteList.map(async (info) => {
+        const feed = await fetchFeed(
+          info.rss,
+          info.title,
+          info.url,
+          info.param
+        );
+        if (feed === undefined) return;
+        return { params: { site: info.param }, props: { ...info, feed } };
+      })
+    )
+  ).filter((i) => i !== undefined)) satisfies GetStaticPaths;
 
-const { title, description, items } = Astro.props;
+const {
+  feed: { title, description, items },
+  logo,
+} = Astro.props;
 ---
 
 <Layout>
   <main>
     <Section>
-      <div>
-        <Title>{title}</Title>
-        {description && <p>{description}</p>}
+      <div class="flex gap-4 items-center">
+        <img src={pub(logo)} alt=`${title} icon` class="w-12" />
+        <div>
+          <Title>{title}</Title>
+          {description && <p>{description}</p>}
+        </div>
       </div>
       <div class="grid gap-4">
         {

@@ -16,25 +16,23 @@ import { pub } from "../utils";
     <link
       rel="icon"
       type="image/png"
-      href={pub("favicon-48x48.png")}
-      sizes="48x48"
+      href={pub("favicon-96x96.png")}
+      sizes="96x96"
     />
-    <link rel="icon" type="image/svg+xml" href={pub("favicon.svg")} />
+    <link rel="icon" type="image/ico" href={pub("favicon.ico")} />
     <link rel="shortcut icon" href={pub("favicon.ico")} />
     <link
       rel="apple-touch-icon"
       sizes="180x180"
       href={pub("apple-touch-icon.png")}
     />
-    <meta name="apple-mobile-web-app-title" content="Reso-su" />
+    <meta name="apple-mobile-web-app-title" content="たより" />
     <link rel="manifest" href={pub("site.webmanifest")} />
-    <title>Reso-su</title>
+    <title>たより</title>
   </head>
   <body class="bg-zinc-100 text-zinc-800">
     <Header />
-    <div class="py-8">
-      <slot />
-    </div>
+    <slot />
     <Footer />
   </body>
 </html>

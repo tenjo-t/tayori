@@ -1,9 +1,10 @@
 ---
+import { Icon } from "astro-icon/components";
 import { pub } from "../utils";
 
 type Props = {
   param: string;
-  logo?: string;
+  logo: string;
   title: string;
   url: string;
 };
@@ -11,27 +12,24 @@ type Props = {
 const { param, logo, title, url } = Astro.props;
 ---
 
-<div class="w-36">
-  <a class="block" href={pub(`feed/${param}`)}>
+<div class="flex gap-4 items-center">
+  <a class="block flex-shrink-0" href={pub(`feed/${param}`)}>
     <div
-      class="p-8 bg-white rounded-2xl hover:shadow-amber-600/10 focus:shadow-amber-600/10 hover:shadow-lg focus:shadow-lg transition-all"
+      class="p-4 bg-white rounded-full hover:shadow-lg focus:shadow-lg transition-all"
     >
-      {
-        logo ? (
-          <img class="w-20 h-20" src={pub(logo)} alt={`${title} logo`} />
-        ) : (
-          <div class="w-20 h-20 text-5xl text-center font-bold">{title[0]}</div>
-        )
-      }
+      <img class="w-16 h-16" src={pub(logo)} alt={`${title} logo`} />
     </div>
-    <div class="pt-1 text-xl text-center font-bold leading-tight">{title}</div>
   </a>
-  <a
-    class="block text-center break-all underline hover:no-underline focus:no-underline leading-none"
-    href={url}
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    {url}
-  </a>
+  <div>
+    <div class="text-2xl leading-tight">{title}</div>
+    <a
+      class="block pt-2 break-all underline hover:no-underline focus:no-underline leading-none"
+      href={url}
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <Icon name="lucide:external-link" class="inline-block" />
+      {url}
+    </a>
+  </div>
 </div>

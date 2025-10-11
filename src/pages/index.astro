@@ -15,7 +15,6 @@ const items = await collectAllItems(siteList);
 <Layout>
   <main>
     <Section>
-      <Title>Recent</Title>
       <div class="grid gap-4">
         {
           items
@@ -26,6 +25,7 @@ const items = await collectAllItems(siteList);
                 pubDate={item.pubDate}
                 site={item.site}
                 title={item.title}
+                param={item.param}
                 creator={item.creator}
                 contentSnippet={item.contentSnippet}
               />
@@ -34,9 +34,9 @@ const items = await collectAllItems(siteList);
       </div>
       <LinkButton href="weekly">もっと見る</LinkButton>
     </Section>
-    <Section class="bg-amber-400/10">
-      <Title>Feeds</Title>
-      <div class="flex flex-wrap justify-center gap-8">
+    <Section>
+      <Title>ソース</Title>
+      <div class="grid grid-cols-1 gap-8 mx-auto sm:grid-cols-2">
         {
           siteList.map((s) => (
             <LinkCard

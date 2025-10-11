@@ -6,10 +6,8 @@ type Props = {
 const { class: className } = Astro.props;
 ---
 
-<section class:list={["pt-10 px-6 pb-24 sm:px-8", className]}>
-  <div class="grid gap-12 mx-auto max-w-3xl">
-    <slot />
-  </div>
+<section class:list={["grid gap-12 mx-auto px-4 py-6 max-w-3xl", className]}>
+  <slot />
 </section>
 
 <style>

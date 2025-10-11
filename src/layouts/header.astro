@@ -1,34 +1,36 @@
 ---
 import { Icon } from "astro-icon/components";
 
-import { siteList } from "../feed/list";
+import { getColor, siteList } from "../feed/list";
 import { pub } from "../utils";
+
+const feed = [
+  ["", "ホーム"],
+  ["all", "すべて"],
+  ["weekly", "今週"],
+];
 ---
 
-<header class="border-b border-zinc-300">
-  <div class="flex items-center justify-between mx-auto px-4 py-2 max-w-4xl">
+<header>
+  <div class="flex items-center justify-between mx-auto px-4 py-6 max-w-3xl">
     <h1 class="title">
       <a
         class="flex gap-1 items-center text-lg font-bold leading-none"
         href={pub("")}
       >
-        <img class="w-4 h-4" src={pub("favicon.svg")} alt="Reso-su" />
-        Reso-su
+        <img class="h-12" src={pub("tayori.svg")} alt="たより" />
       </a>
     </h1>
     <div class="flex items-center gap-2">
-      <a href="https://github.com/tenjo-t/reso-su">
-        <img class="w-6" src={pub("logo/github.svg")} alt="GitHub" />
-      </a>
       <button
         class="global-nav-button flex gap-1 items-center px-2 py-1 hover:bg-zinc-200 focus:bg-zinc-200 active:bg-zinc-300 rounded transition-colors"
         popovertarget="nav-dialog"
       >
-        <Icon name="lucide:align-left" />Menu
+        <Icon name="lucide:align-left" />メニュー
       </button>
       <dialog
         id="nav-dialog"
-        class="global-nav-dialog m-0 px-6 py-4 border border-solid border-zinc-300 bg-zinc-50 rounded-md shadow-md"
+        class="global-nav-dialog m-0 px-6 py-4 min-w-72 border border-solid border-zinc-300 bg-zinc-50 rounded-md shadow-md"
         popover
       >
         <nav class="global-nav">
@@ -37,42 +39,36 @@ import { pub } from "../utils";
             popovertarget="nav-dialog"
             autofocus
           >
-            <Icon name="lucide:x" />Close
+            <Icon name="lucide:x" />閉じる
           </button>
-          <ul>
+          <ul class="space-y-4">
             <li>
-              <div class="pt-4 font-bold text-lg">Feed</div>
-              <ul class="pl-4">
-                <li>
-                  <a
-                    class="underline hover:no-underline focus:no-underline"
-                    href={pub("")}>Home</a
-                  >
-                </li>
-                <li>
-                  <a
-                    class="underline hover:no-underline focus:no-underline"
-                    href={pub("all")}>All</a
-                  >
-                </li>
-                <li>
-                  <a
-                    class="underline hover:no-underline focus:no-underline"
-                    href={pub("weekly")}>Weekly</a
-                  >
-                </li>
+              <div class="pt-4 text-xl">フィード</div>
+              <ul class="grid grid-cols-1 gap-x-4 gap-y-2 pt-2 sm:grid-cols-2">
+                {
+                  feed.map(([link, title]) => (
+                    <li class="px-2 py-1 rounded bg-zinc-100 hover:bg-zinc-200 focus:bg-zinc-200 active:bg-zinc-300 transition-colors">
+                      <a href={pub(link)}>{title}</a>
+                    </li>
+                  ))
+                }
               </ul>
             </li>
             <li>
-              <div class="pt-4 font-bold text-lg">Site</div>
-              <ul class="pl-4">
+              <div class="pt-4 text-xl">サイト</div>
+              <ul class="grid grid-cols-1 gap-x-4 gap-y-2 pt-2 sm:grid-cols-2">
                 {
-                  siteList.map((site) => (
-                    <li>
+                  siteList.map((site, i) => (
+                    <li class="px-2 py-1 rounded bg-zinc-100 hover:bg-zinc-200 focus:bg-zinc-200 active:bg-zinc-300 transition-colors sm:max-w-48">
                       <a
-                        class="underline hover:no-underline focus:no-underline"
+                        class="flex gap-3 items-center"
                         href={pub(`feed/${site.param}`)}
                       >
+                        <img
+                          src={pub(site.logo)}
+                          alt="アイコン"
+                          class="inline-block w-6 rounded-full"
+                        />
                         {site.title}
                       </a>
                     </li>

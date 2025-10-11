@@ -1,28 +1,29 @@
 ---
 import { Icon } from "astro-icon/components";
+import { getColor } from "../feed/list";
 
 type Props = {
   link: string;
   pubDate: string;
   title: string;
+  param?: string;
   creator?: string;
   contentSnippet?: string;
   site?: string;
 };
 
-const { link, pubDate, title, creator, contentSnippet, site } = Astro.props;
+const { link, title, creator, contentSnippet, site, param } = Astro.props;
 ---
 
-<a
-  class="block p-4 border border-zinc-300 hover:border-amber-600 focus:border-amber-600 bg-zinc-50 active:bg-zinc-100 rounded-lg transition-all"
-  href={link}
->
+<a class="block py-4" href={link}>
   <article>
-    <div class="flex items-center gap-1 text-sm text-amber-700">
-      <Icon name="lucide:calendar" />
-      {new Date(pubDate).toLocaleDateString("ja-JP")}{site && "　@" + site}
+    <div
+      class="flex items-center gap-1 text-sm"
+      style={param && `color:${getColor(param)}`}
+    >
+      {site}
     </div>
-    <h1 class="pt-2 text-xl text-zinc-900 font-bold">{title}</h1>
+    <h1 class="pt-2 text-xl text-zinc-900">{title}</h1>
     {
       creator && (
         <div class="flex items-center gap-1">

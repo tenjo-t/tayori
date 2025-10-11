@@ -8,6 +8,7 @@ export type Item = {
 	link: string;
 	pubDate: string;
 	contentSnippet?: string;
+	param: string;
 };
 
 export type ItemForAll = {
@@ -29,6 +30,7 @@ export async function fetchFeed(
 	url: string,
 	siteName: string,
 	siteLink: string,
+	param: string,
 ): Promise<Feed | undefined> {
 	if (cache.has(url)) return cache.get(url);
 
@@ -50,6 +52,7 @@ export async function fetchFeed(
 			pubDate:
 				i.isoDate ?? new Date(i.pubDate ? i.pubDate : Date.now()).toISOString(),
 			contentSnippet: i.contentSnippet ?? i.summary,
+			param,
 		};
 	});
 
@@ -69,7 +72,7 @@ export async function collectFeeds(
 	list: SiteInfo[],
 ): Promise<Record<string, Feed>> {
 	const feeds = await Promise.all(
-		list.map((site) => fetchFeed(site.rss, site.title, site.url)),
+		list.map((site) => fetchFeed(site.rss, site.title, site.url, site.param)),
 	);
 
 	const result: Record<string, Feed> = {};
