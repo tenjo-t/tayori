@@ -7,7 +7,6 @@ import icon from "astro-icon";
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://tenjo-t.github.io/reso-su/",
-	base: "/tayori",
+	site: "https://tayori.tenjo.dev",
 	integrations: [tailwind(), icon()],
 });

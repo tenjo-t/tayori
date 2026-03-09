@@ -1,6 +1,4 @@
 ---
-import { pub } from "../utils";
-
 type Props = {
   href: string;
 };
@@ -10,7 +8,7 @@ const { href } = Astro.props;
 
 <a
   class="block mx-auto pt-3 px-8 pb-2 max-w-48 bg-zinc-800 hover:bg-zinc-900 focus:bg-zinc-900 text-white text-center rounded-full transition-colors"
-  href={pub(href)}
+  href={href}
 >
   <slot />
 </a>

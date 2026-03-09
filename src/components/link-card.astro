@@ -1,6 +1,5 @@
 ---
 import { Icon } from "astro-icon/components";
-import { pub } from "../utils";
 
 type Props = {
   param: string;
@@ -13,11 +12,11 @@ const { param, logo, title, url } = Astro.props;
 ---
 
 <div class="flex gap-4 items-center">
-  <a class="block flex-shrink-0" href={pub(`feed/${param}`)}>
+  <a class="block flex-shrink-0" href={`/feed/${param}`}>
     <div
       class="p-4 bg-white rounded-full hover:shadow-lg focus:shadow-lg transition-all"
     >
-      <img class="w-16 h-16" src={pub(logo)} alt={`${title} logo`} />
+      <img class="w-16 h-16" src={logo} alt={`${title} logo`} />
     </div>
   </a>
   <div>

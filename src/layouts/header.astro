@@ -2,7 +2,6 @@
 import { Icon } from "astro-icon/components";
 
 import { getColor, siteList } from "../feed/list";
-import { pub } from "../utils";
 
 const feed = [
   ["", "ホーム"],
@@ -16,9 +15,9 @@ const feed = [
     <h1 class="title">
       <a
         class="flex gap-1 items-center text-lg font-bold leading-none"
-        href={pub("")}
+        href="/"
       >
-        <img class="h-12" src={pub("tayori.svg")} alt="たより" />
+        <img class="h-12" src="/tayori.svg" alt="たより" />
       </a>
     </h1>
     <div class="flex items-center gap-2">
@@ -48,7 +47,7 @@ const feed = [
                 {
                   feed.map(([link, title]) => (
                     <li class="px-2 py-1 rounded bg-zinc-100 hover:bg-zinc-200 focus:bg-zinc-200 active:bg-zinc-300 transition-colors">
-                      <a href={pub(link)}>{title}</a>
+                      <a href={link}>{title}</a>
                     </li>
                   ))
                 }
@@ -62,10 +61,10 @@ const feed = [
                     <li class="px-2 py-1 rounded bg-zinc-100 hover:bg-zinc-200 focus:bg-zinc-200 active:bg-zinc-300 transition-colors sm:max-w-48">
                       <a
                         class="flex gap-3 items-center"
-                        href={pub(`feed/${site.param}`)}
+                        href={`/feed/${site.param}`}
                       >
                         <img
-                          src={pub(site.logo)}
+                          src={site.logo}
                           alt="アイコン"
                           class="inline-block w-6 rounded-full"
                         />

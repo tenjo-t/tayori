@@ -8,7 +8,6 @@ import Title from "../../components/title.astro";
 
 import { collectFeeds, fetchFeed } from "../../feed/fetch";
 import { siteList } from "../../feed/list";
-import { pub } from "../../utils";
 
 export const getStaticPaths = (async () =>
   (
@@ -18,11 +17,11 @@ export const getStaticPaths = (async () =>
           info.rss,
           info.title,
           info.url,
-          info.param
+          info.param,
         );
         if (feed === undefined) return;
         return { params: { site: info.param }, props: { ...info, feed } };
-      })
+      }),
     )
   ).filter((i) => i !== undefined)) satisfies GetStaticPaths;
 
@@ -36,7 +35,7 @@ const {
   <main>
     <Section>
       <div class="flex gap-4 items-center">
-        <img src={pub(logo)} alt=`${title} icon` class="w-12" />
+        <img src={logo} alt=`${title} icon` class="w-12" />
         <div>
           <Title>{title}</Title>
           {description && <p>{description}</p>}
