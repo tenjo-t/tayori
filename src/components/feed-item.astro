@@ -15,7 +15,7 @@ type Props = {
 const { link, title, creator, contentSnippet, site, param } = Astro.props;
 ---
 
-<a class="block py-4" href={link}>
+<a class="block" href={link}>
   <article>
     <div
       class="flex items-center gap-1 text-sm"
@@ -23,7 +23,7 @@ const { link, title, creator, contentSnippet, site, param } = Astro.props;
     >
       {site}
     </div>
-    <h1 class="pt-2 text-xl text-zinc-900">{title}</h1>
+    <h1 class="pt-1 text-xl text-zinc-900">{title}</h1>
     {
       creator && (
         <div class="flex items-center gap-1">

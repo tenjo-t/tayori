@@ -1,5 +1,3 @@
-import type { SiteInfo } from "./list";
-
 import RSSParser from "rss-parser";
 
 export type Item = {
@@ -42,15 +40,12 @@ export async function fetchFeed(
 
   const parsed = await rssParser.parseString(await res.text());
   const items = parsed.items.map((i) => {
-    i;
     return {
       creator: i.creator,
-      // biome-ignore lint/style/noNonNullAssertion: 無いと困る
       title: i.title!,
-      // biome-ignore lint/style/noNonNullAssertion: 無いと困る
       link: i.link!,
       pubDate: i.isoDate ?? new Date(i.pubDate ? i.pubDate : Date.now()).toISOString(),
-      contentSnippet: i.contentSnippet ?? i.summary,
+      contentSnippet: (i.contentSnippet ?? i.summary)?.slice(0, 120),
       param,
     };
   });
@@ -65,38 +60,4 @@ export async function fetchFeed(
   cache.set(url, feed);
 
   return feed;
-}
-
-export async function collectFeeds(list: SiteInfo[]): Promise<Record<string, Feed>> {
-  const feeds = await Promise.all(
-    list.map((site) => fetchFeed(site.rss, site.title, site.url, site.param)),
-  );
-
-  const result: Record<string, Feed> = {};
-  for (let i = 0; i < list.length; i++) {
-    const site = list[i];
-    const feed = feeds[i];
-
-    if (feed === undefined) continue;
-
-    result[site.param] = feed;
-  }
-
-  return result;
-}
-
-export async function collectAllItems(list: SiteInfo[]): Promise<ItemForAll[]> {
-  const feeds = await collectFeeds(list);
-  return Object.values(feeds)
-    .reduce<ItemForAll[]>(
-      (pre, cur) => pre.concat(cur.items.map<ItemForAll>((i) => ({ site: cur.title, ...i }))),
-      [],
-    )
-    .sort((a, b) => (a.pubDate < b.pubDate ? 1 : -1))
-    .reduce<ItemForAll[]>((pre, cur, i) => {
-      if (i === 0 || pre[pre.length - 1].link !== cur.link) {
-        pre.push(cur);
-      }
-      return pre;
-    }, []);
 }

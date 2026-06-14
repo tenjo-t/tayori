@@ -1,0 +1,167 @@
+{
+  "link": "https://zenn.dev/topics/rust",
+  "title": "Zennの「Rust」のフィード",
+  "description": "Zennのトピック「Rust」のRSSフィードです",
+  "items": [
+    {
+      "creator": "石垣島産石垣",
+      "title": "RustでABC462 (A ~ D)",
+      "link": "https://zenn.dev/ishigaki122/articles/bb64ee686c4a13",
+      "pubDate": "2026-06-14T00:04:21.000Z",
+      "contentSnippet": "ABC 462 参加記録\n\n 戦績\n\n\n\n問題\n結果\n時間\nペナルティ\n\n\n\n\nA\nAC\n2:48\n0\n\n\nB\nAC\n7:44\n0\n\n\nC\nAC\n17:09\n0\n\n\nD\nWA2 -> AC\n45:48\n2\n\n\n\nレート変動： 980 -> ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "tsuzudev05",
+      "title": "【開発途中】RustでDDD + Clean Architectureを実践する ─ ホシカ開発記",
+      "link": "https://zenn.dev/tsuzudev05/books/ddd-clean-arch-hoshika",
+      "pubDate": "2026-06-13T12:10:58.000Z",
+      "contentSnippet": "個人開発アプリ「ホシカ」（欲しいものリスト × 予算管理）を題材に、DDD + Clean Architectureを体得する過程を記録したbook。ユビキタス言語・集約設計・コンテキストマップをRustで実装するまでを扱う。",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "Masa0209",
+      "title": "RustとWasmでExcel風テーブルコンポーネントを作ってnpmに公開するまで",
+      "link": "https://zenn.dev/m2lab/articles/wasabi-table-wasm",
+      "pubDate": "2026-06-13T09:30:27.000Z",
+      "contentSnippet": "作ったもの\nwasabi-table という npm パッケージを作りました。\nRust + WebAssembly + Canvas で動く、Excel 風のテーブルコンポーネントです。管理画面でよく出てくる「マスタデータをガリガリ編集す",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "がんも",
+      "title": "逸般の誤家庭に憧れてProxmoxを始めたら、Claudeと自作サービスを立てる沼にはまった話",
+      "link": "https://zenn.dev/ganmo_ferrous/articles/e185ea8e208198",
+      "pubDate": "2026-06-13T04:58:01.000Z",
+      "contentSnippet": "!\nこの記事は シリーズ #1 です。\n\n\n いきなり結論\n素人でも、Claudeと協力すれば自作WebサービスをProxmox LXC上に立てられます。\n\nデモデータですよ？デモデータですよ？\n最終的にはRust（Axum）+ React",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "yukimemi",
+      "title": "ライブ設定を直接編集、リポジトリが自動追従する dotfiles マネージャー yui",
+      "link": "https://zenn.dev/yukimemi/articles/2026-06-13-yui",
+      "pubDate": "2026-06-13T04:25:15.000Z",
+      "contentSnippet": "結 — ライブ設定を直接編集すれば、ソースリポジトリが自動で更新される\n自作の dotfiles 管理ツール yui (結) を Rust で作りました。長年愛用してきた chezmoi から移行し、現在は自分の dotfiles リポジト",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "MasaNiTake",
+      "title": "Rustで漫画ビューアを作った記事をよく見かけるけども、あえて作った話",
+      "link": "https://zenn.dev/masa_ni_take/articles/2b20da7a3f1c0c",
+      "pubDate": "2026-06-13T02:05:53.000Z",
+      "contentSnippet": "リポジトリ\nrimze\n\n 結論\nUbuntuマシンで爆速に画像を見られるGUIツールが欲しかったから作りました。\n\n なぜ作ったのか\n結論で述べた通り、Ubuntu環境で作業中にローカルの画像をすぐ確認したいというのが一番の理由です。\n最",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "devtolog",
+      "title": "自作言語の近況",
+      "link": "https://zenn.dev/devtolog/articles/421752c62e155a",
+      "pubDate": "2026-06-12T20:00:06.000Z",
+      "contentSnippet": "https://github.com/meltgo-lang/meltgo.git\n\n現在、Rustで開発しています！\nimpl-rustブランチにあります\n\n私は今年から自作言語Meltgoの開発をしています\n最近、F#からRustに移行",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "Kenji Igarashi",
+      "title": "🛡️  簡単につかえるセキュア顔認証基盤システムについての構想を設計してみた",
+      "link": "https://zenn.dev/kenjiigarashi/articles/78f62ebade96fc",
+      "pubDate": "2026-06-12T18:29:05.000Z",
+      "contentSnippet": "💡 NOTE\n本ドキュメントは、Slint、Rust、および完全Rust製キーバリューデータベース（redb）を採用した、個人利用向けの超高セキュリティな顔認証基盤システムの設計仕様書です。\n（※あくまで構想段階のため、実際に手を動かしな",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "shun",
+      "title": "TauriとReactによるwindowsノートアプリ開発 メモ 1",
+      "link": "https://zenn.dev/shupon0495/articles/94c3c3e2c2ad67",
+      "pubDate": "2026-06-11T15:04:09.000Z",
+      "contentSnippet": "免責事項\n\nアプリ開発の経験0なので内容が間違っていたらすいません。(もし間違ってたら優しく教えてください。)\n\n\n 開発目的\n\n\ntldrawという無限キャンバスを使えるReactのライブラリを使って軽量なwindowsノートアプリを作る",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "きょうすけ",
+      "title": "grepに索引を持たせたら、ripgrepの50倍速くなった",
+      "link": "https://zenn.dev/kyo5uke/articles/dff790820636e3",
+      "pubDate": "2026-06-11T11:35:37.000Z",
+      "contentSnippet": "作ったもの\ngrix という「索引を持った grep」を作りました。\ncargo install grix\nhttps://github.com/kyo5uke/grix\n最初の検索で勝手に索引を作り、2回目以降はミリ秒で返します。Linu",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "yukineko",
+      "title": "Rust×Agentic Codingで実現する、マルチプラットフォーム開発の理想郷",
+      "link": "https://zenn.dev/yukinekonyan/articles/96814c19f1897a",
+      "pubDate": "2026-06-11T07:25:10.000Z",
+      "contentSnippet": "概要\n近年、AIに自律的な思考とツール利用を任せる**「Agentic Coding（エージェント型コーディング）」**が急速に進化しています。しかし、AIに自律性を与えれば与えるほど、コードの「デグレード（先祖返り）」や「構造の腐敗（スパ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "hiyoyo",
+      "title": "【実践】Tauri v1.5 → v2 移行で変わること全部見せます（実プロダクト比較）",
+      "link": "https://zenn.dev/hiyokoko/articles/6c9a1910d3f716",
+      "pubDate": "2026-06-11T03:47:06.000Z",
+      "contentSnippet": "はじめに\nTauri v2 が正式リリースされ、新規プロジェクトはもちろん v2 で始めるべき時代になりました。\nしかし、既存の v1 プロジェクトを v2 に移行するとなると、ドキュメントだけでは分かりにくい「実際どこが変わるの？」という",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "橘",
+      "title": "プレイヤーは戦わない。AIエージェントが戦闘コードを書く武侠対戦ゲームを作った",
+      "link": "https://zenn.dev/gtoxlili/articles/6a65bde701b80a",
+      "pubDate": "2026-06-11T03:22:43.000Z",
+      "contentSnippet": "個人開発で 江湖論剣(こうこ・ろんけん) という、ちょっと変わった対戦ゲームを作りました。\n一番の特徴は、プレイヤー自身はキャラを操作しないこと。代わりに、自分の AI コーディングエージェント(Claude Code、Codex、Curs",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "hiyoyo",
+      "title": "Tauri × Universal Binary DMG ビルドで全員がハマる罠と対処法",
+      "link": "https://zenn.dev/hiyokoko/articles/d55d82e846027c",
+      "pubDate": "2026-06-10T02:41:27.000Z",
+      "contentSnippet": "はじめに\nTauri で macOS アプリを配布するなら、Universal Binary（Apple Silicon + Intel の両対応）の DMG を作りたいですよね。\ntauri build --target universa",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "Masato13",
+      "title": "grepを毎回起動するの、もうやめたい。FFFでAIの検索体験を速くする",
+      "link": "https://zenn.dev/masato13/articles/d4fc8961b9c9d9",
+      "pubDate": "2026-06-09T23:18:19.000Z",
+      "contentSnippet": "AIエージェントでコードベースを触っていると、地味に気になるのが「検索の回数」です。\nrg や grep 自体は優秀なのですが、Claude Code や Codex、OpenCode のように同じリポジトリに対して何度も検索を繰り返す使い",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "qwerfunch",
+      "title": "大量のログから、目的の一行に一瞬でたどり着く Android logcat ビューアを作った",
+      "link": "https://zenn.dev/qwerfunch/articles/5ab91c7c6d2144",
+      "pubDate": "2026-06-09T15:37:36.000Z",
+      "contentSnippet": "Android アプリをデバッグしていると、logcat を見ない日はまずありません。\nでも個人的にずっとつらかったのは、大量に流れてくるログの中から、本当に見たい一行を探し出すことでした。スクロールしては検索し、また新しいログに流されて見",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "sobu-lab",
+      "title": "タスクバーで魚を飼うアプリを、Electron→Tauriで作り直して無料のMicrosoft Storeに公開した",
+      "link": "https://zenn.dev/sobu_lab/articles/zenn-taskbar-aquarium",
+      "pubDate": "2026-06-09T12:50:41.000Z",
+      "contentSnippet": "はじめに\nWindows のタスクバーで熱帯魚や金魚を泳がせる小さなアプリ「Taskbar Aquarium」を作って、無料になった Microsoft Store に個人で公開しました。\n最初は Electron で作ったのですが、配布サ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "Kawa_",
+      "title": "競プロのメイン言語をPythonからRustに乗り換えた話",
+      "link": "https://zenn.dev/spookies/articles/2c303351fa4bac",
+      "pubDate": "2026-06-09T07:52:54.000Z",
+      "contentSnippet": "はじめに\nこんにちは、アルバイトの川﨑です！\n初のブログ執筆ということで何を書けばいいのかわからなかったのですが、PythonからRustに乗り換えて半年ほど経ち、タイミングも良かったので振り返ってみることにしました。\n拙い内容になるとは思",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "walf443",
+      "title": "Rustで信頼できないURLへのHTTPリクエストをreqwest-ssrf-guardで防ぐ",
+      "link": "https://zenn.dev/walf443/articles/5e5e9dcad4b18c",
+      "pubDate": "2026-06-09T05:20:43.000Z",
+      "contentSnippet": "ユーザーの入力したURLなどにHTTPリエクストする場合、ローカルネットワークのIP直指定のリクエストや、名前解決した結果内部ネットワークになるURLなどを除外しておかないと意図せず内部情報にアクセスされてしまったり意図しない障害などにつな",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "takaki2",
+      "title": "cozy という小さな TUI エディタを公開しました",
+      "link": "https://zenn.dev/takaki2/articles/c94ed060af108c",
+      "pubDate": "2026-06-09T00:00:18.000Z",
+      "contentSnippet": "Rust 製の小さな TUI エディタ cozy を GitHub と crates.io に公開しました。\n\nGitHub: https://github.com/takakix2/cozy\n\ncrates.io: https://cra",
+      "param": "zenn_rust"
+    }
+  ]
+}

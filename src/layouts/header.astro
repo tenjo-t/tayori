@@ -1,11 +1,11 @@
 ---
 import { Icon } from "astro-icon/components";
 
-import { getColor, siteList } from "../feed/list";
+import { siteList } from "../feed/list";
 
 const feed = [
   ["", "ホーム"],
-  ["all", "すべて"],
+  ["all/1", "すべて"],
   ["weekly", "今週"],
 ];
 ---
@@ -46,8 +46,10 @@ const feed = [
               <ul class="grid grid-cols-1 gap-x-4 gap-y-2 pt-2 sm:grid-cols-2">
                 {
                   feed.map(([link, title]) => (
-                    <li class="px-2 py-1 rounded bg-zinc-100 hover:bg-zinc-200 focus:bg-zinc-200 active:bg-zinc-300 transition-colors">
-                      <a href={link}>{title}</a>
+                    <li class="rounded bg-zinc-100 hover:bg-zinc-200 focus:bg-zinc-200 active:bg-zinc-300 transition-colors">
+                      <a class="block px-2 py-1" href={link}>
+                        {title}
+                      </a>
                     </li>
                   ))
                 }
@@ -57,18 +59,17 @@ const feed = [
               <div class="pt-4 text-xl">サイト</div>
               <ul class="grid grid-cols-1 gap-x-4 gap-y-2 pt-2 sm:grid-cols-2">
                 {
-                  siteList.map((site, i) => (
-                    <li class="px-2 py-1 rounded bg-zinc-100 hover:bg-zinc-200 focus:bg-zinc-200 active:bg-zinc-300 transition-colors sm:max-w-48">
+                  siteList.map((site) => (
+                    <li class="rounded bg-zinc-100 hover:bg-zinc-200 focus:bg-zinc-200 active:bg-zinc-300 transition-colors sm:max-w-48">
                       <a
-                        class="flex gap-3 items-center"
-                        href={`/feed/${site.param}`}
+                        class="px-2 py-1 flex gap-3 items-center"
+                        href={`/feed/${site.param}/1`}
                       >
                         <img
                           src={site.logo}
-                          alt="アイコン"
                           class="inline-block w-6 rounded-full"
                         />
-                        {site.title}
+                        <span class="line-clamp-1">{site.title}</span>
                       </a>
                     </li>
                   ))
@@ -91,9 +92,7 @@ const feed = [
     position-anchor: --anchor;
     bottom: auto;
     left: auto;
-    right: 16px; /* fallback */
-    right: anchor(right);
-    top: 8px; /* fallback */
-    top: anchor(top);
+    right: calc(anchor(right) - 24px);
+    top: calc(anchor(top) - 16px);
   }
 </style>

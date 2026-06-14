@@ -1,0 +1,47 @@
+---
+import type { GetStaticPaths } from "astro";
+
+import Layout from "../../layouts/layout.astro";
+import Section from "../../layouts/section.astro";
+import Title from "../../components/title.astro";
+import FeedItem from "../../components/feed-item.astro";
+import Pagination from "../../components/pagination.astro";
+
+import { collectAllItems } from "../../feed/history";
+
+export const getStaticPaths = (({ paginate }) => {
+  const items = collectAllItems();
+  return paginate(items, { pageSize: 20 });
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
+---
+
+<Layout>
+  <main>
+    <Section>
+      <Title>すべて</Title>
+      <div class="grid gap-8">
+        {
+          page.data.map((item) => (
+            <FeedItem
+              link={item.link}
+              pubDate={item.pubDate}
+              site={item.site}
+              title={item.title}
+              param={item.param}
+              creator={item.creator}
+              contentSnippet={item.contentSnippet}
+            />
+          ))
+        }
+      </div>
+      <Pagination
+        currentPage={page.currentPage}
+        lastPage={page.lastPage}
+        prevUrl={page.url.prev}
+        nextUrl={page.url.next}
+      />
+    </Section>
+  </main>
+</Layout>

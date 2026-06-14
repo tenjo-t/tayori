@@ -6,16 +6,16 @@ import LinkButton from "../components/link-button.astro";
 import LinkCard from "../components/link-card.astro";
 import Title from "../components/title.astro";
 
-import { collectAllItems } from "../feed/fetch";
+import { collectAllItems } from "../feed/history";
 import { siteList } from "../feed/list";
 
-const items = await collectAllItems(siteList);
+const items = collectAllItems();
 ---
 
 <Layout>
   <main>
     <Section>
-      <div class="grid gap-4">
+      <div class="grid gap-8">
         {
           items
             .slice(0, 5)

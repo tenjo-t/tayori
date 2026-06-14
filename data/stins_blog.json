@@ -1,0 +1,385 @@
+{
+  "link": "https://blog.stin.ink/",
+  "title": "stin's Blog",
+  "description": "すてぃんの個人ブログです。技術的なこと、日常のこと、雑記など色々書きます。",
+  "items": [
+    {
+      "title": "Claude Code で Shiki のテーマを見比べられるサイトを作った (Jotai もあるよ)",
+      "link": "https://blog.stin.ink/articles/shiki-theme-viewer-with-claude-code-and-jotai",
+      "pubDate": "2026-01-18T05:55:25.000Z",
+      "contentSnippet": "Shiki というコードシンタックスハイライターライブラリがあります。 https://shiki.style/ Shiki は多くのテーマバリエーションを提供しています。それらを並べて見比べたいと思い、Claude Code に作ってもら",
+      "param": "stins_blog"
+    },
+    {
+      "title": "2026年の目標",
+      "link": "https://blog.stin.ink/articles/new-years-resolutions-for-2026",
+      "pubDate": "2026-01-04T14:33:21.000Z",
+      "contentSnippet": "あけましておめでとうございました。 2025年の振り返りと2026年の目標を立てていきましょう。 2025年の振り返り 2025年の目標は以下です。 https://blog.stin.ink/articles/new-years-reso",
+      "param": "stins_blog"
+    },
+    {
+      "title": "ts-rest や他色々を試すために Todo アプリを作る",
+      "link": "https://blog.stin.ink/articles/ts-rest-todo-app",
+      "pubDate": "2025-11-08T05:57:49.000Z",
+      "contentSnippet": "ts-rest という RPC ライブラリを見かけて気になったので、実際に Todo アプリを作って試してみました。 ts-rest とは https://ts-rest.com/ ts-rest は、REST API を型安全に実装するた",
+      "param": "stins_blog"
+    },
+    {
+      "title": "Hono Conf 2025 に参加してきたので感想を書く",
+      "link": "https://blog.stin.ink/articles/hono-conf-2025",
+      "pubDate": "2025-10-19T03:53:28.000Z",
+      "contentSnippet": "2025年10月18日に開催された Hono Conf に現地参加したので、自分が見たセッションについて覚えている限りで感想を書きます。 https://honoconf.dev/2025 以下、「発表タイトル by 発表者名」で区切って書",
+      "param": "stins_blog"
+    },
+    {
+      "title": "Next.js on Cloudflare Workers (OpenNext) で Drizzle + D1 を使ったユニットテストを書く",
+      "link": "https://blog.stin.ink/articles/cloudflare-d1-nextjs-vitest",
+      "pubDate": "2025-09-23T05:50:14.000Z",
+      "contentSnippet": "OpenNext は Next.js アプリケーションを Vercel 以外に簡単にデプロイするためのツールです。Cloudflare Workers をサポートしています。 Cloudflare 自体も OpenNext によるデプロイを",
+      "param": "stins_blog"
+    },
+    {
+      "title": "Drizzle ORM を使った書き捨てスクリプトから Cloudflare D1 にアクセスしたい",
+      "link": "https://blog.stin.ink/articles/drizzle-cloudflare-remote-d1",
+      "pubDate": "2025-09-08T12:32:47.000Z",
+      "contentSnippet": "Cloudflare D1 (以下 D1) は Cloudflare のリレーショナルデータベースサービスです。実態はリモートにある SQLite です。 Drizzle ORM は TypeScript で各種データベースに接続するデータ",
+      "param": "stins_blog"
+    },
+    {
+      "title": "resend-local というツールを作った",
+      "link": "https://blog.stin.ink/articles/resend-local",
+      "pubDate": "2025-06-05T15:12:49.000Z",
+      "contentSnippet": "Resend というメール送信サービスがあります。 そのAPIエミュレーターをローカルで起動する npm パッケージを作りました。次のコマンドでサーバー http://localhost:8005 で起動します。 Resend SDK は ",
+      "param": "stins_blog"
+    },
+    {
+      "title": "2025年の目標",
+      "link": "https://blog.stin.ink/articles/new-years-resolutions-for-2025",
+      "pubDate": "2025-01-06T16:39:52.000Z",
+      "contentSnippet": "あけましておめでとうございました。すでに 6 日が経過してしまいましたが、2024年の振り返りと2025年の目標を立てます。 2024年の振り返り 2024年の目標は以下の通りでした。 https://blog.stin.ink/artic",
+      "param": "stins_blog"
+    },
+    {
+      "title": "ハロー！プロジェクトファンクラブのデジタル会員証があまりに杜撰なので、正しい実装を考える",
+      "link": "https://blog.stin.ink/articles/fc-membership-card",
+      "pubDate": "2025-01-01T13:51:55.000Z",
+      "contentSnippet": "ハロー！プロジェクトのファンクラブ(以下FC)サイトが2024年11月にリニューアルされました。 https://www.upfc.jp/helloproject/news\\_detail.php?@uid=s32dbjT7VpPSK55H",
+      "param": "stins_blog"
+    },
+    {
+      "title": "指定したWebページを動く状態でクローンする方法",
+      "link": "https://blog.stin.ink/articles/clone-web-page",
+      "pubDate": "2024-12-29T10:01:15.000Z",
+      "contentSnippet": "ふと、指定したURLのWebページをクローンして別の環境で再現する方法がないかと考えました。 HTMLとそれが参照するCSS, JavaScript, 画像ファイルなどをダウンロードして保存しておき、静的ファイルとして配信すれば同じWebペ",
+      "param": "stins_blog"
+    },
+    {
+      "title": "Honoの捉え方、またはNext.jsとの組み合わせ方",
+      "link": "https://blog.stin.ink/articles/hono-nextjs-and-web-standard",
+      "pubDate": "2024-12-16T15:22:54.000Z",
+      "contentSnippet": "この記事は「Hono Advent Calendar 2024 シリーズ 2」17日目の記事です。 https://qiita.com/advent-calendar/2024/hono HonoというWebフレームワークがあります。Exp",
+      "param": "stins_blog"
+    },
+    {
+      "title": "記事をPicture-in-Pictureで読めるようにしてみた",
+      "link": "https://blog.stin.ink/articles/article-in-picture-in-picture",
+      "pubDate": "2024-11-27T15:29:46.000Z",
+      "contentSnippet": "Document Picture-in-Picture APIというWeb APIがあります。まだブラウザの実装が限定的ですが、Chromeなら116から使えるようです。 https://developer.mozilla.org/en-U",
+      "param": "stins_blog"
+    },
+    {
+      "title": "Next.js 15にアップデートした",
+      "link": "https://blog.stin.ink/articles/update-nextjs-to-15",
+      "pubDate": "2024-11-02T13:41:02.000Z",
+      "contentSnippet": "このサイトで使っているNext.jsをv15にアップデートしました。 所詮ブログサイトなのでほとんど大きな変更はないですが、変更した内容を残しておきます。 内容 パッケージのアップデート 使っているNext.js関連のパッケージを一気にアッ",
+      "param": "stins_blog"
+    },
+    {
+      "title": "Rust始めてみた。JSONフォーマッターを作ってみた",
+      "link": "https://blog.stin.ink/articles/rust-json-formatter-cli",
+      "pubDate": "2024-10-14T17:53:47.000Z",
+      "contentSnippet": "唐突にRustを使ってみたいと思ったので勉強を始めてみました。 始めた理由 始めてみたかった理由は色々あります。 まずはやはりフロントエンド開発ツールが色々とRustで実装されることです。VercelはTurborepoとTurbopack",
+      "param": "stins_blog"
+    },
+    {
+      "title": "React useで非同期処理を簡単に扱う",
+      "link": "https://blog.stin.ink/articles/use-react-use-on-lz-string-vs-compression-stream",
+      "pubDate": "2024-09-28T05:32:04.000Z",
+      "contentSnippet": "先日 続・URLシェアを支える技術 CompressionStream という記事をZennに投稿しました。 この記事のためにlz-stringとCompressionStreamの圧縮率を比較できるサイト(以下比較サイト)をVite+Re",
+      "param": "stins_blog"
+    },
+    {
+      "title": "React.FCを使うよ、理に適っているからね",
+      "link": "https://blog.stin.ink/articles/i-do-use-react-fc-type",
+      "pubDate": "2024-09-01T13:11:24.000Z",
+      "contentSnippet": "唐突に、React.FCの是非についてポジションを示そうと思ったので書きます。積極的に使う派閥です。 React.FC vs Normal Function Reactで関数コンポーネントを宣言するとき、TypeScriptの型の付け方とし",
+      "param": "stins_blog"
+    },
+    {
+      "title": "viteがプラグインなしでできることを探る",
+      "link": "https://blog.stin.ink/articles/vite-without-plugins",
+      "pubDate": "2024-08-04T07:44:18.000Z",
+      "contentSnippet": "pluginを使わずにviteだけで始めてみることで理解が深まったらいいと思い、やってみる。 セットアップ 適当なディレクトリ内で、git初期化してnpm初期化してviteとTypeScriptをインストールする。 package.json",
+      "param": "stins_blog"
+    },
+    {
+      "title": "真にチラつかないダークモードをついに実現したぞ。実現方法と気付きを書く",
+      "link": "https://blog.stin.ink/articles/how-to-implement-a-perfect-dark-mode",
+      "pubDate": "2024-07-14T05:36:21.000Z",
+      "contentSnippet": "このサイトはダークモードに対応しています。なぜならダークモードは基本的人権だからです(要出典)。 しばらく、サイトに訪問した直後ライトモードとダークモードが切り替わってチラつく現象が発生していました。これを改善したので、実装方法と気付いたこ",
+      "param": "stins_blog"
+    },
+    {
+      "title": "Remix を Cloudflare Pages にデプロイするまでやってみる",
+      "link": "https://blog.stin.ink/articles/remix-on-cloudflare-pages-tutorial",
+      "pubDate": "2024-04-09T15:24:44.000Z",
+      "contentSnippet": "Remix に興味を持ったのでドキュメントを読み漁ってだいたい読み切ったので、練習がてら Node.js 向け Remix テンプレートを修正して Cloudflare Pages にデプロイする。 create-remix という npx",
+      "param": "stins_blog"
+    },
+    {
+      "title": "2024年の目標",
+      "link": "https://blog.stin.ink/articles/new-years-resolutions-for-2024",
+      "pubDate": "2024-01-05T14:10:24.000Z",
+      "contentSnippet": "あけましておめでとうございました。すでに 5 日が経過してしまいましたが、2024 年の目標を立てます。 技術ブログを 20 記事以上書く(媒体は問わない) 個人開発アプリを 1 つリリースする 引っ越す 加えて、達成する目標とはちょっと違",
+      "param": "stins_blog"
+    },
+    {
+      "title": "react-markdown をやめて remark から自力でレンダリングするようにした話",
+      "link": "https://blog.stin.ink/articles/replace-react-markdown-with-remark",
+      "pubDate": "2023-12-28T07:27:31.000Z",
+      "contentSnippet": "Intro このブログサイトの記事ページではこれまで react-markdown というライブラリでマークダウンを HTML に変換して表示していました。この度、react-markdown を剥がして remark を直接使って記事をレ",
+      "param": "stins_blog"
+    },
+    {
+      "title": "ブログに Playwright で VRT を導入した",
+      "link": "https://blog.stin.ink/articles/add-vrt-with-playwright",
+      "pubDate": "2023-12-25T14:51:59.000Z",
+      "contentSnippet": "Intro 記事ページのスタイルを維持したまま内部実装に大きめの変更を加えたかったので、Visual Regression Test(VRT)を導入しました。 といってもあまりに簡易的な内容です。CI で自動化とか Chromatic とか",
+      "param": "stins_blog"
+    },
+    {
+      "title": "ポケモンBGMループ再生サイトの音声ファイルをキャッシュするために色々調べた",
+      "link": "https://blog.stin.ink/articles/pokemon-soundlibrary-cache-strategy",
+      "pubDate": "2023-12-16T07:39:39.000Z",
+      "contentSnippet": "Intro 以前の記事でポケモンBGMループ再生サイトを Cloudflare Pages に載せ替えた話をつらつらと書きました。 https://blog.stin.ink/articles/pokemon-soundlibrary-on",
+      "param": "stins_blog"
+    },
+    {
+      "title": "ポケモンBGMループ再生サイトを Cloudflare Pages に載せ替えた",
+      "link": "https://blog.stin.ink/articles/pokemon-soundlibrary-on-cloudflare",
+      "pubDate": "2023-12-10T06:21:26.000Z",
+      "contentSnippet": "Intro https://pokemon-soundlibrary.stin.ink/ このポケモンのBGMを無限ループで再生できる Next.js 製サイトは、これまで Vercel にデプロイしていました。しかし Vercel にデプ",
+      "param": "stins_blog"
+    },
+    {
+      "title": "Next.js App Router の Static Exports の可能性を探るためにブログでやってみた話",
+      "link": "https://blog.stin.ink/articles/static-exports-with-nextjs-app-router",
+      "pubDate": "2023-12-04T12:55:35.000Z",
+      "contentSnippet": "Next.js Advent Calendar 2023 の12月4日の記事です。 https://qiita.com/advent-calendar/2023/next Static Exports とは Next.js の Static",
+      "param": "stins_blog"
+    },
+    {
+      "title": "stin.ink を Google Domains から Cloudflare Registrar に移管した",
+      "link": "https://blog.stin.ink/articles/sitn-ink-from-google-to-cloudflare",
+      "pubDate": "2023-12-02T16:08:22.000Z",
+      "contentSnippet": "Cloudflare Registrar に移管した このブログもサブドメインとして使用されている stin.ink は、僕が持つ唯一のドメインです。Google Domains で取得して、色々サブドメインを生やして使っています。 半年ほ",
+      "param": "stins_blog"
+    },
+    {
+      "title": "個人ブログ開発でとても便利な Contentlayer を導入してみた",
+      "link": "https://blog.stin.ink/articles/introduce-contentlayer",
+      "pubDate": "2023-11-27T14:10:08.000Z",
+      "contentSnippet": "またまた自分のブログサイトを改修した報告です。自分のブログサイトを改修してはそれをネタに記事を書くのを繰り返していて、なんか面白いですね。 このブログはソースコードと同じリポジトリに Markdown 記事を保存しています。サイト自体は N",
+      "param": "stins_blog"
+    },
+    {
+      "title": "Chakra UI は \"use client\" なしで使えるようになった「だけ」",
+      "link": "https://blog.stin.ink/articles/chakraui-is-still-client-components",
+      "pubDate": "2023-11-23T03:18:56.000Z",
+      "contentSnippet": "Chakra UI が自分で \"use client\" を付けている 最近 Chakra UI が \"use client\" を付けずとも Next.js の App Router で使えるようになったと話題になりました。しかし調べてみると",
+      "param": "stins_blog"
+    },
+    {
+      "title": "ブログの記事ページに Table of Contents を設置したので実装方法などを書く",
+      "link": "https://blog.stin.ink/articles/implement-toc",
+      "pubDate": "2023-11-18T13:39:20.000Z",
+      "contentSnippet": "画面幅 991px 以上で閲覧すると、記事ページの右側に目次リンクが表示されるように実装しました。 目次生成ライブラリ tocbot tocbot というライブラリを使用しました。 https://tscanlin.github.io/to",
+      "param": "stins_blog"
+    },
+    {
+      "title": "ポケモンBGMループ再生サイトをアップデートした",
+      "link": "https://blog.stin.ink/articles/update-pokemon-soundlibrary",
+      "pubDate": "2023-11-13T16:39:44.000Z",
+      "contentSnippet": "https://pokemon-soundlibrary.stin.ink ポケモン公式が公開している「ポケットモンスター ダイヤモンド・パール」の BGM をループ再生できるようにしたサイトを以前作りました。その後公式から「ポケットモンス",
+      "param": "stins_blog"
+    },
+    {
+      "title": "ブログのデザインを刷新した",
+      "link": "https://blog.stin.ink/articles/stin-blog-updated-2023",
+      "pubDate": "2023-11-05T13:50:14.000Z",
+      "contentSnippet": "このサイトのデザインを刷新しました（1 年半ぶり 2 回目）。 変更した理由 最近 Vercel のエンジニアが開発している Nextra という静的サイトジェネレーターをよく見かけるようになりました(出来たばかりのツールではなく、自分が意",
+      "param": "stins_blog"
+    },
+    {
+      "title": "localStorage に同期する React State を作るカスタムフック",
+      "link": "https://blog.stin.ink/articles/react-use-local-storage",
+      "pubDate": "2023-05-27T15:28:41.000Z",
+      "contentSnippet": "React の useState と似た使い方で localStorage に保存されるカスタムフック useLocalStorage の実装を紹介します。このブログサイトのソースコードで使用しています。 react-use に同じ目的同じ",
+      "param": "stins_blog"
+    },
+    {
+      "title": "ブログサイトを Next.js App Router に移行したので学びを書く",
+      "link": "https://blog.stin.ink/articles/update-blog-site-with-next-app-router",
+      "pubDate": "2023-05-14T16:55:21.000Z",
+      "contentSnippet": "このサイトを Next.js App Router で実装し直しました。Server Components が扱えてなんか便利なやつです。 移行にあたって学んだことや App Router の嬉しいポイントなどを書いておきます。 スタイリン",
+      "param": "stins_blog"
+    },
+    {
+      "title": "個人ブログから Chakra UI を剥がして vanilla-extract を入れた(剥がした理由編)",
+      "link": "https://blog.stin.ink/articles/replace-chakra-ui-with-vanilla-extract",
+      "pubDate": "2023-01-30T15:32:54.000Z",
+      "contentSnippet": "すてぃんのブログから Chakra UI を剥がして vanilla-extract を導入しました。見た目はほとんど変わっていませんが、Chakra UI でスタイリングされていたものをすべて vanilla-extract で 1 から",
+      "param": "stins_blog"
+    },
+    {
+      "title": "2022 年振り返りを書き散らし",
+      "link": "https://blog.stin.ink/articles/year-end-party-2022",
+      "pubDate": "2022-12-31T13:57:04.000Z",
+      "contentSnippet": "Hello! Project Year-End Party 2022 〜GOOD BYE & HELLO ! 〜参戦帰りの電車内で暇だったので書き散らす。 生活スタイル 2022 年の前半はアパートの隣の部屋の物音が気になりすぎてメンタルを",
+      "param": "stins_blog"
+    },
+    {
+      "title": "@vercel/og を使ってブログに動的 og:image 生成を実装した",
+      "link": "https://blog.stin.ink/articles/add-vercel-og",
+      "pubDate": "2022-10-14T17:32:29.000Z",
+      "contentSnippet": "Vercel で og:image の動的生成するなら一択 先日 Vercel から HTML\\&CSS で画像を生成できるライブラリ @vercel/og が発表されました。 https://vercel.com/blog/introdu",
+      "param": "stins_blog"
+    },
+    {
+      "title": "Firebase Auth, Firestore, Functions for Firebase でサクッと管理者権限を割り振る",
+      "link": "https://blog.stin.ink/articles/assign-admin-right-to-firebase-user",
+      "pubDate": "2022-10-10T14:46:35.000Z",
+      "contentSnippet": "Firebase のユーザーに個別に権限を割り振りたい要件は多そう。すでに似たような記事はたくさんありますが、自分も実装方法を調べたので文章にしておきます。 実装イメージ Firebase Auth のカスタムクレームを使用します。Fire",
+      "param": "stins_blog"
+    },
+    {
+      "title": "React + TypeScript 用の eslint セットアップメモ書き",
+      "link": "https://blog.stin.ink/articles/eslint-setup-for-react-typescript",
+      "pubDate": "2022-07-13T15:23:30.000Z",
+      "contentSnippet": "Vite で立ち上げた React + TypeScript プロジェクトには eslint のセットアップはされていない。プライベートでちょっとライブラリを試すみたいなケースでしか Vite を使っていなかったので eslint なしで作",
+      "param": "stins_blog"
+    },
+    {
+      "title": "React でキーボードショートカットを設定するためのカスタムフックを実装する",
+      "link": "https://blog.stin.ink/articles/react-hooks-keybind",
+      "pubDate": "2022-06-19T07:40:51.000Z",
+      "contentSnippet": "以前、『ポケットモンスターダイヤモンド・パール』の BGM をループ再生できる Web サイトを作成しました。 https://dp-soundlibrary.stin.ink/ この Web サイトの実装については過去に Zenn に投稿",
+      "param": "stins_blog"
+    },
+    {
+      "title": "WebSocket を使ってみたくて簡単なチャットアプリを作って Google Cloud Run にデプロイしてみる",
+      "link": "https://blog.stin.ink/articles/build-chat-app-with-websocket",
+      "pubDate": "2022-06-12T04:41:36.000Z",
+      "contentSnippet": "WebSocket でリアルタイム通信したいんじゃ WebSocket 通信を使ってみたいので調べた学習ノート。Node.js 用ライブラリの ws を使わずに WebSocket サーバー実装とかできたらかっこいいけどとりあえずライブラリ",
+      "param": "stins_blog"
+    },
+    {
+      "title": "Google AdSense を Next.js 製ブログに入れるのに一手間かかる話",
+      "link": "https://blog.stin.ink/articles/add-google-adsense-to-blog",
+      "pubDate": "2022-05-15T15:55:30.000Z",
+      "contentSnippet": "ブログに広告を入れてみたので許してください ブログにちょっとでも広告収入あると嬉しいなと思っていたものの、Adsense は審査が厳しいと聞いていたので手を出していませんでした。でもふとダメ元で申請してみたらなんと承認されて広告を貼り付けら",
+      "param": "stins_blog"
+    },
+    {
+      "title": "見た目が同じなだけのコンポーネントを共通化すべきでない",
+      "link": "https://blog.stin.ink/articles/write-everything-twice-in-react",
+      "pubDate": "2022-05-14T02:31:47.000Z",
+      "contentSnippet": "WET is better than DRY https://twitter.com/stin\\_factory/status/1522521205080989696 こんなツイートをしたらちょっと反響がありました。 大した事ないツイートが",
+      "param": "stins_blog"
+    },
+    {
+      "title": "『プロを目指す人のためのTypeScript入門』読書感想文",
+      "link": "https://blog.stin.ink/articles/typescript-introduction-book-report",
+      "pubDate": "2022-05-08T15:24:57.000Z",
+      "contentSnippet": "https://twitter.com/stin\\_factory/status/1520251902877118464?s=20\\&t=ObJNlQRqSKg5E02UCk5xOw 尊敬する TypeScript の師匠(勝手に思ってるだ",
+      "param": "stins_blog"
+    },
+    {
+      "title": "HTML 解体新書 読書感想文",
+      "link": "https://blog.stin.ink/articles/html-kaitai-shinsho-book-report",
+      "pubDate": "2022-04-30T03:37:37.000Z",
+      "contentSnippet": "https://twitter.com/stin\\_factory/status/1516718102813511680 https://www.borndigital.co.jp/book/25999.html Amazon で予約開始し",
+      "param": "stins_blog"
+    },
+    {
+      "title": "Next.js ～RSS フィードの実装方法探訪記、或いは、 getServerSideProps での res.end() の考察について～",
+      "link": "https://blog.stin.ink/articles/add-rss-feed-to-nextjs-blog",
+      "pubDate": "2022-04-08T13:01:51.000Z",
+      "contentSnippet": "この個人ブログに RSS フィード機能を実装しました。 RSS フィードとはブログの記事のタイトルや公開日などの情報を XML 形式で配信するものです。 実装方法自体はググって出てきた記事を参考に行いましたが、その中で一つ疑問があったので調",
+      "param": "stins_blog"
+    },
+    {
+      "title": "ブログに next-seo を導入した",
+      "link": "https://blog.stin.ink/articles/add-next-seo-to-blog",
+      "pubDate": "2022-04-02T13:28:45.000Z",
+      "contentSnippet": "適当にやってた meta タグ設定をちゃんとしました Next.js のプロジェクトの meta タグ類を設定してくれるライブラリ next-seo をインストールしました。 今まで適当に meta タグをセットしていて、特に OGP 系は",
+      "param": "stins_blog"
+    },
+    {
+      "title": "Twitter シェアボタン React 作り方",
+      "link": "https://blog.stin.ink/articles/put-twitter-share-button",
+      "pubDate": "2022-03-31T10:43:24.000Z",
+      "contentSnippet": "Twitter のシェアボタンをブログに設置しました 記事ページの下部に Twitter のシェアボタンと Buy me a coffee のリンクを設置しました！ Twitter のシェアボタンを作るに当たって考えたことを書いていきます。",
+      "param": "stins_blog"
+    },
+    {
+      "title": "Twitter ツイート埋め込み機能完全に理解した",
+      "link": "https://blog.stin.ink/articles/fully-understood-embedding-tweets",
+      "pubDate": "2022-03-25T15:25:46.000Z",
+      "contentSnippet": "Tweet URL を Tweet 埋め込みに変換して表示するように実装しました Tweet の URL だけを Markdown に記述すると ↓ Tweet 埋め込みの iframe が展開されるようにブログを実装しました！↓ http",
+      "param": "stins_blog"
+    },
+    {
+      "title": "ブログをフルリニューアルした！",
+      "link": "https://blog.stin.ink/articles/stin-blog-updated-2022",
+      "pubDate": "2022-03-22T10:15:41.000Z",
+      "contentSnippet": "すてぃんブログレボリューション 21 (updated) このブログサイトをフルリニューアルしました！(5 記事しか書いていなかったのにもうリニューアルとかｗｗというのはそれはそう) 今回はこのリニューアルについて、こだわりポイントと技術的",
+      "param": "stins_blog"
+    },
+    {
+      "title": "react-router の型定義が知らない間にきれいになっていたので使い方を再考する",
+      "link": "https://blog.stin.ink/articles/use-new-react-router-types",
+      "pubDate": "2021-10-16T07:17:47.000Z",
+      "contentSnippet": "@types/react-router v5.1.9 から型定義がきれいになっていた react-router の型定義は受け取るパスが全て文字列のため、以前は TS コンパイラでパスの間違いを検出できませんでした。 そのため僕は type",
+      "param": "stins_blog"
+    },
+    {
+      "title": "Immutable.js で React ステートのモデルクラスを作る",
+      "link": "https://blog.stin.ink/articles/model-class-for-react-with-immutable-js-v4",
+      "pubDate": "2021-10-09T02:13:44.000Z",
+      "contentSnippet": "Immutable.js で React ステート用モデルクラスを作る 昨今の React は関数コンポーネント一辺倒になり、 React エンジニアがクラス定義する場面はかなり減ってきているんじゃないかと思います。 関数コンポーネント内部",
+      "param": "stins_blog"
+    },
+    {
+      "title": "React Context を export するのはアンチパターンではないかと考える",
+      "link": "https://blog.stin.ink/articles/do-not-export-react-context",
+      "pubDate": "2021-02-21T12:14:46.000Z",
+      "contentSnippet": "Context を export するな みなさんは React Context を使っていますか？非常に便利ですよね。 え、使ってない？みんな React Context 使っとる。使ってへんのお前だけ。 冗談はさておき、この記事では C",
+      "param": "stins_blog"
+    },
+    {
+      "title": "Fragment をコンポーネントのトップに置くのはアンチパターンではないかと考える",
+      "link": "https://blog.stin.ink/articles/react-fragment-is-anti-pattern",
+      "pubDate": "2021-02-05T12:46:41.000Z",
+      "contentSnippet": "Fragment をコンポーネントのトップに置くな 「Fragment をコンポーネントにトップに置く」というのは下のようなコンポーネントを作成することを指します。 これは、この MyComponent が生成する HTML 要素が h1 ",
+      "param": "stins_blog"
+    },
+    {
+      "title": "個人ブログを作ったので初記事を書く",
+      "link": "https://blog.stin.ink/articles/my-first-article",
+      "pubDate": "2021-01-21T14:42:02.000Z",
+      "contentSnippet": "個人ブログを開発しました 「開発」という単語がふさわしいのか不明です。 開発 作成 制作 開発というと大げさな気がします。作成というと軽い気がする。 制作は工作とか美術っぽい。 CMS 使わずにフルスクラッチなので開発でいいでしょう。 st",
+      "param": "stins_blog"
+    }
+  ]
+}

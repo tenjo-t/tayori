@@ -1,0 +1,511 @@
+{
+  "link": "https://blog.sakupi01.com/",
+  "title": "@sakupi01.com blog",
+  "description": "Blogs written by saku",
+  "items": [
+    {
+      "title": "Google I/O 2026 (1st edition!)",
+      "link": "https://blog.sakupi01.com/life/articles/google-io-first-visit/",
+      "pubDate": "2026-05-23T00:00:00.000Z",
+      "contentSnippet": "DISCLAIMER: Semi-tech & mostly everyday kind of stuff! It means skip this content if you're expecting 100% tech content.",
+      "param": "saku_blog"
+    },
+    {
+      "title": "本サイトにおける Web UI のプラクティス #2 Typography",
+      "link": "https://blog.sakupi01.com/dev/articles/state-of-sakupi01com-ui-practice-2/",
+      "pubDate": "2026-05-02T00:00:00.000Z",
+      "contentSnippet": "本サイトの Typography のプラクティスを紹介します。ユーザの設定を仮定せず、ブラウザ設定・画面幅・解像度・OS テキストスケールに段階的に応える Typography の組み方を、本サイトでの実装と合わせて整理します。本エントリは",
+      "param": "saku_blog"
+    },
+    {
+      "title": "本サイトにおける Web UI のプラクティス #1 Overview & Basics",
+      "link": "https://blog.sakupi01.com/dev/articles/state-of-sakupi01com-ui-practice-1/",
+      "pubDate": "2026-04-22T00:00:00.000Z",
+      "contentSnippet": "本サイトの Web UI における CSS 設計のプラクティスを、全体像と基盤となるスタイルを中心に紹介します。本エントリは個人連載の一部です。",
+      "param": "saku_blog"
+    },
+    {
+      "title": "2025 In Review",
+      "link": "https://blog.sakupi01.com/life/articles/2025-in-review/",
+      "pubDate": "2025-12-31T00:00:00.000Z",
+      "contentSnippet": "2025年の振り返り",
+      "param": "saku_blog"
+    },
+    {
+      "title": "CSS Masonry のあゆみと現状",
+      "link": "https://blog.sakupi01.com/dev/articles/the-state-of-css-masonry/",
+      "pubDate": "2025-12-21T00:00:00.000Z",
+      "contentSnippet": "CSS Masonry（Grid-Lanes）の仕様策定の経緯と現状のまとめ",
+      "param": "saku_blog"
+    },
+    {
+      "title": "TPAC 2025 @Kobe Diary",
+      "link": "https://blog.sakupi01.com/dev/articles/tpac-2025-diary/",
+      "pubDate": "2025-11-20T00:00:00.000Z",
+      "contentSnippet": "TPAC 2025 参加記（Unpolished ver.）",
+      "param": "saku_blog"
+    },
+    {
+      "title": "Google Developer Experts にジョインしました",
+      "link": "https://blog.sakupi01.com/dev/articles/join-in-gde/",
+      "pubDate": "2025-11-15T00:00:00.000Z",
+      "contentSnippet": "Joined Google Developer Experts (GDE) program as a Web Technologies expert focusing on CSS & UI.",
+      "param": "saku_blog"
+    },
+    {
+      "title": "Case Study@web.dev - How Cybozu eliminated browser compatibility overhead with Baseline",
+      "link": "https://blog.sakupi01.com/dev/articles/web-dev-baseline-case-study/",
+      "pubDate": "2025-11-08T00:00:00.000Z",
+      "contentSnippet": "Baseline の企業レベル導入事例",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 25 / Epilogue",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-25/",
+      "pubDate": "2025-08-25T00:00:00.000Z",
+      "contentSnippet": "CSS Advent Calendar エピローグ",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 24 / The Future of Web UI is Declarative. - How Design System can bridge Imperative Design?",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-24/",
+      "pubDate": "2025-08-24T00:00:00.000Z",
+      "contentSnippet": "Design と Web Design の思想を橋渡しする Design System。Semantic Design と Declarative Design System の関係性",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 23 / Declarative Web Design",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-23/",
+      "pubDate": "2025-08-23T00:00:00.000Z",
+      "contentSnippet": "Intrinsic Web Design/Every Layout/Utopia と Declarative Design. そして、Container Size Queries の実現",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 22 / Intrinsic Web Design - Beyond Responsive and Embrace the nature of the Web",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-22/",
+      "pubDate": "2025-08-22T00:00:00.000Z",
+      "contentSnippet": "Web というメディアが本来持つ性質/値を最大限に活かす「Intrinsic Web Design」という考え方",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 21 / A Quick History of Web Design",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-21/",
+      "pubDate": "2025-08-21T00:00:00.000Z",
+      "contentSnippet": "Responsive Web Design までの歴史から見る、Web の制約と特性とデザインの理想",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 20 / CSS Scope with backgrounds",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-20/",
+      "pubDate": "2025-08-20T00:00:00.000Z",
+      "contentSnippet": "CSS Scope の背景と、CSS Scope の提案に至るまでの経緯から考察するメンタルモデル",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 19 / Cascade Layers in real world use",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-19/",
+      "pubDate": "2025-08-19T00:00:00.000Z",
+      "contentSnippet": "Cascade Layers に付随して議論されたトピックと、Cascade Layers の具体的なユースケース",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 18 / Cascade Layers with background story",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-18/",
+      "pubDate": "2025-08-18T00:00:00.000Z",
+      "contentSnippet": "Cascade Layers の背景と、Cascade Layers の提案に至るまでの経緯から考察するメンタルモデル",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 17 / Specificity Architecture is what CSS Architecture is",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-17/",
+      "pubDate": "2025-08-17T00:00:00.000Z",
+      "contentSnippet": "「詳細度設計」としての「CSS アーキテクチャ」、その未来’",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 16 / Hard Core Scoping of Standard",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-16/",
+      "pubDate": "2025-08-16T00:00:00.000Z",
+      "contentSnippet": "標準側での「スタイルのカプセル化」",
+      "param": "saku_blog"
+    },
+    {
+      "title": "Unlocking Parent Style Inheritance✨/ Nested で Dynamic で Adoptive なスタイルを実現する `inherit()`",
+      "link": "https://blog.sakupi01.com/dev/articles/css-inherit/",
+      "pubDate": "2025-08-15T00:00:00.000Z",
+      "contentSnippet": "「親要素の任意プロパティ」にアクセスする手段として、`inherit()` の仕様が CSS Values and Units Module Level 5 で策定されています。これにより、Custom Properties を経由せず、親",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 15 / CSS meets npm Ecosystem - the second shot - Component Based CSS",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-15/",
+      "pubDate": "2025-08-15T00:00:00.000Z",
+      "contentSnippet": "Declarative UI の登場による CSS エコシステムの変遷",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 14 / Thoughts on CSS Architecture",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-14/",
+      "pubDate": "2025-08-14T00:00:00.000Z",
+      "contentSnippet": "npm エコシステムと並行して、進化してきた CSS アーキテクチャ",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 13 / CSS meets npm Ecosystem - the first shot ... AltCSS",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-13/",
+      "pubDate": "2025-08-13T00:00:00.000Z",
+      "contentSnippet": "AltCSS とも言える SassとPostCSS の登場、エコシステムへの影響",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 12 / Web Apps are demanded! - The Emergence of SPA",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-12/",
+      "pubDate": "2025-08-12T00:00:00.000Z",
+      "contentSnippet": "アプリケーションとしての Web の進化と SPA",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 11 / The Birth of Responsive Design",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-11/",
+      "pubDate": "2025-08-11T00:00:00.000Z",
+      "contentSnippet": "iPhone の登場と、Web デザインにおける適応性の黎明",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 10 / Interoperability in CSS, &c.",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-10/",
+      "pubDate": "2025-08-10T00:00:00.000Z",
+      "contentSnippet": "CSS におけるブラウザの負債とエコシステム側の解決策",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 9 / Standards and Ecosystem",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-9/",
+      "pubDate": "2025-08-09T00:00:00.000Z",
+      "contentSnippet": "CSS 標準から、CSS 標準外の変化への転換",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 8 / Basics of Style Resolution",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-8/",
+      "pubDate": "2025-08-08T00:00:00.000Z",
+      "contentSnippet": "何重ものフィルタリングと計算処理を経て、適用されるスタイルが決定するまでの仕組み",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 7 / The Cascade for Cascading Style Sheets - The Whole Cascade Universe v1",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-7/",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "Origin の続きと、Cascade Sorting Order の全体像",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 6 / Cascade for Cascading Style Sheets - UA Origin in Cascade",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-6/",
+      "pubDate": "2025-08-06T00:00:00.000Z",
+      "contentSnippet": "Cascade Sorting Order と UA Origin の解剖",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 5 / Cascade for Cascading Style Sheets - Behind the Scenes of Importance",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-5/",
+      "pubDate": "2025-08-05T00:00:00.000Z",
+      "contentSnippet": "Cascade の登場と Importance の裏側",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 4 / The Initial Cascade",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-4/",
+      "pubDate": "2025-08-04T00:00:00.000Z",
+      "contentSnippet": "Cascade Layers 以前の Cascade",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 3 / CSS is Optional. Protect the Content!",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-3/",
+      "pubDate": "2025-08-03T00:00:00.000Z",
+      "contentSnippet": "ヒントとしての CSS、あるいはコンテンツを守るための Web の設計思想",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 2 / CSS “to save HTML”",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-2/",
+      "pubDate": "2025-08-02T00:00:00.000Z",
+      "contentSnippet": "CSS 以前のドキュメントスタイル手法の提案 - Prevent the Web from becoming a giant fax machine!!",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 1 / Pre-Styling Era",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-1/",
+      "pubDate": "2025-08-01T00:00:00.000Z",
+      "contentSnippet": "1989年の WorldWideWeb ブラウザから始まる、CSS 誕生前の Web の歴史の振り返り。スタイルのない時代から IMG タグ、FONT タグの登場。",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎨 CSS Advent Calendar: Day 0 / Prologue",
+      "link": "https://blog.sakupi01.com/dev/articles/2025-css-advent-0/",
+      "pubDate": "2025-07-31T00:00:00.000Z",
+      "contentSnippet": "CSS Advent Calendar Prologue",
+      "param": "saku_blog"
+    },
+    {
+      "title": "From 7 Hours Behind",
+      "link": "https://blog.sakupi01.com/life/articles/from-7-hours-behind/",
+      "pubDate": "2025-07-05T00:00:00.000Z",
+      "contentSnippet": "DISCLAIMER: Non-Tech. Pure life stuff here. Don't read if you expect tech.",
+      "param": "saku_blog"
+    },
+    {
+      "title": "[Thoughts Are Appreciated!] Baseline という指標の活用可能性に関する考察",
+      "link": "https://blog.sakupi01.com/dev/articles/thoughts-on-our-baseline/",
+      "pubDate": "2025-05-29T00:00:00.000Z",
+      "contentSnippet": "Baseline という指標の活用可能性に関する考察",
+      "param": "saku_blog"
+    },
+    {
+      "title": "The Outline Algorithm Utopia",
+      "link": "https://blog.sakupi01.com/dev/articles/the-history-of-outline-algorithm/",
+      "pubDate": "2025-04-27T00:00:00.000Z",
+      "contentSnippet": "本エントリでは、Document Outline Algorithm というユートピアと、その中で繰り広げられた HTML の歴史を振り返ります。また、Outline Algorithm の後継として実現が検討されている Heading L",
+      "param": "saku_blog"
+    },
+    {
+      "title": "Standardizing User Intent with Interest Invokers ! (... and it's complicated)",
+      "link": "https://blog.sakupi01.com/dev/articles/standardizing-user-intent-with-interest-invokers/",
+      "pubDate": "2025-03-27T00:00:00.000Z",
+      "contentSnippet": "本エントリでは、Interest Invokers の仕様策定において重要な「Show Interest」という概念と、 HIDs (Human Interface Devices) の「Show Interest」に係る議論の現状を解説し",
+      "param": "saku_blog"
+    },
+    {
+      "title": "Safari 18.2 「view-transition-name: auto;」への警鐘",
+      "link": "https://blog.sakupi01.com/dev/articles/view-transition-name-auto/",
+      "pubDate": "2025-02-17T00:00:00.000Z",
+      "contentSnippet": "Safari 18.2でShipされた`view-transition-name: auto;`は、未だに議論の余地が残るため、仕様をよく理解した上での利用が必要な理由を解説します",
+      "param": "saku_blog"
+    },
+    {
+      "title": "Customizable Select ElementにおけるParser RelaxationのアップデートとShipの背景",
+      "link": "https://blog.sakupi01.com/dev/articles/customizable-select-element-parser-relaxation/",
+      "pubDate": "2025-01-26T00:00:00.000Z",
+      "contentSnippet": "長年の議論を経て、ようやく仕様が固まった、CustomizableなSelect要素の現状について、Parser Relaxationのを軸に解説します",
+      "param": "saku_blog"
+    },
+    {
+      "title": "2024 In Review",
+      "link": "https://blog.sakupi01.com/life/articles/2024-lookback/",
+      "pubDate": "2024-12-31T00:00:00.000Z",
+      "contentSnippet": "2024年の振り返り",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day 25 / Epilogue",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-25/",
+      "pubDate": "2024-12-25T00:00:00.000Z",
+      "contentSnippet": "OpenUI Advent Calendar エピローグ",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day 24 / Global Design System Part2",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-24/",
+      "pubDate": "2024-12-24T00:00:00.000Z",
+      "contentSnippet": "Open UIが提唱するデザインシステム、Global Design Systemとその未来",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day 23 / Global Design System Part1",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-23/",
+      "pubDate": "2024-12-23T00:00:00.000Z",
+      "contentSnippet": "デザインシステムの開発を加速させる、堅牢で柔軟なGlobal Design Systemの提唱",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day 22 / Customizable Select Element Ep.20",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-22/",
+      "pubDate": "2024-12-22T00:00:00.000Z",
+      "contentSnippet": "Customizable Select Elementのまとめ",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day21 / Customizable Select Element Ep.19",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-21/",
+      "pubDate": "2024-12-21T00:00:00.000Z",
+      "contentSnippet": "Customizable Select Elementの関連仕様: `` - 子Node変更検知タイミングの仕様決定（現時点で）",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day 20 / Customizable Select Element Ep.18",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-20/",
+      "pubDate": "2024-12-20T00:00:00.000Z",
+      "contentSnippet": "Customizable Select Elementの関連仕様: `` - 「同期タイミング」でクローンを作成の方針で決定。`cloneNode()`の制限が浮き彫りになる",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day 19 / Customizable Select Element Ep.17",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-19/",
+      "pubDate": "2024-12-19T00:00:00.000Z",
+      "contentSnippet": "Customizable Select Elementの関連仕様: `` - UAによるLight DOMへのNodeクローンタイミングの検討",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day 18 / Customizable Select Element Ep.16",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-18/",
+      "pubDate": "2024-12-18T00:00:00.000Z",
+      "contentSnippet": "Customizable Select Elementの関連仕様: `` - Light DOMへのクローン追加実装に関して、CSSWGとの合意形成。UAによるLight DOMへのNodeクローンタイミングに関する懸念を深掘る",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day 17 / Customizable Select Element Ep.15",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-17/",
+      "pubDate": "2024-12-17T00:00:00.000Z",
+      "contentSnippet": "Customizable Select Elementの関連仕様: `` - `slot`属性と`behavior`属性が使用廃止を受け、CSE Anatomyが改訂。HTML史上初となる、UAからLight DOMへ変更を加える実装検討へ",
+      "param": "saku_blog"
+    },
+    {
+      "title": "Cardのマークアップでもう悩まない！NestedでClickableなUIを実現する、Link Area Delegationとは",
+      "link": "https://blog.sakupi01.com/dev/articles/proposal-link-area-delegation/",
+      "pubDate": "2024-12-16T00:00:00.000Z",
+      "contentSnippet": "本エントリでは、インタラクティブな要素がネストされたUIを、標準的な方法で実現しようという「Link Area Delegation」Proposalについて紹介します。",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day 16 / Customizable Select Element Ep.14",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-16/",
+      "pubDate": "2024-12-16T00:00:00.000Z",
+      "contentSnippet": "Customizable Select Elementの関連仕様: `` - 「選択された``を``にスロットしてカスタマイズできるようにする」唯一の手段、`slot`属性と`behavior`属性が使用廃止へ",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day 15 / Customizable Select Element Ep.13",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-15/",
+      "pubDate": "2024-12-15T00:00:00.000Z",
+      "contentSnippet": "Customizable Select Elementの関連仕様: `` - ``の内部コンテンツ自体を``に反映する仕様の検討",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day 14 / Customizable Select Element Ep.12",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-14/",
+      "pubDate": "2024-12-14T00:00:00.000Z",
+      "contentSnippet": "Customizable Select Elementの関連仕様: `` - `part`属性をCSEのUA実装で使用することの問題から、`part`属性を`behavior`属性にリネームへ。``のvalueのみならず、内部コンテンツ自体",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day 13 / Customizable Select Element Ep.11",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-13/",
+      "pubDate": "2024-12-13T00:00:00.000Z",
+      "contentSnippet": "Customizable Select Elementの関連仕様: `` - ``提案のきっかけと、選択された``のvalueとスタイルを反映する初期の仕組みとして、`part`属性と`slot`属性について",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day 12 / Customizable Select Element Ep.10",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-12/",
+      "pubDate": "2024-12-12T00:00:00.000Z",
+      "contentSnippet": "Customizable Select Elementの関連仕様:  `appearance: base-select;` - `::picker()`のデフォルト色から深掘る、system-color/ color-scheme/ pre",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day 11 / Customizable Select Element Ep.9",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-11/",
+      "pubDate": "2024-12-11T00:00:00.000Z",
+      "contentSnippet": "Customizable Select Elementの関連仕様:  `appearance: base-select;` - `::picker-icon`のデフォルトスタイルはどうやって決まったのか",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day 10 / Customizable Select Element Ep.8",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-10/",
+      "pubDate": "2024-12-10T00:00:00.000Z",
+      "contentSnippet": "Customizable Select Elementの関連仕様: `appearance: base-select;` - 選択された``のデフォルトチェックマークのスタイルはどうやって決まったのか",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day 9 / Customizable Select Element Ep.7",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-9/",
+      "pubDate": "2024-12-09T00:00:00.000Z",
+      "contentSnippet": "``のその後：``から``に至るまで",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day 8 / Customizable Select Element Ep.6",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-8/",
+      "pubDate": "2024-12-08T00:00:00.000Z",
+      "contentSnippet": "``のその後：``に至るまで",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day7 / Customizable Select Element Ep.5",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-7/",
+      "pubDate": "2024-12-07T00:00:00.000Z",
+      "contentSnippet": "Open UIでCSEのResearchが行われる。同時期にMSで``Explainerの作成。Explainerに基づいて、``がIntent to Prototypeに",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day 6 / Customizable Select Element Ep.4",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-6/",
+      "pubDate": "2024-12-06T00:00:00.000Z",
+      "contentSnippet": "Open UIでCustomizable Select Elementの初期提案",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day 5 / Customizable Select Element Ep.3",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-5/",
+      "pubDate": "2024-12-05T00:00:00.000Z",
+      "contentSnippet": "Web標準化の動きが進んでもなお、CustomizableでないForm Controlの紹介。Customizable Select Element提案の契機となるサーベイ",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day 4 / Customizable Select Element Ep.2",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-4/",
+      "pubDate": "2024-12-04T00:00:00.000Z",
+      "contentSnippet": "ブラウザ戦争の激化と、OSに依存したコントロールの問題の顕在化。打開する動きとして、WaSPによるWeb標準の台頭への動き、モダンブラウザの登場、より柔軟なスタイリングを可能にするCSS3の登場",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day 3 / Customizable Select Element Ep.1",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-3/",
+      "pubDate": "2024-12-03T00:00:00.000Z",
+      "contentSnippet": "Form Controlの歴史と、ブラウザやOSに依存するForm Controlのスタイルについて",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day 2 / Web UIの抱える課題とOpen UIの発足背景",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-2/",
+      "pubDate": "2024-12-02T00:00:00.000Z",
+      "contentSnippet": "Web UIの抱える課題とOpen UIの発足背景について",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day 1 / Open UIについて",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-1/",
+      "pubDate": "2024-12-01T00:00:00.000Z",
+      "contentSnippet": "Open UIの概要と、その調査方法",
+      "param": "saku_blog"
+    },
+    {
+      "title": "🎄Open UI Advent Calendar: Day 0 / Prologue",
+      "link": "https://blog.sakupi01.com/dev/articles/2024-openui-advent-0/",
+      "pubDate": "2024-11-30T00:00:00.000Z",
+      "contentSnippet": "OpenUI Advent Calendar プロローグ",
+      "param": "saku_blog"
+    },
+    {
+      "title": "📝note: What is web accessibility?",
+      "link": "https://blog.sakupi01.com/dev/articles/web-accessibility-practical-a11y/",
+      "pubDate": "2024-10-24T00:00:00.000Z",
+      "contentSnippet": "Practical Accessibility のメモ",
+      "param": "saku_blog"
+    },
+    {
+      "title": "新人研修の内容・感想など: 備忘録",
+      "link": "https://blog.sakupi01.com/life/articles/new-graduates-training/",
+      "pubDate": "2024-07-14T00:00:00.000Z",
+      "contentSnippet": "2024/4から24卒として新人研修を受けてました。終わってから配属などあり、ようやく落ち着いてきたので、ざっくりと研修の内容を書いたり感想を書いたりします。まとまりはないです。",
+      "param": "saku_blog"
+    },
+    {
+      "title": "内定者アルバイトを終えて",
+      "link": "https://blog.sakupi01.com/life/articles/intern-completed-aritcle/",
+      "pubDate": "2024-03-01T00:00:00.000Z",
+      "contentSnippet": "チーム開発何もわからんだった私が、チームワークを大切にする会社の内定者アルバイトに参加して思ったことをつらつら書きます。まとまりはないです。",
+      "param": "saku_blog"
+    }
+  ]
+}

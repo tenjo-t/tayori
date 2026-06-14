@@ -6,11 +6,10 @@ import Section from "../layouts/section.astro";
 import Title from "../components/title.astro";
 import FeedItem from "../components/feed-item.astro";
 
-import { collectAllItems } from "../feed/fetch";
-import { siteList } from "../feed/list";
+import { collectAllItems } from "../feed/history";
 
 const oneWeekAgo = new Date(Date.now() - 7 * 24 * 60 * 60 * 1000).toISOString();
-const items = await collectAllItems(siteList);
+const items = collectAllItems();
 const weekly = items.reduce<ItemForAll[]>((pre, cur) => {
   if (cur.pubDate > oneWeekAgo) {
     pre.push(cur);
@@ -23,7 +22,7 @@ const weekly = items.reduce<ItemForAll[]>((pre, cur) => {
   <main>
     <Section>
       <Title>今週</Title>
-      <div class="grid gap-4">
+      <div class="grid gap-8">
         {
           weekly.map((item) => (
             <FeedItem

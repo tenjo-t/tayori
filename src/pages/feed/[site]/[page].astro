@@ -1,0 +1,64 @@
+---
+import type { GetStaticPaths } from "astro";
+
+import Layout from "../../../layouts/layout.astro";
+import Section from "../../../layouts/section.astro";
+import FeedItem from "../../../components/feed-item.astro";
+import Title from "../../../components/title.astro";
+import Pagination from "../../../components/pagination.astro";
+
+import { collectFeeds } from "../../../feed/history";
+import { siteList } from "../../../feed/list";
+
+export const getStaticPaths = (({ paginate }) => {
+  const feeds = collectFeeds();
+  return siteList.flatMap((info) => {
+    const feed = feeds[info.param];
+    if (!feed) return [];
+    return paginate(feed.items, {
+      params: { site: info.param },
+      props: {
+        logo: info.logo,
+        title: feed.title,
+        description: feed.description,
+      },
+      pageSize: 40,
+    });
+  });
+}) satisfies GetStaticPaths;
+
+const { page, logo, title, description } = Astro.props;
+---
+
+<Layout>
+  <main>
+    <Section>
+      <div class="flex gap-4 items-center">
+        <img src={logo} alt=`${title} icon` class="w-12" />
+        <div>
+          <Title>{title}</Title>
+          {description && <p>{description}</p>}
+        </div>
+      </div>
+      <div class="grid gap-8">
+        {
+          page.data.map((item) => (
+            <FeedItem
+              link={item.link}
+              pubDate={item.pubDate}
+              title={item.title}
+              creator={item.creator}
+              contentSnippet={item.contentSnippet}
+            />
+          ))
+        }
+      </div>
+      <Pagination
+        currentPage={page.currentPage}
+        lastPage={page.lastPage}
+        prevUrl={page.url.prev}
+        nextUrl={page.url.next}
+      />
+    </Section>
+  </main>
+</Layout>

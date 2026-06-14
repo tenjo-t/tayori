@@ -1,0 +1,44 @@
+---
+type Props = {
+  currentPage: number;
+  lastPage: number;
+  prevUrl: string | undefined;
+  nextUrl: string | undefined;
+};
+
+const { currentPage, lastPage, prevUrl, nextUrl } = Astro.props;
+---
+
+{
+  lastPage > 1 && (
+    <nav class="flex items-center justify-between pt-4">
+      {prevUrl ? (
+        <a
+          href={prevUrl}
+          class="px-6 py-2 bg-zinc-800 hover:bg-zinc-900 focus:bg-zinc-900 text-white rounded-full transition-colors"
+        >
+          ← 前へ
+        </a>
+      ) : (
+        <span class="px-6 py-2 bg-zinc-200 text-zinc-400 rounded-full select-none">
+          ← 前へ
+        </span>
+      )}
+      <span class="text-sm text-zinc-500">
+        {currentPage} / {lastPage}
+      </span>
+      {nextUrl ? (
+        <a
+          href={nextUrl}
+          class="px-6 py-2 bg-zinc-800 hover:bg-zinc-900 focus:bg-zinc-900 text-white rounded-full transition-colors"
+        >
+          次へ →
+        </a>
+      ) : (
+        <span class="px-6 py-2 bg-zinc-200 text-zinc-400 rounded-full select-none">
+          次へ →
+        </span>
+      )}
+    </nav>
+  )
+}
