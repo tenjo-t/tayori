@@ -1,12 +1,14 @@
 // @ts-check
 import { defineConfig } from "astro/config";
-
-import tailwind from "@astrojs/tailwind";
-
 import icon from "astro-icon";
+import tailwindcss from "@tailwindcss/vite";
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://tayori.tenjo.dev",
-	integrations: [tailwind(), icon()],
+  site: "https://tayori.tenjo.dev",
+  integrations: [icon()],
+
+  vite: {
+    plugins: [tailwindcss()],
+  },
 });

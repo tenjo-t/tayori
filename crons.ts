@@ -1,11 +1,11 @@
 import "./worker-configuration.d.ts";
 
 interface Env {
-	WEBHOOK: string;
+  WEBHOOK: string;
 }
 
 export default {
-	async scheduled(_: ScheduledController, env: Env) {
-		await fetch(env.WEBHOOK, { method: "POST" });
-	},
+  async scheduled(_: ScheduledController, env: Env) {
+    await fetch(env.WEBHOOK, { method: "POST" });
+  },
 } satisfies ExportedHandler<Env>;

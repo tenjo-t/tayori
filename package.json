@@ -1,30 +1,31 @@
 {
-	"name": "tayori",
-	"type": "module",
-	"version": "0.0.1",
-	"scripts": {
-		"dev": "astro dev",
-		"devh": "astro dev --host",
-		"start": "astro dev",
-		"build": "astro check && astro build",
-		"preview": "astro preview",
-		"astro": "astro"
-	},
-	"dependencies": {
-		"@astrojs/check": "^0.9.6",
-		"@astrojs/tailwind": "^5.1.5",
-		"@iconify-json/lucide": "^1.2.96",
-		"astro": "^5.18.0",
-		"astro-icon": "^1.1.5",
-		"rss-parser": "^3.13.0",
-		"tailwindcss": "^3.4.19"
-	},
-	"devDependencies": {
-		"@biomejs/biome": "^1.9.4",
-		"typescript": "^5.9.3",
-		"wrangler": "^4.71.0"
-	},
-	"engines": {
-		"node": ">=22.4.1"
-	}
+  "name": "tayori",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "devh": "astro dev --host",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.9",
+    "@iconify-json/lucide": "^1.2.111",
+    "@tailwindcss/vite": "^4.3.1",
+    "astro": "^6.4.6",
+    "astro-icon": "^1.1.5",
+    "rss-parser": "^3.13.0",
+    "tailwindcss": "^4.3.1"
+  },
+  "devDependencies": {
+    "oxfmt": "^0.54.0",
+    "typescript": "^6.0.3",
+    "wrangler": "^4.100.0"
+  },
+  "engines": {
+    "node": ">=22.4.1"
+  },
+  "packageManager": "pnpm@11.6.0+sha512.9a36518224080c6fe5165afdcfe79bfa118c29be703f3f462b1e32efe1e98e47e8750b148e08286250aad4113cc7993ca413c4e2cd447752708c2ee5751bc95f"
 }
