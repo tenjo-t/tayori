@@ -4,6 +4,30 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "Soichiro N",
+      "title": "高校生が作っている次世代AIのための自作言語:Fluno",
+      "link": "https://zenn.dev/soichiro_n/articles/3dcbc20c6b1659",
+      "pubDate": "2026-06-14T13:47:21.000Z",
+      "contentSnippet": "こんにちは、低レイヤーが好きなsoichiroです。\nこの記事では現在開発中のFlunoという言語について紹介していきます。\nFluno は、現実世界と融合するような次世代AIの実行基盤を目指して設計している言語です。\nFlunoは主にRu",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "Eiichiro Iriguchi",
+      "title": "AIが第一の書き手になったら、プログラミング言語の設計原理は反転する",
+      "link": "https://zenn.dev/a_1ro/articles/c837a5cf46be88",
+      "pubDate": "2026-06-14T11:32:14.000Z",
+      "contentSnippet": "2026年6月9日、Claude Fable 5 がリリースされた。\n自分の能力の限界を、明確に超えた道具だった。Anthropicは当初、6月22日まではサブスクリプションでこのモデルを使えると告知していた。たっぷり時間がある——そう思っ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "shm",
+      "title": "ミニモニター用ダッシュボードから始まった、Rust製ハードウェア監視ツール「HardwareVisualizer」",
+      "link": "https://zenn.dev/shm_7ec/articles/hardwarevisualizer-dev-story",
+      "pubDate": "2026-06-14T05:50:51.000Z",
+      "contentSnippet": "はじめに\nこの記事では、私が開発している HardwareVisualizer について書きます。ただし、単なる機能紹介ではなく、作っている中で見えてきた技術的な面白さに寄せた話です。\n最初から汎用的なハードウェア監視ツールを作ろうとしてい",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "石垣島産石垣",
       "title": "RustでABC462 (A ~ D)",
       "link": "https://zenn.dev/ishigaki122/articles/bb64ee686c4a13",
@@ -21,10 +45,10 @@
     },
     {
       "creator": "Masa0209",
-      "title": "RustとWasmでExcel風テーブルコンポーネントを作ってnpmに公開するまで",
+      "title": "Rust + Wasm + Canvasで100万行対応のExcel風テーブルを作り、npm公開した話",
       "link": "https://zenn.dev/m2lab/articles/wasabi-table-wasm",
       "pubDate": "2026-06-13T09:30:27.000Z",
-      "contentSnippet": "作ったもの\nwasabi-table という npm パッケージを作りました。\nRust + WebAssembly + Canvas で動く、Excel 風のテーブルコンポーネントです。管理画面でよく出てくる「マスタデータをガリガリ編集す",
+      "contentSnippet": "!\nこの記事は Zenn Fes Spring 2026「この春、始めたこと」への参加記事です。この春から作りはじめた OSS の話を書きます。\n\n\n 作ったもの\nwasabi-table という npm パッケージを作りました。Rust ",
       "param": "zenn_rust"
     },
     {

@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "実装前に設計を徹底的にインタビューし、要件を明確にするためのスキル `/grill-me`",
+      "link": "https://azukiazusa.dev/blog/before-implementation-interview-design-requirements-grill-me",
+      "pubDate": "2026-06-14T02:14:00.000Z",
+      "contentSnippet": "コーディングエージェントの自律性が向上し、並行して複数のエージェントを動かすことが当たり前になってきた今、エージェントの動きを逐一監視することは現実的ではなくなっています。そのため実装前に人間と AI の間で共通理解を形成することが重要にな",
+      "param": "azukiazusa"
+    },
+    {
       "title": "`/goal` コマンドの活用例: Vitest の実行時間を 6 倍高速化した話",
       "link": "https://azukiazusa.dev/blog/goal-command-use-case-vitest",
       "pubDate": "2026-06-06T01:43:00.000Z",
@@ -2650,17 +2657,17 @@
       "param": "azukiazusa"
     },
     {
-      "title": "【Vue.js】script setup 構文がすごくすごい",
-      "link": "https://azukiazusa.dev/blog/vue-js-script-setup",
-      "pubDate": "2021-09-25T15:00:00.000Z",
-      "contentSnippet": "Vue.js 3.x から script setup 構文が使えるようになりました。これは単一ファイルコンポーネント(SFC)内で Composition API を使用している際に使える糖衣構文です。下記のようなメリットを得ることができ、",
-      "param": "azukiazusa"
-    },
-    {
       "title": "Vuex 5 でどのように変わるのか。",
       "link": "https://azukiazusa.dev/blog/vuex-5",
       "pubDate": "2021-09-25T15:00:00.000Z",
       "contentSnippet": "現在リリースされている最新のバージョンは Vuex 4 です。 これは Vuex 3 と互換性のあるバージョンで Vue 3 で使用するためのものであり、 Vuex 3 と同じ API となっています。  Vuex 5 は Vue 3 にお",
+      "param": "azukiazusa"
+    },
+    {
+      "title": "【Vue.js】script setup 構文がすごくすごい",
+      "link": "https://azukiazusa.dev/blog/vue-js-script-setup",
+      "pubDate": "2021-09-25T15:00:00.000Z",
+      "contentSnippet": "Vue.js 3.x から script setup 構文が使えるようになりました。これは単一ファイルコンポーネント(SFC)内で Composition API を使用している際に使える糖衣構文です。下記のようなメリットを得ることができ、",
       "param": "azukiazusa"
     },
     {

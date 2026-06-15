@@ -4,6 +4,78 @@
   "description": "現在Zennでトレンドとなっている投稿のRSSフィードです",
   "items": [
     {
+      "creator": "snaga",
+      "title": "超精密インデックス「PageIndex」で実現する推論ベースRAG（JTC版）",
+      "link": "https://zenn.dev/snaga/articles/2026-06-14-doctools-with-pageindex",
+      "pubDate": "2026-06-14T08:08:31.000Z",
+      "contentSnippet": "TL;DR\n\n\n「類似性」から「構造」へ: 論理構造に基づいた推論ベースの検索でベクタ検索（近似検索）の限界を突破する。\n\n「意味的な目次」としてのPageIndex: ドキュメントからツリー構造のインデックスを構築、LLMが生成した高密度",
+      "param": "zenn"
+    },
+    {
+      "creator": "sjbworks",
+      "title": "JavaScriptのClass離れの歴史をたどる話",
+      "link": "https://zenn.dev/sjbworks/articles/41a5c76dce4b36",
+      "pubDate": "2026-06-14T04:05:29.000Z",
+      "contentSnippet": "はじめに\n最近、Petterns.devを読み返しました。\nシングルトン、Provider、Context分割、ファクトリ、プロトタイプ、HOC、レンダープロップ……といったキーワードを一つずつ追っていくうちに、自分がフロントエンド領域を実",
+      "param": "zenn"
+    },
+    {
+      "creator": "いばらき",
+      "title": "「生成AIで属人性を解消」には、違和感を感じる。",
+      "link": "https://zenn.dev/ncdc/articles/8f8f3bf16017f7",
+      "pubDate": "2026-06-14T04:00:08.000Z",
+      "contentSnippet": "生成AI系のセールストークで、こんな主張をよく見かけます。\n\n「生成AIで属人化を解消します」\n「生成AIで誰でも同じ品質が出せるようになります」\n\n聞くたびに違和感があったので、その理由を整理してみます。\n\n そもそも属人化は悪いことか\n",
+      "param": "zenn"
+    },
+    {
+      "creator": "Yusuke Kawabata",
+      "title": "従量制になったGithub Copilotの代わりにOpenCode GoをCopilot Chatのカスタムプロバイダとして使う",
+      "link": "https://zenn.dev/kusuke/articles/82129236caa5f8",
+      "pubDate": "2026-06-14T01:07:01.000Z",
+      "contentSnippet": "Github Copilotが2026年6月より、クレジット制というか従量課金モデルに移行してしまいました。企業の経営のためには仕方がないのですが、個人としてはできれば安く定額で使いたい。\n定額制で安くといえばOpenCode Goが有名で",
+      "param": "zenn"
+    },
+    {
+      "creator": "ゆんぼう",
+      "title": "個人開発はなぜ誰も使わないのか──AIで「作る壁」が消えた時代に大事になること",
+      "link": "https://zenn.dev/yun_bow/articles/6e6bcbf127072a",
+      "pubDate": "2026-06-14T00:14:20.000Z",
+      "contentSnippet": "はじめに\n「動くものができた。GitHub に push した。Product Hunt にも出した。——でも、誰も使わない。」\n個人開発をやったことがある人なら、一度はこの静けさを味わったはずだ。技術的には完成しているのに、リアクションが",
+      "param": "zenn"
+    },
+    {
+      "creator": "yamadatt",
+      "title": "Fable 5停止をきっかけにUbuntuでGemma 4 E2Bを動かした記録",
+      "link": "https://zenn.dev/yamadatt/articles/20260614-ubuntu-gemma4-ollama",
+      "pubDate": "2026-06-14T00:00:12.000Z",
+      "contentSnippet": "はじめに\n先日、Claude Fable 5が突然使えなくなりました。\n使い始めたばかりのモデルが、こちらの設定ミスではなく外部要因で急に使えなくなる。これはなかなか衝撃でした。\n普段の作業ではクラウドの生成AIサービスにかなり頼っています",
+      "param": "zenn"
+    },
+    {
+      "creator": "たくてぃん",
+      "title": "「原則」を Rules / Skills にして運用してみた",
+      "link": "https://zenn.dev/tingtt/articles/fc05c73f8265e4",
+      "pubDate": "2026-06-13T21:37:29.000Z",
+      "contentSnippet": "Rules や Skills をメンテナンスするのが大変なので「実装例」をたくさんに用意するよりも「原則」を優先して Rules や Skills に起こして運用してみました。\n同じように構成している方も多そうですが、感触が良かったので A",
+      "param": "zenn"
+    },
+    {
+      "creator": "ichikawa",
+      "title": "AIエージェント時代の品質保証 ― 監査駆動フィードバック開発という考え方",
+      "link": "https://zenn.dev/ichikawa_y/articles/audit-driven-feedback-development",
+      "pubDate": "2026-06-13T17:53:22.000Z",
+      "contentSnippet": "はじめに ― AI開発で本当に怖いのは「少数の整合性崩壊」\nAI エージェントに 100 件のタスクを任せたとします。おそらく 95 件は正しく実装されます。問題は残りの 5 件です。\n\n機能は動くが、通知だけ配線されていない\n\nレスポンス",
+      "param": "zenn"
+    },
+    {
+      "creator": "naoya",
+      "title": "GitHub Copilot 難民 ～ Cluade Code ～ Google AI Studio ～ そして Codex へ",
+      "link": "https://zenn.dev/ssknaoya/articles/d9becba1164230",
+      "pubDate": "2026-06-13T17:00:18.000Z",
+      "contentSnippet": "概要\nGitHub Copilot Pro がグダっているのでその他のAIサービスを色々試してみたという話。\n\n 結論\n\nVS Code + Copilot のセミバイブコーディングな使用感に近いのは ChatGPT Plus で使用する ",
+      "param": "zenn"
+    },
+    {
       "creator": "Kazuki Ota",
       "title": "GA した GitHub Copilot SDK (.NET) を試してみた",
       "link": "https://zenn.dev/microsoft/articles/github-copilot-sdk-dotnet-ga",
@@ -21,10 +93,18 @@
     },
     {
       "creator": "vAr",
-      "title": "Pythonばかり書いてきた私がJavaScriptの世界観を理解するために用語(Node.js等)を整理した",
+      "title": "Pythonばかり書いてきた私の視点で、JavaScriptの世界観を理解するための用語(Node.js等)を整理した",
       "link": "https://zenn.dev/lotation/articles/a1e0a8658d29ba",
       "pubDate": "2026-06-13T14:35:32.000Z",
-      "contentSnippet": "Pythonエンジニアの自分も、JavaScriptで何が起こっているのか知っておきたい時代になった（AIがなんでも作ってくれるので）\n私はもともと、Pythonを中心にML/AIアプリ開発をしていました。\nuv を入れれば、Python本",
+      "contentSnippet": "※追記: 2026-06-14\n想定よりもずっと多いリアクションを記事に付けていただいており、同じような境遇にある方々がけっこう居たのかもしれない、と勇気づけられました。ご閲覧ありがとうございます。\n\n Pythonエンジニアの自分も、Ja",
+      "param": "zenn"
+    },
+    {
+      "creator": "ぬまーんのZenn記事",
+      "title": "なぜAI生成コードは危ないのか — スキャナを作って見えた現実",
+      "link": "https://zenn.dev/numarn/articles/73fa473c161361",
+      "pubDate": "2026-06-13T11:51:05.000Z",
+      "contentSnippet": "この記事で伝えたいこと\nAI（Copilot・Cursor・Claude・ChatGPT）が吐くコードは、速い。けれど、その速さと引き換えに、誰もレビューしないまま本番に流れていくコードが増えている。\n私はセキュリティスキャナーを作る過程で",
       "param": "zenn"
     },
     {
@@ -41,6 +121,14 @@
       "link": "https://zenn.dev/yun_bow/articles/87d781437d1ddf",
       "pubDate": "2026-06-13T07:22:33.000Z",
       "contentSnippet": "!\n本記事は書籍のダイジェスト記事です\n本記事で取り上げる内容は、「Next.js 15 を作るガイドライン解説 ── 10本の実践アプリで学ぶ App Router 時代の設計指針」のエッセンスを抜粋・再構成したものです。本の目的は「写経",
+      "param": "zenn"
+    },
+    {
+      "creator": "ゆんぼう",
+      "title": "Next.js を作るガイドライン解説 -10本の実践アプリで学ぶ App Router 時代の設計指針-",
+      "link": "https://zenn.dev/yun_bow/books/bbd75c256479b0",
+      "pubDate": "2026-06-13T07:14:59.000Z",
+      "contentSnippet": "Next.js 15 App Router は、Server Components / Server Actions / Route Handler / Middleware といった機能を組み合わせて使う前提のフレームワークです。公式ドキ",
       "param": "zenn"
     },
     {

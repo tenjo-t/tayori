@@ -3,6 +3,13 @@
   "title": "blog.jxck.io",
   "items": [
     {
+      "title": "企業向け Web Bootcamp 2026 開催後記",
+      "link": "https://blog.jxck.io/entries/2026-06-15/web-bootcamp-2026.html",
+      "pubDate": "2026-06-15T00:00:00.000Z",
+      "contentSnippet": "毎年恒例の Web Bootcamp を実施した。",
+      "param": "blog_jxck"
+    },
+    {
       "title": "Google I/O 2026",
       "link": "https://blog.jxck.io/entries/2026-05-31/google-io-2026.html",
       "pubDate": "2026-05-31T00:00:00.000Z",
