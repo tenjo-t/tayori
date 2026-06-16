@@ -3,6 +3,27 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "Linux 7.1リリース ―新ドライバで“NTFSが復活”、i486、ISDN、PCMCIAドライバなどレガシーコード大規模削除",
+      "link": "https://gihyo.jp/article/2026/06/daily-linux-260616?utm_source=feed",
+      "pubDate": "2026-06-15T23:59:00.000Z",
+      "contentSnippet": "Linus Torvaldsは6月14日、「Linux 7.1」の正式リリースをアナウンスした。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Sakana AI、自律型リサーチアシスタント「Sakana Marlin」を初の商用プロダクトとしてリリース",
+      "link": "https://gihyo.jp/article/2026/06/sakana-marlin?utm_source=feed",
+      "pubDate": "2026-06-15T07:16:00.000Z",
+      "contentSnippet": "Sakana AIは、同社初の商用プロダクトとして、ビジネス向けの自律型リサーチアシスタント「Sakana Marlin」の提供開始を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Google、AIエージェントのための文書記述仕様「Open Knowledge Format」を発表",
+      "link": "https://gihyo.jp/article/2026/06/open-knowledge-format?utm_source=feed",
+      "pubDate": "2026-06-15T02:32:00.000Z",
+      "contentSnippet": "Googleは2026年6月13日、AIエージェントと人間の両方が使いやすいオープンな文書記述仕様「Open Knowledge Format」（OKF）を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "8/21～23広島で開催「PyCon JP 2026」チケット販売中、早割チケットは6/15-20:59まで ―キーノートスピーカーも決定",
       "link": "https://gihyo.jp/article/2026/06/pycon-jp-2026-tickets?utm_source=feed",
       "pubDate": "2026-06-14T23:47:00.000Z",

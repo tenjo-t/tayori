@@ -4,11 +4,123 @@
   "description": "現在Zennでトレンドとなっている投稿のRSSフィードです",
   "items": [
     {
+      "creator": "hiroyahorai",
+      "title": "ねえパパ、ほとんどのエンジニアは四則演算を計算するプログラムすら書けないってホント？",
+      "link": "https://zenn.dev/aldagram_tech/articles/124d14d59bc595",
+      "pubDate": "2026-06-15T07:30:05.000Z",
+      "contentSnippet": "ねえパパ、ほとんどのエンジニアは四則演算を計算するプログラムすら書けないってホント？\nどうも。「エクセルファイル読んでますか？」でおなじみの（？）アルダグラム テクニカルフェローの蓬莱です。お元気ですか？\nえ？そんなことより気になる事がある",
+      "param": "zenn"
+    },
+    {
+      "creator": "ぺい(pei0804)",
+      "title": "戦術AIから戦略AIへ Snowflake SUMMIT 2026に参加して",
+      "link": "https://zenn.dev/dataheroes/articles/snowflake-summit-2026-strategic-ai",
+      "pubDate": "2026-06-15T05:40:54.000Z",
+      "contentSnippet": "Snowflake主催の最大のカンファレンスであるSUMMITに参加してきました。\n今年もサンフランシスコのMoscone Centerで、2026年6月1日から4日にかけて開催されました。\n私は2023年、2024年、2025年 と参加し",
+      "param": "zenn"
+    },
+    {
+      "creator": "t.toda",
+      "title": "Local LLMでのデータ分析を試してみた",
+      "link": "https://zenn.dev/aishift/articles/5a5383987efee6",
+      "pubDate": "2026-06-15T03:15:58.000Z",
+      "contentSnippet": "こんにちは\nAIチームの戸田です\n最近、Coding Agentを使った開発体験がかなり変わってきています。ファイルを読ませ、コードを書かせ、テストを実行させ、エラーを直させる、という流れはすでに日常的に使える水準になってきました。\n一方で",
+      "param": "zenn"
+    },
+    {
+      "creator": "にしこりさぶろ〜 | TOKIUM",
+      "title": "「ストーリー」と「視線誘導」を意識しながら、生成AIとともにイイ感じのスライドを作る",
+      "link": "https://zenn.dev/tokium_dev/articles/slide-deck-craft-with-ai",
+      "pubDate": "2026-06-15T03:00:11.000Z",
+      "contentSnippet": "はじめに\nTOKIUMでは、毎年6月から新しい会計年度が始まります。例に漏れず、僕も業務成果の振り返りをしたのですが、ふと気になって2025年6月頭〜2026年5月末までの登壇数を数えてみました。\n\nその数、なんと31件 🤯 登壇による発",
+      "param": "zenn"
+    },
+    {
+      "creator": "ないとー",
+      "title": "AI 開発合宿で見えたのは普段の開発文化だった",
+      "link": "https://zenn.dev/dress_code/articles/dresscode-ai-dev-camp",
+      "pubDate": "2026-06-15T02:30:08.000Z",
+      "contentSnippet": "はじめに\n\nこんにちは、Dress Code でプロダクトエンジニアをしている ないとー です！\n私たちは DRESS CODE という、人事労務・情報システム・総務・採用・プロジェクト・コーポレートガバナンスなど、複数領域を横断する業務 ",
+      "param": "zenn"
+    },
+    {
+      "creator": "yusukebe",
+      "title": "AIエージェントはCloudflareに賭けろ",
+      "link": "https://zenn.dev/yusukebe/articles/ccb1f953e48ee1",
+      "pubDate": "2026-06-15T02:27:32.000Z",
+      "contentSnippet": "最初に表明しておくと、自分はCloudflareの社員である。\n\nAIエージェント時代にCloudflareは最適なプラットフォームである！今回はCloudflareがなぜAIエージェントに向いているかを紹介する。\n\n AIエージェント時代",
+      "param": "zenn"
+    },
+    {
+      "creator": "Yoshi Yamaguchi",
+      "title": "OpenTelemetry形式でテレメトリーデータを合成するk6拡張を作った",
+      "link": "https://zenn.dev/ymotongpoo/articles/20260615-xk6-otel-gen-intro",
+      "pubDate": "2026-06-15T00:00:42.000Z",
+      "contentSnippet": "はじめに\nこんにちは、Grafana Labsでデベロッパーアドボケイトをしているものです。\nオブザーバビリティ基盤の検証をしたいとき、いつも悩ましいのが「それらしいテレメトリーをどう用意するか」です。ダッシュボードの開発、Collecto",
+      "param": "zenn"
+    },
+    {
+      "creator": "アレク",
+      "title": "Minecraft自宅鯖がDDNSからKubernetesとWireGuardに進化した話",
+      "link": "https://zenn.dev/alecjp02/articles/minecraft-home-server-infra-evolution",
+      "pubDate": "2026-06-14T16:28:53.000Z",
+      "contentSnippet": "はじめに\n最初は、本当に普通の自宅Minecraftサーバーだった。\nASUSルーターのDDNSを使い、Minecraft用のポートを開放し、わざわざサーバー用のPCを用意して、Windows上でMinecraftサーバーを動かしていた。\n",
+      "param": "zenn"
+    },
+    {
+      "creator": "しろくま（Hiroki, Nomura）",
+      "title": "OSSの「AI社員だけの会社」OneManCompany を動かしてみる ~Microsoft Foundry のモデルで~",
+      "link": "https://zenn.dev/nomhiro/articles/omc-azure-foundry",
+      "pubDate": "2026-06-14T14:11:29.000Z",
+      "contentSnippet": "はじめに\nOSS の OneManCompany（以下 OMC）は、AI 社員が自律的に働く「会社の OS」 です。CEO（人間）がタスクを投げると、AI 社員たちが役割分担し、プロジェクトを命名し、成果物を作り、CEO に報告する、という",
+      "param": "zenn"
+    },
+    {
+      "creator": "かがん",
+      "title": "逆引きアクセシビリティ 〜見た目も妥協しない UI コンポーネント実装カタログ〜",
+      "link": "https://zenn.dev/kagan/books/accessible-ui-catalog",
+      "pubDate": "2026-06-14T13:42:08.000Z",
+      "contentSnippet": "「キーボードで操作できること」「状態が支援技術に伝わること」……。WCAG のようなアクセシビリティガイドラインは、達成基準というルール単位で整理されています。でも、いざ UI を実装するときに知りたいのは、「“今から作るこのコンポーネント",
+      "param": "zenn"
+    },
+    {
+      "creator": "Shizuku",
+      "title": "Docker/Kubernetesをつなぐコンテナランタイム「Raind」",
+      "link": "https://zenn.dev/shizuku1984/articles/3f546a7ddd780a",
+      "pubDate": "2026-06-14T11:51:15.000Z",
+      "contentSnippet": "はじめに\n筆者が開発を続けているRaindという自作コンテナランタイムについて紹介しようと思います。\n\nGitHub Repoはこちら: https://github.com/shizuku198411/Raind\n\n筆者自身は数年前からコ",
+      "param": "zenn"
+    },
+    {
+      "creator": "高田祥",
+      "title": "Claude Codeの「court 無限ループ」から、会話を捨てずに復活する（Opus 4.8）",
+      "link": "https://zenn.dev/shotakada/articles/claude-code-opus48-court-loop",
+      "pubDate": "2026-06-14T10:42:54.000Z",
+      "contentSnippet": "Opus 4.8 にしてから、Claude Code が court とか count みたいな謎の単語を出して、ツール呼び出しが止まる ―― そんなこと、増えていませんか？\nしかもタチが悪いのは、対処法として返ってくるのが大体「セッション",
+      "param": "zenn"
+    },
+    {
+      "creator": "r.kagaya",
+      "title": "どうすれば月2億円分のトークンを燃やせるのか",
+      "link": "https://zenn.dev/r_kaga/articles/340fba67527789",
+      "pubDate": "2026-06-14T10:26:09.000Z",
+      "contentSnippet": "OpenClawの作者であるPeter SteinbergerがOpenAI API/Codexの利用で、30日間に約130万ドルを使ったという話が少し前に話題になりました。\nhttps://x.com/steipete/status/20",
+      "param": "zenn"
+    },
+    {
       "creator": "snaga",
       "title": "超精密インデックス「PageIndex」で実現する推論ベースRAG（JTC版）",
       "link": "https://zenn.dev/snaga/articles/2026-06-14-doctools-with-pageindex",
       "pubDate": "2026-06-14T08:08:31.000Z",
       "contentSnippet": "TL;DR\n\n\n「類似性」から「構造」へ: 論理構造に基づいた推論ベースの検索でベクタ検索（近似検索）の限界を突破する。\n\n「意味的な目次」としてのPageIndex: ドキュメントからツリー構造のインデックスを構築、LLMが生成した高密度",
+      "param": "zenn"
+    },
+    {
+      "creator": "shm",
+      "title": "ミニモニター用ダッシュボードから始まった、Rust製ハードウェア監視ツール「HardwareVisualizer」",
+      "link": "https://zenn.dev/shm_7ec/articles/hardwarevisualizer-dev-story",
+      "pubDate": "2026-06-14T05:50:51.000Z",
+      "contentSnippet": "はじめに\nこの記事では、私が開発している HardwareVisualizer について書きます。ただし、単なる機能紹介ではなく、作っている中で見えてきた技術的な面白さに寄せた話です。\n最初から汎用的なハードウェア監視ツールを作ろうとしてい",
       "param": "zenn"
     },
     {

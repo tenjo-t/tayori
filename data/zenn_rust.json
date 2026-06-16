@@ -4,6 +4,14 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "maruru334",
+      "title": "GSI＋PLATEAU高さ＋LOD2屋根×Minecraft　リアルな日本の街を再現する「Arnis PLATEAU」　",
+      "link": "https://zenn.dev/lion334/articles/bcc8b306513e68",
+      "pubDate": "2026-06-15T11:38:40.000Z",
+      "contentSnippet": "TL;DR\nPLATEAU × Minecraftで「日本の街をそのまま生成」できるGUIツール\nArnisPLATEAUを開発しました。\n\n建物高さ：PLATEAU実測値を自動反映（全建物対応）\n屋根形状：LOD2で斜め屋根・複雑形状を再",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "Soichiro N",
       "title": "高校生が作っている次世代AIのための自作言語:Fluno",
       "link": "https://zenn.dev/soichiro_n/articles/3dcbc20c6b1659",
@@ -80,7 +88,7 @@
       "title": "自作言語の近況",
       "link": "https://zenn.dev/devtolog/articles/421752c62e155a",
       "pubDate": "2026-06-12T20:00:06.000Z",
-      "contentSnippet": "https://github.com/meltgo-lang/meltgo.git\n\n現在、Rustで開発しています！\nimpl-rustブランチにあります\n\n私は今年から自作言語Meltgoの開発をしています\n最近、F#からRustに移行",
+      "contentSnippet": "https://github.com/suzlun-lang/suzlun.git\n\n現在、Rustで開発しています！\nimpl-rustブランチにあります\n\n私は今年から自作言語Suzlunの開発をしています\n最近、F#からRustに移行",
       "param": "zenn_rust"
     },
     {
