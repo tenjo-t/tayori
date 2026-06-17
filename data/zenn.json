@@ -4,11 +4,115 @@
   "description": "現在Zennでトレンドとなっている投稿のRSSフィードです",
   "items": [
     {
+      "creator": "luccafort",
+      "title": "一般社団法人Gophers Japan 共同理事就任のご報告",
+      "link": "https://zenn.dev/gophersjp/articles/gophersjapan-co-director-joined",
+      "pubDate": "2026-06-16T08:08:47.000Z",
+      "contentSnippet": "はじめに\n2026年3月、私luccafortが一般社団法人Gophers Japanの共同理事に就任いたしましたことをご報告いたします。\nこれまでKyoto.goのFounder、そしてGo Conferenceの実行委員の1名として日本",
+      "param": "zenn"
+    },
+    {
+      "creator": "Yoshi Yamaguchi",
+      "title": "Claude CodeとCodex CLIのテレメトリーをGrafana Cloudで見る",
+      "link": "https://zenn.dev/ymotongpoo/articles/20260616-ai-cli-otel-grafana",
+      "pubDate": "2026-06-16T07:45:05.000Z",
+      "contentSnippet": "はじめに\nこんにちは、Grafana Labsでデベロッパーアドボケイトをしているものです。\n最近は手元のマシンで Claude Code と Codex CLI を毎日のように動かしています。これだけ使っていると、「自分はどのモデルをどれ",
+      "param": "zenn"
+    },
+    {
+      "creator": "sat",
+      "title": "`cp`はディスク上ではデータをコピーしないことがある",
+      "link": "https://zenn.dev/satoru_takeuchi/articles/4bab372c6dae86",
+      "pubDate": "2026-06-16T06:49:52.000Z",
+      "contentSnippet": "誰もが使うLinuxのコマンドの一つにcpがあります。cp <src> <dest>のように引数を与えると<src>というファイルを<dest>にコピーします。この処理は以下の図のように(1)<dest>のinode(ファイルサイズ、作成時",
+      "param": "zenn"
+    },
+    {
+      "creator": "あさひ",
+      "title": "Hono で API バックエンドを作るときの個人的ベストプラクティス",
+      "link": "https://zenn.dev/ashunar0/articles/1ba94a110d8622",
+      "pubDate": "2026-06-16T06:05:05.000Z",
+      "contentSnippet": "1. はじめに\nHono で API バックエンドを何度か作ってきた中で、自分の中の構成が固まってきたのでまとめておく。フロントエンドと組まない、バックエンド単体のリポジトリを想定する。\n\n※あくまで個人的なベストプラクティスです。書くにあ",
+      "param": "zenn"
+    },
+    {
+      "creator": "umetsu",
+      "title": "2026年6月現在の Claude Code 開発フロー",
+      "link": "https://zenn.dev/arm_techblog/articles/7712cde19988c8",
+      "pubDate": "2026-06-16T00:59:01.000Z",
+      "contentSnippet": "こんにちは。フィッツプラスでフロントエンドエンジニアをしている梅津です。\n2025年後半から Claude Code を使い始めて、少しずつ設定を育ててきました。気がつけば普段の開発フローがだいぶ固まってきたので、2026年6月時点の構成を",
+      "param": "zenn"
+    },
+    {
+      "creator": "su8",
+      "title": "AI の不時着 ~ コードの国を追われ、要求の国へ ~",
+      "link": "https://zenn.dev/layerx/articles/947ce6d31701cf",
+      "pubDate": "2026-06-16T00:55:05.000Z",
+      "contentSnippet": "序幕\nさて、これはある朝の話です。\n\n目を覚ましたあなたは、見知らぬ国に立っていました。ついこのあいだまで、あなたが暮らしていたのは「コードの国」。手を動かして実装を書ける者が敬われ、難しいアルゴリズムを解ける者が一目置かれる、そういう国で",
+      "param": "zenn"
+    },
+    {
+      "creator": "sasakuna",
+      "title": "AmazonのRAGに関する研究",
+      "link": "https://zenn.dev/knowledgesense/articles/1b5c7b70a2837c",
+      "pubDate": "2026-06-16T00:48:33.000Z",
+      "contentSnippet": "導入\nこんにちは、株式会社ナレッジセンスの須藤英寿です。\n今回は、Amazonの提唱するRAGを繰り返し検索に最適化するための手法「State-Aware RAG」について紹介します。\nhttps://cdn.amazon.science/",
+      "param": "zenn"
+    },
+    {
+      "creator": "日下部 聡久",
+      "title": "テスト観点を軸にした品質サイクルのすすめ",
+      "link": "https://zenn.dev/bitkey_dev/articles/test-viewpoint-cycle",
+      "pubDate": "2026-06-16T00:45:20.000Z",
+      "contentSnippet": "テスト観点を軸にした品質サイクルのすすめ\n「テストが終わらない」——ソフトウェア開発に携わる人なら、一度はこの言葉を口にしたことがあるのではないでしょうか。リリース直前に湧き出るバグ、収束しない不具合、膨れ上がるテストケース。なぜ、テストは",
+      "param": "zenn"
+    },
+    {
+      "creator": "magatarou",
+      "title": "ローカルLLMをいつ使うべきか？",
+      "link": "https://zenn.dev/sompojapan_dx/articles/74624afa03040c",
+      "pubDate": "2026-06-16T00:37:59.000Z",
+      "contentSnippet": "TL;DR\n\n「ローカルLLM＝コストが安い」はほとんどの場合で誤りです。2026年時点での損益分岐点はかなり高く、GPUを遊ばせると単価はAPIより高くつきます。\nそれでもローカルLLMが勝つ領域はあります。ガバナンス・タスク特化での精度",
+      "param": "zenn"
+    },
+    {
+      "creator": "kaseken",
+      "title": "カーネギーメロン大学の有名講義『Intro to Database Systems』を全てのプログラマに見てほしい",
+      "link": "https://zenn.dev/kaseken/articles/3913ba30af4d46",
+      "pubDate": "2026-06-15T16:50:48.000Z",
+      "contentSnippet": "データベース (DB) について、どのように勉強していますか？\nMySQLやPostgreSQL等の具体的なデータベース管理システム (DBMS) の仕様、効率的なSQLの書き方、あるいはスキーマ設計のベストプラクティス等の「DBの使い方」",
+      "param": "zenn"
+    },
+    {
+      "creator": "Yoshihiro Matsumoto",
+      "title": "M365 Copilot で実践するハーネス エンジニアリングのループ",
+      "link": "https://zenn.dev/microsoft/articles/m365-copilot-harness-engineering",
+      "pubDate": "2026-06-15T13:25:42.000Z",
+      "contentSnippet": "!\nこの記事は筆者が生成AIを活用して執筆しました。生成 AI はこの記事を読みやすくする観点で、内容のレビューや構成の提案、冒頭の要約（TL;DR）の作成などを行っていますが、記事の主張や内容はすべて筆者の理解と経験に基づくものです。\n\n",
+      "param": "zenn"
+    },
+    {
+      "creator": "hirokita117",
+      "title": "AI が大量にアウトプットしてくるので認知負荷を下げる Skill を作った",
+      "link": "https://zenn.dev/hataluck/articles/0752919b305a9f",
+      "pubDate": "2026-06-15T12:15:48.000Z",
+      "contentSnippet": "はじめに\nAI 時代になって、コードを「書く」コストはずいぶん下がりました。\nその一方で、「読む・理解する」コストはむしろ上がっている気がしています。\nAI が一気に生成した大量の Markdown、巨大な PR の diff、初見のリポジ",
+      "param": "zenn"
+    },
+    {
       "creator": "hiroyahorai",
       "title": "ねえパパ、ほとんどのエンジニアは四則演算を計算するプログラムすら書けないってホント？",
       "link": "https://zenn.dev/aldagram_tech/articles/124d14d59bc595",
       "pubDate": "2026-06-15T07:30:05.000Z",
       "contentSnippet": "ねえパパ、ほとんどのエンジニアは四則演算を計算するプログラムすら書けないってホント？\nどうも。「エクセルファイル読んでますか？」でおなじみの（？）アルダグラム テクニカルフェローの蓬莱です。お元気ですか？\nえ？そんなことより気になる事がある",
+      "param": "zenn"
+    },
+    {
+      "creator": "Hiroki ONO",
+      "title": "データ基盤にDagsterを導入した話",
+      "link": "https://zenn.dev/gatechnologies/articles/76b3f400c26d1a",
+      "pubDate": "2026-06-15T05:42:37.000Z",
+      "contentSnippet": "はじめに\n弊社のDataPlatformを整備していく中で、ワークフローエンジンを導入することになりました。データオーケストレーションツールと呼ばれることもあるコンポーネントです。結果として、OSS版のDagsterを導入することにしました",
       "param": "zenn"
     },
     {
@@ -33,6 +137,14 @@
       "link": "https://zenn.dev/tokium_dev/articles/slide-deck-craft-with-ai",
       "pubDate": "2026-06-15T03:00:11.000Z",
       "contentSnippet": "はじめに\nTOKIUMでは、毎年6月から新しい会計年度が始まります。例に漏れず、僕も業務成果の振り返りをしたのですが、ふと気になって2025年6月頭〜2026年5月末までの登壇数を数えてみました。\n\nその数、なんと31件 🤯 登壇による発",
+      "param": "zenn"
+    },
+    {
+      "creator": "平木 佳介",
+      "title": "Agent Threat Rules (ATR) とは？ MCP や SKILL.md を守る新しいオープンな検出フォーマットを試してみた",
+      "link": "https://zenn.dev/cscloud_blog/articles/agent-threat-rules-intro",
+      "pubDate": "2026-06-15T02:31:48.000Z",
+      "contentSnippet": "こんにちは、CSC の CloudFastener というプロダクトで TAM のポジションで働いている平木です！\nMCP サーバーや自律型 AI エージェントを使い始めたとき、「このエージェントへの入力は安全なのか」「SKILL.md に",
       "param": "zenn"
     },
     {
@@ -65,6 +177,14 @@
       "link": "https://zenn.dev/alecjp02/articles/minecraft-home-server-infra-evolution",
       "pubDate": "2026-06-14T16:28:53.000Z",
       "contentSnippet": "はじめに\n最初は、本当に普通の自宅Minecraftサーバーだった。\nASUSルーターのDDNSを使い、Minecraft用のポートを開放し、わざわざサーバー用のPCを用意して、Windows上でMinecraftサーバーを動かしていた。\n",
+      "param": "zenn"
+    },
+    {
+      "creator": "Seitaro",
+      "title": "Architecture Study Guide",
+      "link": "https://zenn.dev/seita1996/books/architecture-study-guide",
+      "pubDate": "2026-06-14T16:06:13.000Z",
+      "contentSnippet": "TypeScriptバックエンドの設計判断を、品質特性、依存関係、永続化、境界、非同期処理、ADRまで体系的に学ぶ本。",
       "param": "zenn"
     },
     {

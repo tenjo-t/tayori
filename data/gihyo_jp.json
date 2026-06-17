@@ -3,6 +3,34 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "エンタープライズAIにカスタマイズが必要な理由［前編］",
+      "link": "https://gihyo.jp/article/2026/06/enterprise-ai-customization-01?utm_source=feed",
+      "pubDate": "2026-06-17T00:36:00.000Z",
+      "contentSnippet": "本稿では、柔軟性がなぜエンタープライズAIの成果を左右するのかを、ソフトウェア開発ライフサイクル全体の観点から、前後編に分けて解説します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第915回　aptの新機能あれこれ［Ubuntu 26.04 LTS版］",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0915?utm_source=feed",
+      "pubDate": "2026-06-17T00:15:00.000Z",
+      "contentSnippet": "今回はUbuntu 26.04 LTSに搭載された「apt 3.2.0」に関して、前回のLTSである24.04の「apt 2.8.0」以降に実装された機能について紹介しましょう。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "「PyCon US 2026 参加報告会」6/29に開催 ―現地参加者が語るリアルな体験と最新情報",
+      "link": "https://gihyo.jp/article/2026/06/pycon-us-2026-report-event?utm_source=feed",
+      "pubDate": "2026-06-16T06:02:00.000Z",
+      "contentSnippet": "2026年5月13日～19日に米国カリフォルニアで開かれた世界最大級のPythonカンファレンス「PyCon US 2026」参加メンバーによる報告会が、2026年6月29日（月）に東京で開催される。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "MDN、MCPサーバーを提供開始",
+      "link": "https://gihyo.jp/article/2026/06/mdn-mcp-server?utm_source=feed",
+      "pubDate": "2026-06-16T01:41:00.000Z",
+      "contentSnippet": "MDNは2026年6月15日、同サイトのドキュメントなどをAIツールに取り込むことができるMCPサーバーをリリースした。現在は試験運用中。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "Linux 7.1リリース ―新ドライバで“NTFSが復活”、i486、ISDN、PCMCIAドライバなどレガシーコード大規模削除",
       "link": "https://gihyo.jp/article/2026/06/daily-linux-260616?utm_source=feed",
       "pubDate": "2026-06-15T23:59:00.000Z",
@@ -5239,17 +5267,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {

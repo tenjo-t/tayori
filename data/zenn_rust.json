@@ -4,6 +4,38 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "キノコフ",
+      "title": "Rustを使って3DSソフトを開発する「環境構築」",
+      "link": "https://zenn.dev/kinokov/articles/917217e3cd3d01",
+      "pubDate": "2026-06-16T11:00:09.000Z",
+      "contentSnippet": "!\nこの記事は私がnoteで書いた記事を一部修正・加筆した転載版です。オリジナルはこちらからご覧ください。\n\nさて、いきなりだが、3DSは好きだろうか。私は大好きだ。パカッと開ければすぐ遊べる手軽さ、3Dスクリーン（誰も使っていないとは何事",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "zechdz",
+      "title": "Claudeで、Claude用のTUIを作る",
+      "link": "https://zenn.dev/xtm_blog/articles/72eee03dde0450",
+      "pubDate": "2026-06-16T09:16:15.000Z",
+      "contentSnippet": "はじめに\n前回の記事では、開発者とエージェントが作業するサンドボックス、devcontainer を紹介しました。あれは「どこで動かすか」の話でした。\nhttps://zenn.dev/xtm_blog/articles/fdb323dd0",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "崔 一航_Ikkou Sai | SALT2",
+      "title": "IPではなくキーで接続する時代へ — Iroh 1.0 正式リリース",
+      "link": "https://zenn.dev/salt2/articles/ip-iroh-1-0-d1aeaaf5",
+      "pubDate": "2026-06-16T05:00:08.000Z",
+      "contentSnippet": "本記事は Iroh v1.0 リリースブログ の日本語訳および解説である。\n\n IPではなくキーをダイヤルせよ\nシンプルなアイデアだが、これはインターネットの未来に向けた正しい抽象化だ。IPアドレスは警告なしに壊れることがある——それはデバ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "hiyoyo",
+      "title": "NSOpenPanelがAndroidデバイスを見られない理由——TauriでMTPフォルダピッカーを自作する",
+      "link": "https://zenn.dev/hiyokoko/articles/09277fed6d8700",
+      "pubDate": "2026-06-16T03:06:30.000Z",
+      "contentSnippet": "すべてのテストは8年前のMacBook Airで実行しています。\nHiyokoMTPを作っていて、言われてみれば当然の制限にぶつかりました：macOSのネイティブフォルダピッカーでMTP経由のAndroidデバイスを参照できない、という問題",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "maruru334",
       "title": "GSI＋PLATEAU高さ＋LOD2屋根×Minecraft　リアルな日本の街を再現する「Arnis PLATEAU」　",
       "link": "https://zenn.dev/lion334/articles/bcc8b306513e68",
