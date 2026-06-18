@@ -4,6 +4,54 @@
   "description": "現在Zennでトレンドとなっている投稿のRSSフィードです",
   "items": [
     {
+      "creator": "Yurika Shibuya",
+      "title": "Databricks発OSSのメタハーネス『Omnigent』を触ってみた！🪸⭐",
+      "link": "https://zenn.dev/nttdata_tech/articles/2fe14c8819557c",
+      "pubDate": "2026-06-17T08:33:47.000Z",
+      "contentSnippet": "はじめに\nこんにちは、Databricksビジネス推進室の澁谷です。\nDatabricksのブログで紹介されていたOSS「Omnigent」が気になったので、実際にローカル環境で触ってみました。\nhttps://www.databricks",
+      "param": "zenn"
+    },
+    {
+      "creator": "龍 lilea",
+      "title": "無料プランでも可！LCC Studioで動画から3DGS生成",
+      "link": "https://zenn.dev/hololab/articles/xgrids-lcc-video-recon",
+      "pubDate": "2026-06-17T08:06:07.000Z",
+      "contentSnippet": "XGRIDSのLCC Studioのメジャーアップデートきた！ver. 2.0.0！\nなんと動画から3DGS (Gaussian Splatting) 生成できる新機能が搭載された。\n\nつまりXGRIDSのスキャナーを持ってないユーザーでも",
+      "param": "zenn"
+    },
+    {
+      "creator": "223",
+      "title": "自己改善エージェントはなぜ前提を覆せないのか ― 局所最適とハーネスでの脱出",
+      "link": "https://zenn.dev/layerx/articles/b36ceffe6b5e20",
+      "pubDate": "2026-06-17T02:00:06.000Z",
+      "contentSnippet": "Ai Workforce事業部FDE部エンジニアの堤(@ozro_223)です。\n本記事では、AgentにAI Workflowを自己改善させるときに起きる「最初の前提を覆せない」問題について考えます。\n入力データと正解データを用意し、Ag",
+      "param": "zenn"
+    },
+    {
+      "creator": "だいち",
+      "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
+      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
+      "pubDate": "2026-06-17T01:34:53.000Z",
+      "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
+      "param": "zenn"
+    },
+    {
+      "creator": "satoh-y-0323",
+      "title": "「自分の PC では入るのに」── 同僚の pip install が C++ コンパイラで止まって、見えてなかった導入障壁に気づいた話",
+      "link": "https://zenn.dev/satoh_y_0323/articles/5f1a602cf200e1",
+      "pubDate": "2026-06-16T13:23:10.000Z",
+      "contentSnippet": "前回記事: https://zenn.dev/satoh_y_0323/articles/8bcdc387cba5e7\nC3 GitHub: https://github.com/satoh-y-0323/claude-code-condu",
+      "param": "zenn"
+    },
+    {
+      "creator": "あーもんど",
+      "title": "テスト駆動開発（TDD）をやってみた",
+      "link": "https://zenn.dev/wwwave/articles/fba5f88cf5f52b",
+      "pubDate": "2026-06-16T08:24:03.000Z",
+      "contentSnippet": "はじめに\n初めてTDDを聞いた時は「テストから書き始めて手戻りを減らす手法」程度に思ってしまっていました。\nそのような認識でいた時にAIエージェントが流行り、「TDDで実装させた方が品質が良くなる」ことをTwitterで見ました。\n自分の認",
+      "param": "zenn"
+    },
+    {
       "creator": "luccafort",
       "title": "一般社団法人Gophers Japan 共同理事就任のご報告",
       "link": "https://zenn.dev/gophersjp/articles/gophersjapan-co-director-joined",
@@ -29,10 +77,18 @@
     },
     {
       "creator": "あさひ",
-      "title": "Hono で API バックエンドを作るときの個人的ベストプラクティス",
+      "title": "Hono でバックエンド API を作るときの個人的ベストプラクティス",
       "link": "https://zenn.dev/ashunar0/articles/1ba94a110d8622",
       "pubDate": "2026-06-16T06:05:05.000Z",
       "contentSnippet": "1. はじめに\nHono で API バックエンドを何度か作ってきた中で、自分の中の構成が固まってきたのでまとめておく。フロントエンドと組まない、バックエンド単体のリポジトリを想定する。\n\n※あくまで個人的なベストプラクティスです。書くにあ",
+      "param": "zenn"
+    },
+    {
+      "creator": "Kohei Matsumoto",
+      "title": "「とりあえず許可」を卒業する：Claude Codeの実行前に行動説明を表示するHookを作ってみた",
+      "link": "https://zenn.dev/nttdata_tech/articles/d2edb6a9fe5d7f",
+      "pubDate": "2026-06-16T03:35:55.000Z",
+      "contentSnippet": "はじめに\nこんにちは、株式会社NTTデータグループの松本です。\n今回は、Claude CodeのHookを使って、Claudeによるコマンド実行やファイル編集を説明させることで、ユーザーからの行動許可を根拠をもって安全に判断できる仕組みを作",
       "param": "zenn"
     },
     {
@@ -73,6 +129,14 @@
       "link": "https://zenn.dev/sompojapan_dx/articles/74624afa03040c",
       "pubDate": "2026-06-16T00:37:59.000Z",
       "contentSnippet": "TL;DR\n\n「ローカルLLM＝コストが安い」はほとんどの場合で誤りです。2026年時点での損益分岐点はかなり高く、GPUを遊ばせると単価はAPIより高くつきます。\nそれでもローカルLLMが勝つ領域はあります。ガバナンス・タスク特化での精度",
+      "param": "zenn"
+    },
+    {
+      "creator": "kameoncloud",
+      "title": "Claude Designでスライドを作成する",
+      "link": "https://zenn.dev/kameoncloud/articles/047983317aa43a",
+      "pubDate": "2026-06-16T00:25:04.000Z",
+      "contentSnippet": "https://serverless.co.jp/blog/hhlo-duf9f/\nに投稿した記事の微修正版です。\n今日はClaude Design を使って、テクノロジーの解説用スライドを作成してもらいました。\n\n Claude Desi",
       "param": "zenn"
     },
     {

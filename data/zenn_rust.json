@@ -4,8 +4,64 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "mitzh",
+      "title": "この春、始めた2つのこと",
+      "link": "https://zenn.dev/ruffnote/articles/dbcbdf1a6c8a",
+      "pubDate": "2026-06-17T18:18:46.000Z",
+      "contentSnippet": "はじめに\nラフノートで、ZennのPublicationを開設しました。\nその挨拶がてら、「この春、始めたこと」をテーマに一本書いてみます。\nこの春、自分は2つのことを始めました。\nどっちも、新しい挑戦だった。\n順番に書いていきます。\n\n ",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "キノコフ",
-      "title": "Rustを使って3DSソフトを開発する「環境構築」",
+      "title": "Rustを使って3DSソフトを開発する #2 - fizzbuzz編",
+      "link": "https://zenn.dev/kinokov/articles/56c6edd8f44db5",
+      "pubDate": "2026-06-17T10:00:08.000Z",
+      "contentSnippet": "!\nこの記事は私がnoteで書いた記事を一部修正・加筆した転載版です。オリジナルはこちらからご覧ください。\n\nさて、Rustacean、あるいはそうでない皆さんはいかがお過ごしだろうか。この前縁があって友人数人ともやしをひたすら塩コショウで",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "takashi_narita",
+      "title": "Gitユーザーのための Jujutsu (jj) 実践入門",
+      "link": "https://zenn.dev/narita1980/books/jujutsu-for-git-users",
+      "pubDate": "2026-06-17T08:49:25.000Z",
+      "contentSnippet": "Git互換の分散バージョン管理システム Jujutsu (jj) を、Git経験者が最短で実務投入するための移行ガイド。「Gitではこう→jjではこう」の対応で、working copy=コミット・操作のやり直し・first-class c",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "おおひら",
+      "title": "3DGS 圧縮フォーマット SOG のデコーダーを作る",
+      "link": "https://zenn.dev/abist_inno/articles/4edd2bcd51aaa6",
+      "pubDate": "2026-06-17T05:57:49.000Z",
+      "contentSnippet": "この記事は、以下の続編になります。\nhttps://zenn.dev/abist_inno/articles/cb13d00751b2c9\n3D Gaussian Splatting (3DGS) の PLY ファイルは扱いやすい一方で、フ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "bem130",
+      "title": "Rust / TypeScript で設計指針に合わせるための補足: core を汚さないツール選定",
+      "link": "https://zenn.dev/bem130/articles/2595256f3d43bb",
+      "pubDate": "2026-06-17T05:08:42.000Z",
+      "contentSnippet": "この記事は、私のソフトウェア設計指針に対する補足記事である。\nhttps://zenn.dev/bem130/articles/1b352797de94e7\n元記事では、変換ツールや管理ツールのように、本質的には特定の GUI・OS・実行環",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "hiyoyo",
+      "title": "RustアプリでORMを使わない理由——rusqliteと生SQLで十分だった話",
+      "link": "https://zenn.dev/hiyokoko/articles/1c6d1f9c4b842d",
+      "pubDate": "2026-06-17T03:59:53.000Z",
+      "contentSnippet": "8年前のMacBook Air（Intel）で全テスト済み。7本のMacアプリをソロ開発した実体験から書いています。案件でも広告でもありません。\nRustプロジェクトを始めるたびに、誰かがDieselかSeaORMを勧めてくる。両方試した。",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "Kenji Igarashi",
+      "title": "Android SurfaceView 埋め込み型 Rust-Slint 高性能ダッシュボード基盤構築における激闘の記録戦いはまだ続く",
+      "link": "https://zenn.dev/kenjiigarashi/articles/73c4b3ad9a19c0",
+      "pubDate": "2026-06-16T17:23:35.000Z",
+      "contentSnippet": "🛠️ はじめに：本アーキテクチャの背景と挑戦\n本モジュールは、Java/Kotlinベースの既存Androidアプリケーションに対して、ガベージコレクション（GC）による一時的なカクつき（スパイク）を100%完全に排除し、1万人規模の大規",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "キノコフ",
+      "title": "Rustを使って3DSソフトを開発する #1 - 環境構築編",
       "link": "https://zenn.dev/kinokov/articles/917217e3cd3d01",
       "pubDate": "2026-06-16T11:00:09.000Z",
       "contentSnippet": "!\nこの記事は私がnoteで書いた記事を一部修正・加筆した転載版です。オリジナルはこちらからご覧ください。\n\nさて、いきなりだが、3DSは好きだろうか。私は大好きだ。パカッと開ければすぐ遊べる手軽さ、3Dスクリーン（誰も使っていないとは何事",

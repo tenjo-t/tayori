@@ -3,6 +3,48 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "新しいユーザ体験で、Androidはインテリジェンス・システムへ",
+      "link": "https://gihyo.jp/article/2026/06/android-weekly-topics-260617?utm_source=feed",
+      "pubDate": "2026-06-17T23:55:00.000Z",
+      "contentSnippet": "誕生から今日に至るまで、Androidは多様なアプリケーションを実行するための洗練されたOSとして機能してきました。しかし、2026年のGoogle I/O、そして直近に開催された「The Android Show: I/O Edition",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Threads、月間アクティブユーザー5億人に ——コミュニティ機能が正式版に、ハブやアイコンを追加。「Your Algo」も導入",
+      "link": "https://gihyo.jp/article/2026/06/threads-community-new-features?utm_source=feed",
+      "pubDate": "2026-06-17T08:10:00.000Z",
+      "contentSnippet": "Metaは2026年6月16日、Threadsの月間アクティブユーザー数が5億人に達したと発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "NVIDIAら、AIエージェントが実ロボットで動作方策を自己改善する「ENPIRE」を発表",
+      "link": "https://gihyo.jp/article/2026/06/enpire-agentic-robot-policy-self-improvement?utm_source=feed",
+      "pubDate": "2026-06-17T06:47:00.000Z",
+      "contentSnippet": "NVIDIA、カーネギーメロン大学（CMU）、カリフォルニア大学バークレー校（UC Berkeley）の研究者らは、AIコーディングエージェントが実ロボットを使って、ロボットを動かすための動作方策（policy）を自己改善する研究基盤「EN",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "SpaceX、Cursorを買収するオプションを行使。CursorはGitホスティング「Origin」も予告",
+      "link": "https://gihyo.jp/article/2026/06/spacex-cursor-acquisition-option?utm_source=feed",
+      "pubDate": "2026-06-17T02:57:00.000Z",
+      "contentSnippet": "SpaceXは2026年6月16日、Cursorを全額株式による取引で買収するオプションを行使したと発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Pythonパッケージマネージャー「uv」、脆弱性確認コマンド「uv audit」をプレビュー提供",
+      "link": "https://gihyo.jp/article/2026/06/uv-audit-preview?utm_source=feed",
+      "pubDate": "2026-06-17T02:34:00.000Z",
+      "contentSnippet": "OpenAI傘下のAstralは2026年6月8日、Pythonパッケージマネージャー「uv」に、依存関係の脆弱性を確認する新コマンドuv auditと、インストール時に既知のマルウェア情報を照合する機能を追加したと発表した。いずれも現時点",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Microsoft、長時間かかるタスクを委任できる「Copilot Cowork」を一般提供。マルチモデル対応やコスト管理を追加",
+      "link": "https://gihyo.jp/article/2026/06/microsoft-copilot-cowork-ga?utm_source=feed",
+      "pubDate": "2026-06-17T02:16:00.000Z",
+      "contentSnippet": "Microsoftは2026年6月16日、Microsoft 365 Copilot向けのエージェント機能「Copilot Cowork」を一般提供すると発表した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "エンタープライズAIにカスタマイズが必要な理由［前編］",
       "link": "https://gihyo.jp/article/2026/06/enterprise-ai-customization-01?utm_source=feed",
       "pubDate": "2026-06-17T00:36:00.000Z",
