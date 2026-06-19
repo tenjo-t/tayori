@@ -4,6 +4,22 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "tkwork",
+      "title": "Python vs Rust パフォーマンス比較検証　本当にPythonは遅い？",
+      "link": "https://zenn.dev/tkwork/articles/6bae1e320971b0",
+      "pubDate": "2026-06-18T04:16:17.000Z",
+      "contentSnippet": "背景\nふと、会社の同僚に「Pythonは遅い。」と言われたことがある。\nなぜ遅いのか？\n外部ライブラリを使っても遅いのか？\n正直なところ、良く分からないまま案件を進めていた傾向があったので\n何番煎じになるか分からないけど、調べてみた。\n本当",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "赤アーモンド",
+      "title": "キーボードから手を離さない：1画面完結のドロップダウン型ミニマムメモアプリ「memoake」を作った話",
+      "link": "https://zenn.dev/almond191/articles/f26cedc450bb2f",
+      "pubDate": "2026-06-18T03:30:09.000Z",
+      "contentSnippet": "アプリの概要\nmemoake は、Linux環境の伝説的なドロップダウンターミナル「Yakuake」に強いインスピレーションを受けた、オーバーレイ型の軽量メモアプリです。\nグローバルショートカット一発で画面上部からシュッと滑り降りてきて、用",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "mitzh",
       "title": "この春、始めた2つのこと",
       "link": "https://zenn.dev/ruffnote/articles/dbcbdf1a6c8a",

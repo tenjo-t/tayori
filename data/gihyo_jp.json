@@ -3,6 +3,34 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "KDE Plasma 6.7リリース、ユーザ待望の“画面ごとの仮想デスクトップ機能”をサポート",
+      "link": "https://gihyo.jp/article/2026/06/daily-linux-260619?utm_source=feed",
+      "pubDate": "2026-06-19T00:00:00.000Z",
+      "contentSnippet": "KDEプロジェクトは6月16日、「KDE Plasma 6.7」のリリースを発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Vercel、エージェント構築のためのフレームワーク「eve」をリリース ―“エージェントにおけるNext.js”を目指す",
+      "link": "https://gihyo.jp/article/2026/06/eve?utm_source=feed",
+      "pubDate": "2026-06-18T23:43:00.000Z",
+      "contentSnippet": "Vercelは2026年6月17日、AIエージェントを構築、実行するためのオープンソースのフレームワーク「eve」を発表、パブリックプレビューとしてリリースした。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "エージェントリソース検索のためのオープンな標準仕様「Agentic Resource Discovery」発表",
+      "link": "https://gihyo.jp/article/2026/06/agentic-resource-discovery?utm_source=feed",
+      "pubDate": "2026-06-18T03:57:00.000Z",
+      "contentSnippet": "Google、MicrosoftなどAIエージェントに関連する複数のベンダーは2026年6月17日、AIエージェントが利用するMCPサーバー、エージェントスキル、ACP、APIなどのリソースを公開、検索、検証するためのオープンな仕様「Age",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Google WorkspaceのGeminiアプリ、個別チャットの削除と一時チャット機能を追加へ",
+      "link": "https://gihyo.jp/article/2026/06/gemini-chat-deletion-temporary-chats?utm_source=feed",
+      "pubDate": "2026-06-18T01:22:00.000Z",
+      "contentSnippet": "Googleは2026年6月16日、Google Workspace向けのGeminiアプリ（gemini.google.com）に、履歴に保存されない一時チャットと、個別のチャットやチャット履歴全体を削除する機能を追加したと発表した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "新しいユーザ体験で、Androidはインテリジェンス・システムへ",
       "link": "https://gihyo.jp/article/2026/06/android-weekly-topics-260617?utm_source=feed",
       "pubDate": "2026-06-17T23:55:00.000Z",

@@ -4,6 +4,62 @@
   "description": "現在Zennでトレンドとなっている投稿のRSSフィードです",
   "items": [
     {
+      "creator": "Godai Hori",
+      "title": "ProgateのレッスンにChromeの開発者ツールを丸ごと埋め込んだ話",
+      "link": "https://zenn.dev/progate/articles/progate-embed-devtools",
+      "pubDate": "2026-06-18T08:52:44.000Z",
+      "contentSnippet": "はじめに\nHTML・CSSを学んでいると、「marginがなんで効かないんだろう？」「この要素ってどういう構造になってるんだろう？」と気になる場面がよくあります。普段の開発ならChromeのデベロッパーツールをパッと開いて要素を検証すればい",
+      "param": "zenn"
+    },
+    {
+      "creator": "showish",
+      "title": "AWSに繋げなくてもテストできる？新サービス「AWS Blocks」を触ってみた",
+      "link": "https://zenn.dev/aws_japan/articles/aws-blocks-ai-agent-intro",
+      "pubDate": "2026-06-18T06:20:23.000Z",
+      "contentSnippet": "はじめに\n先日、AWSから AWS Blocks という新しい開発者向けツールがリリースされました。\nドキュメントをひと通り読んで実際にAIエージェントのデモアプリを作ってみたら、思っていた以上に「これは良いぞ」となったので紹介します。結論",
+      "param": "zenn"
+    },
+    {
+      "creator": "ヨウヘイ",
+      "title": "マークダウンやHTMLをSlackで共有するのが辛すぎて社内ツールを作った話",
+      "link": "https://zenn.dev/tokium_dev/articles/tokium-share-pages",
+      "pubDate": "2026-06-18T01:43:55.000Z",
+      "contentSnippet": "最近、めっきりNotionを書かなくなりました。代わりに増えたのが、Claude Code で作ったHTMLのダッシュボードやMarkdownのレポートを、そのままSlackに貼って共有するスタイルです。\nただ、これがそのままだと地味に辛い",
+      "param": "zenn"
+    },
+    {
+      "creator": "elmo",
+      "title": "Platform Engineeringをどう進めてきたか ─ 使われるプラットフォームにするために大事にしたこと",
+      "link": "https://zenn.dev/loglass/articles/75f3435f24595a",
+      "pubDate": "2026-06-18T01:14:11.000Z",
+      "contentSnippet": "!\nこの記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の148週目の記事です！\n3年間連続達成まで残り11週となりました！\n\n\n はじめに\nこんにちは。株式会社ログラスでSREをしている中井(elm",
+      "param": "zenn"
+    },
+    {
+      "creator": "Kanon",
+      "title": "TOEIC教材や対策を全く活用せずに半年でTOEIC700点を超えた真の英語力を身につけるための勉強法",
+      "link": "https://zenn.dev/yskn_sid25/books/english_score_up",
+      "pubDate": "2026-06-17T21:37:50.000Z",
+      "contentSnippet": "OSS活動や外資系企業への就職を目指すソフトウェアエンジニアにとって、英語力の向上は避けて通れない課題です。また普段から情報収集をするにあたっては、一次情報に素早くアクセスするために英語の読む・聴く能力が非常に重要です。この本では、TOEI",
+      "param": "zenn"
+    },
+    {
+      "creator": "Hirosato Gamo",
+      "title": "Agentの改善ループを確立するために2026年度 企業が乗り越えるべき4つのコト",
+      "link": "https://zenn.dev/gleon/articles/312dacc4ba3156",
+      "pubDate": "2026-06-17T15:03:15.000Z",
+      "contentSnippet": "Agentと人の好循環…って結局なに\n先日Microsoft CEOサティア・ナデラのポスト「A frontier without an ecosystem is not stable」。Agent時代のフロンティアエコシステム、そして人間",
+      "param": "zenn"
+    },
+    {
+      "creator": "asuka",
+      "title": "Node.jsで動くのにDenoで動かないJavaScript",
+      "link": "https://zenn.dev/monicle/articles/74ad93709c2199",
+      "pubDate": "2026-06-17T14:40:07.000Z",
+      "contentSnippet": "Node.jsで動くのに，Denoで動かないJavaScriptのコードに偶然出会しました．\n// example.ts\nconst あ・あ = \"Hello, 世界!\";\n\nconsole.log(あ・あ);\n一見なんてことはないコードで",
+      "param": "zenn"
+    },
+    {
       "creator": "Yurika Shibuya",
       "title": "Databricks発OSSのメタハーネス『Omnigent』を触ってみた！🪸⭐",
       "link": "https://zenn.dev/nttdata_tech/articles/2fe14c8819557c",
@@ -17,6 +73,22 @@
       "link": "https://zenn.dev/hololab/articles/xgrids-lcc-video-recon",
       "pubDate": "2026-06-17T08:06:07.000Z",
       "contentSnippet": "XGRIDSのLCC Studioのメジャーアップデートきた！ver. 2.0.0！\nなんと動画から3DGS (Gaussian Splatting) 生成できる新機能が搭載された。\n\nつまりXGRIDSのスキャナーを持ってないユーザーでも",
+      "param": "zenn"
+    },
+    {
+      "creator": "xthixsl_ml@レオナ",
+      "title": "State-Aware RAGをAmazon Bedrock とAmazon S3 Vectorsで再現してみた",
+      "link": "https://zenn.dev/fusic/articles/9cedae6d6f8560",
+      "pubDate": "2026-06-17T08:00:07.000Z",
+      "contentSnippet": "はじめに\nFusicのレオナです。\nAWSが公開した論文「Reasoning with Memory: Adaptive Information Management for Retrieval-Augmented Generation」(",
+      "param": "zenn"
+    },
+    {
+      "creator": "harunasu",
+      "title": "【服装予報アプリ】を開発してアメリカで賞を獲りました",
+      "link": "https://zenn.dev/harunasu/articles/6ac7d15bd37556",
+      "pubDate": "2026-06-17T05:37:09.000Z",
+      "contentSnippet": "はじめに ― 自己紹介と背景\nこんにちは。harunasuと申します。\n日頃、MLエンジニアをやっている者です。複雑なデータを整理してAIモデルを作ったり、使ったり、はたまた組み込んだりして課題を解決することで、ご飯を食べています。たまに論",
       "param": "zenn"
     },
     {
@@ -36,11 +108,27 @@
       "param": "zenn"
     },
     {
+      "creator": "だいち",
+      "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
+      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
+      "pubDate": "2026-06-17T01:34:53.000Z",
+      "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
+      "param": "zenn"
+    },
+    {
       "creator": "satoh-y-0323",
       "title": "「自分の PC では入るのに」── 同僚の pip install が C++ コンパイラで止まって、見えてなかった導入障壁に気づいた話",
       "link": "https://zenn.dev/satoh_y_0323/articles/5f1a602cf200e1",
       "pubDate": "2026-06-16T13:23:10.000Z",
       "contentSnippet": "前回記事: https://zenn.dev/satoh_y_0323/articles/8bcdc387cba5e7\nC3 GitHub: https://github.com/satoh-y-0323/claude-code-condu",
+      "param": "zenn"
+    },
+    {
+      "creator": "jiawei.feng",
+      "title": "会社員のためのCodex資料作成術：Skillで統一感のあるプレゼン資料を作る実践ガイド",
+      "link": "https://zenn.dev/acntechjp/articles/c2bff25e230539",
+      "pubDate": "2026-06-16T10:30:28.000Z",
+      "contentSnippet": "はじめに\n最近、業務資料の作成にも生成AIを活用する機会が増えてきました。\nただし、AIにいきなり「プレゼン資料を作って」と依頼しても、実務でそのまま使える資料になるとは限りません。\n特に会社員が作る資料では、以下のような点が重要になります",
       "param": "zenn"
     },
     {
