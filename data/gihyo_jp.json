@@ -3,6 +3,34 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "macOS版Codexアプリにワークフローの“録画・再生”機能が登場",
+      "link": "https://gihyo.jp/article/2026/06/codex-record-and-replay?utm_source=feed",
+      "pubDate": "2026-06-19T05:21:00.000Z",
+      "contentSnippet": "OpenAIが2026年6月18日にリリースしたCodexアプリの最新バージョン26.616に、ワークフローをCodexに見せることで、再利用可能なスキルに変換する「Record & Replay」機能が追加された。この機能はmacOSでの",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "TypeScript 7.0 RCリリース ―Go言語ベースに移植され10倍高速に",
+      "link": "https://gihyo.jp/article/2026/06/typescript-7-0-rc?utm_source=feed",
+      "pubDate": "2026-06-19T02:46:00.000Z",
+      "contentSnippet": "Microsoftは2026年6月18日、TypeScript 7.0のリリース候補版（RC）をリリースした。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "GoogleスプレッドシートのGemini、日本語でスプレッドシート全体の作成・編集に対応",
+      "link": "https://gihyo.jp/article/2026/06/gemini-in-sheets-japanese-support?utm_source=feed",
+      "pubDate": "2026-06-19T02:27:00.000Z",
+      "contentSnippet": "Googleは2026年6月18日、GoogleスプレッドシートでGeminiを使ってスプレッドシート全体を作成・編集する機能について、日本語を含む28言語へ対応を拡大したと発表した",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Project “Myna”: Speech To Text for Ubuntu、Ubuntu 26.10（Stonking）の開発; dbus-brokerへのマイグレーション",
+      "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202606/19?utm_source=feed",
+      "pubDate": "2026-06-19T01:44:00.000Z",
+      "contentSnippet": "Stonking以降のUbuntuで提供される、Speech To Text（音声入力）プロジェクトが開始されました。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "KDE Plasma 6.7リリース、ユーザ待望の“画面ごとの仮想デスクトップ機能”をサポート",
       "link": "https://gihyo.jp/article/2026/06/daily-linux-260619?utm_source=feed",
       "pubDate": "2026-06-19T00:00:00.000Z",

@@ -4,11 +4,75 @@
   "description": "現在Zennでトレンドとなっている投稿のRSSフィードです",
   "items": [
     {
+      "creator": "kenkoooo",
+      "title": "Claude Code に、自分が考えていそうなことを言語化してもらった",
+      "link": "https://zenn.dev/estie/articles/f90d498d21a798",
+      "pubDate": "2026-06-19T05:24:12.000Z",
+      "contentSnippet": "普段から Claude Code を開発でフルに活用していますが、僕はコードを読んで細かめにフィードバックする方で、ふと「Claude Code へのフィードバックに、自分のソフトウェアエンジニアとしての考え方がにじみ出ているのでは？」と思",
+      "param": "zenn"
+    },
+    {
+      "creator": "Ryo Minegishi",
+      "title": "今だから押さえておきたいソフトウェア工学のベストプラクティス",
+      "link": "https://zenn.dev/zapabob/articles/software-engineering-best-practices-agent-era",
+      "pubDate": "2026-06-19T01:38:48.000Z",
+      "contentSnippet": "エージェントに実装を任せると、コードが出る速度 は確実に上がる。けれど、出てくるのは「動きそうな diff」であって、保守できるソフトウェア とは限らない。\nソフトウェア工学のベストプラクティスは、AI 以前からある。変わったのは、守らなく",
+      "param": "zenn"
+    },
+    {
+      "creator": "konippi",
+      "title": "Kiro CLI v3 徹底解説 — 仕様駆動開発・hooks 刷新・capability パーミッション",
+      "link": "https://zenn.dev/aws_japan/articles/36e23635add477",
+      "pubDate": "2026-06-18T23:56:42.000Z",
+      "contentSnippet": "はじめに\nこんにちは konippi です。\n2026 年 6 月 17 日に、Kiro CLI に v3 (Early Access) が登場しました🎉\n\nCLI v3 は、これまで Kiro IDE・CLI・Web がそれぞれ別々に持",
+      "param": "zenn"
+    },
+    {
+      "creator": "tomoyukiinoue",
+      "title": "Apple container 1.0 を試してみた ― systemd、名前付きホスト、起動速度を Docker と比較",
+      "link": "https://zenn.dev/tokium_dev/articles/202c16adec91d0",
+      "pubDate": "2026-06-18T22:00:07.000Z",
+      "contentSnippet": "毎年恒例の Apple の開発者向けイベント WWDC26 で、Linux コンテナを動かすツール container が 1.0 になり、その目玉として軽量な Linux 環境 container machine がしれっと発表されました",
+      "param": "zenn"
+    },
+    {
+      "creator": "7kaji",
+      "title": "Apple container で docker compose を動かす",
+      "link": "https://zenn.dev/7kaji/articles/370a8dd7f678d1",
+      "pubDate": "2026-06-18T17:00:10.000Z",
+      "contentSnippet": "この記事でやること\nApple 純正のコンテナCLI container の新機能 container machine（v1.0 で追加された永続Linux VM。WSL2 的に使える）の中で、docker engine と docker-",
+      "param": "zenn"
+    },
+    {
+      "creator": "kaito",
+      "title": "【Eve】AIエージェントは\"ディレクトリ\"になる — Vercel発のエージェントフレームワークを触ってみた",
+      "link": "https://zenn.dev/sc30gsw/articles/a03d6a17af036c",
+      "pubDate": "2026-06-18T12:11:12.000Z",
+      "contentSnippet": "!\nこの記事の草稿は、本文で紹介している Eve 製の「記事執筆エージェント」自身が書きました。その草稿を筆者本人が最終レビューし、エージェントと協業しながら修正・加筆しています。「Eve の部品を解説する記事を、その部品で組んだエージェン",
+      "param": "zenn"
+    },
+    {
       "creator": "Godai Hori",
       "title": "ProgateのレッスンにChromeの開発者ツールを丸ごと埋め込んだ話",
       "link": "https://zenn.dev/progate/articles/progate-embed-devtools",
       "pubDate": "2026-06-18T08:52:44.000Z",
       "contentSnippet": "はじめに\nHTML・CSSを学んでいると、「marginがなんで効かないんだろう？」「この要素ってどういう構造になってるんだろう？」と気になる場面がよくあります。普段の開発ならChromeのデベロッパーツールをパッと開いて要素を検証すればい",
+      "param": "zenn"
+    },
+    {
+      "creator": "anizozina",
+      "title": "AIに任せる設計、人間に残る設計",
+      "link": "https://zenn.dev/dress_code/articles/832cc1733e992c",
+      "pubDate": "2026-06-18T07:30:05.000Z",
+      "contentSnippet": "はじめに\nこんにちは、Dress Code 株式会社 でプロダクトエンジニアをやっている津田です。\n最近はもっぱら共通基盤まわりの開発をしており、設計について思うことが出てきたのでポエム的に残してみます。\n以前、openspecをつかった仕",
+      "param": "zenn"
+    },
+    {
+      "creator": "清水はるか",
+      "title": "デザインシステムのskillの精度が上がった8つの方法",
+      "link": "https://zenn.dev/pksha/articles/7a7db5c105f396",
+      "pubDate": "2026-06-18T07:22:12.000Z",
+      "contentSnippet": "初めまして！PKSHA Technology デザイナーの清水と申します。普段はデザイナーとしてXで発信しているのですが、今日は人生で初めてテックブログを書いてみたので、よければご覧ください。（この記事は、デザイントークンを扱うデザイナー・",
       "param": "zenn"
     },
     {
@@ -25,6 +89,14 @@
       "link": "https://zenn.dev/tokium_dev/articles/tokium-share-pages",
       "pubDate": "2026-06-18T01:43:55.000Z",
       "contentSnippet": "最近、めっきりNotionを書かなくなりました。代わりに増えたのが、Claude Code で作ったHTMLのダッシュボードやMarkdownのレポートを、そのままSlackに貼って共有するスタイルです。\nただ、これがそのままだと地味に辛い",
+      "param": "zenn"
+    },
+    {
+      "creator": "okkun0524",
+      "title": "Claude Code サブエージェントのネスト機能で .claude/agents/ の定義が効いた話",
+      "link": "https://zenn.dev/genda_jp/articles/16d35ffa464d65",
+      "pubDate": "2026-06-18T01:37:38.000Z",
+      "contentSnippet": "はじめに\n株式会社GENDA 開発部エンジニアの奥山です。\n先日、Claude Fable 5 公開をきっかけにサブエージェント活用ルールを見直した話を書きました。\nメインセッションは上位モデルのまま、実装や調査は .claude/agen",
       "param": "zenn"
     },
     {
@@ -89,6 +161,14 @@
       "link": "https://zenn.dev/harunasu/articles/6ac7d15bd37556",
       "pubDate": "2026-06-17T05:37:09.000Z",
       "contentSnippet": "はじめに ― 自己紹介と背景\nこんにちは。harunasuと申します。\n日頃、MLエンジニアをやっている者です。複雑なデータを整理してAIモデルを作ったり、使ったり、はたまた組み込んだりして課題を解決することで、ご飯を食べています。たまに論",
+      "param": "zenn"
+    },
+    {
+      "creator": "ｓｔａｋ",
+      "title": "AIエージェントが自律的に自己改善する self-improvement スキルが良い",
+      "link": "https://zenn.dev/stak22/articles/3ea03d0e3ca025",
+      "pubDate": "2026-06-17T02:31:04.000Z",
+      "contentSnippet": "こんにちは、takahashi（@stak_22） です。\n私は Claude Code を使って開発しているのですが、「さっき同じこと指摘したのに、また同じミスしてる」というケースがよくあります。\n同じセッションなら覚えてくれます。でもセ",
       "param": "zenn"
     },
     {

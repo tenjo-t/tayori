@@ -4,6 +4,54 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "yukiharada1228",
+      "title": "WebAssembly FaaSプラットフォームをRustで自作している開発記（マルチテナント＆セキュリティ設計編）",
+      "link": "https://zenn.dev/yukiharada1228/articles/77003ee0b3ed5f",
+      "pubDate": "2026-06-20T01:48:46.000Z",
+      "contentSnippet": "こんにちは。現在、Rust と WebAssembly を使って マルチテナント対応のセキュアな FaaS（Function as a Service）プラットフォーム を自作しています。\nFaaS を一から作るにあたり、単に「Wasm を",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "Jason",
+      "title": "DeepSeek V4 向けオープンソース Agent harness「Zagens」— チャット壳ではなく、機械検証付き Harness",
+      "link": "https://zenn.dev/zagens/articles/5e1bd99740ba76",
+      "pubDate": "2026-06-20T01:16:20.000Z",
+      "contentSnippet": "Zagens は DeepSeek V4 向けの Agent harness（MIT）。IDE プラグインでもチャット壳でもない。完了ゲートで機械検証、イベントログでリプレイ、ローカル sidecar + 実行承認。macOS/Linux ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "Kenji Igarashi",
+      "title": "Android SurfaceView 埋め込み型 Rust-Slint 開発記（第2弾）漆黒の画面にピクセルを流し込んだ夜",
+      "link": "https://zenn.dev/kenjiigarashi/articles/a8c8d306162b03",
+      "pubDate": "2026-06-19T19:32:52.000Z",
+      "contentSnippet": "1. 前回のあらすじと、突きつけられた漆黒の虚無\n前回、JNIの命名規則、ダミーの android_main、そしてマルチスレッドのデッドロックを鉄壁の防衛線でねじ伏せ、アプリが1秒もフリーズせずに起動する「無敵の器」を完成させた。\n映写機",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "kent-tokyo",
+      "title": "Pure Rust の Cheminformatics ライブラリ「chematic」 開発記 —— なぜ作った？何が課題？",
+      "link": "https://zenn.dev/kent_kamome/articles/334efd1aff6d21",
+      "pubDate": "2026-06-19T09:35:05.000Z",
+      "contentSnippet": "Pure Rust で Cheminformatics ライブラリ chematic をスクラッチから書いています。なぜ作り始めたのか、開発中に何度も詰まったのか——その話を書きます。\n\n きっかけ\n「RDKit をブラウザで動かしたい」が",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "hiyoyo",
+      "title": "2026年版 Rust + Tauriソロ開発者が実際に使っている開発ツール全部",
+      "link": "https://zenn.dev/hiyokoko/articles/b6f8258239d4df",
+      "pubDate": "2026-06-19T01:13:18.000Z",
+      "contentSnippet": "8年前のMacBook Air（Intel）で全テスト済み。7本のMacアプリをソロ開発した実体験から書いています。案件でも広告でもありません。\n考えられる全ツールのリストではない。毎日実際に開いているものだけ。\n\n\n エディタ：VS Co",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "matsu7874",
+      "title": "AI時代のRust crate選定 (1/4) デファクトスタンダードなcrate群",
+      "link": "https://zenn.dev/estie/articles/4e057582208b0b",
+      "pubDate": "2026-06-19T00:53:35.000Z",
+      "contentSnippet": "AIの発展によって自分が詳しくない領域についても自分用のツールを作ることができるようになりました。\nその際に一番困ることはライブラリ選定の良し悪しが分からないことです。\n特にプログラミング言語としてRustを採用する場合、標準ライブラリが比",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "tkwork",
       "title": "Python vs Rust パフォーマンス比較検証　本当にPythonは遅い？",
       "link": "https://zenn.dev/tkwork/articles/6bae1e320971b0",
