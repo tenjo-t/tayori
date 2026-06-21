@@ -4,6 +4,54 @@
   "description": "現在Zennでトレンドとなっている投稿のRSSフィードです",
   "items": [
     {
+      "creator": "terurou",
+      "title": "AI以後の受託システム開発はどうなっていくのか（2026年6月版）",
+      "link": "https://zenn.dev/terurou/articles/eb9e7a4ca7b364",
+      "pubDate": "2026-06-20T08:39:08.000Z",
+      "contentSnippet": "筆者について\nどういうポジショントークなのかがわかるように、筆者の属性を先に書いておきます。\n\n零細システム開発会社（デンキヤギ）の社長\n自社製品（yagisan-reports）の開発・販売もやっているが、売上比率は受託のほうが大きい\n\n",
+      "param": "zenn"
+    },
+    {
+      "creator": "sta",
+      "title": "Obsidian(Markdown) よりも快適に書く: vscode-scb で Cosense 記法",
+      "link": "https://zenn.dev/sta/articles/2026-06-20-vscode-scb",
+      "pubDate": "2026-06-20T00:52:22.000Z",
+      "contentSnippet": "Obsidian や Markdown よりも書きやすい手段がほしい\n\n 1: Obsidian では物足りぬ\nローカルでメモするツールとして Obsidian が注目されてます。最近は生成 AI との絡みで AI 驚き屋による AI Sl",
+      "param": "zenn"
+    },
+    {
+      "creator": "こばやし うきょう",
+      "title": "GitHub Copilotのクレジット消費がユーザー単位でAPI取得可能に：監視を自動化する ai_credits_used の使い方",
+      "link": "https://zenn.dev/headwaters/articles/github-copilot-ai-credits-usage-metrics-2026",
+      "pubDate": "2026-06-20T00:00:06.000Z",
+      "contentSnippet": "はじめに\nGitHub Copilotの従量課金については、これまで2本の記事を書いてきました。\nhttps://zenn.dev/headwaters/articles/github-copilot-ai-credits-billing-",
+      "param": "zenn"
+    },
+    {
+      "creator": "saitoko",
+      "title": "Claude Code の PreToolUse フックで操作ログを自動保存する — 個人環境のセキュリティ強化",
+      "link": "https://zenn.dev/tottoko_hamu/articles/2026-06-11-164130",
+      "pubDate": "2026-06-19T15:40:04.000Z",
+      "contentSnippet": "この記事の実施記録（2026年5月）: Claude Code の PreToolUse フックを使い、Bash ツール実行のたびに操作内容を JSONL 形式で自動保存する仕組みを構築した。設定は .claude/settings.loc",
+      "param": "zenn"
+    },
+    {
+      "creator": "ar1",
+      "title": "Obsidian Weave から Yasumaro へ — ブラウザの記録を、もっと自由に",
+      "link": "https://zenn.dev/ar1/articles/yasumaro-02-from-weave-to-yasumaro",
+      "pubDate": "2026-06-19T10:51:04.000Z",
+      "contentSnippet": "半年前、私は Chrome 拡張機能「Obsidian Weave」を作りました。\nウェブページを自動で要約し、Obsidian のデイリーノートに保存するツールです。開発者の情報収集に便利だということで、一定のユーザーさんにも使っていただ",
+      "param": "zenn"
+    },
+    {
+      "creator": "YoshikiAgatsuma",
+      "title": "Claude Design がclaudeアプリに対応したので触ってみた",
+      "link": "https://zenn.dev/91works/articles/bb03f5adb45dea",
+      "pubDate": "2026-06-19T07:29:58.000Z",
+      "contentSnippet": "これまで web 版 claude.ai 限定だった claude.design が、大幅アップデートでアプリにも追加された。\n前回は特に触ってなかったので、今回ちゃんと一通り試してみたメモ。\n結論、うんかなり良いよ、デザイン業務のフロー変",
+      "param": "zenn"
+    },
+    {
       "creator": "kenkoooo",
       "title": "Claude Code に、自分が考えていそうなことを言語化してもらった",
       "link": "https://zenn.dev/estie/articles/f90d498d21a798",
@@ -12,11 +60,43 @@
       "param": "zenn"
     },
     {
+      "creator": "oubakiou",
+      "title": "LLM はマークダウンファイル全体を読んでいる。その必要はない。",
+      "link": "https://zenn.dev/oubakiou/articles/b9db61885cd7be",
+      "pubDate": "2026-06-19T04:55:33.000Z",
+      "contentSnippet": "コーディングエージェントはマークダウンで書かれた仕様書や設計ドキュメント、長い README を日常的に読んでいる。だが必要なのはたいてい数セクションだけだ。それでもファイル全体をコンテキストに読み込んでしまう。\n\n 「ドキュメントを読んで",
+      "param": "zenn"
+    },
+    {
+      "creator": "MAAAAAAAAAAA",
+      "title": "リファクタリングにドメイン知識が要るなら、その知識はどこに置くのか",
+      "link": "https://zenn.dev/417/articles/ai-era-domain-knowledge-placement",
+      "pubDate": "2026-06-19T04:26:17.000Z",
+      "contentSnippet": "2026年6月、あるポストが流れてきた。\n「正しくリファクタリングしようとするとドメイン知識が必須になり、顧客の文脈や要求まで遡る必要がある」という趣旨だ。\nこの指摘は正しい。\n問題は「ではそのドメイン知識を、開発プロセスのどこに、どんな形",
+      "param": "zenn"
+    },
+    {
+      "creator": "FORCIA Tech Blog 運営チーム",
+      "title": "TypeScriptの型のみでオセロの型を実装したので解説する",
+      "link": "https://zenn.dev/forcia_tech/articles/202606_tskaigi_othello_hatano",
+      "pubDate": "2026-06-19T04:00:00.000Z",
+      "contentSnippet": "概要\nこんにちは、エンジニアの籏野です。\n先日、TSKaigi 2026にてプロポーザルが採択され10分セッションに登壇しました。\nhttps://2026.tskaigi.org/talks/34\nこのセッションはオセロ[1]を型で実装す",
+      "param": "zenn"
+    },
+    {
       "creator": "Ryo Minegishi",
       "title": "今だから押さえておきたいソフトウェア工学のベストプラクティス",
       "link": "https://zenn.dev/zapabob/articles/software-engineering-best-practices-agent-era",
       "pubDate": "2026-06-19T01:38:48.000Z",
       "contentSnippet": "エージェントに実装を任せると、コードが出る速度 は確実に上がる。けれど、出てくるのは「動きそうな diff」であって、保守できるソフトウェア とは限らない。\nソフトウェア工学のベストプラクティスは、AI 以前からある。変わったのは、守らなく",
+      "param": "zenn"
+    },
+    {
+      "creator": "須藤 友斗",
+      "title": "催促の業務は Copilot Cowork にやってもらおう",
+      "link": "https://zenn.dev/softbank/articles/24b73434d8c815",
+      "pubDate": "2026-06-19T00:00:10.000Z",
+      "contentSnippet": "こんにちは、クラウドエンジニアの須藤です。\nこの記事では Microsoft 365 Copilot の新機能である Copilot Cowork の簡単な概要の説明と実際の業務に使用してみるとどうなるのか検証してみた結果についてご紹介して",
       "param": "zenn"
     },
     {
@@ -49,6 +129,14 @@
       "link": "https://zenn.dev/sc30gsw/articles/a03d6a17af036c",
       "pubDate": "2026-06-18T12:11:12.000Z",
       "contentSnippet": "!\nこの記事の草稿は、本文で紹介している Eve 製の「記事執筆エージェント」自身が書きました。その草稿を筆者本人が最終レビューし、エージェントと協業しながら修正・加筆しています。「Eve の部品を解説する記事を、その部品で組んだエージェン",
+      "param": "zenn"
+    },
+    {
+      "creator": "MAAAAAAAAAAA",
+      "title": "Flue Framework 実践入門 — AIエージェントを本番で動かす",
+      "link": "https://zenn.dev/417/books/flue-framework-guide",
+      "pubDate": "2026-06-18T09:53:05.000Z",
+      "contentSnippet": "Flue Frameworkの前提知識から、さくらのAI Engineでの動作確認、Linear webhook連携、Cloudflareデプロイまで。実際に手を動かしながらAIエージェントフレームワークの骨格を理解する。",
       "param": "zenn"
     },
     {
@@ -182,7 +270,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
+      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"
@@ -190,7 +278,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
+      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"

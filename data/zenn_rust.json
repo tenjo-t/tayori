@@ -4,6 +4,22 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "niikun",
+      "title": "RustでMNISTをやってみたら、TraitがBatcherの設計図になっていた話",
+      "link": "https://zenn.dev/niikun/articles/af4b0fee495f0d",
+      "pubDate": "2026-06-20T10:34:06.000Z",
+      "contentSnippet": "参考: Burn公式ドキュメント - Data\n\n\n はじめに\nRust Bookを読み終えて、「次は何か作ってみよう」と思い、機械学習フレームワーク burn を触ってみることにした。\n[dependencies]\nburn = { ve",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "Nifumafu🍊",
+      "title": "Tauri・React・Rustで作る 日本株の押し目スクリーナー",
+      "link": "https://zenn.dev/nifumafu/books/4dceba6d2781e2",
+      "pubDate": "2026-06-20T03:10:26.000Z",
+      "contentSnippet": "こちらの本にご興味を持っていただきありがとうございます。\n\nこの本では、東証上場銘柄から日本株の押し目候補を探し、日足チャートで確認できるデスクトップアプリを作ります。\n\n画面にはTauri 2、React、TypeScript、MUIを使",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "yukiharada1228",
       "title": "WebAssembly FaaSプラットフォームをRustで自作している開発記（マルチテナント＆セキュリティ設計編）",
       "link": "https://zenn.dev/yukiharada1228/articles/77003ee0b3ed5f",

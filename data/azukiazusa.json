@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "AI エージェントフレームワーク eve を試してみた",
+      "link": "https://azukiazusa.dev/blog/ai-agent-framework-eve",
+      "pubDate": "2026-06-20T01:29:00.000Z",
+      "contentSnippet": "Vercel が新しい AI エージェントフレームワーク eve を発表しました。Next.js の設計思想に基づいて構築された eve は、AI エージェントの開発に必要な機能がすべて揃ったフレームワークです。この記事では、eve を使っ",
+      "param": "azukiazusa"
+    },
+    {
       "title": "実装前に設計を徹底的にインタビューし、要件を明確にするためのスキル `/grill-me`",
       "link": "https://azukiazusa.dev/blog/before-implementation-interview-design-requirements-grill-me",
       "pubDate": "2026-06-14T02:14:00.000Z",
