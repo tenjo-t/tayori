@@ -4,6 +4,70 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "nakahide",
+      "title": "NDPC-Aの学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-a",
+      "pubDate": "2026-06-21T12:00:07.000Z",
+      "contentSnippet": "問題のリンク\n\n\n 問題概要\n縦2マス、横 N マスのグリッドがある。\nこのグリッド内に、以下2種類のポリオミノを自由に使って、隙間なく敷き詰める方法は何通りあるかを答える問題。（ポリオミノは回転や反転をさせてもよい。）\n\n縦2マス、横1マ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "kent-tokyo",
+      "title": "RustでComputer-Aided Synthesis Planningエンジンを開発している話",
+      "link": "https://zenn.dev/kent_kamome/articles/4ef558b76e9fa6",
+      "pubDate": "2026-06-21T09:30:05.000Z",
+      "contentSnippet": "新薬を作りたいとき、「この化合物を合成するにはどの原料から始めればいいか」を自動で答えるツール「renkin」を Pure Rust で開発しています。\nhttps://github.com/kent-tokyo/renkin\n\n 逆合成解",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "jame443",
+      "title": "AI compiler + runtime (inference) のようなものを作った (LLM Part)",
+      "link": "https://zenn.dev/jame443/articles/2445290e2a5040",
+      "pubDate": "2026-06-21T08:58:55.000Z",
+      "contentSnippet": "前回 の続きです。LLM パートについて書きます。リポジトリはこちら。\nhttps://github.com/kcvlex/my-nn-engine\nLLM の方は、一応 CPU でも動くはずですが、基本的には GPU (CUDA) の使用",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "Riku Tatsumi",
+      "title": "UUIDを実装してみた！安全な乱数源から",
+      "link": "https://zenn.dev/pullriku/articles/rikuuid-rust",
+      "pubDate": "2026-06-21T03:27:04.000Z",
+      "contentSnippet": "Rustの標準ライブラリだけでUUIDを作りました。OSから暗号学的に安全な乱数を取得して、それを元にB7EEF135-1372-43B9-AADF-95C4A6D19609のようなIDを生成します。\nunsafeを使用するため、Rustで",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "石垣島産石垣",
+      "title": "RustでABC463 (A ~ D)",
+      "link": "https://zenn.dev/ishigaki122/articles/9f68759ff83199",
+      "pubDate": "2026-06-21T02:27:12.000Z",
+      "contentSnippet": "ABC 463 参加記録\n\n 戦績\n\n\n\n問題\n結果\n時間\nペナルティ\n\n\n\n\nA\nAC\n1:52\n0\n\n\nB\nAC\n5:29\n0\n\n\nC\nAC\n13:56\n0\n\n\nD\nAC\n90:02\n0\n\n\n\nレート変動： 991 -> 988（-3）",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "cognitiveosmdl",
+      "title": "信じないものを、追跡する ― SCP の計測基盤 legixy 紹介",
+      "link": "https://zenn.dev/cognitiveosmdl/articles/f973a4e3905232",
+      "pubDate": "2026-06-21T01:54:27.000Z",
+      "contentSnippet": "TL;DR\nlegixy(旧称 Traceability Engine V3)は、成果物間のトレーサビリティを有向グラフとして保持し、その整合性を機械検証するツールである。 前記事(品質「最大化」をやめる ― L2A SCP)で第3の防御線",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "キノコフ",
+      "title": "Rustを使って3DSソフトを開発する #3 - スプライトの描画",
+      "link": "https://zenn.dev/kinokov/articles/ea07b006aea084",
+      "pubDate": "2026-06-20T15:58:11.000Z",
+      "contentSnippet": "はじめに\nさて、六月の菖蒲ももうじき終わろうかという今日この頃、みなさまいかがお過ごしだろうか。私はというと、英語の授業で辞書を要求され家を確認したが一冊もなく、家計も火の車なのでブックオフで中古ゲームを見ていたら500円かそこらで「漢字そ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "山とコード",
+      "title": "Rust | rmcp で Remote MCP Server を実装する",
+      "link": "https://zenn.dev/codemountains/articles/1d2ebe105ef998",
+      "pubDate": "2026-06-20T15:34:01.000Z",
+      "contentSnippet": "Rust で Model Context Protocol (MCP) のサーバーを実装するなら、公式 Rust SDK の rmcp が第一候補だと思います。\nこの記事では rmcp の使って、Streamable HTTP transp",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "niikun",
       "title": "RustでMNISTをやってみたら、TraitがBatcherの設計図になっていた話",
       "link": "https://zenn.dev/niikun/articles/af4b0fee495f0d",

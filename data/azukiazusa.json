@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "ワークフローを再利用可能なスキルに変換する Record & Replay を試してみた",
+      "link": "https://azukiazusa.dev/blog/workflow-to-reusable-skill",
+      "pubDate": "2026-06-21T00:39:00.000Z",
+      "contentSnippet": "Codex の Record & Replay は macOS 上でのユーザーの操作を実演することで再利用可能なスキルに変換する機能です。例えば経費精算の提出や勤怠アプリへの打刻や工数入力、定期的なレポートの作成などをスキルとして記録し、煩",
+      "param": "azukiazusa"
+    },
+    {
       "title": "AI エージェントフレームワーク eve を試してみた",
       "link": "https://azukiazusa.dev/blog/ai-agent-framework-eve",
       "pubDate": "2026-06-20T01:29:00.000Z",

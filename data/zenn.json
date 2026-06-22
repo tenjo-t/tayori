@@ -4,11 +4,75 @@
   "description": "現在Zennでトレンドとなっている投稿のRSSフィードです",
   "items": [
     {
+      "creator": "littlemex",
+      "title": "GPUDirect RDMA 入門: NIC が GPU メモリに直接読み書き",
+      "link": "https://zenn.dev/tosshi/articles/42f0ee03b328a4",
+      "pubDate": "2026-06-21T07:12:02.000Z",
+      "contentSnippet": "はじめに\n!\nこの記事のゴール: 「GPU 同士がネットワーク越しに、CPU をほとんど介さず直接データをやり取りする」仕組みである GPUDirect RDMA を、初学者向けに解説します。\n\nそもそも RDMA とは何か（Buffer ",
+      "param": "zenn"
+    },
+    {
+      "creator": "Kazuya Kurihara",
+      "title": "自動運転OSSのAutowareの解説サイトを作っている件",
+      "link": "https://zenn.dev/coffeecupjp/articles/778aa821a82c0f",
+      "pubDate": "2026-06-21T06:04:02.000Z",
+      "contentSnippet": "概要\n\nAutowareという自動運転OSSの解説サイトを作っています（Linux版のPoCのようなものをAutowareを対象に作る）\nとりあえず、一部localizationと一部perceptionを作ったところで、GPUが必要になっ",
+      "param": "zenn"
+    },
+    {
+      "creator": "かめさん",
+      "title": "LocalStack が有料になったので MiniStack + Terraform でローカル AWS 環境を作り直した",
+      "link": "https://zenn.dev/kamegoro/articles/ef1ab1c9527f9d",
+      "pubDate": "2026-06-21T03:26:04.000Z",
+      "contentSnippet": "はじめに\n個人開発で AWS のインフラを Terraform で管理していると、こういう悩みが出てきます。\n\n「terraform apply のたびに実 AWS を使うのはコストが怖いし、壊すのも嫌だ。ローカルで試したい」\n\nそこで従来",
+      "param": "zenn"
+    },
+    {
+      "creator": "sat",
+      "title": "メモリダンプの模様とはどのようなものなのか(実践編)",
+      "link": "https://zenn.dev/satoru_takeuchi/articles/8f5782155d0a6a",
+      "pubDate": "2026-06-20T23:32:46.000Z",
+      "contentSnippet": "本記事は、以下6年前にKameさんが書いて話題になった、メモリダンプの模様が具体的にはどういうものなのかについて説明したのものです。\nhttps://note.com/hkamezawa/n/na4a01c712142\nその後、わたしもフォ",
+      "param": "zenn"
+    },
+    {
+      "creator": "catatsuy",
+      "title": "DNSとSNIが見えにくくなる時代に、外部通信をどう見るか",
+      "link": "https://zenn.dev/catatsuy/articles/566f5e37076e53",
+      "pubDate": "2026-06-20T13:12:02.000Z",
+      "contentSnippet": "以前、以下の記事を書きました。\nhttps://zenn.dev/catatsuy/articles/e2fc71d810613a\nhttps://zenn.dev/catatsuy/articles/3b1e07e674c875\n今回はそ",
+      "param": "zenn"
+    },
+    {
+      "creator": "nori3",
+      "title": "Windowsのファイル読み書きを高速化するアプリを作ってみた",
+      "link": "https://zenn.dev/maedan/articles/ad15f8c2837753",
+      "pubDate": "2026-06-20T10:02:05.000Z",
+      "contentSnippet": "はじめに\n個人開発で、メモリを使用して、ファイルの読み書きを高速化するアプリを作成しました。\n内部的にはRAMディスクを作成して、普段良く使われるキャッシュファイルをRAMディスクに移す事で高速化を行っています。\n\n そもそも「RAMディス",
+      "param": "zenn"
+    },
+    {
       "creator": "terurou",
       "title": "AI以後の受託システム開発はどうなっていくのか（2026年6月版）",
       "link": "https://zenn.dev/terurou/articles/eb9e7a4ca7b364",
       "pubDate": "2026-06-20T08:39:08.000Z",
       "contentSnippet": "筆者について\nどういうポジショントークなのかがわかるように、筆者の属性を先に書いておきます。\n\n零細システム開発会社（デンキヤギ）の社長\n自社製品（yagisan-reports）の開発・販売もやっているが、売上比率は受託のほうが大きい\n\n",
+      "param": "zenn"
+    },
+    {
+      "creator": "taka1156",
+      "title": "HTTP 418を本当に返すページをCloudflare Pages (+ functions)で作る",
+      "link": "https://zenn.dev/taka1156/articles/faf79d1b3712bc",
+      "pubDate": "2026-06-20T07:04:10.000Z",
+      "contentSnippet": "はじめに\n418 I'm a teapot というHTTPステータスコードをご存知でしょうか。RFC 2324（Hyper Text Coffee Pot Control Protocol）という、1998年のエイプリルフールに公開されたジ",
+      "param": "zenn"
+    },
+    {
+      "creator": "koji",
+      "title": "プログラミング経験者が初めてWebアプリを作るときに知っておきたい基礎知識",
+      "link": "https://zenn.dev/kojikojiprg/articles/a89ecbe73be743",
+      "pubDate": "2026-06-20T02:12:42.000Z",
+      "contentSnippet": "はじめに\nプログラミング自体は知っているけれど、「Webアプリを一つ作って公開する」のは初めて、という人は意外と多いと思います。アルゴリズムは書けるし、関数やクラスの概念も分かる。でも「フロントエンドとバックエンドって何が違うの？」「Rea",
       "param": "zenn"
     },
     {
@@ -28,11 +92,27 @@
       "param": "zenn"
     },
     {
+      "creator": "ikenyal",
+      "title": "AWS Blocksとは何者か。Amplify・App Studioとの違いと、それぞれが目指すもの",
+      "link": "https://zenn.dev/genda_jp/articles/8122f1cd49754c",
+      "pubDate": "2026-06-19T22:02:47.000Z",
+      "contentSnippet": "2026年6月16日、AWSは AWS Blocks をパブリックプレビューとして発表しました。TypeScriptでバックエンドを書くと、そのコードがそのままAWS上のインフラになる、オープンソースのフレームワークです。\nhttps://",
+      "param": "zenn"
+    },
+    {
       "creator": "saitoko",
       "title": "Claude Code の PreToolUse フックで操作ログを自動保存する — 個人環境のセキュリティ強化",
       "link": "https://zenn.dev/tottoko_hamu/articles/2026-06-11-164130",
       "pubDate": "2026-06-19T15:40:04.000Z",
       "contentSnippet": "この記事の実施記録（2026年5月）: Claude Code の PreToolUse フックを使い、Bash ツール実行のたびに操作内容を JSONL 形式で自動保存する仕組みを構築した。設定は .claude/settings.loc",
+      "param": "zenn"
+    },
+    {
+      "creator": "usshi",
+      "title": "AIエージェントを「指揮」するOSS「TAKT」とは — 仕組と使い方",
+      "link": "https://zenn.dev/alpha_omega/articles/56ca3136bc5cd8",
+      "pubDate": "2026-06-19T14:34:16.000Z",
+      "contentSnippet": "📚 連載「TAKTとClaude Codeの使い分け」（全3部を予定）の第1部・解説編です。\n\n\n第1部（本記事）解説編: TAKTのしくみと使い方\n第2部 実体験編: OSS「TAKT」を普段開発に使ってみた — よかったこと・つまずい",
       "param": "zenn"
     },
     {
@@ -270,7 +350,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
+      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"
@@ -278,7 +358,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
+      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"
