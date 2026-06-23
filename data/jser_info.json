@@ -4,6 +4,13 @@
   "description": "JavaScriptの最新情報を紹介する週刊ブログ",
   "items": [
     {
+      "title": "2026-06-22のJS: TypeScript 7.0 RC、Babel 8.0.0、React Router v8",
+      "link": "https://jser.info/2026/06/22/typescript-7.0-rc-babel-8.0.0-react-router-v8/",
+      "pubDate": "2026-06-22T13:14:54.000Z",
+      "contentSnippet": "JSer.info #774 - TypeScript 7.0 RCがリリースされました。\nAnnouncing TypeScript 7.0 RC - TypeScript\nGo言語へ移植されたコンパイラがtypescript@rcとして",
+      "param": "jser_info"
+    },
+    {
       "title": "2026-06-09のJS: pnpm 11.5、Node.js 26.3.0、CloudflareがVoidZeroを買収",
       "link": "https://jser.info/2026/06/09/pnpm11.5-node.js26.3.0-cloudflare-void0/",
       "pubDate": "2026-06-09T03:06:21.000Z",

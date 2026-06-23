@@ -4,6 +4,62 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "tagucci",
+      "title": "読みベースの編集距離を測るライブラリ「mòine」をつくりました",
+      "link": "https://zenn.dev/tagucci/articles/fb1ca46cc7cdf3",
+      "pubDate": "2026-06-23T00:40:45.000Z",
+      "contentSnippet": "今回はレーベンシュタイン距離ではなく読みをベースとした編集距離を測るライブラリをつくったのでその紹介記事です。名前は自分の好きなスコッチウイスキーであるブナハーブンのMòineからとりました。ブナハーブンのMòineは日本語では「モーイン」",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "yutaka8484",
+      "title": "個人開発サーバーの通信をSniffnetで可視化する手順",
+      "link": "https://zenn.dev/yutaka8484/articles/kobayashi-20260623-sniffnet-server-monitoring",
+      "pubDate": "2026-06-23T00:01:39.000Z",
+      "contentSnippet": "個人開発サーバーの通信をSniffnetで可視化する手順\n中小企業の現場でもサーバー運用は避けて通れない。受注管理や生産管理、勤怠電子化など、社内システムが増えるほど「どの端末がいつ、どこへ通信しているか」を把握したい場面が増える。\n本記事",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "NDPC-Bの学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-b",
+      "pubDate": "2026-06-22T12:00:08.000Z",
+      "contentSnippet": "問題のリンク\n\n\n 問題概要\nN 頂点 M 辺の DAG（閉路を持たない有向グラフ） がある。\nこのグラフについて、頂点1から頂点 N へ向かうパスの本数を 998244353 で割った余りを求める問題。\n\n 重要なポイント\nグラフが DA",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "月村つかさ",
+      "title": "シークレット管理CLIをZigで作ってRustに書き直した話 ― 暗号設計の判断ログ",
+      "link": "https://zenn.dev/tsukasa_art/articles/amulet-design-log",
+      "pubDate": "2026-06-22T08:52:51.000Z",
+      "contentSnippet": "はじめに\nAmulet というCLIツールを作った。.env の代わりに使えるシークレット管理ツールで、暗号化した vault ファイルに秘密情報を入れておく。\n最初はZigで書いて、v1.0.0でRustに書き直した。\nこの記事は「なぜそ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "hatoo",
+      "title": "cuda-oxideのDisjointSliceについて調べてみた",
+      "link": "https://zenn.dev/estie/articles/0523e1e66863fc",
+      "pubDate": "2026-06-22T02:07:12.000Z",
+      "contentSnippet": "はじめに\n株式会社estie（エスティ）でソフトウェアエンジニアをしている hatoo です。\ncuda-oxideが公開されて、色々見ていたところ、そこで定義されていたDisjointSliceが気になったので調べてみました。\n本記事では",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "hiyoyo",
+      "title": "Rust + TauriでADBツールを作る——APKインストール・アプリ一覧・クリップボード同期の実装",
+      "link": "https://zenn.dev/hiyokoko/articles/f1f6bb23c9dd66",
+      "pubDate": "2026-06-22T02:01:04.000Z",
+      "contentSnippet": "8年前のMacBook Air（Intel）で全テスト済み。7本のMacアプリをソロ開発した実体験から書いています。案件でも広告でもありません。\nHiyokoKitにはAPKインストールとAndroidアプリマネージャーが含まれている。どち",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "mitzh",
+      "title": "PDFにグラフを入れたくて、ブラウザ不要のチャート生成ツールを作った ── fulgur-chart",
+      "link": "https://zenn.dev/mitzh/articles/f80b44e9b0e335",
+      "pubDate": "2026-06-21T22:45:26.000Z",
+      "contentSnippet": "はじめに\nfulgurファミリーに、新作が加わりました。\nfulgur-chartです。\n\nchart.js v4互換のJSON specから、SVG/PNGのチャートを生成するCLIツールです。\n特徴は二つ。\nブラウザを使わないこと。\nそ",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "nakahide",
       "title": "NDPC-Aの学習記録",
       "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-a",
@@ -44,8 +100,16 @@
       "param": "zenn_rust"
     },
     {
+      "creator": "石垣島産石垣",
+      "title": "RustでABC463 (A ~ D)",
+      "link": "https://zenn.dev/ishigaki122/articles/1b4c085dea359c",
+      "pubDate": "2026-06-21T02:27:00.000Z",
+      "contentSnippet": "ABC 463 参加記録\n\n 戦績\n\n\n\n問題\n結果\n時間\nペナルティ\n\n\n\n\nA\nAC\n1:52\n0\n\n\nB\nAC\n5:29\n0\n\n\nC\nAC\n13:56\n0\n\n\nD\nAC\n90:02\n0\n\n\n\nレート変動： 991 -> 988（-3）",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "cognitiveosmdl",
-      "title": "信じないものを、追跡する ― SCP の計測基盤 legixy 紹介",
+      "title": "信じないものを、追跡する ― L2A-SCP の計測基盤 legixy 紹介",
       "link": "https://zenn.dev/cognitiveosmdl/articles/f973a4e3905232",
       "pubDate": "2026-06-21T01:54:27.000Z",
       "contentSnippet": "TL;DR\nlegixy(旧称 Traceability Engine V3)は、成果物間のトレーサビリティを有向グラフとして保持し、その整合性を機械検証するツールである。 前記事(品質「最大化」をやめる ― L2A SCP)で第3の防御線",

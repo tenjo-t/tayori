@@ -3,6 +3,20 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "第273回　MySQL Group ReplicationのFlow Control統計コンポーネント",
+      "link": "https://gihyo.jp/article/2026/06/mysql-rcn0273?utm_source=feed",
+      "pubDate": "2026-06-23T00:04:00.000Z",
+      "contentSnippet": "MySQL 9.1以降、Group Replicationのフロー制御統計を取得できるコンポーネント「Group Replication Flow Control Statistics Component」が提供されています。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Sakana AI、複数のAIモデルを協調させて高いパフォーマンスを発揮する「Sakana Fugu」の正式提供を開始",
+      "link": "https://gihyo.jp/article/2026/06/sakana-fugu?utm_source=feed",
+      "pubDate": "2026-06-22T06:25:00.000Z",
+      "contentSnippet": "Sakana AIは2026年6月22日、複数のフロンティアモデルを動的にオーケストレーションして1つの基盤モデルとして提供する「Sakana Fugu（サカナ・フグ）」の提供を開始した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "Blenderでメニュー名などの表記を英語と日本語に一発で切り替える方法などを見ていこう",
       "link": "https://gihyo.jp/article/2026/06/blender-basics-79?utm_source=feed",
       "pubDate": "2026-06-22T00:30:00.000Z",

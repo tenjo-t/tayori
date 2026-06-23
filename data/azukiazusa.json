@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "Cloudflare の一時アカウントを使って即座にデプロイできるようになった",
+      "link": "https://azukiazusa.dev/blog/cloudflare-temporary-account-deploy",
+      "pubDate": "2026-06-22T10:48:00.000Z",
+      "contentSnippet": "Cloudflare の Temporary Cloudflare Accounts を使用すると、人間が介入することなく AI エージェントが即座に Cloudflare Workers にデプロイできるようになります。この記事では、Te",
+      "param": "azukiazusa"
+    },
+    {
       "title": "ワークフローを再利用可能なスキルに変換する Record & Replay を試してみた",
       "link": "https://azukiazusa.dev/blog/workflow-to-reusable-skill",
       "pubDate": "2026-06-21T00:39:00.000Z",
@@ -2146,17 +2153,17 @@
       "param": "azukiazusa"
     },
     {
-      "title": "TypeScript + ESModules の開発環境をシュッと作る",
-      "link": "https://azukiazusa.dev/blog/typescript-esmodules",
-      "pubDate": "2023-02-18T15:00:00.000Z",
-      "contentSnippet": "ほぼ設定なしで TypeScript + ESModules の開発環境をシュッと作る時のレシピです。",
-      "param": "azukiazusa"
-    },
-    {
       "title": "Web アプリケーションエンジニアのためのウェブアクセシビリティの基礎",
       "link": "https://azukiazusa.dev/blog/web-accessibility-basics-every-web-application-engineer-needs-to-know",
       "pubDate": "2023-02-18T15:00:00.000Z",
       "contentSnippet": "ウェブアプリケーションエンジニアを対象に、アクセシビリティの対応について解説した記事。アクセシビリティを向上させるためには、正しいHTMLの書き方が必要である。HTML要素には、アクセシビリティに関する機能が元々備わっているため、適切なHT",
+      "param": "azukiazusa"
+    },
+    {
+      "title": "TypeScript + ESModules の開発環境をシュッと作る",
+      "link": "https://azukiazusa.dev/blog/typescript-esmodules",
+      "pubDate": "2023-02-18T15:00:00.000Z",
+      "contentSnippet": "ほぼ設定なしで TypeScript + ESModules の開発環境をシュッと作る時のレシピです。",
       "param": "azukiazusa"
     },
     {

@@ -4,6 +4,94 @@
   "description": "現在Zennでトレンドとなっている投稿のRSSフィードです",
   "items": [
     {
+      "creator": "Takeru Ino",
+      "title": "Databricksが発表したOLAP×OLTP両刀⚔️の次世代DBアーキテクチャ「LTAP」を深堀る！",
+      "link": "https://zenn.dev/nttdata_tech/articles/e1e7bc7aeb9b20",
+      "pubDate": "2026-06-22T03:51:56.000Z",
+      "contentSnippet": "はじめに\n株式会社NTTデータ所属、Databricksビジネス推進室の井能です。\nDatabricks Solutions Architect Championとしても活動しています。\n現在サンフランシスコで開催され、私も現地参加している",
+      "param": "zenn"
+    },
+    {
+      "creator": "fuhitonakagawa",
+      "title": "AIコーディングではコードではなく検証プロセスをレビューする",
+      "link": "https://zenn.dev/mkj/articles/56245f7a34539c",
+      "pubDate": "2026-06-22T02:50:05.000Z",
+      "contentSnippet": "AIコーディングでは、どうしても「どれだけ速く実装できるか」に注目が集まりがちです。\nただ、実務で本当に難しいのは速度そのものではなく、品質をどう安定させるかです。\n最近は、AIコーディングにおける品質管理を、次の4つの問いで整理しています",
+      "param": "zenn"
+    },
+    {
+      "creator": "Ayaka",
+      "title": "Claude Code に「7人の意地悪なQA」を仕込んでテストケースの観点漏れを潰した",
+      "link": "https://zenn.dev/nexta_/articles/be13a2395a5d2a",
+      "pubDate": "2026-06-22T02:37:09.000Z",
+      "contentSnippet": "こんにちは、QAエンジニアのAyakaです。\n製造業向けSaaS（Blazor＋Radzen / SQL Server で開発）のテスト設計・品質管理を担当しつつ、最近はコーポレートIT寄りの仕事も兼務しています。\nテストケースをAIに「書",
+      "param": "zenn"
+    },
+    {
+      "creator": "ないとー",
+      "title": "CSV を顧客に配るのは、想像よりずっと難しい",
+      "link": "https://zenn.dev/dress_code/articles/csv-for-customers",
+      "pubDate": "2026-06-22T02:30:07.000Z",
+      "contentSnippet": "TL;DR\n\n\n はじめに\nこんにちは、Dress Code でプロダクトエンジニアをしている ないとー です！\n私たちは DRESS CODE という、人事・情報システム・総務・採用・コーポレートなど複数の部門を横断する業務 OS として",
+      "param": "zenn"
+    },
+    {
+      "creator": "Fumi",
+      "title": "【DB設計】JOINコストとインデックスの効果を実行計画で理解する",
+      "link": "https://zenn.dev/dely_jp/articles/14ee6d362709e1",
+      "pubDate": "2026-06-22T00:13:17.000Z",
+      "contentSnippet": "はじめに\nこんにちは、クラシルでレシチャレBUのバックエンドエンジニアをしているFumiyaです！\n2026年6月現在、26卒としてクラシルに入社して約3ヶ月が経とうとしています。先日業務でデータベース設計を行う機会があったのですが、正規化",
+      "param": "zenn"
+    },
+    {
+      "creator": "nishimoto",
+      "title": "Claude Codeに全部抱え込ませるのをやめた。tmuxのタブを会話させてコンテキストを分割する",
+      "link": "https://zenn.dev/tokium_dev/articles/tmux-multitab-context-management",
+      "pubDate": "2026-06-22T00:00:08.000Z",
+      "contentSnippet": "こんにちは、TOKIUMでエンジニアをしている西本です。\n早速ですが、Claude Codeを使い込むほど、ひとつの壁にぶつかります。コンテキストです。1つのセッションに実装もレビューも調査も定型業務も全部やらせていると、コンテキストウィン",
+      "param": "zenn"
+    },
+    {
+      "creator": "bun913",
+      "title": "Webセキュリティラボで出会ったHTTP リクエストスマグリングという知らなかった概念について",
+      "link": "https://zenn.dev/bun913/articles/e51dac1dcb7b8d",
+      "pubDate": "2026-06-21T22:54:37.000Z",
+      "contentSnippet": "こんにちは。ダイの大冒険エンジョイ勢のbun913と申します。\n皆さんはWebアプリのセキュリティについて、実際に手を動かしながら学びたいと思ったことはありませんか？私はあります。\nQAエンジニアとして機能面だけでなく非機能面も同時に強くな",
+      "param": "zenn"
+    },
+    {
+      "creator": "toshinao",
+      "title": "自作 macOS IME「RomKana」開発記",
+      "link": "https://zenn.dev/toshinao/articles/1cffb713b1c670",
+      "pubDate": "2026-06-21T14:27:23.000Z",
+      "contentSnippet": "自作 macOS IME「RomKana」開発記\nローマ字を打つと、文脈を見てかな漢字交じり文に変換してくれる macOS の入力メソッド（IME）を、完全ローカルで自作しました。「変換の賢さは、手元で動くLLMでどこまで上げられるんだろう",
+      "param": "zenn"
+    },
+    {
+      "creator": "calloc134",
+      "title": "Hono の JWT/JWK ミドルウェアの脆弱性を修正したので解説する",
+      "link": "https://zenn.dev/calloc134/articles/hono-jwt-jwk-alg-confusion",
+      "pubDate": "2026-06-21T13:34:48.000Z",
+      "contentSnippet": "はじめに\nこんにちは。calloc134 です。\n最近技術記事書けてなかったのでリハビリがてら書いております〜〜〜\n実は昨年12月から1月にかけて、Honoの脆弱性を修正していました。\nhttps://x.com/yusukebe/stat",
+      "param": "zenn"
+    },
+    {
+      "creator": "星影",
+      "title": "Claude Design ↔ Claude Code を行き来して作った資産ポートフォリオダッシュボード",
+      "link": "https://zenn.dev/unsoluble_sugar/articles/fd73c7b67d80ce",
+      "pubDate": "2026-06-21T11:41:57.000Z",
+      "contentSnippet": "はじめに\n\n 一枚で資産を見渡すダッシュボード\n自分の資産がいま全体でいくらで、どんな構成なのか。それをひと目で見られる場所がほしくて、資産ポートフォリオのダッシュボードを作ってみました。\nhttps://unsolublesugar.gi",
+      "param": "zenn"
+    },
+    {
+      "creator": "てつどん",
+      "title": "Claude Code を使いこなすために学んだこと：CLAUDE.md・Skills・MCP",
+      "link": "https://zenn.dev/tetsu_don/articles/7b11393600dcf0",
+      "pubDate": "2026-06-21T11:39:39.000Z",
+      "contentSnippet": "データエンジニアが Claude Code を使いこなすために学んだこと：CLAUDE.md・Skills・MCP\n\n はじめに\nてつどんです。データエンジニアとして BigQuery・Dataform・Python を日常的に使っています",
+      "param": "zenn"
+    },
+    {
       "creator": "littlemex",
       "title": "GPUDirect RDMA 入門: NIC が GPU メモリに直接読み書き",
       "link": "https://zenn.dev/tosshi/articles/42f0ee03b328a4",
@@ -20,11 +108,27 @@
       "param": "zenn"
     },
     {
+      "creator": "engineer reborn",
+      "title": "バックエンドエンドエンジニアができるべき 設計",
+      "link": "https://zenn.dev/engineer_reborn/articles/76fe4c4cf5d184",
+      "pubDate": "2026-06-21T04:49:42.000Z",
+      "contentSnippet": "なぜ設計フローを理解する必要があるのか?\nウォーターフォールの開発でないかぎり、開発フローは会社によって、短縮されていることがあるし、全体像を掴めていないと、設計に抜け漏れがあるので、全体像を把握しておく必要がある\n\n フロー\n業務要件を考",
+      "param": "zenn"
+    },
+    {
       "creator": "かめさん",
       "title": "LocalStack が有料になったので MiniStack + Terraform でローカル AWS 環境を作り直した",
       "link": "https://zenn.dev/kamegoro/articles/ef1ab1c9527f9d",
       "pubDate": "2026-06-21T03:26:04.000Z",
       "contentSnippet": "はじめに\n個人開発で AWS のインフラを Terraform で管理していると、こういう悩みが出てきます。\n\n「terraform apply のたびに実 AWS を使うのはコストが怖いし、壊すのも嫌だ。ローカルで試したい」\n\nそこで従来",
+      "param": "zenn"
+    },
+    {
+      "creator": "morioka12",
+      "title": "バグハンター視点で学ぶ Caido 実践入門",
+      "link": "https://zenn.dev/scgajge12/books/119c83fa281d04",
+      "pubDate": "2026-06-21T03:05:13.000Z",
+      "contentSnippet": "📕【概要】\n　本書は、急速に支持を広げる Web プロキシツール「Caido」を、バグハンターの視点で使い倒すための入門書です。ブラウザとサーバの間に割り込んで通信を傍受し、書き換え、再送し、自動化する。その一連の作業をCaidoでどう行",
       "param": "zenn"
     },
     {
@@ -350,7 +454,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
+      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"
@@ -358,7 +462,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
+      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"
