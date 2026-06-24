@@ -3,6 +3,48 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "高校数学で最先端AIの「嘘」を解き明かす ——AIはなぜ間違えるのか",
+      "link": "https://gihyo.jp/article/2026/06/mathematical-thinking-03?utm_source=feed",
+      "pubDate": "2026-06-24T00:34:00.000Z",
+      "contentSnippet": "数理を横断的に学ぶと、何ができるようになるのでしょうか。この問いに対して、本稿ではAIの「嘘」という観点から考察したいと思います。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第916回　Ubuntu 26.04 LTSリリース記念オフラインミーティング開催レポート",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0916?utm_source=feed",
+      "pubDate": "2026-06-24T00:06:00.000Z",
+      "contentSnippet": "2026年の6月20日、グリー株式会社主催のもと、六本木にて「Ubuntu 26.04 LTSリリース記念オフラインミーティング」が開催されました。今回はいつもと趣向を変えて、このイベントの様子をレポートします。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第63回　Linuxカーネルのコンテナ機能 ― cgroupの改良版cgroup v2［8］",
+      "link": "https://gihyo.jp/article/2026/06/linux_containers-0063?utm_source=feed",
+      "pubDate": "2026-06-24T00:00:00.000Z",
+      "contentSnippet": "cgroup v2がstableとされた4.5カーネルがリリースされたのは2016年で、もう10年が経ちました。この連載でcgroup v2を初めて取り上げたのは2017年で、そこからでも8年以上経っています。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Astro 7.0リリース ―Rust製コンパイラで大幅に高速化、コーディングエージェントにも対応",
+      "link": "https://gihyo.jp/article/2026/06/astro-7?utm_source=feed",
+      "pubDate": "2026-06-23T07:05:00.000Z",
+      "contentSnippet": "Astro開発チームは2026年6月22日、Web開発フレームワークAstroの新バージョンAstro 7.0をリリースした。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "GitHub Copilotアプリ、独自モデルプロバイダーの追加（BYOK）に対応",
+      "link": "https://gihyo.jp/article/2026/06/github-copilot-app-support-byok?utm_source=feed",
+      "pubDate": "2026-06-23T06:37:00.000Z",
+      "contentSnippet": "GitHub Copilotアプリは2026年6月23日、バージョン1.0.5をリリースした。このバージョンでは、GitHub Copilotが提供するモデルだけでなく、ユーザーが追加したモデルプロバイダーのモデルを利用できるようになった。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "OpenAI、セキュリティ戦略「Daybreak」を拡張 ―Codex Securityプラグイン、GPT-5.5-Cyberを更新しOSSなど重要インフラの脆弱性にも対応へ",
+      "link": "https://gihyo.jp/article/2026/06/openai-daybreak-update?utm_source=feed",
+      "pubDate": "2026-06-23T02:30:00.000Z",
+      "contentSnippet": "OpenAIは2026年6月22日、AIを使ったセキュリティ対応戦略「OpenAI Daybreak」の拡張を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "第273回　MySQL Group ReplicationのFlow Control統計コンポーネント",
       "link": "https://gihyo.jp/article/2026/06/mysql-rcn0273?utm_source=feed",
       "pubDate": "2026-06-23T00:04:00.000Z",

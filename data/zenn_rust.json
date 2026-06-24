@@ -4,6 +4,46 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "hiyoyo",
+      "title": "Rustで並列ファイル転送を実装する——Semaphoreで同時実行数を制御してAndroid同期を高速化",
+      "link": "https://zenn.dev/hiyokoko/articles/82a90eca3761de",
+      "pubDate": "2026-06-24T01:02:35.000Z",
+      "contentSnippet": "8年前のMacBook Air（Intel）で全テスト済み。7本のMacアプリをソロ開発した実体験から書いています。案件でも広告でもありません。\n順次ファイル転送は遅い。HiyokoAutoSyncは同時実行数を制限した並列転送を使っている",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "niikun",
+      "title": "ZKPを普通のRustで書けるSP1を触ってみた〜インストールからFibonacci実行まで",
+      "link": "https://zenn.dev/niikun/articles/74ee0f0bbde8aa",
+      "pubDate": "2026-06-23T20:07:08.000Z",
+      "contentSnippet": "はじめに\nZKP（ゼロ知識証明）に興味を持ち、「実際に触ってみたい」と思ったところで SP1 というツールに出会いました。\nSP1 は Succinct Labs が開発した zkVM（ゼロ知識仮想マシン）で、普通の Rust コードをその",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "olibrauma",
+      "title": "Tauri ライブラリの意外な使い道 — headless な CLI を作ってみた",
+      "link": "https://zenn.dev/olibrauma/articles/tauri-library-for-cli-tool",
+      "pubDate": "2026-06-23T12:10:11.000Z",
+      "contentSnippet": "Tauri のエンジンは GUI 以外に使えるか？\nTauri は Electron の代替として知られるデスクトップアプリフレームワークです。Chromium をバンドルする Electron と違い、OS ネイティブの WebView ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "NDPC-Cの学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-c",
+      "pubDate": "2026-06-23T12:00:08.000Z",
+      "contentSnippet": "問題のリンク\n\n\n 問題概要\n長さ N の英小文字からなる任意の文字列 T を作る際、3個の文字列 S_1, S_2, S_3 のいずれも部分列として含まないものの個数を 998244353 で割った余りを求める問題。\n\n 重要なポイント\n",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "Shion",
+      "title": "iOSアプリでSwift・Rust・Goの実行速度を比較してみた",
+      "link": "https://zenn.dev/oba_shion/articles/872ce1434f5fc7",
+      "pubDate": "2026-06-23T10:39:27.000Z",
+      "contentSnippet": "はじめに\niOSアプリ開発では、基本的にはSwiftを使いますが、処理内容によってはGoやRustで実装したロジックをiOSアプリから呼び出したいケースがあります。\nたとえば、\n\nAndroid / iOS / サーバーで共通ロジックを持ち",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "tagucci",
       "title": "読みベースの編集距離を測るライブラリ「mòine」をつくりました",
       "link": "https://zenn.dev/tagucci/articles/fb1ca46cc7cdf3",

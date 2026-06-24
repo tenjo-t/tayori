@@ -4,6 +4,78 @@
   "description": "現在Zennでトレンドとなっている投稿のRSSフィードです",
   "items": [
     {
+      "creator": "Atsushi Kadowaki",
+      "title": "AI時代のナレッジ管理手法 - Googleの「OKF」を解説",
+      "link": "https://zenn.dev/knowledgesense/articles/14a874a9f423bb",
+      "pubDate": "2026-06-23T01:45:47.000Z",
+      "contentSnippet": "本記事では、AI向けの新しいナレッジ管理ルールについて、ざっくり理解します。\n株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。\n\n この記事は何\nこの記事は、AI時代",
+      "param": "zenn"
+    },
+    {
+      "creator": "ハルク",
+      "title": "標準CSSは美しくなった、もはやTailwindは不要",
+      "link": "https://zenn.dev/higakijin/articles/06276828c81546",
+      "pubDate": "2026-06-23T01:11:44.000Z",
+      "contentSnippet": "最近、標準のCSSがかなり進化していることに気づきました。\n他のエンジニアと会話しても知らない人が多そうなのでシェアしておきます。\n数年ほど前からCSSは標準でネスト構文をかけるようになりました。これはとてつもない進化です。\n多くのプロジェ",
+      "param": "zenn"
+    },
+    {
+      "creator": "muroya2",
+      "title": "スクフェス金沢に「初参加でいきなり登壇」という無茶をした結果、想像以上に世界が広がった【スクラムフェス金沢2026】",
+      "link": "https://zenn.dev/sompojapan_dx/articles/bc3931a2e58ab5",
+      "pubDate": "2026-06-23T01:05:30.000Z",
+      "contentSnippet": "!\nこの記事は 2026/6/19-20 に金沢で開催されたコミュニティイベント「スクラムフェス金沢2026」の参加レポートです。ネットワーキングやセッション中の会話は個人の見解・体感ベースの内容であり、ご本人を特定しない形で要旨として再構",
+      "param": "zenn"
+    },
+    {
+      "creator": "tagucci",
+      "title": "読みベースの編集距離を測るライブラリ「mòine」をつくりました",
+      "link": "https://zenn.dev/tagucci/articles/fb1ca46cc7cdf3",
+      "pubDate": "2026-06-23T00:40:45.000Z",
+      "contentSnippet": "今回はレーベンシュタイン距離ではなく読みをベースとした編集距離を測るライブラリをつくったのでその紹介記事です。名前は自分の好きなスコッチウイスキーであるブナハーブンのMòineからとりました。ブナハーブンのMòineは日本語では「モーイン」",
+      "param": "zenn"
+    },
+    {
+      "creator": "辻 亮佑",
+      "title": "46リポジトリに跨るコードベースを、静的解析で一つのナレッジグラフにした話（前編）",
+      "link": "https://zenn.dev/aircloset/articles/a7cf65cc035572",
+      "pubDate": "2026-06-22T23:40:04.000Z",
+      "contentSnippet": "!\nEnglish Version is here\n\nみなさまこんにちは！エアークローゼットでCTOをしている辻です。\n今回は、複数サービス合計46リポジトリに跨る本番システムのコードベースを、静的解析で1つのナレッジグラフに統合した話です",
+      "param": "zenn"
+    },
+    {
+      "creator": "tkhac",
+      "title": "アプリエンジニアのためのAWS Blocksハンズオン",
+      "link": "https://zenn.dev/ppgm/books/aws-blocks-mini-support-desk",
+      "pubDate": "2026-06-22T15:26:02.000Z",
+      "contentSnippet": "AWS Blocks を使って、Cognito 認証・Database・FileBucket・Observability・AsyncJob・CronJob・EmailClient・CDK layer（SQS / Step Functions",
+      "param": "zenn"
+    },
+    {
+      "creator": "カピ",
+      "title": "「動くが面白くない」を解決するGame Feelガイド",
+      "link": "https://zenn.dev/kapi0622/books/0d107732880fc8",
+      "pubDate": "2026-06-22T09:30:23.000Z",
+      "contentSnippet": "「機能として完成しているのに、触っていて面白くない」\n\nゲームを作っていると、ある段階でこの壁にぶつかる。\nキャラクターは動く、攻撃は当たる、スコアも加算される。\nなのに、名作と自分の作品を並べると、触り心地が決定的に違う。\n\nこの差の正体",
+      "param": "zenn"
+    },
+    {
+      "creator": "ぺんぎん",
+      "title": "「技術力が高い人」にはなれなかったけれど、技術を翻訳する人になった話",
+      "link": "https://zenn.dev/penginpenguin/articles/e735cf0424a186",
+      "pubDate": "2026-06-22T09:04:36.000Z",
+      "contentSnippet": "はじめに\nぺんぎん（@jitepengin）です。\n先日、めるさんが書かれたこの記事を読んで、何度も頷きながら読んでいました。\nhttps://c5meru.hatenablog.jp/entry/2026/06/15/202551\nすごく",
+      "param": "zenn"
+    },
+    {
+      "creator": "xin9le",
+      "title": "Raspberry Pi + Cloudflare Tunnel で安価で安全な自宅 Web サーバーを手に入れる",
+      "link": "https://zenn.dev/xin9le/articles/1340941f739745",
+      "pubDate": "2026-06-22T06:17:11.000Z",
+      "contentSnippet": "背景\n先日 超dotnet new に参加した際、@mayuki 先生から「安全に自宅 Web サーバー建てるなら Cloudflare Tunnel が便利」と教えてもらいました。\nhttps://speakerdeck.com/mayu",
+      "param": "zenn"
+    },
+    {
       "creator": "Takeru Ino",
       "title": "Databricksが発表したOLAP×OLTP両刀⚔️の次世代DBアーキテクチャ「LTAP」を深堀る！",
       "link": "https://zenn.dev/nttdata_tech/articles/e1e7bc7aeb9b20",
@@ -33,6 +105,14 @@
       "link": "https://zenn.dev/dress_code/articles/csv-for-customers",
       "pubDate": "2026-06-22T02:30:07.000Z",
       "contentSnippet": "TL;DR\n\n\n はじめに\nこんにちは、Dress Code でプロダクトエンジニアをしている ないとー です！\n私たちは DRESS CODE という、人事・情報システム・総務・採用・コーポレートなど複数の部門を横断する業務 OS として",
+      "param": "zenn"
+    },
+    {
+      "creator": "BABY JOB 開発部",
+      "title": "Google Workspace Studioで業務改善に挑戦した",
+      "link": "https://zenn.dev/babyjob/articles/try-workspacestudio",
+      "pubDate": "2026-06-22T01:01:35.000Z",
+      "contentSnippet": "はじめに：きっかけと作ったもの\n\n 抱えていた課題\n社内では、HPのお問い合わせフォームに届いた内容をSlackに転送して共有しています。しかし、この転送がメールのインライン展開になっていて、内容を確認するにはいちいち展開して全文を読む必要",
       "param": "zenn"
     },
     {
@@ -454,7 +534,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
+      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"
@@ -462,7 +542,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
+      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"
