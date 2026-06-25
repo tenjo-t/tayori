@@ -4,6 +4,78 @@
   "description": "現在Zennでトレンドとなっている投稿のRSSフィードです",
   "items": [
     {
+      "creator": "SORA",
+      "title": "学生のためのCodex 〜Codexを学習に使う 入門編〜",
+      "link": "https://zenn.dev/sora_lnv/articles/b67a03b8339278",
+      "pubDate": "2026-06-24T08:00:09.000Z",
+      "contentSnippet": "1. はじめに\nCodexというと、プログラミングが得意な人やエンジニア向けのツールに見えるかもしれません。もしくは、Codexって何？と思う方もいると思います。\nCodexはコードを書いたり、修正したり、エラーを調べたりするために強いAI",
+      "param": "zenn"
+    },
+    {
+      "creator": "edom18",
+      "title": "小さいローカル LLM をファインチューニングしてタスクに特化させ、Unity で利用する",
+      "link": "https://zenn.dev/meson_tech_blog/articles/fine-tuning-local-llm",
+      "pubDate": "2026-06-24T04:51:06.000Z",
+      "contentSnippet": "はじめに\n以下の記事を読んで、自分でもローカル LLM をファインチューニングしてみよう、と思ってやってみたことをまとめた記事です。\n加えて、せっかくなので Unity で扱える形までやってみたのでそれについても書こうと思います。\nhttp",
+      "param": "zenn"
+    },
+    {
+      "creator": "mashi",
+      "title": "イベントストーミングのススメ",
+      "link": "https://zenn.dev/nstock/articles/ac27140d8092ed",
+      "pubDate": "2026-06-24T04:28:06.000Z",
+      "contentSnippet": "こんにちは、Nstockの株式報酬事業で開発をやっているshimaです。\n先日、開発チームでイベントストーミングをやってみました。終わってみたら想像の3倍くらいよかったので、準備から当日、感想まで一通り書いておきます。これからやってみようか",
+      "param": "zenn"
+    },
+    {
+      "creator": "Michio Fujii",
+      "title": "MulmoClaudeで自分専用の天気アプリをVibe Craftingしてみた",
+      "link": "https://zenn.dev/michiof/articles/mulmoclaude-weather-app",
+      "pubDate": "2026-06-24T02:01:46.000Z",
+      "contentSnippet": "MulmoClaudeの6月のアップデートで、MulmoClaude上で自分専用のアプリが開発できるようになりました。複数のツールを行き来する手間も、アーキテクチャを考える手間もなく、MulmoClaudeがあれば。一箇所で自分専用のアプリ",
+      "param": "zenn"
+    },
+    {
+      "creator": "olibrauma",
+      "title": "Tauri ライブラリの意外な使い道 — headless な CLI を作ってみた",
+      "link": "https://zenn.dev/olibrauma/articles/tauri-library-for-cli-tool",
+      "pubDate": "2026-06-23T12:10:11.000Z",
+      "contentSnippet": "Tauri のエンジンは GUI 以外に使えるか？\nTauri は Electron の代替として知られるデスクトップアプリフレームワークです。Chromium をバンドルする Electron と違い、OS ネイティブの WebView ",
+      "param": "zenn"
+    },
+    {
+      "creator": "しろくま（Hiroki, Nomura）",
+      "title": "GAしたGitHub Copilot Appを触ってみた　～Issueから実装・PR・マージまでをエージェントに任せる～",
+      "link": "https://zenn.dev/nomhiro/articles/poc-develop-use-github-copilot-app",
+      "pubDate": "2026-06-23T09:25:03.000Z",
+      "contentSnippet": "はじめに\n2026年6月17日、GitHub Copilot app が GA（一般提供）になりました。Issue を起点に、計画 → 実装 → 動作確認 → PR → マージまでを、エージェントを\"監督\"しながら回す専用デスクトップアプリ",
+      "param": "zenn"
+    },
+    {
+      "creator": "gyu-don | Takumi Kato",
+      "title": "なぜ LLM に大喜利が難しいのか",
+      "link": "https://zenn.dev/nttdata_tech/articles/3241a46dca47b2",
+      "pubDate": "2026-06-23T08:44:57.000Z",
+      "contentSnippet": "最初はちょっとした好奇心のつもりだった\nChatGPT や Claude の笑いのセンスは、ぼくとは合わない気がする。特に Claude とは、普段は友達のように分かり合えているのに、大喜利では全然分かり合えない。けれど本当はできるはずなん",
+      "param": "zenn"
+    },
+    {
+      "creator": "Yuki",
+      "title": "AWS13冠は、何を証明して、何を証明しないのか",
+      "link": "https://zenn.dev/honey_aws/articles/certifications-and-tradeoff-judgment",
+      "pubDate": "2026-06-23T07:44:36.000Z",
+      "contentSnippet": "はじめに\nエンジニア3年目です。現職は GeneXus（ローコード開発基盤）の SES で、AWS の実務経験はありません。その立場で、AWS 認定を13個取り、初めての個人開発として、フルサーバーレスの RAG アプリを Terrafor",
+      "param": "zenn"
+    },
+    {
+      "creator": "ウンス",
+      "title": "個人のプロンプト術をやめて、チームで回るAI駆動開発ループを作った話",
+      "link": "https://zenn.dev/explaza/articles/d0aeb08fcd1888",
+      "pubDate": "2026-06-23T05:26:57.000Z",
+      "contentSnippet": "こんにちは。エクスプラザの Unsu です。\n最近 \"Loop Engineering\"という言葉をよく目にするようになりました。\nまた新しいかっこいい名前の何かしらエンジニアリングが出てきたな、くらいに思いつつ、\nAddy Osmani ",
+      "param": "zenn"
+    },
+    {
       "creator": "Atsushi Kadowaki",
       "title": "AI時代のナレッジ管理手法 - Googleの「OKF」を解説",
       "link": "https://zenn.dev/knowledgesense/articles/14a874a9f423bb",
@@ -28,11 +100,27 @@
       "param": "zenn"
     },
     {
+      "creator": "kou",
+      "title": "タスクを割り振る開発は終わった",
+      "link": "https://zenn.dev/awesome_kou/articles/end-of-task-assignment-dev",
+      "pubDate": "2026-06-23T00:41:40.000Z",
+      "contentSnippet": "はじめに\n長いあいだ、ソフトウェア開発のスケールは「分業」で支えられてきました。\n漠然とした要望を小さなタスクへ切り出したり、大きな機能を分割したり、ざっくりした設計を細かい作業に落としたり。切り出しの出発点はさまざまですが、やることは結局",
+      "param": "zenn"
+    },
+    {
       "creator": "tagucci",
       "title": "読みベースの編集距離を測るライブラリ「mòine」をつくりました",
       "link": "https://zenn.dev/tagucci/articles/fb1ca46cc7cdf3",
       "pubDate": "2026-06-23T00:40:45.000Z",
       "contentSnippet": "今回はレーベンシュタイン距離ではなく読みをベースとした編集距離を測るライブラリをつくったのでその紹介記事です。名前は自分の好きなスコッチウイスキーであるブナハーブンのMòineからとりました。ブナハーブンのMòineは日本語では「モーイン」",
+      "param": "zenn"
+    },
+    {
+      "creator": "toms",
+      "title": "『エリック・エヴァンスのドメイン駆動設計』から現代へ",
+      "link": "https://zenn.dev/toms74209200/articles/evans-ddd-to-modern-ddd",
+      "pubDate": "2026-06-23T00:00:11.000Z",
+      "contentSnippet": "『エリック・エヴァンスのドメイン駆動設計』 [1] （エヴァンス本）は古典的な名著として現代においても広く読まれています. しかし現代のアプリケーション開発ではエヴァンス本をそのまま適用することはできません. この本が当時のアプリケーション",
       "param": "zenn"
     },
     {
@@ -534,7 +622,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
+      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"
@@ -542,7 +630,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
+      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"

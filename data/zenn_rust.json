@@ -4,6 +4,22 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "abyo software合同会社",
+      "title": "S3 の通り道に置くだけで bucket が半分以下になる Rust 製 gateway を作った話 — S4 1.4.1",
+      "link": "https://zenn.dev/abyo_software/articles/e7a8bf06d48ee2",
+      "pubDate": "2026-06-24T14:43:26.000Z",
+      "contentSnippet": "TL;DR\nS3 クライアントの --endpoint-url を差し替えるだけで、PUT 時に透過圧縮、GET 時に透過展開する Rust 製ゲートウェイ S4 を Apache-2.0 で公開しています。\n\n\naws-cli / bot",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nao",
+      "title": "Rustの「derive」を初学者視点でドラえもんに例えてみた",
+      "link": "https://zenn.dev/i_n_dev/articles/8f9fc1a7d5100a",
+      "pubDate": "2026-06-24T06:10:35.000Z",
+      "contentSnippet": "はじめに\n現在Rust学習1か月目で「derive」を学習してみてドラえもんに例えられそうだったので、アウトプットをかねてやってみます。\nRustって厳格な言語なのに、日本語の変数名やキー、関数名と使えるのに驚きです。なので早速使ってみまし",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "hiyoyo",
       "title": "Rustで並列ファイル転送を実装する——Semaphoreで同時実行数を制御してAndroid同期を高速化",
       "link": "https://zenn.dev/hiyokoko/articles/82a90eca3761de",

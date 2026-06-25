@@ -3,6 +3,20 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "Wear OS 7が登場！ Android 17ベースの進化点と主要な新機能を解説",
+      "link": "https://gihyo.jp/article/2026/06/android-weekly-topics-260625?utm_source=feed",
+      "pubDate": "2026-06-25T00:08:00.000Z",
+      "contentSnippet": "6月16日、Googleは「Wear OS 7」の正式リリースを発表しました。今回のアップデートは、同時に展開される最新の「Android 17」をベースに構築されており、システム全体の処理効率や他デバイスとの連携性能が大幅に引き上げられて",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "GitHub Copilotアプリでデザイン支援スキル「Impeccable」が実験的に利用可能に",
+      "link": "https://gihyo.jp/article/2026/06/github-copilot-app-support-impeccable-skill?utm_source=feed",
+      "pubDate": "2026-06-24T07:55:00.000Z",
+      "contentSnippet": "GitHubは2026年6月22日、AIコーディングエージェント向けのデザイン支援スキル「Impeccable」をGitHub Copilotアプリの組み込みスキルとして利用できるようになったと公式Xで案内した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "高校数学で最先端AIの「嘘」を解き明かす ——AIはなぜ間違えるのか",
       "link": "https://gihyo.jp/article/2026/06/mathematical-thinking-03?utm_source=feed",
       "pubDate": "2026-06-24T00:34:00.000Z",
@@ -5428,17 +5442,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {
