@@ -4,6 +4,22 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "hiyoyo",
+      "title": "macOSでHEIC→JPEG変換をRustから呼ぶ——sipsを使えばライブラリ不要",
+      "link": "https://zenn.dev/hiyokoko/articles/514fcf9b12c7b5",
+      "pubDate": "2026-06-25T03:44:39.000Z",
+      "contentSnippet": "8年前のMacBook Air（Intel）で全テスト済み。7本のMacアプリをソロ開発した実体験から書いています。案件でも広告でもありません。\niPhoneはHEICで撮影する。ほとんどのアプリが欲しいのはJPEG。HiyokoAutoS",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "abyo software合同会社",
+      "title": "Logstash を Rust で書き直して AWS で 4.2× 速かった話",
+      "link": "https://zenn.dev/abyo_software/articles/68f7c920def6d4",
+      "pubDate": "2026-06-24T15:06:17.000Z",
+      "contentSnippet": "Logstash を Rust で書き直して AWS で 4.2× 速かった話\n\n 何を作ったか\nabyo software 合同会社で FerroStash という Logstash 互換の log pipeline を Rust で開発",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "abyo software合同会社",
       "title": "S3 の通り道に置くだけで bucket が半分以下になる Rust 製 gateway を作った話 — S4 1.4.1",
       "link": "https://zenn.dev/abyo_software/articles/e7a8bf06d48ee2",

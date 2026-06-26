@@ -3,6 +3,34 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "Alibaba Qwen、エージェント向け言語世界モデル「Qwen-AgentWorld」をリリース",
+      "link": "https://gihyo.jp/article/2026/06/qwen-agentworld?utm_source=feed",
+      "pubDate": "2026-06-25T07:28:00.000Z",
+      "contentSnippet": "Alibaba Qwen Teamは2026年6月22日、7つのドメインでエージェント環境をシミュレートするネイティブ言語世界モデル「Qwen-AgentWorld」をリリースした。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "GitLab、2026年版「AIアカウンタビリティレポート」発表、80%の組織でAIツール管理ポリシーの整備に遅れ",
+      "link": "https://gihyo.jp/article/2026/06/gitlab-ai-accountability-report?utm_source=feed",
+      "pubDate": "2026-06-25T07:07:00.000Z",
+      "contentSnippet": "GitLab Inc.は2026年6月23日、AI生成コードの運用に関する説明責任を扱う2026年版「AIアカウンタビリティレポート」を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "＃01　PyCon US 2026カンファレンス前半 ―Python開発のさまざまなフェーズで進む高速化に注目",
+      "link": "https://gihyo.jp/article/2026/06/pycon-us-2026-001?utm_source=feed",
+      "pubDate": "2026-06-25T05:35:00.000Z",
+      "contentSnippet": "2026年5月13日～19日にアメリカ、カリフォルニアで開催されたPythonの年次国際カンファレンス「PyCon US 2026」に参加してきたので、その様子をレポートします。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Gemini 3.5 Flashがコンピュータ操作機能に対応",
+      "link": "https://gihyo.jp/article/2026/06/computer-use-in-gemini-3-5-flash?utm_source=feed",
+      "pubDate": "2026-06-25T02:52:00.000Z",
+      "contentSnippet": "Googleは2026年6月24日、同社の高速モデルの最新バージョンGemini 3.5 Flashでコンピュータユース（コンピュータ操作機能）が組み込みツールとしてサポートされたことを発表した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "Wear OS 7が登場！ Android 17ベースの進化点と主要な新機能を解説",
       "link": "https://gihyo.jp/article/2026/06/android-weekly-topics-260625?utm_source=feed",
       "pubDate": "2026-06-25T00:08:00.000Z",
@@ -5442,17 +5470,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {

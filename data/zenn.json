@@ -4,6 +4,78 @@
   "description": "現在Zennでトレンドとなっている投稿のRSSフィードです",
   "items": [
     {
+      "creator": "Yuting Lin",
+      "title": "Gemini を Claude の「サブエージェント」に —— 大規模開発でコストを実測",
+      "link": "https://zenn.dev/google_cloud_jp/articles/63205d90345627",
+      "pubDate": "2026-06-25T04:03:03.000Z",
+      "contentSnippet": "!\nGoogle Cloud Japan シリーズ続編です。\n\n\nClaude on Vertex AI 完全ガイド（導入）\n\nClaude × Gemini マルチモデルゲートウェイを Cloud Run で構築（ランタイムのコスト追跡）",
+      "param": "zenn"
+    },
+    {
+      "creator": "Y. O.",
+      "title": "LLMが書いた「正しそうな言葉」に感じる違和感",
+      "link": "https://zenn.dev/mkj/articles/40a6c187d2dbc9",
+      "pubDate": "2026-06-25T02:50:08.000Z",
+      "contentSnippet": "松尾研究所でシニアデータサイエンティストをしている大岡です。\n\nこの文章はかなり整っている。\nそれどころか内容も正しいし思考も深い。\nただ、その文章を読んで「これは誰の判断なのか」と感じることがある。\n\n今回は、この違和感について整理してみ",
+      "param": "zenn"
+    },
+    {
+      "creator": "にいさん",
+      "title": "AI 時代だからこそコードを読もう",
+      "link": "https://zenn.dev/layerx/articles/6f510abfc3fa72",
+      "pubDate": "2026-06-25T02:05:18.000Z",
+      "contentSnippet": "はじめに\nこんにちは。LayerX でバクラク勤怠の開発をしておりますにいさんです。\n昨今の IT 業界では、事業やプロダクト、イベント登壇、技術ブログ、書籍に至るまで AI の話題を見ない日がないほどになりました。\n開発者としての日々の仕",
+      "param": "zenn"
+    },
+    {
+      "creator": "nmatsu",
+      "title": "ローカルのGit差分をGitHub風UIでレビューできる「difit」を使ってみた",
+      "link": "https://zenn.dev/rescuenow/articles/535533464da3cf",
+      "pubDate": "2026-06-25T01:46:26.000Z",
+      "contentSnippet": "はじめに\ndifit（ディフィット）は、ローカルのGit差分を、GitHubの「Files changed」のようなUIでブラウザ表示してレビューできるCLIツールです。ターミナルの git diff と異なり、シンタックスハイライト付きの",
+      "param": "zenn"
+    },
+    {
+      "creator": "Riya Amemiya",
+      "title": "Chromium(V8)のArray.prototype.flatをバルクコピーでさらに約5倍高速化した",
+      "link": "https://zenn.dev/dinii/articles/e12fbacc8e761c",
+      "pubDate": "2026-06-25T00:00:16.000Z",
+      "contentSnippet": "はじめに\n!\n修正や追加等はコメントまたはGitHubで編集リクエストをお待ちしております。\n\nダイニーで一番若いエンジニアのriya amemiya(21歳)です。\n以前、V8の Array.prototype.flat（以下 flat）",
+      "param": "zenn"
+    },
+    {
+      "creator": "meijin",
+      "title": "AI時代のコードレビューは人に向けるな、仕組みに向けろ",
+      "link": "https://zenn.dev/manalink_dev/articles/ai-coding-era-review-to-dev-process-not-human",
+      "pubDate": "2026-06-24T23:31:43.000Z",
+      "contentSnippet": "人間がコードを書いていた時代は、\n「こんな酷いコードを書いたのは誰だ？」\nという疑問が出てくる時代でした。しかしAIがコード実装の大半を担う時代は\n「こんな酷いコードが出力されたのはどの仕組みのせいだ？」\nという疑問こそが芯を食っています。",
+      "param": "zenn"
+    },
+    {
+      "creator": "GameDev Tool Lab",
+      "title": "Unity 6時代にUniTaskはまだ必要か？Awaitable登場後の使い分けを整理する",
+      "link": "https://zenn.dev/gamedev_toollab/articles/1c793e678197f9",
+      "pubDate": "2026-06-24T16:48:09.000Z",
+      "contentSnippet": "はじめに\nUnityで非同期処理を書く場合、長い間 Coroutine か UniTask が実務上の選択肢になっていました。\n特にUnityでは、多くのUnity APIをメインスレッドから呼ぶ必要があります。\nそのため、単純に .NET",
+      "param": "zenn"
+    },
+    {
+      "creator": "トラマト",
+      "title": "VSCodeからZedに乗り換えたら、軽いうえに大学鯖にも優しくなれた話",
+      "link": "https://zenn.dev/toramutton/articles/zed-debut-ssh",
+      "pubDate": "2026-06-24T12:47:43.000Z",
+      "contentSnippet": "はじめに\n\nこの記事は、大好評(？)の簡単！VSCodeではじめる快適なSSH接続のやり方【電通大生向け】の続編となっております。\n\nどうもトラマトです。皆さん快適な課題ライフを送っていますか？\n大学推奨のmobaXterm × emacs",
+      "param": "zenn"
+    },
+    {
+      "creator": "obiyuta",
+      "title": "「AIがSQLを書いてくれる」で終わらせない − 分析基盤の育て方",
+      "link": "https://zenn.dev/tribeau/articles/c961141dd4c9c8",
+      "pubDate": "2026-06-24T09:20:35.000Z",
+      "contentSnippet": "トリビューでCTOをしている小尾（@obiyuta）です。\n弊社ではAIを前提とした全社業務の再構築に取り組んでおり、前回はその中で取り組んでいる社内MCPを載せる共通基盤（認証・認可・ログ）をご紹介しました。\n今回は具体的な活用事例として",
+      "param": "zenn"
+    },
+    {
       "creator": "SORA",
       "title": "学生のためのCodex 〜Codexを学習に使う 入門編〜",
       "link": "https://zenn.dev/sora_lnv/articles/b67a03b8339278",
@@ -73,6 +145,14 @@
       "link": "https://zenn.dev/explaza/articles/d0aeb08fcd1888",
       "pubDate": "2026-06-23T05:26:57.000Z",
       "contentSnippet": "こんにちは。エクスプラザの Unsu です。\n最近 \"Loop Engineering\"という言葉をよく目にするようになりました。\nまた新しいかっこいい名前の何かしらエンジニアリングが出てきたな、くらいに思いつつ、\nAddy Osmani ",
+      "param": "zenn"
+    },
+    {
+      "creator": "wamomo",
+      "title": "E2E テストを読めるカタログにする ― AI 時代の振る舞い管理",
+      "link": "https://zenn.dev/loglass/articles/1b8129c8f28b37",
+      "pubDate": "2026-06-23T05:00:26.000Z",
+      "contentSnippet": "!\nこの記事は毎週必ず記事が出るテックブログ Loglass Tech Blog Sprint の 149 週目の記事です！\n3 年間連続達成まで残り 10 週となりました！\n\n\n 🌱 はじめに\nこんにちは、ログラスでバックエンドの数値計",
       "param": "zenn"
     },
     {
@@ -622,7 +702,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
+      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"
@@ -630,7 +710,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
+      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"
