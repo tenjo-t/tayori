@@ -4,6 +4,70 @@
   "description": "現在Zennでトレンドとなっている投稿のRSSフィードです",
   "items": [
     {
+      "creator": "もず",
+      "title": "ViteのresolveIdで特定環境のビルドだけ不要モジュールをstub化してバンドル軽量化",
+      "link": "https://zenn.dev/dress_code/articles/78667afa7c4fd9",
+      "pubDate": "2026-06-26T09:00:05.000Z",
+      "contentSnippet": "はじめに\nこんにちは、Dress Code株式会社でプロダクトエンジニアをしているもず（@mozu1206）です。\n以前、フロントだけで動くCRUDプロトタイプをDexie.jsで作り、-api層だけ差し替える設計を紹介しました。\n\nデモD",
+      "param": "zenn"
+    },
+    {
+      "creator": "Rick",
+      "title": "Kaggleコンペ紹介：NVIDIA Nemotron Model Reasoning Challenge",
+      "link": "https://zenn.dev/mkj/articles/3a4d70ac4e8fb4",
+      "pubDate": "2026-06-26T02:50:05.000Z",
+      "contentSnippet": "はじめに\nこんにちは、松尾研究所 データサイエンティストの力岡です。\n今回、Kaggleで開催された 「NVIDIA Nemotron Model Reasoning Challenge」 コンペに参加し、金メダルを獲得することができました",
+      "param": "zenn"
+    },
+    {
+      "creator": "GameDev Tool Lab",
+      "title": "CancellationTokenSource の Cancel と Dispose を安全に扱う専用クラスを作る",
+      "link": "https://zenn.dev/gamedev_toollab/articles/c5b5e685eea8e8",
+      "pubDate": "2026-06-26T02:12:22.000Z",
+      "contentSnippet": "はじめに\nUnity で非同期処理を書くと、ロード、通信、Addressables、画面遷移、タイムアウトなどで CancellationToken を扱う場面が増えます。\nそのときに使うのが CancellationTokenSource",
+      "param": "zenn"
+    },
+    {
+      "creator": "Yuto Sakai",
+      "title": "AWS Summit Japan 2026 GameDay参戦レポ：データサイエンティストが当日滑り込みで銅メダルを獲得するまで",
+      "link": "https://zenn.dev/gatechnologies/articles/aws-summit2026-gameday",
+      "pubDate": "2026-06-26T00:57:56.000Z",
+      "contentSnippet": "はじめに\nこんにちは。GA technologiesのData本部 Applied ML部でデータサイエンスをしている酒井です。\n普段は機械学習モデルの開発からMLパイプラインの構築・運用までを担当していますが、先日開催された AWS Su",
+      "param": "zenn"
+    },
+    {
+      "creator": "Masa0209",
+      "title": "マイクラを声で動かそうとしたら令和の「ピカチュウげんきでちゅう」になった話",
+      "link": "https://zenn.dev/m2lab/articles/koe-craft-agent-amivoice",
+      "pubDate": "2026-06-25T22:11:25.000Z",
+      "contentSnippet": "!\nこの記事は、Minecraft を声で操作する自作 MOD の開発記録です。\n平成一桁生まれが、昔遊んだ「ピカチュウげんきでちゅう」のスイカ割りをふと思い出しながら書いています。\nとはいえ、思い出話だけの記事ではありません。\nAmiVo",
+      "param": "zenn"
+    },
+    {
+      "creator": "gyuta",
+      "title": "インターンを経て起業した目線から——2026年、インターンに挑む学生へ",
+      "link": "https://zenn.dev/emuni/articles/5edab377da1074",
+      "pubDate": "2026-06-25T08:00:12.000Z",
+      "contentSnippet": "はじめに\n大学1年からインターンを重ね、約10社のIT企業で働きました。日系大手・メガベンチャーの中期インターンから、スタートアップ・中小での長期インターンまで、経験の幅はさまざまでした。\n大学院2年で仲間と起業し、いまは株式会社エムニで、",
+      "param": "zenn"
+    },
+    {
+      "creator": "ruriopcode",
+      "title": "Iceberg化できていないデータをどうIceberg化するか",
+      "link": "https://zenn.dev/ruriopcode/articles/289f829fa84f21",
+      "pubDate": "2026-06-25T07:00:58.000Z",
+      "contentSnippet": "はじめに\n前回までの記事では、Apache Icebergとは何か、そしてIcebergテーブルの裏側ではParquetファイル、Table Metadata JSON、Manifest List、Manifest Fileがどのように関係",
+      "param": "zenn"
+    },
+    {
+      "creator": "Masaya",
+      "title": "プログラムの純粋性について考える —— Clojure/Haskellとともに",
+      "link": "https://zenn.dev/studist/articles/program-purity-clojure-haskell",
+      "pubDate": "2026-06-25T06:59:53.000Z",
+      "contentSnippet": "はじめに\n純粋ってなんだろう？\n\n「プログラムが純粋であるとは、副作用がなく参照透過であることです」\n「えっと、それで？」\n\nこうした 定義と理解の間のギャップ を埋めるために筆を執りました。\n筆者が特に届けたいのは「純粋とはプログラムを ",
+      "param": "zenn"
+    },
+    {
       "creator": "Yuting Lin",
       "title": "Gemini を Claude の「サブエージェント」に —— 大規模開発でコストを実測",
       "link": "https://zenn.dev/google_cloud_jp/articles/63205d90345627",
@@ -702,7 +766,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
+      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"
@@ -710,7 +774,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
+      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"

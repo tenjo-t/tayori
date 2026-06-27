@@ -4,6 +4,38 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "nakahide",
+      "title": "Next DP Contest（NDPC）の学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-top",
+      "pubDate": "2026-06-26T12:00:05.000Z",
+      "contentSnippet": "この記事について\nNext DP Contestで筆者が解いた問題(A～Iの9問)について、解法を自分なりに整理した学習記録です。\n後から読み返したときに解法を再構成できるよう、完成したコードだけでなく、DPの状態や遷移、解法のポイントを整",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "NDPC-Dの学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-d",
+      "pubDate": "2026-06-26T12:00:05.000Z",
+      "contentSnippet": "問題のリンク\n\n\n 問題概要\nある国では、1円紙幣, 10円紙幣, 100円紙幣, ...と10倍ごとに紙幣が流通している。\nN 円の支払いを行う時、「支払う紙幣の枚数」と「お釣りとしてもらう紙幣の枚数」の合計枚数を最小化する問題。\n\n 重",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "まさやん",
+      "title": "Claude CodeもCodexも1画面で。AIエディタ Zed をDL〜ACP接続〜実機デモまでハンズオンしたで",
+      "link": "https://zenn.dev/masayan1126/articles/zed-ai-editor-acp-hands-on",
+      "pubDate": "2026-06-26T10:19:54.000Z",
+      "contentSnippet": "この記事について\n最近じわじわ来てる**AIネイティブなコードエディタ「Zed」**を、公式サイトからのダウンロードからACP接続、AIエージェントの実機デモまで、手順どおりにハンズオンした記録やで。\nZed最大の特徴は、ACP（Agent",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "Penbit Lab",
+      "title": "Ubuntu 26.04でsudoが変わった──sudo-rsの挙動を実機検証してみた",
+      "link": "https://zenn.dev/penbit_lab/articles/09e6bc5dad919a",
+      "pubDate": "2026-06-25T22:30:05.000Z",
+      "contentSnippet": "はじめに\nLinuxを触ったことがある人なら、誰もが毎日当たり前のように叩いているコマンドがあります。そう、sudo です。\nsudo apt update\n管理者権限が必要なコマンドを実行する際、私たちは深く考えることなく sudo をプ",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "hiyoyo",
       "title": "macOSでHEIC→JPEG変換をRustから呼ぶ——sipsを使えばライブラリ不要",
       "link": "https://zenn.dev/hiyokoko/articles/514fcf9b12c7b5",

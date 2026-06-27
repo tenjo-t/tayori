@@ -3,6 +3,20 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "Linux Foundation、AIを使ったサイバー攻撃からOSSを守るプロジェクトAkritesを始動",
+      "link": "https://gihyo.jp/article/2026/06/akrites?utm_source=feed",
+      "pubDate": "2026-06-26T03:54:00.000Z",
+      "contentSnippet": "Linux Foundationは2026年6月25日、IT業界の関連企業とともに、AIを活用したサイバー脅威から重要なオープンソースソフトウェアを守るための取り組み「Akrites」の創設を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Ubuntu 26.10（Stonking）の開発; Betaの位置付けの変更、Arm64向けLivepatchの提供、Ubuntu Coreと“Golioth”によるMCU管理",
+      "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202606/26?utm_source=feed",
+      "pubDate": "2026-06-26T01:16:00.000Z",
+      "contentSnippet": "Ubuntuのリリースにおいて、stonking以降ではベータリリースの位置付けが変わることになりそうです。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "Alibaba Qwen、エージェント向け言語世界モデル「Qwen-AgentWorld」をリリース",
       "link": "https://gihyo.jp/article/2026/06/qwen-agentworld?utm_source=feed",
       "pubDate": "2026-06-25T07:28:00.000Z",
@@ -5470,17 +5484,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {
