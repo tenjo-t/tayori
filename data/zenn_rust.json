@@ -4,6 +4,30 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "abyo software合同会社",
+      "title": "S4 Logs v1.1.0 / v1.1.1 ─── 4 crate を切り出し、ACME と EMF DoS 防御を載せた話",
+      "link": "https://zenn.dev/abyo_software/articles/f26ed07059d7ac",
+      "pubDate": "2026-06-27T14:45:40.000Z",
+      "contentSnippet": "abyo software 合同会社で開発・公開している OSS S4 Logs の v1.1 系について、 設計判断にフォーカスした記事です。 プロダクトそのものの導入は Qiita 側に書いています\nhttps://qiita.com/",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "NDPC-Eの学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-e",
+      "pubDate": "2026-06-27T12:00:05.000Z",
+      "contentSnippet": "問題のリンク\n\n\n 問題概要\nN 日間の夏休みの間に、M 個のイベントが開催される。\nQ 個のクエリが与えられるので、各クエリについて夏休みの L 日目から R 日目までの間に参加できるイベントの個数の最大値を答える問題。\n\n 重要なポイン",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "kent-tokyo",
+      "title": "LLMで化学を扱うとき、分子の渡し方で性能が変わる：arXivを読んでRust製ライブラリに実装したこと",
+      "link": "https://zenn.dev/kent_kamome/articles/3fab7c9f804e6e",
+      "pubDate": "2026-06-27T04:50:05.000Z",
+      "contentSnippet": "はじめに\nSMILES（分子構造を文字列で表すフォーマット）をLLMのプロンプトに渡すだけでは、分子構造を正しく推論させるのは難しい。\nたとえばアスピリンのSMILESは CC(=O)Oc1ccccc1C(=O)O です。化学者には読めます",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "nakahide",
       "title": "Next DP Contest（NDPC）の学習記録",
       "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-top",

@@ -4,6 +4,13 @@
   "description": "Blogs written by saku",
   "items": [
     {
+      "title": "CSS `ident()` におけるダミーデータを利用した値の早期評価",
+      "link": "https://blog.sakupi01.com/dev/articles/ident-eager-parsing-behavior/",
+      "pubDate": "2026-06-27T00:00:00.000Z",
+      "contentSnippet": "`ident()` の早期パースにおいて議論されたアイディアとその一連の流れを振り返ります",
+      "param": "saku_blog"
+    },
+    {
       "title": "Google I/O 2026 (1st edition!)",
       "link": "https://blog.sakupi01.com/life/articles/google-io-first-visit/",
       "pubDate": "2026-05-23T00:00:00.000Z",

@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "Deno で Desktop アプリを作れるようになっていた",
+      "link": "https://azukiazusa.dev/blog/deno-desktop-app",
+      "pubDate": "2026-06-26T10:53:00.000Z",
+      "contentSnippet": "Deno v2.9.0 以降で `deno desktop` コマンドが使えるようになりました。`deno desktop` コマンドは単一の TypeScript ファイルから Next.js プロジェクトまで、デスクトップアプリに変換で",
+      "param": "azukiazusa"
+    },
+    {
       "title": "Vercel で Feature Flags を管理する",
       "link": "https://azukiazusa.dev/blog/vercel-feature-flags",
       "pubDate": "2026-06-24T10:37:00.000Z",

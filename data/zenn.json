@@ -4,11 +4,99 @@
   "description": "現在Zennでトレンドとなっている投稿のRSSフィードです",
   "items": [
     {
+      "creator": "まい",
+      "title": "hoge+fuga@example.com は「エイリアス」ではない",
+      "link": "https://zenn.dev/mai_llj/articles/3eefb32e632563",
+      "pubDate": "2026-06-27T15:07:10.000Z",
+      "contentSnippet": "はじめに\n先日、このような投稿を見かけました。\nメールサーバをセルフホストして、サービスごとに別々のアドレスを割り当てている方のところに、とあるお寿司チェーンにしか教えていないはずのアドレス宛にフィッシングメールが届いたそうです。おかげで、",
+      "param": "zenn"
+    },
+    {
+      "creator": "Shinoda Yukihiro",
+      "title": "Claude Code と Codex のレビュー機能は脆弱性をどれだけ見つけられるかをOWASP Benchmark で検証",
+      "link": "https://zenn.dev/yukkie1114/articles/3d927e8c28e085",
+      "pubDate": "2026-06-27T08:55:23.000Z",
+      "contentSnippet": "はじめに\nAI にコードレビューをさせる――少し前なら半信半疑だった使い方が、いまではAIにレビューさせている人も多いのではないでしょうか。\n便利だと思う一方で、前からずっと引っかかっていたことがあります。\n\n「結局、どのレビュー方式が一番",
+      "param": "zenn"
+    },
+    {
+      "creator": "PROPAGANDIST CORPORATION",
+      "title": "Spring Boot で Claude API 呼び出しを OpenTelemetry で計測する",
+      "link": "https://zenn.dev/propagandist/articles/0004-spring-boot-otel-claude-observability",
+      "pubDate": "2026-06-27T08:43:31.000Z",
+      "contentSnippet": "この記事について\n\n\n対象読者：Spring Boot から Claude API を呼んでいて、そのレイテンシ・トークン・コスト・失敗を可視化したい人／LLM 呼び出しに OpenTelemetry を入れる最小の型を知りたい人\n\n得られ",
+      "param": "zenn"
+    },
+    {
+      "creator": "Masaki Hara",
+      "title": "デュアルブート備忘録",
+      "link": "https://zenn.dev/qnighy/articles/09136afbf27bf3",
+      "pubDate": "2026-06-27T08:25:23.000Z",
+      "contentSnippet": "久しぶりに Windows/Linux のデュアルブート構成にしたので、そのときに調べたことと自分の構成をメモしておきます。\n\n なぜデュアルブートにしたのか\n4年間愛用していた Surface Laptop Studio が味噌汁の襲撃に",
+      "param": "zenn"
+    },
+    {
+      "creator": "shishi",
+      "title": "いまさら聞けない FTP / FTPS / SFTP の違いと選び方 ― データ連携プロトコル徹底比較",
+      "link": "https://zenn.dev/shishina/articles/ac63679ab5b1b5",
+      "pubDate": "2026-06-27T06:44:15.000Z",
+      "contentSnippet": "はじめに\n業務システム間のファイル連携を任されたとき、まず候補に挙がるのが FTP / FTPS / SFTP あたりのプロトコルです。\n名前が似ているため「とりあえず SFTP にしておけば良いのでは？」で済まされがちですが、\n\n仕組み（",
+      "param": "zenn"
+    },
+    {
+      "creator": "Kanaru",
+      "title": "【初学者向け】Google AI Studioでwebアプリを作ってみよう",
+      "link": "https://zenn.dev/kanaru/articles/a8fc555cdbb6b0",
+      "pubDate": "2026-06-27T04:49:22.000Z",
+      "contentSnippet": "Google AI Studioとは？\nGoogleが提供するアプリ開発のプラットフォームです。\nwebアプリやandroidアプリを作って公開できます。\nアプリにGeminiのAIを組み込んだり、GoogleカレンダーやSpreadShe",
+      "param": "zenn"
+    },
+    {
+      "creator": "いなりく / Riku Inada",
+      "title": "明日から始める、コーディングエージェント時代のフルスタック開発 — AWS Blocks のソースコードを読む",
+      "link": "https://zenn.dev/aws_japan/articles/aws-blocks-source-reading",
+      "pubDate": "2026-06-26T14:55:19.000Z",
+      "contentSnippet": "はじめに\nこんにちは、AWS Japan でソリューションアーキテクトをしているいなりくです。\n本記事は、AWS Summit Japan 2026 での登壇セッション「明日から始める、コーディングエージェント時代のフルスタック開発」の補足",
+      "param": "zenn"
+    },
+    {
+      "creator": "Kouki Nakae",
+      "title": "会議中に Claude が“次に聞くべきこと”を提案してくれる議事録アプリを作った",
+      "link": "https://zenn.dev/uguisu_blog/articles/d777bd252bab6b",
+      "pubDate": "2026-06-26T11:55:03.000Z",
+      "contentSnippet": "商談や会議の発言をリアルタイムに文字起こしし、その場で Claude が「次に確認すべきこと」を提案、終了時に議事録まで自動生成する Web アプリ AI-Giziroku を作りました。\nこのアプリの一番の売りは、会議中にリアルタイムで“",
+      "param": "zenn"
+    },
+    {
+      "creator": "kaito",
+      "title": "Generative UIにJSONは最適なのか？ OpenUIという選択肢",
+      "link": "https://zenn.dev/sc30gsw/articles/d7320f1247b785",
+      "pubDate": "2026-06-26T10:07:27.000Z",
+      "contentSnippet": "はじめに\n最近、Generative UI まわりの選択肢が一気に増えてきました。\nA2UI・json-render・MCP Apps・Open Generative UI、そして今回扱う OpenUI。プロトコル・ライブラリ・フレームワー",
+      "param": "zenn"
+    },
+    {
+      "creator": "ShintaroAmaike",
+      "title": "シニアエンジニアがコードをほぼ書かなくなった理由",
+      "link": "https://zenn.dev/acntechjp/articles/22f7b6f9258008",
+      "pubDate": "2026-06-26T09:45:05.000Z",
+      "contentSnippet": "「AIはコードを書く。人間はコードを読む。」\n\n私はソフトウェアエンジニアとして15年のキャリアがある。コードを書くことが仕事だと思っていた。\n今は違う。コードを書くのはAIで、私は仕様を書いている。\n今、私が書くコードは体感で全体の1%に",
+      "param": "zenn"
+    },
+    {
       "creator": "もず",
       "title": "ViteのresolveIdで特定環境のビルドだけ不要モジュールをstub化してバンドル軽量化",
       "link": "https://zenn.dev/dress_code/articles/78667afa7c4fd9",
       "pubDate": "2026-06-26T09:00:05.000Z",
       "contentSnippet": "はじめに\nこんにちは、Dress Code株式会社でプロダクトエンジニアをしているもず（@mozu1206）です。\n以前、フロントだけで動くCRUDプロトタイプをDexie.jsで作り、-api層だけ差し替える設計を紹介しました。\n\nデモD",
+      "param": "zenn"
+    },
+    {
+      "creator": "BABY JOB 開発部",
+      "title": "AI 推進専任 4 ヶ月、試行錯誤してたどり着いた答え",
+      "link": "https://zenn.dev/babyjob/articles/ai-promotion-4months-practice",
+      "pubDate": "2026-06-26T07:00:05.000Z",
+      "contentSnippet": "はじめに\nこんにちは！BABY JOB 開発部の kassa です。\n元々は えんさがそっ♪ の開発・運用保守を担当しており、2026 年 3 月から AI 推進の専任担当者として着任しました。\n正直に言うと、最初は何から手をつければいいか",
       "param": "zenn"
     },
     {
@@ -766,7 +854,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
+      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"
@@ -774,7 +862,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
+      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"
