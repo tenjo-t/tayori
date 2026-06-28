@@ -4,6 +4,14 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "石垣島産石垣",
+      "title": "RustでABC464 (A ~ E)",
+      "link": "https://zenn.dev/ishigaki122/articles/061acd721e1b70",
+      "pubDate": "2026-06-27T20:41:25.000Z",
+      "contentSnippet": "ABC 464 参加記録\n\n 戦績\n\n\n\n問題\n結果\n時間\nペナルティ\n\n\n\n\nA\nAC\n2:02\n0\n\n\nB\nAC\n11:18\n0\n\n\nC\nAC\n19:56\n0\n\n\nD\nAC\n64:27\n0\n\n\nE\nTLE -> AC\n83:14\n1\n\n",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "abyo software合同会社",
       "title": "S4 Logs v1.1.0 / v1.1.1 ─── 4 crate を切り出し、ACME と EMF DoS 防御を載せた話",
       "link": "https://zenn.dev/abyo_software/articles/f26ed07059d7ac",

@@ -68,6 +68,14 @@ export const siteList = [
     logo: "/logo/sakupi01.svg",
     creator: "saku",
   },
+  {
+    rss:'https://kawarimidoll.com/rss.xml',
+     url: "https://kawarimidoll.com/",
+    title: "kawarimidoll.com",
+    param: "kawarimidoll",
+    logo: "/logo/kawarimidoll.svg",
+    creator: "kawarimidoll",
+  }
 ] satisfies SiteInfo[];
 
 export const colors = [

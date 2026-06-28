@@ -4,6 +4,22 @@
   "description": "現在Zennでトレンドとなっている投稿のRSSフィードです",
   "items": [
     {
+      "creator": "Forest-Project-Lab",
+      "title": "AIの日本語が「整いすぎて不自然」な正体は『カルク（訳語臭）』だった — 高品質な日本語文章を生成するスキルを作った",
+      "link": "https://zenn.dev/forest_project/articles/a62fc2f6ac85ff",
+      "pubDate": "2026-06-27T16:30:34.000Z",
+      "contentSnippet": "AIに書かせた日本語を読んで、「整っているのに、どこか不自然」と感じたことはないだろうか。\n誤字はない。文法も合っている。それなのに、地の文がつるりと滑って頭に入ってこない。「AIが書いた文章だ」と一目で分かる、あの感じ。\nこの「整いすぎて",
+      "param": "zenn"
+    },
+    {
+      "creator": "Masahide YAMASAKI",
+      "title": "RX 9070 XT 16GBでローカルLLMのAIコーディングエージェント環境を作る",
+      "link": "https://zenn.dev/masahide/articles/0d4016e8ea5a25",
+      "pubDate": "2026-06-27T15:13:08.000Z",
+      "contentSnippet": "Qwen3-Coder 30B-A3B + pi-coding-agent\nRX 9070 XT環境で、ローカルLLMを使ったAIコーディングエージェント環境を構築したメモです。\n最終的な構成は次の通りです。\nWindows:\n  llam",
+      "param": "zenn"
+    },
+    {
       "creator": "まい",
       "title": "hoge+fuga@example.com は「エイリアス」ではない",
       "link": "https://zenn.dev/mai_llj/articles/3eefb32e632563",
@@ -12,11 +28,27 @@
       "param": "zenn"
     },
     {
+      "creator": "aoto",
+      "title": "【Copilot Studio基礎編】コスト・ライセンス管理のロードマップ",
+      "link": "https://zenn.dev/upgradetech/articles/515ce8333085ef",
+      "pubDate": "2026-06-27T10:14:05.000Z",
+      "contentSnippet": "はじめに\nこんにちは、アップグレードの佐々木です。\nCopilot Studioのコスト・ライセンス周りってややこしいですよね。Microsoftのドキュメントは充実していますが、必要な情報を探すだけでも苦労を感じている人は少なくないと思い",
+      "param": "zenn"
+    },
+    {
+      "creator": "aoto",
+      "title": "Copilot Studioエージェントをバイブコーディングで開発",
+      "link": "https://zenn.dev/upgradetech/articles/84fce7d81b9ed3",
+      "pubDate": "2026-06-27T10:13:05.000Z",
+      "contentSnippet": "はじめに\n2026年6月にCopilot Studioが大幅アップデートされました。かなり簡素なUIで使いやすくなった印象を受けています。さらに検索精度や速度も大幅改善していて、個人的にはサービスとしてかなり良いものになったと考えています。",
+      "param": "zenn"
+    },
+    {
       "creator": "Shinoda Yukihiro",
       "title": "Claude Code と Codex のレビュー機能は脆弱性をどれだけ見つけられるかをOWASP Benchmark で検証",
       "link": "https://zenn.dev/yukkie1114/articles/3d927e8c28e085",
       "pubDate": "2026-06-27T08:55:23.000Z",
-      "contentSnippet": "はじめに\nAI にコードレビューをさせる――少し前なら半信半疑だった使い方が、いまではAIにレビューさせている人も多いのではないでしょうか。\n便利だと思う一方で、前からずっと引っかかっていたことがあります。\n\n「結局、どのレビュー方式が一番",
+      "contentSnippet": "はじめに\nAI にコードレビューをさせる。少し前なら信用できないと感じていたことが、いまではAIにレビューさせている人も多いのではないでしょうか。\n便利だと思う一方で、どこまでできるのだろうか？と疑心暗鬼な自分もいたのでベンチマークをとるこ",
       "param": "zenn"
     },
     {
@@ -44,6 +76,22 @@
       "param": "zenn"
     },
     {
+      "creator": "Yasutaka Nishii",
+      "title": "コードを書かずに、MulmoClaude で note 記事をアニメーション付き動画にする",
+      "link": "https://zenn.dev/singularity/articles/2026-06-26-mulmoclaude-html-tailwind-animation",
+      "pubDate": "2026-06-27T06:23:06.000Z",
+      "contentSnippet": "!\nこの記事は、MulmoClaude を使って note の記事を 1 本のプレゼン動画に仕立てた記録です。記事そのものも、MulmoClaude と一緒に書きました。\n\n\n はじめに\n気になった note の記事を、MulmoClaud",
+      "param": "zenn"
+    },
+    {
+      "creator": "Aminevsky",
+      "title": "Kinesis Data Streamsを使う前に知っておきたかったこと",
+      "link": "https://zenn.dev/aminevsky/articles/2f0a7ebcc0359b",
+      "pubDate": "2026-06-27T05:02:32.000Z",
+      "contentSnippet": "数年前、急遽、Kinesis Data Streams（KDS）を使うことになりました。社内での使用実績はなく、当然、有識者もいません。手探りで調べるほかありませんでした。\nなんとか完成にこぎつけ、幸い、大きなトラブルなく稼働しています。し",
+      "param": "zenn"
+    },
+    {
       "creator": "Kanaru",
       "title": "【初学者向け】Google AI Studioでwebアプリを作ってみよう",
       "link": "https://zenn.dev/kanaru/articles/a8fc555cdbb6b0",
@@ -57,6 +105,14 @@
       "link": "https://zenn.dev/aws_japan/articles/aws-blocks-source-reading",
       "pubDate": "2026-06-26T14:55:19.000Z",
       "contentSnippet": "はじめに\nこんにちは、AWS Japan でソリューションアーキテクトをしているいなりくです。\n本記事は、AWS Summit Japan 2026 での登壇セッション「明日から始める、コーディングエージェント時代のフルスタック開発」の補足",
+      "param": "zenn"
+    },
+    {
+      "creator": "masa",
+      "title": "Claude Codeのレート残量をCLI一発で確認する ~ もうブラウザ確認なんてしない ~",
+      "link": "https://zenn.dev/masa0902dev/articles/clc-claude-code-rate",
+      "pubDate": "2026-06-26T14:37:49.000Z",
+      "contentSnippet": "Claude Codeを使っていると, レート残量 (5時間枠・週間枠・追加枠) が気になります. 「あと何%使える?」「あと何時間でリセットされる?」を確認するたびにブラウザを開くのが手間だったので, ターミナルで clc rate と打",
       "param": "zenn"
     },
     {
@@ -97,6 +153,14 @@
       "link": "https://zenn.dev/babyjob/articles/ai-promotion-4months-practice",
       "pubDate": "2026-06-26T07:00:05.000Z",
       "contentSnippet": "はじめに\nこんにちは！BABY JOB 開発部の kassa です。\n元々は えんさがそっ♪ の開発・運用保守を担当しており、2026 年 3 月から AI 推進の専任担当者として着任しました。\n正直に言うと、最初は何から手をつければいいか",
+      "param": "zenn"
+    },
+    {
+      "creator": "小沼 真実",
+      "title": "AWS資格全冠への道",
+      "link": "https://zenn.dev/nttdata_tech/articles/4b794cab97ed77",
+      "pubDate": "2026-06-26T05:00:19.000Z",
+      "contentSnippet": "～試験合格のための勉強方法～\n2026年6月26日　株式会社NTTデータ 第三公共事業本部 小沼真実\nこの記事は、2026年6月までに Amazon Web Services（AWS） の認定資格を現在廃止済みの MLS-C01 を含む計 ",
       "param": "zenn"
     },
     {
@@ -854,7 +918,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
+      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"
@@ -862,7 +926,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
+      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"
