@@ -3,6 +3,13 @@
   "title": "blog.jxck.io",
   "items": [
     {
+      "title": "Web 標準の議論を LLM-Wiki で追う",
+      "link": "https://blog.jxck.io/entries/2026-06-29/tc39-llm-wiki.html",
+      "pubDate": "2026-06-29T00:00:00.000Z",
+      "contentSnippet": "Web 標準の議論を長いこと追ってきたが、追えば追うほど、追うべきものは増えていく。また、最新の情報を追うこと自体は比較的簡単でも、なぜそうなったのかといった経緯を過去にさかのぼって調べるのは、なかなか難しい。これを LLM-Wiki を使",
+      "param": "blog_jxck"
+    },
+    {
       "title": "企業向け Web Bootcamp 2026 開催後記",
       "link": "https://blog.jxck.io/entries/2026-06-15/web-bootcamp-2026.html",
       "pubDate": "2026-06-15T00:00:00.000Z",

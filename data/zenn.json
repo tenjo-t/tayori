@@ -4,6 +4,54 @@
   "description": "現在Zennでトレンドとなっている投稿のRSSフィードです",
   "items": [
     {
+      "creator": "ISHIKAWA Hirokazu",
+      "title": "Rustの安定ABI問題と、その先にある世界観 ── crABIが目指すもの",
+      "link": "https://zenn.dev/z001_001/articles/e1b0171dc70100",
+      "pubDate": "2026-06-28T08:50:41.000Z",
+      "contentSnippet": "Rustの安定ABI問題と、その先にある世界観 ── crABIが目指すもの\nRustはメモリ安全性と高パフォーマンスを両立するシステムプログラミング言語として急速に普及しています。LinuxカーネルへのRustサポート導入、Android",
+      "param": "zenn"
+    },
+    {
+      "creator": "nrs",
+      "title": "ループエンジニアリングを takt exec で気軽に始めよう",
+      "link": "https://zenn.dev/nrs/articles/e4a2ae8a9fb785",
+      "pubDate": "2026-06-28T07:35:50.000Z",
+      "contentSnippet": "はじめに\n「ループエンジニアリング」という言葉が話題になっています。\nざっくり言うと「自分がエージェントに指示を出す役割を、システムに置き換える」という考え方です。\n人間がプロンプトを書いてはエージェントの出力を確認して、またプロンプトを書",
+      "param": "zenn"
+    },
+    {
+      "creator": "てつどん",
+      "title": "Claude Code に任せっぱなしだった git コマンドを理解してみた（基礎編）",
+      "link": "https://zenn.dev/tetsu_don/articles/b91d2977c7fe70",
+      "pubDate": "2026-06-28T05:26:46.000Z",
+      "contentSnippet": "Claude Code に任せっぱなしだった git コマンドを自分で理解してみた（基礎編）\n\n はじめに\nてつどんです。データエンジニアとして日々精進しております。\n最近 Claude Code を使う機会が増えてきました。開発中に「これ",
+      "param": "zenn"
+    },
+    {
+      "creator": "ttaniguchi",
+      "title": "ハーネスエンジニアリングは、AI時代のチームビルディングだった",
+      "link": "https://zenn.dev/ttaniguchi/articles/hands-on-harness-engineering",
+      "pubDate": "2026-06-28T03:19:25.000Z",
+      "contentSnippet": "はじめに\nAIを使って開発していれば、必ずと言っていいほど ハーネスエンジニアリング という言葉にぶつかります。\n馬具のハーネスから連想される、「AIを暴走させないための手綱」のようなイメージ。わりと言葉だけが独り歩きをしていて、AIによる",
+      "param": "zenn"
+    },
+    {
+      "creator": "kkj",
+      "title": "【めざせカードマスター】Kaggleコンペ紹介 Pokémon Trading Card Game AI Battle Challenge",
+      "link": "https://zenn.dev/kkj/articles/85a3a0a08f193c",
+      "pubDate": "2026-06-27T23:20:31.000Z",
+      "contentSnippet": "Kaggleで「The Pokemon Company - PTCG AI Battle Challenge」が始まりました。ポケモンカードといえば、初期のオーキド博士が強かった想い出があります。\nhttps://ptcg-abc.poke",
+      "param": "zenn"
+    },
+    {
+      "creator": "breakbot",
+      "title": "Claude Codeのセッションを見下ろし型オフィスとして可視化するツールを作った",
+      "link": "https://zenn.dev/breakbot/articles/53e7f1c6564f26",
+      "pubDate": "2026-06-27T21:11:42.000Z",
+      "contentSnippet": "作ったもの\nClaude Code のセッションを、見下ろし型のオフィスとして眺められるデスクトップアプリを作りました。\n\nローカルの ~/.claude/ を監視していて、エージェントを社員、動いているセッションをオーケストレーターとして",
+      "param": "zenn"
+    },
+    {
       "creator": "Forest-Project-Lab",
       "title": "AIの日本語が「整いすぎて不自然」な正体は『カルク（訳語臭）』だった — 高品質な日本語文章を生成するスキルを作った",
       "link": "https://zenn.dev/forest_project/articles/a62fc2f6ac85ff",
@@ -28,6 +76,14 @@
       "param": "zenn"
     },
     {
+      "creator": "しゅんけー, Ph.D.",
+      "title": "LLM 事後学習 (SFT / RLHF / DPO / RLVR / GRPO / 自己蒸留) を教師信号から眺める",
+      "link": "https://zenn.dev/shunk031/articles/llm-post-training-overview",
+      "pubDate": "2026-06-27T15:00:00.000Z",
+      "contentSnippet": "こんにちは @shunk031 です。最近は、GPT や Claude の API を呼び出すだけで終わらない AI エージェントの構築に興味があります。\nGPT や Claude のような closed な大規模言語モデル (Large ",
+      "param": "zenn"
+    },
+    {
       "creator": "aoto",
       "title": "【Copilot Studio基礎編】コスト・ライセンス管理のロードマップ",
       "link": "https://zenn.dev/upgradetech/articles/515ce8333085ef",
@@ -48,7 +104,7 @@
       "title": "Claude Code と Codex のレビュー機能は脆弱性をどれだけ見つけられるかをOWASP Benchmark で検証",
       "link": "https://zenn.dev/yukkie1114/articles/3d927e8c28e085",
       "pubDate": "2026-06-27T08:55:23.000Z",
-      "contentSnippet": "はじめに\nAI にコードレビューをさせる。少し前なら信用できないと感じていたことが、いまではAIにレビューさせている人も多いのではないでしょうか。\n便利だと思う一方で、どこまでできるのだろうか？と疑心暗鬼な自分もいたのでベンチマークをとるこ",
+      "contentSnippet": "はじめに\n「AI にコードレビューをさせる」少し前ならAIでは不安だと感じていたことが、いまではAIにレビューさせている人も多いのではないでしょうか。\n便利だと思う一方で、どこまでできるのだろうか？と疑心暗鬼な自分もいたのでベンチマークをと",
       "param": "zenn"
     },
     {
@@ -918,7 +974,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
+      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"
@@ -926,7 +982,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
+      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"

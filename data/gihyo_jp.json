@@ -3,6 +3,20 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "ステーブルコインは「決済」を超えて何を変えるのか ――JBA Blockchain Hackathon 2026 Demo Dayレポート",
+      "link": "https://gihyo.jp/article/2026/06/jba-blockchain-hackathon-2026-report?utm_source=feed",
+      "pubDate": "2026-06-29T00:52:00.000Z",
+      "contentSnippet": "一般社団法人日本ブロックチェーン協会（JBA）は2026年3月、学生・若手社会人エンジニアを中心とした開発者を対象に、「JBA Blockchain Hackathon 2026」を開催しました。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第31回 AIがコードを生成できる時代の「プログラミング教育」の意味とは？ ―プログラミングすることの自由－",
+      "link": "https://gihyo.jp/article/2026/06/31-getting-started-with-scratch?utm_source=feed",
+      "pubDate": "2026-06-29T00:21:00.000Z",
+      "contentSnippet": "「スクラッチでプログラミングをはじめよう」第31回です。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "OpenAI、GPT-5.6ファミリーを限定プレビュー、Sol/Terra/Lunaの3モデルをまずCodexとAPIで提供",
       "link": "https://gihyo.jp/article/2026/06/gpt-5.6-preview?utm_source=feed",
       "pubDate": "2026-06-27T01:53:00.000Z",
@@ -5491,17 +5505,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {

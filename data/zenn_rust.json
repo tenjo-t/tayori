@@ -4,6 +4,70 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "takanopontaro",
+      "title": "Footloose2 の技術スタック",
+      "link": "https://zenn.dev/takanopontaro/articles/099d1c0f5fbd8e",
+      "pubDate": "2026-06-28T15:49:12.000Z",
+      "contentSnippet": "先日、拙作の二画面ファイラー Footloose2 を紹介する記事を書きました。\n二画面ファイラーを作った。ふたたび\nアプリの説明を中心に、使い方やおすすめ設定など主に機能面にフォーカスした記事です。これを読んで実際に使っていただいた方がい",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "takanopontaro",
+      "title": "二画面ファイラーを作った。ふたたび",
+      "link": "https://zenn.dev/takanopontaro/articles/e96b2db32eb35d",
+      "pubDate": "2026-06-28T15:46:28.000Z",
+      "contentSnippet": "実に久しぶりの投稿になります。\n前回の投稿が2021年なのでもう5年前。そのあいだ何をしていたのか、振り返ると特に何も思い浮かばず軽く引いている今日このごろです。\nさて、自分は5年前に以下の記事を投稿しました。\n二画面ファイラーを作った。\n",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "int314",
+      "title": "oxidation (酸化) ってどういう意味?",
+      "link": "https://zenn.dev/314/articles/0f6b174d33004f",
+      "pubDate": "2026-06-28T13:51:05.000Z",
+      "contentSnippet": "結論\nプログラミング文脈であれば「Rust 化」って意味らしい。\n\n 背景\n\nThe JavaScript Oxidation Compiler (oxc.rs)\n\n自分「...どういうこと? \"酸化\"コンパイラーって何?」\n\n\n 理由\n\n",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "NDPC-Fの学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-f",
+      "pubDate": "2026-06-28T12:00:08.000Z",
+      "contentSnippet": "問題のリンク\n\n\n 問題概要\n長さ N の順列 P = (P_1, P_2, \\dots , P_N) と 数列 A = (A_1, A_2, \\dots , A_N) が与えられる。\n整数集合 \\{1, 2, \\dots, N\\} から部",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nao",
+      "title": "Rustの「Box」の使い道を３つ、初学者視点で「クビになった原因」で例えてみた",
+      "link": "https://zenn.dev/i_n_dev/articles/4566d51bca3add",
+      "pubDate": "2026-06-28T11:36:38.000Z",
+      "contentSnippet": "はじめに\nRust学習1か月目でBoxがふんわりとした理解で分かりづらかったのですが、自分なりに理解してアウトプットをかねて初学者視点で例えてみました。例え話するので日本語変数名をあえて使っています。\n!\n※重要：この記事に登場する「サボり",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "低レベルエンジニア",
+      "title": "RustでCortex-MのTrustZone環境を構築してみた",
+      "link": "https://zenn.dev/lowlvengineer/articles/a71ca2f24ec701",
+      "pubDate": "2026-06-28T09:16:41.000Z",
+      "contentSnippet": "1. 前提と対象環境\n本記事はWSL上で動作する環境を前提に、RustでのTrustZone-Mの実装ポイントを理解するためのものです。TrustZoneそのものの仕組みを詳細に説明するのではなく、Secure/Non-Secureの境界を",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "ISHIKAWA Hirokazu",
+      "title": "Rustの安定ABI問題と、その先にある世界観 ── crABIが目指すもの",
+      "link": "https://zenn.dev/z001_001/articles/e1b0171dc70100",
+      "pubDate": "2026-06-28T08:50:41.000Z",
+      "contentSnippet": "Rustの安定ABI問題と、その先にある世界観 ── crABIが目指すもの\nRustはメモリ安全性と高パフォーマンスを両立するシステムプログラミング言語として急速に普及しています。LinuxカーネルへのRustサポート導入、Android",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nazo6",
+      "title": "Rust on ESP32ではesp-halとesp-idfのどちらを使うべきなのか",
+      "link": "https://zenn.dev/nazo6/articles/esp-rust-hal-or-idf",
+      "pubDate": "2026-06-28T08:06:06.000Z",
+      "contentSnippet": "ESP32で使えるRust向けのHALは現在2種類開発されています。\n\n\n1つ目はesp-idf-svc/halです。こちらはEspressifによるESP-IDFというフレームワークをRustでも使えるようにしたものです。\n2つ目はesp",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "石垣島産石垣",
       "title": "RustでABC464 (A ~ E)",
       "link": "https://zenn.dev/ishigaki122/articles/061acd721e1b70",

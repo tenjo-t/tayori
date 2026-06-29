@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "AI エージェントフレームワーク Flue を試してみた",
+      "link": "https://azukiazusa.dev/blog/ai-agent-framework-flue",
+      "pubDate": "2026-06-27T08:54:00.000Z",
+      "contentSnippet": "Flue は AI エージェントを構築するための TypeScript フレームワークです。ハーネス駆動のアーキテクチャを採用しており、エージェントの構築に必要な機能を包括的に提供しています。この記事では SRE エージェントを構築する例を",
+      "param": "azukiazusa"
+    },
+    {
       "title": "Deno で Desktop アプリを作れるようになっていた",
       "link": "https://azukiazusa.dev/blog/deno-desktop-app",
       "pubDate": "2026-06-26T10:53:00.000Z",
