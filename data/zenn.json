@@ -4,6 +4,158 @@
   "description": "現在Zennでトレンドとなっている投稿のRSSフィードです",
   "items": [
     {
+      "creator": "tan_go238",
+      "title": "AI時代の要件定義で、人間に残るのは「アラインメント」という仕事",
+      "link": "https://zenn.dev/tan_go238/articles/783a3fc3f11f8d",
+      "pubDate": "2026-06-29T06:02:08.000Z",
+      "contentSnippet": "AI時代の要件定義で、人間に残る一番大事な仕事\nAIを使って要件定義をすると、かなり多くのことが楽になります。\n議事録を要約してくれる。\n論点を整理してくれる。\n抜け漏れを指摘してくれる。\n業務フローや画面案を出してくれる。\nユーザー課題や",
+      "param": "zenn"
+    },
+    {
+      "creator": "takisato",
+      "title": "コードを仕様書にするために関数型プログラミングをする",
+      "link": "https://zenn.dev/satto_workspace/articles/62cdc01e1d0e97",
+      "pubDate": "2026-06-29T04:21:49.000Z",
+      "contentSnippet": "自己紹介\nコードを仕様書にすることを夢見るハムスターです🐹\n夢が叶ったかもしれません。\nsatto workspace のプロダクト開発をしています\n\n\n はじめに\n「コードは仕様書である。コードを見れば仕様がわかるようにしよう。」\n誰も",
+      "param": "zenn"
+    },
+    {
+      "creator": "くの",
+      "title": "ECS のデプロイを ecspresso へ移行して自動化した話",
+      "link": "https://zenn.dev/lincwell_inc/articles/c60c337017aa49",
+      "pubDate": "2026-06-29T03:43:53.000Z",
+      "contentSnippet": "はじめに\nこんにちは。Linc'well R&S（Reliability & Security）チームのくのです！\n弊社では複数のサービスを ECS（Fargate）上で運用しているのですが、今回はそのうちの一つを対象に、デプロイの自動化に",
+      "param": "zenn"
+    },
+    {
+      "creator": "horie-t",
+      "title": "週末の2日間でAI駆動開発で家計簿SaaSを作ってみて、これからの開発のあり方を考えた",
+      "link": "https://zenn.dev/thorie/articles/548se-ai-driven-development",
+      "pubDate": "2026-06-29T03:26:34.000Z",
+      "contentSnippet": "普段の業務でもAIを使って開発するようになり、ここ3ヶ月ほどは自分ではコードを書かずにアプリケーションを作れるようになってきています。しかし、ブラウンフィールド開発という事もあり細かく指示をしないとAIが思った通りに動かないことも多く、そん",
+      "param": "zenn"
+    },
+    {
+      "creator": "musoukun",
+      "title": "プロンプト改善が何倍も楽になる、プロンプト改善の自動化も行える評価ツール「Opik」を試す",
+      "link": "https://zenn.dev/explaza/articles/e9c81b31fe00f7",
+      "pubDate": "2026-06-29T03:17:29.000Z",
+      "contentSnippet": "TL;DR\nAIの出力を採点するツール（LLM評価ツール）はいくつもありますが、Opikというツールは採点に加えて、GEPA というしくみでプロンプトを自動で良くするところまで含んでいます。\nこの記事では、文章を意味で分類する処理を題材に、",
+      "param": "zenn"
+    },
+    {
+      "creator": "stkhr",
+      "title": "DevOps Agent奮闘記 〜アラートを起点に、運用の一次対応をAIに任せてみた〜",
+      "link": "https://zenn.dev/estie/articles/29a0968c00b8d3",
+      "pubDate": "2026-06-29T03:04:22.000Z",
+      "contentSnippet": "こんにちは、SREの徳原 (@wh_choco) です。\n前回はDevOps Agentを実際に使い込み、SKILL.mdによって調査精度を上げていくことや、マルチアカウントでどういった設計をするとよいかといった話を書きました。(前回ブログ",
+      "param": "zenn"
+    },
+    {
+      "creator": "rin",
+      "title": "QAチームの作業量を見るためのメトリクス",
+      "link": "https://zenn.dev/edash_tech_blog/articles/aae23ca2c3e11b",
+      "pubDate": "2026-06-29T03:00:14.000Z",
+      "contentSnippet": "こんにちは。e-dashでQAをしています、rinです。\nチームの作業量が見えないと、困ることって意外と多いんですよね。\n特定の人に負荷が偏っていても気づきにくいし、状況を共有する手段がない。\n誰も全体像を把握していないまま、なんとなくで回",
+      "param": "zenn"
+    },
+    {
+      "creator": "tnagai",
+      "title": "Snowflake CoCo（旧 Cortex Code）で見落とされがちな AI SQL コストと統制",
+      "link": "https://zenn.dev/finatext/articles/snowflake-coco-hidden-ai-cost",
+      "pubDate": "2026-06-29T02:49:39.000Z",
+      "contentSnippet": "はじめに\nナウキャストでデータエンジニアをしている永井です。主に Snowflake を使ったデータ基盤の設計・運用を担当しています。\nSnowsight の AI コーディング機能 CoCo（旧 Cortex Code）を利用すると、Co",
+      "param": "zenn"
+    },
+    {
+      "creator": "bik",
+      "title": "Claude Codeに同じバグを3回出すと、自動でルール化される話",
+      "link": "https://zenn.dev/nexta_/articles/858e92ee22b4a4",
+      "pubDate": "2026-06-29T02:00:09.000Z",
+      "contentSnippet": "こんにちは。製造業向けSaaSを開発しているエンジニアです。\nAIエージェントを使い込むと、誰もが必ずぶつかる壁があります。「同じ失敗を、何度もAIに繰り返される」ことと、その対策で記録を増やすと今度は 「記憶が肥大化して、肝心なルールがノ",
+      "param": "zenn"
+    },
+    {
+      "creator": "mtakahashi",
+      "title": "Claude Code / Codexを安全に動かすためのmacOSでのローカルVM基盤",
+      "link": "https://zenn.dev/inventit/articles/secure-ai-agent-local-vm",
+      "pubDate": "2026-06-29T01:02:42.000Z",
+      "contentSnippet": "はじめに\nClaude Code や Codex のような AI Agent を開発に使う機会が増えてきました。\nコードの修正、コマンド実行、Terraform の確認、AWS CLI の操作などを自然言語で依頼できるのは便利です。一方で、",
+      "param": "zenn"
+    },
+    {
+      "creator": "k-hoshihara",
+      "title": "イベント駆動アーキテクチャ導入の設計判断",
+      "link": "https://zenn.dev/wn_engineering/articles/dc809eed504f90",
+      "pubDate": "2026-06-29T01:00:09.000Z",
+      "contentSnippet": "この記事はウェルスナビ 2026年6月テックブログ企画\n「選択の物語：金融サービスのシステム設計判断をひもとく」の特集記事です。\n\n\n はじめに\nこんにちは、ウェルスナビでバックエンドエンジニアを担当している星原です。\nウェルスナビのバック",
+      "param": "zenn"
+    },
+    {
+      "creator": "GameDev Tool Lab",
+      "title": "UnityプロジェクトでAIを効率よく使うためのトークン節約術",
+      "link": "https://zenn.dev/gamedev_toollab/articles/a7364d37455a50",
+      "pubDate": "2026-06-29T01:00:09.000Z",
+      "contentSnippet": "はじめに\n開発中、または運用中のUnityプロジェクトでAIコーディングエージェントを使うと、調査・実装・レビューの速度はかなり上がります。\n一方で、プロジェクトが大きくなるほど次の問題が起きやすくなります。\n\n関係ないフォルダまで読みに行",
+      "param": "zenn"
+    },
+    {
+      "creator": "Atsuki02",
+      "title": "超便利なClaude Designの実践的な活用方法",
+      "link": "https://zenn.dev/branbran/articles/5730c47e1abac9",
+      "pubDate": "2026-06-29T00:30:05.000Z",
+      "contentSnippet": "はじめに\n先日Claudeから登場したデザインプラットフォーム Claude Design を、ここ数週間にわたって一通り使ってみました。本記事では、その中で見つけた実践的な使い方を紹介します。\nこれから Claude Designを使って",
+      "param": "zenn"
+    },
+    {
+      "creator": "Atsuki02",
+      "title": "ショートカット、もう覚えなくていい。勝手に身に付くブラウザ拡張機能を作ってみた",
+      "link": "https://zenn.dev/branbran/articles/9a30731236caac",
+      "pubDate": "2026-06-29T00:30:05.000Z",
+      "contentSnippet": "はじめに\nショートカット、覚えたいのに覚えられない。そんな悩みはありませんか？\n覚えようとしてもなかなか覚えられず、いざ試してみようと思っても、いつの間にかショートカットを使わずに操作しているということがよくあります。かといって、腰を据えて",
+      "param": "zenn"
+    },
+    {
+      "creator": "Tatsuo Mitsuchi",
+      "title": "「関数の型から実装が自動的に決まる」で理解する米田の補題",
+      "link": "https://zenn.dev/mitsuchi/articles/ef219e7c606b42",
+      "pubDate": "2026-06-29T00:22:54.000Z",
+      "contentSnippet": "圏論の米田の補題を Haskell で考えてみるとすごく直感的に理解できる、なんなら当たり前に思える、というアイデアを知って感動したので、興奮しているうちに紹介したいと思います。\n型が a -> a な関数は id しかない、という話から2",
+      "param": "zenn"
+    },
+    {
+      "creator": "shimizu",
+      "title": "AIエージェントをUIにすることで、誰でも地理データを扱えるWebGISができた。",
+      "link": "https://zenn.dev/shimizu/articles/c1d19c39202eb3",
+      "pubDate": "2026-06-29T00:21:17.000Z",
+      "contentSnippet": "概要\nGIS(地理情報システム)ソフトは難しい。\nまず、ボタンがたくさんあってどれを押せば良いのかわからない。\n\nQGIS\n知っておかねばならない前提知識も難しい。\n指定した地点の半径5kmにある喫茶店の数を数えたいだけなのに「このデータの",
+      "param": "zenn"
+    },
+    {
+      "creator": "あっきー",
+      "title": "外部SaaSで運用していたFAQサイトを Cloudflare + Astro に移行しました",
+      "link": "https://zenn.dev/tsukulink/articles/2026-06-faq-astro-migration",
+      "pubDate": "2026-06-29T00:00:27.000Z",
+      "contentSnippet": "ごきげんよう🙋‍♀️Cloudflareが大好きなあっきー（@kuronekopunk）です。\n長らく外部のマネージドなSaaSで運用してきたFAQサイトを、Cloudflare + Astroによる静的サイトへ移行しました。\nこの記事で",
+      "param": "zenn"
+    },
+    {
+      "creator": "もりはや",
+      "title": "Kubestronautの一員になりました！",
+      "link": "https://zenn.dev/aeonpeople/articles/morihaya-20260629-kubestronaut",
+      "pubDate": "2026-06-28T23:00:16.000Z",
+      "contentSnippet": "はじめに\nこんにちは。イオンスマートテクノロジー株式会社（AST）でSREチームの林 aka もりはやです。\nこのたび、Cloud Native Computing Foundation (CNCF) からKubestronautに認定頂き",
+      "param": "zenn"
+    },
+    {
+      "creator": "吉岡 裕貴",
+      "title": "パフォーマンス改善は、ユーザーが何を見たいか考えるところから",
+      "link": "https://zenn.dev/aun_phonogram/articles/b04c96117956fd",
+      "pubDate": "2026-06-28T22:00:08.000Z",
+      "contentSnippet": "はじめに\n前回、Chrome 拡張機能の「どこホスティング」を作って、Chrome ウェブストアに公開するまでを書きました。\nhttps://zenn.dev/aun_phonogram/articles/f2a44ea154ec96\n今回",
+      "param": "zenn"
+    },
+    {
       "creator": "ISHIKAWA Hirokazu",
       "title": "Rustの安定ABI問題と、その先にある世界観 ── crABIが目指すもの",
       "link": "https://zenn.dev/z001_001/articles/e1b0171dc70100",
@@ -974,7 +1126,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
+      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"
@@ -982,7 +1134,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
+      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"

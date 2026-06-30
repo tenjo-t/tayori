@@ -4,6 +4,14 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "unmummied",
+      "title": "可読性を犠牲にしてでも Iterator Chain を強行する",
+      "link": "https://zenn.dev/unmummied/articles/20260629120000",
+      "pubDate": "2026-06-29T03:00:14.000Z",
+      "contentSnippet": "Rust の iterator pattern は, 流れてくる要素に対して順番に処理をほどこすというプログラミングの様式を表現できます. また, その遅延評価によって実際に consume されるまで, 私たちは何も支払わずに済みます.\n",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "takanopontaro",
       "title": "Footloose2 の技術スタック",
       "link": "https://zenn.dev/takanopontaro/articles/099d1c0f5fbd8e",

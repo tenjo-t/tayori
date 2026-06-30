@@ -3,6 +3,27 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "Google、Geminiで学習用「study notebooks」を提供、学習テーマに沿ったレッスンと練習問題で学べる",
+      "link": "https://gihyo.jp/article/2026/06/gemini-study-notebooks?utm_source=feed",
+      "pubDate": "2026-06-29T08:30:00.000Z",
+      "contentSnippet": "Googleは2026年6月25日、Geminiアプリで学習向けの「study notebooks」を提供すると発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Microsoft ExcelのCopilotでスキルが利用可能に",
+      "link": "https://gihyo.jp/article/2026/06/copilot-in-excel-skills?utm_source=feed",
+      "pubDate": "2026-06-29T06:33:00.000Z",
+      "contentSnippet": "Microsoftは2026年6月25日、ExcelのMicrosoft 365 Copilotの新機能の1つとして、反復可能なワークフローのためのスキルが利用可能になったことを発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Python 3.15新機能：lazy imports（遅延インポート）の紹介",
+      "link": "https://gihyo.jp/article/2026/06/monthly-python-2606?utm_source=feed",
+      "pubDate": "2026-06-29T01:21:00.000Z",
+      "contentSnippet": "今月の「Python Monthly Topics」では、2026年10月に正式版がリリース予定のPython 3.15の新機能から、lazy imports（遅延インポート）を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "ステーブルコインは「決済」を超えて何を変えるのか ――JBA Blockchain Hackathon 2026 Demo Dayレポート",
       "link": "https://gihyo.jp/article/2026/06/jba-blockchain-hackathon-2026-report?utm_source=feed",
       "pubDate": "2026-06-29T00:52:00.000Z",
@@ -5505,17 +5526,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {
