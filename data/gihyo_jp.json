@@ -3,6 +3,48 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "第917回　Inference Snapsで簡単にQwen 3.6を動作させる",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0917?utm_source=feed",
+      "pubDate": "2026-07-01T00:13:00.000Z",
+      "contentSnippet": "今回はInference Snapsで簡単にQwen 3.6を動作させる方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Linux 7.2-rc1リリース ―Rustのzerocopyをサポート、Cのstrncpyをついに削除",
+      "link": "https://gihyo.jp/article/2026/07/daily-linux-260701?utm_source=feed",
+      "pubDate": "2026-07-01T00:02:00.000Z",
+      "contentSnippet": "Linus Torvaldsは6月28日、次期Linuxカーネル「Linux 7.2」の最初のリリース候補版（RC）となる「Linux 7.2-rc1」を公開した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第131回　AIコーディングの普及で○○○は不要になる？ MySQL Critical Security Update Patchリリース ＆ 新バージョン番号、PostgreSQLバージョン19ベータ版が登場",
+      "link": "https://gihyo.jp/article/2026/07/ossdb-various-news0131?utm_source=feed",
+      "pubDate": "2026-06-30T23:50:00.000Z",
+      "contentSnippet": "この連載はOSSコンソーシアム データベース部会のメンバーがオープンソースデータベースの毎月の出来事をお伝えしています。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "OpenAI、Codexのベータ機能「Permission profiles」を案内 ――config.tomlでファイルアクセスと通信先を制御",
+      "link": "https://gihyo.jp/article/2026/06/codex-permission-profiles?utm_source=feed",
+      "pubDate": "2026-06-30T08:27:00.000Z",
+      "contentSnippet": "OpenAI Codexのエンジニアリングリードを務めるThibault Sottiaux氏は2026年6月29日、コーディングエージェント「Codex」向けのベータ機能「Permission profiles」を案内した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Windows上でLinuxコンテナが直接動く「WSL container」パブリックプレビューリリース",
+      "link": "https://gihyo.jp/article/2026/06/wsl-container?utm_source=feed",
+      "pubDate": "2026-06-30T03:07:00.000Z",
+      "contentSnippet": "Microsoftは2026年6月29日、Windows上で動くLinux環境であるWindows Subsystem for Linux（WSL）のプレリリース版で、Linuxコンテナ環境をWindowsに直接統合する「WSL conta",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "CursorのiOSアプリがリリース",
+      "link": "https://gihyo.jp/article/2026/06/cursor-for-ios?utm_source=feed",
+      "pubDate": "2026-06-30T01:33:00.000Z",
+      "contentSnippet": "Anysphereは2026年6月29日、コーディングエージェントCursorのiOSアプリをパブリックベータとしてリリースした。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "Google、Geminiで学習用「study notebooks」を提供、学習テーマに沿ったレッスンと練習問題で学べる",
       "link": "https://gihyo.jp/article/2026/06/gemini-study-notebooks?utm_source=feed",
       "pubDate": "2026-06-29T08:30:00.000Z",
@@ -5526,17 +5568,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {

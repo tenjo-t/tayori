@@ -4,6 +4,78 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "miyanaga",
+      "title": "Webページの全通信を記録・再生して「本番に触れない検証環境」を作る",
+      "link": "https://zenn.dev/miyanaga/articles/zenn-2026-07-01",
+      "pubDate": "2026-06-30T19:57:06.000Z",
+      "contentSnippet": "サイトの表示スピードを改善するとき、いちばん確実なのは実際に変更して計測してみることです。ところが本番環境に手を入れて計測するのは、できれば避けたいところです。施策が外れたら戻す、また試す。この往復を本番でやるのは怖いものです。\nそこで弊社",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "hidecode365",
+      "title": "Claude Codeと4日間でWindowsランチャーを作り、WinGetに申請するまで",
+      "link": "https://zenn.dev/hidecode365/articles/3af41c981730ff",
+      "pubDate": "2026-06-30T11:56:15.000Z",
+      "contentSnippet": "はじめに\nずっと Launchy というランチャーアプリを使っていた。\nキーボードだけでアプリを起動できる、あのシンプルさが好きだった。\nでも最近、動作が怪しくなってきた。古いツールだから仕方ない。\nFlow Launcher に乗り換えも",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "MOSバーガ",
+      "title": "Rust言語と計測器自動化",
+      "link": "https://zenn.dev/qwerewq/articles/f56a68243d24fb",
+      "pubDate": "2026-06-30T08:25:27.000Z",
+      "contentSnippet": "第0章　開発環境の準備\n0.1 Rustで計測器自動化を行う全体像\n0.2 Windowsで必要になる開発環境\n0.3 Visual StudioとVisual Studio Codeの違い\n0.4 Visual Studio / Buil",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "Chen",
+      "title": "RustとRaspberry Piでつくる、音声処理デバイス",
+      "link": "https://zenn.dev/fairydevices/articles/d2445993d8361c",
+      "pubDate": "2026-06-30T06:48:04.000Z",
+      "contentSnippet": "はじめに\nはじめまして。プロダクト開発部のChenです。\nFairy Devicesに入社して半年ほどになります。私はRustを使ったソフトウェア開発が好きです。また、ソフトウェアを通じて、人が実際に触れたり操作したりできるものをつくること",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "kuroiko",
+      "title": "Pythonのバージョン管理をpyenvからuvに乗り換えた",
+      "link": "https://zenn.dev/kuroikotech/articles/python-pyenv-to-uv",
+      "pubDate": "2026-06-30T04:12:51.000Z",
+      "contentSnippet": "はじめに\nPythonのバージョン管理は長らくpyenvを使っていたが、uvに乗り換えた。今はpyenv関連のファイルが綺麗さっぱり消えていて、シェルの初期化コードも一切無い状態で運用できている。\n$ which pyenv\npyenv n",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "itsuki",
+      "title": "Web 開発における Rust と Python のパフォーマンス比較試験",
+      "link": "https://zenn.dev/marudev/articles/bdb3a20b224478",
+      "pubDate": "2026-06-30T03:00:15.000Z",
+      "contentSnippet": "はじめに\n普段は仕事では Python、個人開発では Rust を書くことが多い私です。\nさて、これらの言語はWeb開発において、しばし宗教戦...バックエンドの技術選定時の大きなテーマとなります。一度、一般論的に簡単にまとめます。\n「イン",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "yutannihilation",
+      "title": "Rust でゲームボーイアドバンス向けの音楽ソフトを開発するには (1) 基礎編",
+      "link": "https://zenn.dev/yutannihilation/articles/e513920c1d7b8e",
+      "pubDate": "2026-06-30T01:38:14.000Z",
+      "contentSnippet": "ゲームボーイアドバンスのソフトは一つも持っていませんが、思い立って Analogue Pocket を買いました。対戦よろしくお願いします。\n\n なぜ今ゲームボーイアドバンスがアツいのか\n先月、FMS というゲームボーイアドバンス専用の新作",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "hinamimi",
+      "title": "ERB formatterをRustで作っている: erbfmtの設計と安全側のフォーマット",
+      "link": "https://zenn.dev/hinamimi/articles/0e650616b8f1b5",
+      "pubDate": "2026-06-30T00:59:08.000Z",
+      "contentSnippet": "はじめに\nRailsの .html.erb 向けformatter / linterとして、erbfmtを作っている。\nhttps://github.com/hinamimi/erbfmt\nhttps://hinamimi.github.i",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "takemo101",
+      "title": "ターミナルで音楽を聴く - AIコーディングのお供に `wave-tui` はいかが？",
+      "link": "https://zenn.dev/sonicmoov/articles/3f085b8c856c77",
+      "pubDate": "2026-06-29T15:46:15.000Z",
+      "contentSnippet": "自分はプログラミングよりも音楽の方が好きだ。音楽がなければ人生はつまらない、というのが本心で、コードを書くのはどちらかというと音楽を鳴らし続けるための手段に近い。\n仕事中も、ずっと音楽をかけながらコードを書いている。最近は AI に手伝って",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "unmummied",
       "title": "可読性を犠牲にしてでも Iterator Chain を強行する",
       "link": "https://zenn.dev/unmummied/articles/20260629120000",
@@ -109,18 +181,18 @@
     },
     {
       "creator": "nakahide",
-      "title": "Next DP Contest（NDPC）の学習記録",
-      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-top",
-      "pubDate": "2026-06-26T12:00:05.000Z",
-      "contentSnippet": "この記事について\nNext DP Contestで筆者が解いた問題(A～Iの9問)について、解法を自分なりに整理した学習記録です。\n後から読み返したときに解法を再構成できるよう、完成したコードだけでなく、DPの状態や遷移、解法のポイントを整",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "nakahide",
       "title": "NDPC-Dの学習記録",
       "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-d",
       "pubDate": "2026-06-26T12:00:05.000Z",
       "contentSnippet": "問題のリンク\n\n\n 問題概要\nある国では、1円紙幣, 10円紙幣, 100円紙幣, ...と10倍ごとに紙幣が流通している。\nN 円の支払いを行う時、「支払う紙幣の枚数」と「お釣りとしてもらう紙幣の枚数」の合計枚数を最小化する問題。\n\n 重",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "Next DP Contest（NDPC）の学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-top",
+      "pubDate": "2026-06-26T12:00:05.000Z",
+      "contentSnippet": "この記事について\nNext DP Contestで筆者が解いた問題(A～Iの9問)について、解法を自分なりに整理した学習記録です。\n後から読み返したときに解法を再構成できるよう、完成したコードだけでなく、DPの状態や遷移、解法のポイントを整",
       "param": "zenn_rust"
     },
     {
