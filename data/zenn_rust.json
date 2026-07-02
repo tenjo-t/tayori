@@ -4,6 +4,30 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "たそ",
+      "title": "（2）中学生が作っている自作OS、mochiOS - ケーパビリティなどのお話",
+      "link": "https://zenn.dev/nekogakure/articles/60ca06b71029a2",
+      "pubDate": "2026-07-01T08:31:41.000Z",
+      "contentSnippet": "!\nめっちゃ長いです。時間があるときに読んでくれたら嬉しいです！\n\nみなさんこんにちは。中三のたそです。\n私は、mochiOSというOSを開発しています。\n今の時代、LinuxとかWindows、macOSがあるのにわざわざ新しいOSを作ら",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "Maoka",
+      "title": "動画編集ソフト「AviQtl」の創り方",
+      "link": "https://zenn.dev/taisho_guy/articles/2fa8e91a6c0a07",
+      "pubDate": "2026-07-01T07:20:10.000Z",
+      "contentSnippet": "taisho-guyです。AviUtlを踏襲し凌駕することでAviUtlを「仕方なく」使っている方々の最適解になることを目指す動画編集ソフトAviQtlを開発しておりました。5月末で開発を終了し、NeoUtlへ移行しましたから、AviQtl",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "stray dog",
+      "title": "AIエージェントに、AIエージェントが使いやすい？CLIを好きに作らせた",
+      "link": "https://zenn.dev/straydog/articles/193437bbd08d5a",
+      "pubDate": "2026-07-01T03:29:53.000Z",
+      "contentSnippet": "はじめに\nAIエージェントに作業を任せていると、よく使われるCLIがだいたい決まっていることに気づきます。\njq、yq、mlr、rg、duckdb などを使い、必要に応じてパイプラインでつないでデータを整形したり、検証したり、差分を見たりし",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "miyanaga",
       "title": "Webページの全通信を記録・再生して「本番に触れない検証環境」を作る",
       "link": "https://zenn.dev/miyanaga/articles/zenn-2026-07-01",
@@ -24,7 +48,7 @@
       "title": "Rust言語と計測器自動化",
       "link": "https://zenn.dev/qwerewq/articles/f56a68243d24fb",
       "pubDate": "2026-06-30T08:25:27.000Z",
-      "contentSnippet": "第0章　開発環境の準備\n0.1 Rustで計測器自動化を行う全体像\n0.2 Windowsで必要になる開発環境\n0.3 Visual StudioとVisual Studio Codeの違い\n0.4 Visual Studio / Buil",
+      "contentSnippet": "目次\n\n 第0章　開発環境の準備\n0.1 Rustで計測器自動化を行う全体像\n0.2 Windowsで必要になる開発環境\n0.3 Visual StudioとVisual Studio Codeの違い\n0.4 Visual Studio /",
       "param": "zenn_rust"
     },
     {
@@ -181,18 +205,18 @@
     },
     {
       "creator": "nakahide",
-      "title": "NDPC-Dの学習記録",
-      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-d",
-      "pubDate": "2026-06-26T12:00:05.000Z",
-      "contentSnippet": "問題のリンク\n\n\n 問題概要\nある国では、1円紙幣, 10円紙幣, 100円紙幣, ...と10倍ごとに紙幣が流通している。\nN 円の支払いを行う時、「支払う紙幣の枚数」と「お釣りとしてもらう紙幣の枚数」の合計枚数を最小化する問題。\n\n 重",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "nakahide",
       "title": "Next DP Contest（NDPC）の学習記録",
       "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-top",
       "pubDate": "2026-06-26T12:00:05.000Z",
       "contentSnippet": "この記事について\nNext DP Contestで筆者が解いた問題(A～Iの9問)について、解法を自分なりに整理した学習記録です。\n後から読み返したときに解法を再構成できるよう、完成したコードだけでなく、DPの状態や遷移、解法のポイントを整",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "NDPC-Dの学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-d",
+      "pubDate": "2026-06-26T12:00:05.000Z",
+      "contentSnippet": "問題のリンク\n\n\n 問題概要\nある国では、1円紙幣, 10円紙幣, 100円紙幣, ...と10倍ごとに紙幣が流通している。\nN 円の支払いを行う時、「支払う紙幣の枚数」と「お釣りとしてもらう紙幣の枚数」の合計枚数を最小化する問題。\n\n 重",
       "param": "zenn_rust"
     },
     {

@@ -3,6 +3,48 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "画面のないFitbit Airを1ヵ月使って見えた「引き算」の価値",
+      "link": "https://gihyo.jp/article/2026/07/android-weekly-topics-260702?utm_source=feed",
+      "pubDate": "2026-07-01T23:53:00.000Z",
+      "contentSnippet": "ディスプレイを完全に排除し、「通知疲れ」や「デジタルデトックス」への答えとして登場した「Fitbit Air」。今回は、この画面を持たないこのミニマルなウェアラブルを1ヵ月使い込だ印象をまとめておきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Google、NotebookLMに約60秒の縦型ショート動画「Short Video Overviews」を追加、英語でWeb版全ユーザーに展開",
+      "link": "https://gihyo.jp/article/2026/07/notebooklm-short-video-overview?utm_source=feed",
+      "pubDate": "2026-07-01T08:51:00.000Z",
+      "contentSnippet": "GoogleのNotebookLM公式Xアカウントは2026年6月30日、NotebookLMの新機能「Short Video Overviews」を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Google、高速・低コストの画像生成モデル「Nano Banana 2 Lite」を発表",
+      "link": "https://gihyo.jp/article/2026/07/nanobanana2-lite?utm_source=feed",
+      "pubDate": "2026-07-01T07:38:00.000Z",
+      "contentSnippet": "Googleは2026年6月30日、画像生成・編集モデル「Nano Banana 2 Lite」を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Anthropic、AIで科学研究を支援する作業環境「Claude Science」をパブリックベータで公開",
+      "link": "https://gihyo.jp/article/2026/07/claude-science?utm_source=feed",
+      "pubDate": "2026-07-01T05:41:00.000Z",
+      "contentSnippet": "Anthropicは2026年6月30日、「Claude Science」を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Claude Desktop、Linux版ベータを提供開始 ——Ubuntu/DebianでClaude CodeやCoworkをデスクトップから利用可能に",
+      "link": "https://gihyo.jp/article/2026/07/claude-desktop-on-linux?utm_source=feed",
+      "pubDate": "2026-07-01T02:50:00.000Z",
+      "contentSnippet": "Claudeの開発者向けXアカウント「ClaudeDevs」は2026年6月30日、Claude DesktopのLinux版ベータが利用可能になったと発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Anthropic、Claude Sonnet 5を発表",
+      "link": "https://gihyo.jp/article/2026/07/claude-sonnet-5?utm_source=feed",
+      "pubDate": "2026-07-01T02:38:00.000Z",
+      "contentSnippet": "Anthropicは2026年6月30日、Claudeの新モデル「Claude Sonnet 5」を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "第917回　Inference Snapsで簡単にQwen 3.6を動作させる",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0917?utm_source=feed",
       "pubDate": "2026-07-01T00:13:00.000Z",
@@ -5568,17 +5610,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {
