@@ -3,6 +3,55 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "Ubuntu 26.10（Stonking）の開発; ntpd-rsの導入計画",
+      "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202607/03?utm_source=feed",
+      "pubDate": "2026-07-03T00:28:00.000Z",
+      "contentSnippet": "StonkingのSnapshot 2の提供が開始されています。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "エンタープライズAIにカスタマイズが必要な理由［後編］",
+      "link": "https://gihyo.jp/article/2026/06/enterprise-ai-customization-02?utm_source=feed",
+      "pubDate": "2026-07-02T23:49:00.000Z",
+      "contentSnippet": "本稿では、柔軟性がなぜエンタープライズAIの成果を左右するのかを、ソフトウェア開発ライフサイクル全体の観点から、前後編に分けて解説します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Cloudflare、AIボットによるコンテンツ利用の用途別制御機能と、エージェントによるWebリソース利用への課金基盤を発表 ——Content Independence Dayから1年",
+      "link": "https://gihyo.jp/article/2026/07/content-independence-day-one-year-on?utm_source=feed",
+      "pubDate": "2026-07-02T08:19:00.000Z",
+      "contentSnippet": "Cloudflareは2026年7月1日、AIボットによるWebコンテンツ利用を用途別に制御し、AI検索での利用やエージェントによるWebページ・APIの呼び出しに対価を設定できるようにする新機能や取り組みを発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "U-22プログラミング・コンテスト2026 応募受付開始",
+      "link": "https://gihyo.jp/article/2026/07/u22procon-2026-entry?utm_source=feed",
+      "pubDate": "2026-07-02T07:35:00.000Z",
+      "contentSnippet": "U-22プログラミング・コンテスト2026の応募受付が2026年7月1日に開始された。締切は8月31日。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Microsoft Research、エージェントスキルを最適化するSkillOptを紹介",
+      "link": "https://gihyo.jp/article/2026/07/msftr-released-skillopt?utm_source=feed",
+      "pubDate": "2026-07-02T04:45:00.000Z",
+      "contentSnippet": "Microsoft Researchは6月30日、AIエージェントに追加の作業手順や判断基準を与えるMarkdown形式のエージェントスキル（SKILL.md）を、実行結果に基づいて改善する手法「SkillOpt」を公式ブログで紹介した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Safariのプレビュー版に開発者向けMCPサーバーの機能が追加",
+      "link": "https://gihyo.jp/article/2026/07/safari-mcp-server?utm_source=feed",
+      "pubDate": "2026-07-02T02:47:00.000Z",
+      "contentSnippet": "2026年7月1日にリリースされたWebブラウザSafariのTechnology Preview 247にWeb開発者向けMCPサーバーが導入された。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "開発プロセスに組み込む継続的なセキュリティ対策 ～ヒアリングの標準化からAI活用、PoCによる現場定着まで",
+      "link": "https://gihyo.jp/article/2026/07/continuous-security?utm_source=feed",
+      "pubDate": "2026-07-02T02:00:00.000Z",
+      "contentSnippet": "『Software Design 2026年7月号』の第1特集「セキュリティバイデザイン入門」から第4章「開発プロセスに組み込む継続的なセキュリティ対策」を公開します。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "画面のないFitbit Airを1ヵ月使って見えた「引き算」の価値",
       "link": "https://gihyo.jp/article/2026/07/android-weekly-topics-260702?utm_source=feed",
       "pubDate": "2026-07-01T23:53:00.000Z",
@@ -5610,17 +5659,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {

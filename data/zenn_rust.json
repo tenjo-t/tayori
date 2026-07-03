@@ -4,6 +4,54 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "tomohxx",
+      "title": "[麻雀]最強の牌理アプリを開発した",
+      "link": "https://zenn.dev/tomohxx/articles/1ef63a4d438aba",
+      "pubDate": "2026-07-02T15:40:05.000Z",
+      "contentSnippet": "はじめに\n最強の牌理アプリを開発したので紹介します。\nWebアプリケーション：\nhttps://tomohxx.github.io/pairi/\nリポジトリ：\nhttps://github.com/tomohxx/pairi\n\n 牌理アプリ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "ultimatile",
+      "title": "Rustでテストフィクスチャーを別クレートに切り出したら自クレートの単体テストが壊れた",
+      "link": "https://zenn.dev/ultimatile/articles/rust-test-fixtures-cfg-test-dev-dep",
+      "pubDate": "2026-07-02T11:09:10.000Z",
+      "contentSnippet": "!\n\n TL;DR\n\n別クレートに切り出したフィクスチャーを元クレートがdev-dependencyにすると、元クレート自身の#[cfg(test)]を用いた単体テストがコンパイルできなくなる。\n原因はcargo testが元クレートを「c",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "flipslidersand",
+      "title": "Rust初心者のための入門ガイド：環境構築から基本プログラム作成まで",
+      "link": "https://zenn.dev/flipslidersand/articles/rust-beginners-guide-setup",
+      "pubDate": "2026-07-02T11:00:23.000Z",
+      "contentSnippet": "この記事でわかること\n\nRustプログラミングを始めるための環境構築方法\nWindows、macOS、Linux向けのRustインストール手順\nHello, World! プログラムを作成する過程\n開発環境の設定方法（エディタ選択やプロジェ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "おおひら",
+      "title": "高速 Gaussian Splatting レンダリング",
+      "link": "https://zenn.dev/abist_inno/articles/dbb046952261eb",
+      "pubDate": "2026-07-02T04:23:30.000Z",
+      "contentSnippet": "この記事は、以下で作った Gaussian Splatting ビューワをさらに高速化する手法を紹介します。\nテストした環境 (Apple M4 Mac) では、最大約５倍の高速化を確認しています。\n(計測結果は 3章 にあります)\nhtt",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "tomohisa",
+      "title": "イベントソーシングとWasmは相性がいい: SekibanWasmRuntimeが目指す多言語ES+CQRS",
+      "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-concept",
+      "pubDate": "2026-07-02T00:02:18.000Z",
+      "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nSekiban という、C# のイベントソーシング / CQRS フレームワークを作っています。\nhttps://github.com/J-Tech-Japan/Seki",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "tomohisa",
+      "title": "Wasm でイベントソーシングを動かす: C# と Rust のドメインコードで試す",
+      "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-public-container",
+      "pubDate": "2026-07-02T00:02:18.000Z",
+      "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nこの記事では、SekibanWasmRuntime を公開済みの package と public container で動かす流れを確認します。ランタイム本体は C# ",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "たそ",
       "title": "（2）中学生が作っている自作OS、mochiOS - ケーパビリティなどのお話",
       "link": "https://zenn.dev/nekogakure/articles/60ca06b71029a2",
@@ -205,18 +253,18 @@
     },
     {
       "creator": "nakahide",
-      "title": "Next DP Contest（NDPC）の学習記録",
-      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-top",
-      "pubDate": "2026-06-26T12:00:05.000Z",
-      "contentSnippet": "この記事について\nNext DP Contestで筆者が解いた問題(A～Iの9問)について、解法を自分なりに整理した学習記録です。\n後から読み返したときに解法を再構成できるよう、完成したコードだけでなく、DPの状態や遷移、解法のポイントを整",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "nakahide",
       "title": "NDPC-Dの学習記録",
       "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-d",
       "pubDate": "2026-06-26T12:00:05.000Z",
       "contentSnippet": "問題のリンク\n\n\n 問題概要\nある国では、1円紙幣, 10円紙幣, 100円紙幣, ...と10倍ごとに紙幣が流通している。\nN 円の支払いを行う時、「支払う紙幣の枚数」と「お釣りとしてもらう紙幣の枚数」の合計枚数を最小化する問題。\n\n 重",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "Next DP Contest（NDPC）の学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-top",
+      "pubDate": "2026-06-26T12:00:05.000Z",
+      "contentSnippet": "この記事について\nNext DP Contestで筆者が解いた問題(A～Iの9問)について、解法を自分なりに整理した学習記録です。\n後から読み返したときに解法を再構成できるよう、完成したコードだけでなく、DPの状態や遷移、解法のポイントを整",
       "param": "zenn_rust"
     },
     {
