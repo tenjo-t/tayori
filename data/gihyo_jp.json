@@ -3,6 +3,13 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "ソラコム、専門知識なしでIoT活用プロダクトを構成可能なAIエージェントサービス「SORACOM Agent」の提供を開始",
+      "link": "https://gihyo.jp/article/2026/07/soracom-agent?utm_source=feed",
+      "pubDate": "2026-07-03T04:31:00.000Z",
+      "contentSnippet": "（株）ソラコムは2026年7月2日、IoTを活用した業務の自動化や現場改善、プロダクト開発を支援するマネージドAIエージェントサービス「SORACOM Agent（ソラコム エージェント）」を、7月7日からTechnology Previe",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "Ubuntu 26.10（Stonking）の開発; ntpd-rsの導入計画",
       "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202607/03?utm_source=feed",
       "pubDate": "2026-07-03T00:28:00.000Z",
@@ -5659,17 +5666,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {
