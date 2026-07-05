@@ -384,7 +384,7 @@
       "title": "Web における Beacon の変遷 (sendBeacon(), fetch() keepalive, fetchLater())",
       "link": "https://blog.jxck.io/entries/2025-02-25/beaconing.html",
       "pubDate": "2025-02-25T00:00:00.000Z",
-      "contentSnippet": "ページを閉じる際に何かしらの情報をサーバで収集したいケースがある。これを Beacon の送信(Beaconing)と呼び、ブラウザではページ表示中に収集したパフォーマンス統計の収集や、広告タグによるトラッキングなどに用いられる。しかし、「",
+      "contentSnippet": "ページを閉じる際に何かしらの情報をサーバで収集したいケースがある。これを Beacon の送信(Beaconing)と呼び、ブラウザではページ表示中に取得したパフォーマンス統計の収集や、広告タグによるトラッキングなどに用いられる。しかし、「",
       "param": "blog_jxck"
     },
     {
@@ -426,7 +426,7 @@
       "title": "Dialog と Popover #12",
       "link": "https://blog.jxck.io/entries/2024-11-14/timeout-popover.html",
       "pubDate": "2024-11-14T00:00:00.000Z",
-      "contentSnippet": "Toast 相当を実装する場合、時間が経ったら自動で消えるタイムアウトを設定することがないだろうか?今回 Popover の一連を調べる中であった、これが WCAG 違反だという議論を紹介する。",
+      "contentSnippet": "Toast 相当を実装する場合、時間が経ったら自動で消えるタイムアウトを設定することがないだろうか?今回 Popover の一連の仕様を調べる中であった、これが WCAG 違反だという議論を紹介する。",
       "param": "blog_jxck"
     },
     {
@@ -566,7 +566,7 @@
       "title": "令和時代の API 実装のベースプラクティスと CSRF 対策",
       "link": "https://blog.jxck.io/entries/2024-04-26/csrf.html",
       "pubDate": "2024-04-26T00:00:00.000Z",
-      "contentSnippet": "CSRF という古の攻撃がある。この攻撃を「古(いにしえ)」のものにすることができたプラットフォームの進化の背景を、「Cookie が SameSite Lax by Default になったからだ」という解説を見ることがある。確かに、現実",
+      "contentSnippet": "CSRF という古の攻撃がある。この攻撃を「古(いにしえ)」のものにすることができたプラットフォームの進化の背景について、「Cookie が SameSite Lax by Default になったからだ」という解説を見ることがある。確かに",
       "param": "blog_jxck"
     },
     {
@@ -888,7 +888,7 @@
       "title": "URL バーの表示の変遷",
       "link": "https://blog.jxck.io/entries/2023-05-28/history-of-url-bar.html",
       "pubDate": "2023-05-28T00:00:00.000Z",
-      "contentSnippet": "ついに URL バーから EV 証明書の組織表示が消されるアナウンスが、Chrome から発表された。思えば、URL バーの見た目も、だいぶ変わってきたように思う。URL バーの表示の変遷を一度まとめておく。",
+      "contentSnippet": "ついに URL バーから EV 証明書の組織表示が消されるアナウンスが、Chrome から発表された。思えば、URL バーの見た目も、だいぶ変わってきたように思う。URL バーの表示の変遷を 1 度まとめておく。",
       "param": "blog_jxck"
     },
     {
@@ -916,7 +916,7 @@
       "title": "誇りを被った仕様の針に意図を通す",
       "link": "https://blog.jxck.io/entries/2023-02-28/jquery-has-forgiving-problem.html",
       "pubDate": "2023-02-28T00:00:00.000Z",
-      "contentSnippet": "Interop 2022 の目覚ましい成果の一つとして :has() の存在がある。これまでの CSS の限界を突破する、革新的な仕様であり、多くの開発者が期待を寄せる機能の一つだろう。こうした仕様策定の裏には、必ずと言って良いほど互換性の",
+      "contentSnippet": "Interop 2022 の目覚ましい成果の 1 つとして :has() の存在がある。これまでの CSS の限界を突破する、革新的な仕様であり、多くの開発者が期待を寄せる機能の 1 つだろう。こうした仕様策定の裏には、必ずと言って良いほど",
       "param": "blog_jxck"
     },
     {
@@ -965,7 +965,7 @@
       "title": "JavaScript のメディアタイプと RFC 9239",
       "link": "https://blog.jxck.io/entries/2022-05-31/text-javascript.html",
       "pubDate": "2022-05-31T00:00:00.000Z",
-      "contentSnippet": "長いこと作業が行われていた JavaScript の MIME タイプについての作業が完了し、RFC 9239 として公開された。これにより、推奨される MIME タイプが text/javascript に統一されることになった。かつて推",
+      "contentSnippet": "長いこと行われていた JavaScript の MIME タイプについての作業が完了し、RFC 9239 として公開された。これにより、推奨される MIME タイプが text/javascript に統一されることになった。かつて推奨され",
       "param": "blog_jxck"
     },
     {
@@ -1077,7 +1077,7 @@
       "title": "Web Font のメトリクス上書きによる CLS の改善",
       "link": "https://blog.jxck.io/entries/2021-02-25/font-metrics-override.html",
       "pubDate": "2021-02-25T00:00:00.000Z",
-      "contentSnippet": "WebFont を読み込む際に、取得完了までのラグを、システムが持つフォールバックフォントで代替する場合がある。このとき、フォールバックフォントと読み込んだ Web フォントで、高さに関する情報が異なる場合、Layout Shift が発生",
+      "contentSnippet": "Web Font を読み込む際に、取得完了までのラグを、システムが持つフォールバックフォントで代替する場合がある。このとき、フォールバックフォントと読み込んだ Web フォントで、高さに関する情報が異なる場合、Layout Shift が発",
       "param": "blog_jxck"
     },
     {
@@ -1147,7 +1147,7 @@
       "title": "Webbundle によるサブリソース取得の最適化",
       "link": "https://blog.jxck.io/entries/2020-07-26/bundle-subresources.html",
       "pubDate": "2020-07-26T00:00:00.000Z",
-      "contentSnippet": "WebBundle を用いてサブリソースのみを Bundle する、Subresource Bundle の策定と実装が進んでいる。これを用いると、複数サブリソースの取得を一回の fetch で行うことができ、RTT を減らしつつも個別に取",
+      "contentSnippet": "WebBundle を用いてサブリソースのみを Bundle する、Subresource Bundle の策定と実装が進んでいる。これを用いると、複数サブリソースの取得を 1 回の fetch で行うことができ、RTT を減らしつつも個別",
       "param": "blog_jxck"
     },
     {
@@ -1315,7 +1315,7 @@
       "title": "安全な文字列であると型で検証する Trusted Types について",
       "link": "https://blog.jxck.io/entries/2019-01-27/trusted-types.html",
       "pubDate": "2019-01-27T00:00:00.000Z",
-      "contentSnippet": "脆弱性の原因となる DOM 操作の代表例として elem.innerHTML や location.href などが既に知られている。こうした操作対象(sink) に対して、文字列ベースの代入処理を行う際に、一律して検証をかけることができれ",
+      "contentSnippet": "脆弱性の原因となる DOM 操作の代表例として elem.innerHTML や location.href などが既に知られている。こうした操作対象(sink) に対して、文字列ベースの代入処理を行う際に、一律に検証をかけることができれば",
       "param": "blog_jxck"
     },
     {
@@ -1336,7 +1336,7 @@
       "title": "2018 年をふりかえる",
       "link": "https://blog.jxck.io/entries/2018-12-31/end-of-2018.html",
       "pubDate": "2018-12-31T00:00:00.000Z",
-      "contentSnippet": "例年通り 2018 年を振り返る",
+      "contentSnippet": "例年通り 2018 年を振り返る。",
       "param": "blog_jxck"
     },
     {
@@ -1350,7 +1350,7 @@
       "title": "prefers-color-scheme を用いた Dark Mode 対応と User Preference Media Features",
       "link": "https://blog.jxck.io/entries/2018-11-10/dark-mode-via-prefers-color-scheme.html",
       "pubDate": "2018-11-10T00:00:00.000Z",
-      "contentSnippet": "macOS Mojave は OS レベルで Dark Mode に対応した。しかし、Web コンテンツは依然として白背景黒文字ベースのデザインが多く、結果ブラウザの中だけ眩しいという問題がある。Safari TP69 では、これにメディア",
+      "contentSnippet": "macOS Mojave は OS レベルで Dark Mode に対応した。しかし、Web コンテンツは依然として白背景黒文字ベースのデザインが多く、結果ブラウザの中だけ眩しいという問題がある。Safari TP68 では、これにメディア",
       "param": "blog_jxck"
     },
     {
@@ -1392,14 +1392,14 @@
       "title": "Monthly Web の作り方 2018 年版",
       "link": "https://blog.jxck.io/entries/2018-07-18/how-to-logging-monthly-web.html",
       "pubDate": "2018-07-18T00:00:00.000Z",
-      "contentSnippet": "筆者がやっている Podcast である mozaic.fm の中で、Monthly Web という月ごとの Web の動向をまとめる回をやっている。未だに落ち着いたとはいえないが、2017 年 7 月に初めてから 1 年続けたので、結果と",
+      "contentSnippet": "筆者がやっている Podcast である mozaic.fm の中で、Monthly Web という月ごとの Web の動向をまとめる回をやっている。未だに落ち着いたとはいえないが、2017 年 7 月に始めてから 1 年続けたので、結果と",
       "param": "blog_jxck"
     },
     {
       "title": "Web Authentication API で FIDO U2F(YubiKey) 認証",
       "link": "https://blog.jxck.io/entries/2018-05-15/webauthentication-api.html",
       "pubDate": "2018-05-15T00:00:00.000Z",
-      "contentSnippet": "Web Authentication(WebAuthN) API の策定と実装が進んでいる。これを用いると、FIDO(Fast IDentity Online) U2F(Universal Second Factor) 認証が可能になる。今",
+      "contentSnippet": "Web Authentication(WebAuthn) API の策定と実装が進んでいる。これを用いると、FIDO(Fast IDentity Online) U2F(Universal Second Factor) 認証が可能になる。今",
       "param": "blog_jxck"
     },
     {
@@ -1431,7 +1431,7 @@
       "param": "blog_jxck"
     },
     {
-      "title": "WebFont の WOFF2 対応によるサイズ最適化",
+      "title": "Web Font の WOFF2 対応によるサイズ最適化",
       "link": "https://blog.jxck.io/entries/2018-02-13/web-font-woff2.html",
       "pubDate": "2018-02-13T00:00:00.000Z",
       "contentSnippet": "Safari 10.0 から WOFF2 がサポートされており、これをもって IE 以外のメジャーブラウザではサポートが揃いつつある。本サイトは WOFF 形式での Web Font を提供しているが、WOFF2 形式では WOFF よりも",
@@ -1441,7 +1441,7 @@
       "title": "Safari による User-Agent 固定化と Web における Feature Detection",
       "link": "https://blog.jxck.io/entries/2018-01-17/freezing-user-agent-string.html",
       "pubDate": "2018-01-17T00:00:00.000Z",
-      "contentSnippet": "少し前に Safari Technology Preview 46 がリリースされた。Service Worker のアナウンスに目がそちらに盗まれている一方、しれっと以下の一文がある。Froze the user-agent string",
+      "contentSnippet": "少し前に Safari Technology Preview 46 がリリースされた。Service Worker のアナウンスに目が奪われている一方、しれっと以下の一文がある。Froze the user-agent string to ",
       "param": "blog_jxck"
     },
     {
@@ -1455,14 +1455,14 @@
       "title": "record to map in Erlang",
       "link": "https://blog.jxck.io/entries/2018-01-14/erlang-record-to-map.html",
       "pubDate": "2018-01-14T00:00:00.000Z",
-      "contentSnippet": "Record を Map に変換するだけのマクロ",
+      "contentSnippet": "Record を Map に変換するだけのマクロ。",
       "param": "blog_jxck"
     },
     {
       "title": "Form で submit されたデータの収集と FormData &amp; URLSearchParams",
       "link": "https://blog.jxck.io/entries/2018-01-13/formdata-urlsearchparams.html",
       "pubDate": "2018-01-13T00:00:00.000Z",
-      "contentSnippet": "<form> の onsubmit をフックして、入力された値を <input> から集めて送るといった処理はよくある。このとき、submit されたデータの収拾方法はいくつかある。submit に限らず、そのイベントに付随する情報は、基本",
+      "contentSnippet": "<form> の onsubmit をフックして、入力された値を <input> から集めて送るといった処理はよくある。このとき、submit されたデータの収集方法はいくつかある。submit に限らず、そのイベントに付随する情報は、基本",
       "param": "blog_jxck"
     },
     {
@@ -1497,7 +1497,7 @@
       "title": "WHATWG の IPR Policy と Governance Structure",
       "link": "https://blog.jxck.io/entries/2017-12-12/whatwg-working-mode-changes.html",
       "pubDate": "2017-12-12T00:00:00.000Z",
-      "contentSnippet": "WHATWG が IPR Policy と Governance Structure についての更新を発表した。おおまかな流れと、これによって引き起されそうな変化について解説する。",
+      "contentSnippet": "WHATWG が IPR Policy と Governance Structure についての更新を発表した。おおまかな流れと、これによって引き起こされそうな変化について解説する。",
       "param": "blog_jxck"
     },
     {

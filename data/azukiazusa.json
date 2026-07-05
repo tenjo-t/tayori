@@ -4,6 +4,20 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "Safari MCP サーバーでエージェントが Safari ブラウザを操作できるようにする",
+      "link": "https://azukiazusa.dev/blog/safari-mcp-server",
+      "pubDate": "2026-07-04T11:36:00.000Z",
+      "contentSnippet": "Web アプリケーションの開発には実ブラウザでの動作確認が必要不可欠です。Playwright CLI や chrome-devtools-mcp などエージェント向けのブラウザ操作ツールは多くが Chromium に依存しています。Saf",
+      "param": "azukiazusa"
+    },
+    {
+      "title": "AI SDK の MCP Apps 対応でインタラクティブな UI を返す",
+      "link": "https://azukiazusa.dev/blog/ai-sdk-mcp-apps",
+      "pubDate": "2026-07-04T10:59:00.000Z",
+      "contentSnippet": "AI SDK の v7 では MCP Apps 対応が追加されました。AI モデルはツールを呼び出す際に `ui://` リソースが紐付けられていれば、アプリケーション側でその UI をサンドボックス化された環境でレンダリングすることができ",
+      "param": "azukiazusa"
+    },
+    {
       "title": "AI エージェントフレームワーク Flue を試してみた",
       "link": "https://azukiazusa.dev/blog/ai-agent-framework-flue",
       "pubDate": "2026-06-27T08:54:00.000Z",
@@ -2174,17 +2188,17 @@
       "param": "azukiazusa"
     },
     {
-      "title": "Web アプリケーションエンジニアのためのウェブアクセシビリティの基礎",
-      "link": "https://azukiazusa.dev/blog/web-accessibility-basics-every-web-application-engineer-needs-to-know",
-      "pubDate": "2023-02-18T15:00:00.000Z",
-      "contentSnippet": "ウェブアプリケーションエンジニアを対象に、アクセシビリティの対応について解説した記事。アクセシビリティを向上させるためには、正しいHTMLの書き方が必要である。HTML要素には、アクセシビリティに関する機能が元々備わっているため、適切なHT",
-      "param": "azukiazusa"
-    },
-    {
       "title": "TypeScript + ESModules の開発環境をシュッと作る",
       "link": "https://azukiazusa.dev/blog/typescript-esmodules",
       "pubDate": "2023-02-18T15:00:00.000Z",
       "contentSnippet": "ほぼ設定なしで TypeScript + ESModules の開発環境をシュッと作る時のレシピです。",
+      "param": "azukiazusa"
+    },
+    {
+      "title": "Web アプリケーションエンジニアのためのウェブアクセシビリティの基礎",
+      "link": "https://azukiazusa.dev/blog/web-accessibility-basics-every-web-application-engineer-needs-to-know",
+      "pubDate": "2023-02-18T15:00:00.000Z",
+      "contentSnippet": "ウェブアプリケーションエンジニアを対象に、アクセシビリティの対応について解説した記事。アクセシビリティを向上させるためには、正しいHTMLの書き方が必要である。HTML要素には、アクセシビリティに関する機能が元々備わっているため、適切なHT",
       "param": "azukiazusa"
     },
     {

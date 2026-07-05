@@ -4,11 +4,59 @@
   "description": "現在Zennでトレンドとなっている投稿のRSSフィードです",
   "items": [
     {
+      "creator": "岩城まゆ",
+      "title": "仕事の「モチベーション」とは何か。",
+      "link": "https://zenn.dev/dip_techblog/articles/526cc6e6e5d5a5",
+      "pubDate": "2026-07-04T08:19:56.000Z",
+      "contentSnippet": "こんにちは！ディップDevRelの岩城まゆです！\n最近Z世代関連の勉強会や組織開発に関わるカンファレンスセッションを聞くことが多く、「仕事のモチベーションとは何か」を考える機会がありました。その悩みがディップの元COO・CHOとのご飯会でス",
+      "param": "zenn"
+    },
+    {
+      "creator": "emmyeil",
+      "title": "無料でSAR衛星画像を見る！Sentinel-1で始める0冊目の入門書",
+      "link": "https://zenn.dev/syu_tan/books/sentinel-1-introduction",
+      "pubDate": "2026-07-04T06:19:32.000Z",
+      "contentSnippet": "Copernicus Sentinel-1 のSAR衛星画像を、まず無料サイトで見て楽しむための入門本です。\nSARの基本、Sentinel-1の現在地、Copernicus Browserでの見方を短く整理します。",
+      "param": "zenn"
+    },
+    {
+      "creator": "seisei89628",
+      "title": "就活用DirectX12アクションゲーム作成　第二十一回",
+      "link": "https://zenn.dev/seisei89628/articles/cfec733913db02",
+      "pubDate": "2026-07-04T04:21:33.000Z",
+      "contentSnippet": "※筆者は初学者なので、間違ったことを書いていれば教えてくれると助かります。\n\n はじめに\n前回は、描画パスを整理しました。\nRender() の中を、\nDrawShadowMapPass();\nDrawSceneColorPass();\nD",
+      "param": "zenn"
+    },
+    {
+      "creator": "Sirasagi62",
+      "title": "C++の謎めいたHello WorldをPythonで再実装して理解を深めよう",
+      "link": "https://zenn.dev/sirasagi62/articles/59db634940ba80",
+      "pubDate": "2026-07-03T12:26:37.000Z",
+      "contentSnippet": "C++という言語があります。現在普及しているオブジェクト指向を世界的に普及させた最初期の言語[1]でWindows,Chrome,Unreal Engineなどの様々なプロジェクトで利用されています。\nそんなC++ですが、現在ではHello",
+      "param": "zenn"
+    },
+    {
       "creator": "peishim",
       "title": "Generative UIとそれを実現するOpenUIのイメージを掴む！",
       "link": "https://zenn.dev/peishim/articles/37ff4d894f8fbc",
       "pubDate": "2026-07-03T11:30:29.000Z",
       "contentSnippet": "はじめに\nGenerative UIって何なのか理解しようと思うと、いろんな新しい単語があったりして難しそうに感じると思います。自分も難しいと感じた一人なので、Generative UIを実現するためのフレームワークの1つであるOpenUI",
+      "param": "zenn"
+    },
+    {
+      "creator": "trknhr",
+      "title": ".env に API キーを書きたくないので 軽いCLI を作った",
+      "link": "https://zenn.dev/trknhr/articles/42c20e11812217",
+      "pubDate": "2026-07-03T08:25:45.000Z",
+      "contentSnippet": "ローカル開発では .env に API キーを置きがちです。\nOPENAI_API_KEY=sk-...\nDATABASE_URL=postgres://...\nこれは昔からある普通の運用ですが、AI agent をローカルで動かすことが増",
+      "param": "zenn"
+    },
+    {
+      "creator": "ochisan",
+      "title": "とある部長のObsidian",
+      "link": "https://zenn.dev/canly/articles/173479ac3e9824",
+      "pubDate": "2026-07-03T06:28:32.000Z",
+      "contentSnippet": "まえがき\nカンリーのプロダクトマネジメント部の部長をしている越智（X：@ochi__san）です。\nAIが日常の当たり前になってから久しいですが、私ももれなく日々の業務にどうAIを取り込み、いかに生産性高くふるまい続けられるかを考えています",
       "param": "zenn"
     },
     {
@@ -25,6 +73,14 @@
       "link": "https://zenn.dev/dalab/articles/80ce9a10d507b8",
       "pubDate": "2026-07-03T01:45:57.000Z",
       "contentSnippet": "1.  本記事について\n\nデータアナリティクスラボ株式会社 データソリューション事業部の中田です。\n本記事は、社内活動の一環としてGNNについて学習したことをアウトプットしたものとなります。\nグラフニューラルネットワーク（GNN）の基本概念",
+      "param": "zenn"
+    },
+    {
+      "creator": "ShintaroAmaike",
+      "title": "すでに4800スター、Loop Engineeringとは — “自分の仕事はloopを書くこと”",
+      "link": "https://zenn.dev/acntechjp/articles/0c63b5b08bbdb9",
+      "pubDate": "2026-07-02T23:28:29.000Z",
+      "contentSnippet": "Loop Engineeringは完全自律への「橋」となる\n\nコードが人間の読解速度を超えて生成され続ける——気づいた頃には、誰も全体を把握していないコードベースだけが残る。理解負債は、後から返済できる技術的負債とは違う。負債が積み上がった",
       "param": "zenn"
     },
     {
@@ -196,19 +252,19 @@
       "param": "zenn"
     },
     {
-      "creator": "10mo8",
-      "title": "モデルは“使い捨て”でいい 〜AI時代のモデルベースドテスト〜",
-      "link": "https://zenn.dev/edash_tech_blog/articles/ea57d16a4a9a97",
-      "pubDate": "2026-07-01T03:00:19.000Z",
-      "contentSnippet": "こんにちは！e-dashでQAエンジニアをしている10mo8です。\nAIエージェントにテスト設計をさせると、同じ仕様書を渡しているのに、出力されるテストスコープやテスト観点が毎回ぶれる——そんな経験はないでしょうか。AIは非決定的なので、あ",
-      "param": "zenn"
-    },
-    {
       "creator": "rajyan",
       "title": "Preview環境でPRごとに専用DBを使えるようにした話",
       "link": "https://zenn.dev/estie/articles/59ec0ae59c3199",
       "pubDate": "2026-07-01T03:00:19.000Z",
       "contentSnippet": "こんにちは、株式会社estie（エスティ）でソフトウェアエンジニアをしている木村です。\n以前、弊社の徳原が Preview環境の実装について紹介する記事 を書きました。PRごとに専用URLが発行され、変更内容を実際に動かして確認できる仕組み",
+      "param": "zenn"
+    },
+    {
+      "creator": "10mo8",
+      "title": "モデルは“使い捨て”でいい 〜AI時代のモデルベースドテスト〜",
+      "link": "https://zenn.dev/edash_tech_blog/articles/ea57d16a4a9a97",
+      "pubDate": "2026-07-01T03:00:19.000Z",
+      "contentSnippet": "こんにちは！e-dashでQAエンジニアをしている10mo8です。\nAIエージェントにテスト設計をさせると、同じ仕様書を渡しているのに、出力されるテストスコープやテスト観点が毎回ぶれる——そんな経験はないでしょうか。AIは非決定的なので、あ",
       "param": "zenn"
     },
     {
@@ -276,19 +332,19 @@
       "param": "zenn"
     },
     {
-      "creator": "a.haruki",
-      "title": "リリースのキャッチアップを、Claude Code Skills と Github CLI で自動化した",
-      "link": "https://zenn.dev/aeyesec/articles/fe599775862786",
-      "pubDate": "2026-06-30T23:00:12.000Z",
-      "contentSnippet": "はじめに\nこんにちは。株式会社エーアイセキュリティラボで、SaaS 型 Web アプリケーション脆弱性診断プラットフォーム「AeyeScan」の開発エンジニアをしている有馬です。\nリリース担当として、2 週間に 1 回ほどのリリースで毎回 ",
-      "param": "zenn"
-    },
-    {
       "creator": "hatamasa",
       "title": "優秀な人ばかりなのに、組織が重い ── AI時代に複利で膨らむ『認識負債』の話",
       "link": "https://zenn.dev/canly/articles/0c01a3124b8480",
       "pubDate": "2026-06-30T23:00:12.000Z",
       "contentSnippet": "こんにちは、株式会社カンリーの波多野（@hatamasa1988）です。\n同じ言葉を使っているのに、話が通じない。\n最近、技術負債よりも厄介だと感じている負債の話をします。それが今回書く「認識負債」です。\n私はカンリー店舗集客プロダクトのエ",
+      "param": "zenn"
+    },
+    {
+      "creator": "a.haruki",
+      "title": "リリースのキャッチアップを、Claude Code Skills と Github CLI で自動化した",
+      "link": "https://zenn.dev/aeyesec/articles/fe599775862786",
+      "pubDate": "2026-06-30T23:00:12.000Z",
+      "contentSnippet": "はじめに\nこんにちは。株式会社エーアイセキュリティラボで、SaaS 型 Web アプリケーション脆弱性診断プラットフォーム「AeyeScan」の開発エンジニアをしている有馬です。\nリリース担当として、2 週間に 1 回ほどのリリースで毎回 ",
       "param": "zenn"
     },
     {
@@ -412,19 +468,19 @@
       "param": "zenn"
     },
     {
-      "creator": "numoto",
-      "title": "【個人開発】WEBサービスの収益を最大化するために試したこと",
-      "link": "https://zenn.dev/sonicmoov/articles/1d42acb18af2f5",
-      "pubDate": "2026-06-29T23:00:11.000Z",
-      "contentSnippet": "はじめに\n皆さんはWEBサービスの収益化に取り組んだ経験はありますか？サービスを作ること自体も大変ですが、収益化はさらに難しいと感じる方も多いのではないでしょうか。この記事では、私がWEBサービスの収益を最大化するために試したことを書きます",
-      "param": "zenn"
-    },
-    {
       "creator": "Katsuhisa Kitano",
       "title": "OpenTelemetry に reasoning.level 属性を追加しました",
       "link": "https://zenn.dev/studist/articles/opentelemetry-genai-reasoning-level",
       "pubDate": "2026-06-29T23:00:11.000Z",
       "contentSnippet": "!\nこの記事は、 2026年6月のスタディストブログリレー の記事です。\n\n\n はじめに\n最近、私が出した open-telemetry/semantic-conventions-genai に対する gen_ai.request.reas",
+      "param": "zenn"
+    },
+    {
+      "creator": "numoto",
+      "title": "【個人開発】WEBサービスの収益を最大化するために試したこと",
+      "link": "https://zenn.dev/sonicmoov/articles/1d42acb18af2f5",
+      "pubDate": "2026-06-29T23:00:11.000Z",
+      "contentSnippet": "はじめに\n皆さんはWEBサービスの収益化に取り組んだ経験はありますか？サービスを作ること自体も大変ですが、収益化はさらに難しいと感じる方も多いのではないでしょうか。この記事では、私がWEBサービスの収益を最大化するために試したことを書きます",
       "param": "zenn"
     },
     {
@@ -516,14 +572,6 @@
       "param": "zenn"
     },
     {
-      "creator": "k-hoshihara",
-      "title": "イベント駆動アーキテクチャ導入の設計判断",
-      "link": "https://zenn.dev/wn_engineering/articles/dc809eed504f90",
-      "pubDate": "2026-06-29T01:00:09.000Z",
-      "contentSnippet": "この記事はウェルスナビ 2026年6月テックブログ企画\n「選択の物語：金融サービスのシステム設計判断をひもとく」の特集記事です。\n\n\n はじめに\nこんにちは、ウェルスナビでバックエンドエンジニアを担当している星原です。\nウェルスナビのバック",
-      "param": "zenn"
-    },
-    {
       "creator": "GameDev Tool Lab",
       "title": "UnityプロジェクトでAIを効率よく使うためのトークン節約術",
       "link": "https://zenn.dev/gamedev_toollab/articles/a7364d37455a50",
@@ -532,11 +580,11 @@
       "param": "zenn"
     },
     {
-      "creator": "Atsuki02",
-      "title": "超便利なClaude Designの実践的な活用方法",
-      "link": "https://zenn.dev/branbran/articles/5730c47e1abac9",
-      "pubDate": "2026-06-29T00:30:05.000Z",
-      "contentSnippet": "はじめに\n先日Claudeから登場したデザインプラットフォーム Claude Design を、ここ数週間にわたって一通り使ってみました。本記事では、その中で見つけた実践的な使い方を紹介します。\nこれから Claude Designを使って",
+      "creator": "k-hoshihara",
+      "title": "イベント駆動アーキテクチャ導入の設計判断",
+      "link": "https://zenn.dev/wn_engineering/articles/dc809eed504f90",
+      "pubDate": "2026-06-29T01:00:09.000Z",
+      "contentSnippet": "この記事はウェルスナビ 2026年6月テックブログ企画\n「選択の物語：金融サービスのシステム設計判断をひもとく」の特集記事です。\n\n\n はじめに\nこんにちは、ウェルスナビでバックエンドエンジニアを担当している星原です。\nウェルスナビのバック",
       "param": "zenn"
     },
     {
@@ -545,6 +593,14 @@
       "link": "https://zenn.dev/branbran/articles/9a30731236caac",
       "pubDate": "2026-06-29T00:30:05.000Z",
       "contentSnippet": "はじめに\nショートカット、覚えたいのに覚えられない。そんな悩みはありませんか？\n覚えようとしてもなかなか覚えられず、いざ試してみようと思っても、いつの間にかショートカットを使わずに操作しているということがよくあります。かといって、腰を据えて",
+      "param": "zenn"
+    },
+    {
+      "creator": "Atsuki02",
+      "title": "超便利なClaude Designの実践的な活用方法",
+      "link": "https://zenn.dev/branbran/articles/5730c47e1abac9",
+      "pubDate": "2026-06-29T00:30:05.000Z",
+      "contentSnippet": "はじめに\n先日Claudeから登場したデザインプラットフォーム Claude Design を、ここ数週間にわたって一通り使ってみました。本記事では、その中で見つけた実践的な使い方を紹介します。\nこれから Claude Designを使って",
       "param": "zenn"
     },
     {
@@ -1558,7 +1614,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
+      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"
@@ -1566,7 +1622,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
+      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"

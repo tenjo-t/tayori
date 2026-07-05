@@ -4,6 +4,46 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "石垣島産石垣",
+      "title": "RustでABC465 (A ~ C)",
+      "link": "https://zenn.dev/ishigaki122/articles/04a7d3d478169a",
+      "pubDate": "2026-07-04T14:23:04.000Z",
+      "contentSnippet": "ABC 465 参加記録\n\n 戦績\n\n\n\n問題\n結果\n時間\nペナルティ\n\n\n\n\nA\nAC\n1:07\n0\n\n\nB\nAC\n6:29\n0\n\n\nC\nAC\n15:47\n0\n\n\n\nパフォーマンス 929\nレート変動： 1018 -> 1009（-9）\n",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "NDPC-Iの学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-i",
+      "pubDate": "2026-07-04T12:00:08.000Z",
+      "contentSnippet": "問題のリンク\n\n\n 問題概要\n長さ N の数列の要素を並び替えて、1列に並べる。\nこのとき、左からの最大値更新回数（prefix max）が L 回、右からの最大値更新回数（suffix max）が R 回となる並べ方の総数を9982443",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "NDPC-Hの学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-h",
+      "pubDate": "2026-07-04T12:00:08.000Z",
+      "contentSnippet": "問題のリンク\n\n\n 問題概要\nN \\times N のグリッドの左上 (1,1) から右下 (N,N) まで、右または下への移動を繰り返してコインを拾いながら進みます。\n「手持ちのコインがちょうど x 枚である状態で、そのマスに滞在する可能",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "Masa0209",
+      "title": "autocxx vs cxx vs bindgen：レガシー C++ を Rust から触るツール選定",
+      "link": "https://zenn.dev/m2lab/articles/rust-cpp-ffi-cxx-bindgen-autocxx",
+      "pubDate": "2026-07-04T04:52:06.000Z",
+      "contentSnippet": "作ったもの\nレガシー C++ の小さな API を題材に、同じヘッダを Rust から触る 3 方式（bindgen / cxx / autocxx）を並べたデモと、選定表をまとめました。\n\nGitHub: https://github.c",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "とうもろこし茶",
+      "title": "Codexが年640TBをSSDに書いていた、原因のTRACEログを追う",
+      "link": "https://zenn.dev/okssusucha/articles/20260701-openai-codex-sqlite-trace-log-ssd-wear",
+      "pubDate": "2026-07-04T04:35:18.000Z",
+      "contentSnippet": "手元のSSDが、キー入力していない時間帯まで一定のペースで削られていく。プロセスを追い詰めると、犯人はエディタでもブラウザでもなく、常駐させていたOpenAI Codex CLIのログ機構だった。あるユーザーの計測では、約21日の連続稼働で",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "nakahide",
       "title": "NDPC-Gの学習記録",
       "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-g",
@@ -261,18 +301,18 @@
     },
     {
       "creator": "nakahide",
-      "title": "Next DP Contest（NDPC）の学習記録",
-      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-top",
-      "pubDate": "2026-06-26T12:00:05.000Z",
-      "contentSnippet": "この記事について\nNext DP Contestで筆者が解いた問題(A～Iの9問)について、解法を自分なりに整理した学習記録です。\n後から読み返したときに解法を再構成できるよう、完成したコードだけでなく、DPの状態や遷移、解法のポイントを整",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "nakahide",
       "title": "NDPC-Dの学習記録",
       "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-d",
       "pubDate": "2026-06-26T12:00:05.000Z",
       "contentSnippet": "問題のリンク\n\n\n 問題概要\nある国では、1円紙幣, 10円紙幣, 100円紙幣, ...と10倍ごとに紙幣が流通している。\nN 円の支払いを行う時、「支払う紙幣の枚数」と「お釣りとしてもらう紙幣の枚数」の合計枚数を最小化する問題。\n\n 重",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "Next DP Contest（NDPC）の学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-top",
+      "pubDate": "2026-06-26T12:00:05.000Z",
+      "contentSnippet": "この記事について\nNext DP Contestで筆者が解いた問題(A～Iの9問)について、解法を自分なりに整理した学習記録です。\n後から読み返したときに解法を再構成できるよう、完成したコードだけでなく、DPの状態や遷移、解法のポイントを整",
       "param": "zenn_rust"
     },
     {
