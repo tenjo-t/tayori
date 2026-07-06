@@ -4,6 +4,62 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "Akihiro",
+      "title": "Arduino UNO R4でembassy-rsを使ったLチカ",
+      "link": "https://zenn.dev/akihiro_ya/articles/2fc969d10195e5",
+      "pubDate": "2026-07-05T14:51:05.000Z",
+      "contentSnippet": "https://qiita.com/5C6F2F/items/3f28e3bd5256568bffe8\nこれをArduino UNO R4 Minimaでやりたい。\nルネサスRAはembassy公式サイトに書いてないが、crates.ioに",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "dameyodamedame",
+      "title": "JavaScriptのメソッドチェインが遅い理由",
+      "link": "https://zenn.dev/dameyodamedame/articles/0bd949354baf6e",
+      "pubDate": "2026-07-05T10:58:57.000Z",
+      "contentSnippet": "序\n以前Qiitaにあげていた記事の更新版です(Iterator Helpersが標準入りし、メンテナンス期間のnode.js LTSで使えるようになったので)。\nRustとJavaScriptで似たような書き方のメソッドチェインを比較しま",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "kakuremi",
+      "title": ".kdbx を解剖する — KDBX4 フォーマットを実装して踏んだ本物のバグ",
+      "link": "https://zenn.dev/kakuremi/articles/kakuremi-kdbx4-format-deep-dive",
+      "pubDate": "2026-07-05T07:54:29.000Z",
+      "contentSnippet": "弊社 Springhiker Inc. は、KeePass 互換の iOS パスワードマネージャー Kakuremi を開発しています。KDBX の読み書きは、MIT ライセンスの Rust ライブラリ keepass-rs（v0.7.0 ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "Masa0209",
+      "title": "DRF 一覧 Serializer が重い — Field compile と PyO3 batch を試して分かったこと",
+      "link": "https://zenn.dev/m2lab/articles/drf-compiled-serializer",
+      "pubDate": "2026-07-05T05:38:54.000Z",
+      "contentSnippet": "はじめに\nDjango REST Framework（DRF）の 一覧 ModelSerializer（many=True） が重い。前回 cProfile → pybind11 のときと同じく、計測してからネイティブ化 してみよう、と思い",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "日下武紀",
+      "title": "ローカル完結ボイスジャーナルの設計 ― QuickScribe を Tauri + Rust + Svelte でつくる",
+      "link": "https://zenn.dev/takenori_kusaka/books/quickscribe-design",
+      "pubDate": "2026-07-05T04:58:25.000Z",
+      "contentSnippet": "話した言葉を、要約せずニュアンスを残したまま整えて残す。そんなローカル完結の音声ジャーナル「QuickScribe」を、Tauri + Rust + Svelte でどう設計したかをまとめた本です。エンジンを差し替え可能にする trait ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "kyow",
+      "title": "Rust製のMarkdownナレッジベース向けMCPサーバーを公開した",
+      "link": "https://zenn.dev/kyow/articles/terrain-v0-2-1-released",
+      "pubDate": "2026-07-05T04:12:01.000Z",
+      "contentSnippet": "前回、traverze という全文検索ライブラリを公開したよという記事を書いたのですが、この中で、\n\nローカルのさまざまな場所に、生成AIに食わせる、あるいは生成AIが生成したテキストファイル(主にmarkdown)が転がってないですかね?",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "fukuyan",
+      "title": "Node.jsの集計をRustに書き換えて4.9倍速くなったが、数字が2.16倍間違っていた話",
+      "link": "https://zenn.dev/fukudat412/articles/f016f0ce7f2629",
+      "pubDate": "2026-07-05T03:16:39.000Z",
+      "contentSnippet": "!\nClaude Codeの使用量を可視化するダッシュボードを作る過程で踏んだ、集計の「速さ」と「正しさ」の話です。ツール全体の紹介は別記事にまとめる予定です。\n\n\n TL;DR\n\nNode.jsのJSONLパース+集計処理をRust CL",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "石垣島産石垣",
       "title": "RustでABC465 (A ~ C)",
       "link": "https://zenn.dev/ishigaki122/articles/04a7d3d478169a",
@@ -301,18 +357,18 @@
     },
     {
       "creator": "nakahide",
-      "title": "NDPC-Dの学習記録",
-      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-d",
-      "pubDate": "2026-06-26T12:00:05.000Z",
-      "contentSnippet": "問題のリンク\n\n\n 問題概要\nある国では、1円紙幣, 10円紙幣, 100円紙幣, ...と10倍ごとに紙幣が流通している。\nN 円の支払いを行う時、「支払う紙幣の枚数」と「お釣りとしてもらう紙幣の枚数」の合計枚数を最小化する問題。\n\n 重",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "nakahide",
       "title": "Next DP Contest（NDPC）の学習記録",
       "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-top",
       "pubDate": "2026-06-26T12:00:05.000Z",
       "contentSnippet": "この記事について\nNext DP Contestで筆者が解いた問題(A～Iの9問)について、解法を自分なりに整理した学習記録です。\n後から読み返したときに解法を再構成できるよう、完成したコードだけでなく、DPの状態や遷移、解法のポイントを整",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "NDPC-Dの学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-d",
+      "pubDate": "2026-06-26T12:00:05.000Z",
+      "contentSnippet": "問題のリンク\n\n\n 問題概要\nある国では、1円紙幣, 10円紙幣, 100円紙幣, ...と10倍ごとに紙幣が流通している。\nN 円の支払いを行う時、「支払う紙幣の枚数」と「お釣りとしてもらう紙幣の枚数」の合計枚数を最小化する問題。\n\n 重",
       "param": "zenn_rust"
     },
     {
