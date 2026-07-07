@@ -3,6 +3,27 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "第66回　QEMU/KVMとVirt-manager",
+      "link": "https://gihyo.jp/article/2026/07/zoku-gansiki-0066?utm_source=feed",
+      "pubDate": "2026-07-07T00:00:00.000Z",
+      "contentSnippet": "あれこれと雑事に追われているうちに2026年も半分が過ぎてしまいました。その間にlinuxカーネルもバージョンが7.0になりました。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第274回　Group Replicationの状態をPerformance Schemaから確認しよう",
+      "link": "https://gihyo.jp/article/2026/07/mysql-rcn0274?utm_source=feed",
+      "pubDate": "2026-07-06T23:50:00.000Z",
+      "contentSnippet": "これまで連載では、Group Replicationの基本的な仕組みや構築方法、Single-PrimaryとMulti-Primaryの違いや、Flow Controlなどを紹介してきました。本記事では Group Replication",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Sakana AI、AIチャットSakana Chatで翻訳サービス「Sakana Translate」を開始",
+      "link": "https://gihyo.jp/article/2026/07/sakana-translate?utm_source=feed",
+      "pubDate": "2026-07-06T04:12:00.000Z",
+      "contentSnippet": "Sakana AIは2026年7月6日、AIチャットサービス「Sakana Chat」に新たに翻訳機能「Sakana Translate（サカナ・トランスレート）」を追加したことを発表した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "Blenderで自動保存する間隔を調整してみよう",
       "link": "https://gihyo.jp/article/2026/07/blender-basics-80?utm_source=feed",
       "pubDate": "2026-07-06T00:20:00.000Z",
@@ -5673,17 +5694,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {
