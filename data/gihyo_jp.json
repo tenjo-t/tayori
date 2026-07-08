@@ -3,6 +3,20 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "第918回　homepageでクールな家庭内ポータル兼サービスダッシュボードを作ろう",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0918?utm_source=feed",
+      "pubDate": "2026-07-08T00:14:00.000Z",
+      "contentSnippet": "家庭内で様々なサーバーやWebアプリを動かしていると、それらをまとめたダッシュボードがほしくなりますよね。今回はそうしたサービスダッシュボードを手軽に作れるhomepageを紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "9/11開催「Go Conference 2026」、7/8から第1弾チケット販売開始",
+      "link": "https://gihyo.jp/article/2026/07/gocon-2026-ticket?utm_source=feed",
+      "pubDate": "2026-07-07T05:24:00.000Z",
+      "contentSnippet": "プログラミング言語Goに関する年次カンファレンス「Go Conference 2026」が2026年9月11日（金）に東京、中野セントラルパークサウス1で開催される。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "第66回　QEMU/KVMとVirt-manager",
       "link": "https://gihyo.jp/article/2026/07/zoku-gansiki-0066?utm_source=feed",
       "pubDate": "2026-07-07T00:00:00.000Z",
@@ -5694,17 +5708,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {
