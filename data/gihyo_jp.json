@@ -3,6 +3,27 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "GoogleがPixel 7以降をLinuxカーネル6.12に一斉アップデートする理由",
+      "link": "https://gihyo.jp/article/2026/07/android-weekly-topics-260709?utm_source=feed",
+      "pubDate": "2026-07-08T23:46:00.000Z",
+      "contentSnippet": "Googleが、Pixel 7からPixel 10にいたるまでの幅広いデバイスを対象に一挙に最新のLinuxカーネル 6.12へとアップデートする準備を進めていることが明らかになりました。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Google、Search ConsoleでInstagram・TikTok・X・YouTubeのGoogle検索での露出・流入を確認できる「プラットフォームプロパティ」追加を発表",
+      "link": "https://gihyo.jp/article/2026/07/search-console-platform-property?utm_source=feed",
+      "pubDate": "2026-07-08T07:10:00.000Z",
+      "contentSnippet": "Googleは2026年7月7日、Google Search Consoleに新しいプロパティタイプ「プラットフォームプロパティ（platform properties）」を追加すると発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Meta、画像生成モデル「Muse Image」をMeta AIなどで利用可能に、「Muse Video」もプレビュー",
+      "link": "https://gihyo.jp/article/2026/07/meta-muse-image-and-video?utm_source=feed",
+      "pubDate": "2026-07-08T02:43:00.000Z",
+      "contentSnippet": "Metaは2026年7月7日、Meta Superintelligence Labsが開発したメディア生成モデル「Muse Image」と「Muse Video」を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "第918回　homepageでクールな家庭内ポータル兼サービスダッシュボードを作ろう",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0918?utm_source=feed",
       "pubDate": "2026-07-08T00:14:00.000Z",
@@ -5708,17 +5729,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {
