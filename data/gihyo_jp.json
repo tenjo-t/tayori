@@ -3,6 +3,48 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "Microsoft Research、AI時代のグラフ作成を支援する中間言語「Flint」を発表",
+      "link": "https://gihyo.jp/article/2026/07/flint?utm_source=feed",
+      "pubDate": "2026-07-09T09:43:00.000Z",
+      "contentSnippet": "Microsoft Researchは2026年7月8日、AIエージェントによるグラフ作成を支援する中間言語「Flint」を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Gentooのコアはリスペクトにあり ―開発者が語る“Why Gentoo”",
+      "link": "https://gihyo.jp/article/2026/07/daily-linux-260709?utm_source=feed",
+      "pubDate": "2026-07-09T07:32:00.000Z",
+      "contentSnippet": "オープンソースLinuxの中でも比較的長い歴史をもちながら、特定企業のスポンサードに依存せず、ユーザが手元ですべてのソースコードをコンパイルすることにこだわり続けてきたGentoo Linux。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Grok 4.5リリース ―コーディングとエージェント向けに強化した最初のモデル",
+      "link": "https://gihyo.jp/article/2026/07/grok-4-5?utm_source=feed",
+      "pubDate": "2026-07-09T07:09:00.000Z",
+      "contentSnippet": "SpaceXAIは2026年7月8日、同社のAIモデルGrokの最新バージョンGrok 4.5をリリースした。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "TypeScript 7.0が正式リリース",
+      "link": "https://gihyo.jp/article/2026/07/typescript-7-0?utm_source=feed",
+      "pubDate": "2026-07-09T05:20:00.000Z",
+      "contentSnippet": "Microsoftは2026年7月8日、TypeScript 7.0を正式リリースした。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Anthropic、Claude CodeでAIエージェントを活用するループ設計を紹介",
+      "link": "https://gihyo.jp/article/2026/07/coding-agent-loop-design-with-claude-code?utm_source=feed",
+      "pubDate": "2026-07-09T02:57:00.000Z",
+      "contentSnippet": "AnthropicのClaude Codeチームは2026年6月30日、AIコーディングエージェントを使う際のループの考え方を紹介する記事「Getting started with loops」を公開した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "OpenAI、AIとリアルタイムでより自然な会話ができる音声モデルGPT-Liveをリリース",
+      "link": "https://gihyo.jp/article/2026/07/gpt-live?utm_source=feed",
+      "pubDate": "2026-07-09T02:07:00.000Z",
+      "contentSnippet": "OpenAIは2026年7月8日、AIとよりリアルな感覚で会話ができる新世代の音声モデル「GPT-Live」シリーズを発表した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "GoogleがPixel 7以降をLinuxカーネル6.12に一斉アップデートする理由",
       "link": "https://gihyo.jp/article/2026/07/android-weekly-topics-260709?utm_source=feed",
       "pubDate": "2026-07-08T23:46:00.000Z",
@@ -5729,17 +5771,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {

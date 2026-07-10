@@ -4,6 +4,22 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "Kwun-Lok Ng",
+      "title": "AI モデルが繰り返す翻訳ミスに疲れたので、i18n ツールキット「i18nstack」を OSS で公開しました",
+      "link": "https://zenn.dev/kwunlokng/articles/i18nstack-launch-ja",
+      "pubDate": "2026-07-09T10:33:39.000Z",
+      "contentSnippet": "何を作ったか\nLLM でローカライズの仕事をしていると、モデルが変わっても「同じ種類のミス」を何度も直すことになります。文法的には正しいのに現地の読者には不自然な訳、勝手に壊されるプレースホルダー、いつの間にか緩められるバリデーション。この",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "k2ok",
+      "title": "Web検索MCPサーバの実装でRustに挑戦したら意外と大変だった話",
+      "link": "https://zenn.dev/k2ok/articles/59803b64c361ad",
+      "pubDate": "2026-07-09T07:02:06.000Z",
+      "contentSnippet": "Zennでは初投稿になります。宜しくお願いします。\n\n 概要\nOpenCodeの使いはじめの頃、webfetchでGoogle検索をする頻度が高く(※1)、エラーで検索結果を取得できない事象が発生し困っていました。\nそこで「MCPサーバなん",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "チラ裏",
       "title": "Rust で OCEL 2.0 のログをプロセスマイニングする",
       "link": "https://zenn.dev/jakeoji/articles/ocel-2-0-mining",
@@ -205,18 +221,18 @@
     },
     {
       "creator": "tomohisa",
-      "title": "Wasm でイベントソーシングを動かす: C# と Rust のドメインコードで試す",
-      "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-public-container",
-      "pubDate": "2026-07-02T00:02:18.000Z",
-      "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nこの記事では、SekibanWasmRuntime を公開済みの package と public container で動かす流れを確認します。ランタイム本体は C# ",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "tomohisa",
       "title": "イベントソーシングとWasmは相性がいい: SekibanWasmRuntimeが目指す多言語ES+CQRS",
       "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-concept",
       "pubDate": "2026-07-02T00:02:18.000Z",
       "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nSekiban という、C# のイベントソーシング / CQRS フレームワークを作っています。\nhttps://github.com/J-Tech-Japan/Seki",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "tomohisa",
+      "title": "Wasm でイベントソーシングを動かす: C# と Rust のドメインコードで試す",
+      "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-public-container",
+      "pubDate": "2026-07-02T00:02:18.000Z",
+      "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nこの記事では、SekibanWasmRuntime を公開済みの package と public container で動かす流れを確認します。ランタイム本体は C# ",
       "param": "zenn_rust"
     },
     {
@@ -421,18 +437,18 @@
     },
     {
       "creator": "nakahide",
-      "title": "NDPC-Dの学習記録",
-      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-d",
-      "pubDate": "2026-06-26T12:00:05.000Z",
-      "contentSnippet": "問題のリンク\n\n\n 問題概要\nある国では、1円紙幣, 10円紙幣, 100円紙幣, ...と10倍ごとに紙幣が流通している。\nN 円の支払いを行う時、「支払う紙幣の枚数」と「お釣りとしてもらう紙幣の枚数」の合計枚数を最小化する問題。\n\n 重",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "nakahide",
       "title": "Next DP Contest（NDPC）の学習記録",
       "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-top",
       "pubDate": "2026-06-26T12:00:05.000Z",
       "contentSnippet": "この記事について\nNext DP Contestで筆者が解いた問題(A～Iの9問)について、解法を自分なりに整理した学習記録です。\n後から読み返したときに解法を再構成できるよう、完成したコードだけでなく、DPの状態や遷移、解法のポイントを整",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "NDPC-Dの学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-d",
+      "pubDate": "2026-06-26T12:00:05.000Z",
+      "contentSnippet": "問題のリンク\n\n\n 問題概要\nある国では、1円紙幣, 10円紙幣, 100円紙幣, ...と10倍ごとに紙幣が流通している。\nN 円の支払いを行う時、「支払う紙幣の枚数」と「お釣りとしてもらう紙幣の枚数」の合計枚数を最小化する問題。\n\n 重",
       "param": "zenn_rust"
     },
     {
