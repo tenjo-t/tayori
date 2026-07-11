@@ -3,6 +3,27 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "Meta、エージェント型タスク向けモデル「Muse Spark 1.1」を発表",
+      "link": "https://gihyo.jp/article/2026/07/meta-muse-spark-1.1?utm_source=feed",
+      "pubDate": "2026-07-10T09:07:00.000Z",
+      "contentSnippet": "Metaは2026年7月9日、エージェント型タスク向けのマルチモーダル推論モデル「Muse Spark 1.1」を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "OpenAI、フロンティアモデルGPT-5.6 Solを含むGPT-5.6シリーズを一般提供 ——Codexを統合し、ChatGPT Workと切り替えて使える新デスクトップアプリも利用可能に",
+      "link": "https://gihyo.jp/article/2026/07/gpt-5.6-ga?utm_source=feed",
+      "pubDate": "2026-07-10T06:12:00.000Z",
+      "contentSnippet": "penAIは2026年7月9日、新たなフロンティアモデル「GPT-5.6 Sol」を最上位に置く大規模言語モデルGPT-5.6シリーズを一般提供した。性能とコストのバランスを取る「GPT-5.6 Terra」、高速・低コストの「GPT-5.",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Ubuntu 26.10（Stonking）の開発; arm64の位置付け変更の振り返りとpollinateの廃止、upkiによる証明書失効確認",
+      "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202607/10?utm_source=feed",
+      "pubDate": "2026-07-10T01:20:00.000Z",
+      "contentSnippet": "Arm64のこの一年の進展についての整理が行われています。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "Microsoft Research、AI時代のグラフ作成を支援する中間言語「Flint」を発表",
       "link": "https://gihyo.jp/article/2026/07/flint?utm_source=feed",
       "pubDate": "2026-07-09T09:43:00.000Z",
@@ -5771,17 +5792,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {
