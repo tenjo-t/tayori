@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "Next.js の Instant Navigations を試してみた",
+      "link": "https://azukiazusa.dev/blog/nextjs-instant-navigations",
+      "pubDate": "2026-07-11T00:46:00.000Z",
+      "contentSnippet": "Next.js 16.3 Preview では、Instant Navigations という新機能が導入されました。画面遷移で即時表示できない箇所を開発時に検出し、修正を促すための機能です。この記事では Instant Navigatio",
+      "param": "azukiazusa"
+    },
+    {
       "title": "Safari MCP サーバーでエージェントが Safari ブラウザを操作できるようにする",
       "link": "https://azukiazusa.dev/blog/safari-mcp-server",
       "pubDate": "2026-07-04T11:36:00.000Z",
@@ -2713,17 +2720,17 @@
       "param": "azukiazusa"
     },
     {
-      "title": "Vuex 5 でどのように変わるのか。",
-      "link": "https://azukiazusa.dev/blog/vuex-5",
-      "pubDate": "2021-09-25T15:00:00.000Z",
-      "contentSnippet": "現在リリースされている最新のバージョンは Vuex 4 です。 これは Vuex 3 と互換性のあるバージョンで Vue 3 で使用するためのものであり、 Vuex 3 と同じ API となっています。  Vuex 5 は Vue 3 にお",
-      "param": "azukiazusa"
-    },
-    {
       "title": "【Vue.js】script setup 構文がすごくすごい",
       "link": "https://azukiazusa.dev/blog/vue-js-script-setup",
       "pubDate": "2021-09-25T15:00:00.000Z",
       "contentSnippet": "Vue.js 3.x から script setup 構文が使えるようになりました。これは単一ファイルコンポーネント(SFC)内で Composition API を使用している際に使える糖衣構文です。下記のようなメリットを得ることができ、",
+      "param": "azukiazusa"
+    },
+    {
+      "title": "Vuex 5 でどのように変わるのか。",
+      "link": "https://azukiazusa.dev/blog/vuex-5",
+      "pubDate": "2021-09-25T15:00:00.000Z",
+      "contentSnippet": "現在リリースされている最新のバージョンは Vuex 4 です。 これは Vuex 3 と互換性のあるバージョンで Vue 3 で使用するためのものであり、 Vuex 3 と同じ API となっています。  Vuex 5 は Vue 3 にお",
       "param": "azukiazusa"
     },
     {
