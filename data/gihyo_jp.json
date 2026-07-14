@@ -3,6 +3,27 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "第182回　「Affinity by Canva」の実力と、「ツールの民主化」の先にあるもの",
+      "link": "https://gihyo.jp/design/serial/01/website-pickup/0182?utm_source=feed",
+      "pubDate": "2026-07-14T00:05:00.000Z",
+      "contentSnippet": "2025年10月初旬、デザインソフト「Affinity」シリーズのウェブサイトが一時閉鎖されました。さまざまな憶測が飛び交うなか、「Affinity」は新たな“統合デザインソフト”へと生まれ変わり、完全無料の「Affinity by Can",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Hugging Face CEO、AIニュースサイト「HuggingNews」を紹介、Xの約1,200アカウントを軸に2時間ごとに更新",
+      "link": "https://gihyo.jp/article/2026/07/huggingnews?utm_source=feed",
+      "pubDate": "2026-07-13T06:52:00.000Z",
+      "contentSnippet": "Hugging Face CEOのClément Delangue氏は7月10日、AI関連ニュースを掲載するWebサイト「HuggingNews」をXで紹介した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Claude Fable 5のサブスクリプション内提供を7月19日まで延長、CodexとChatGPT Workは5時間制限を一時撤廃＆アクティブユーザー600万人到達と使用量リセット",
+      "link": "https://gihyo.jp/article/2026/07/claude-fable-5-codex-usage-limit-updates?utm_source=feed",
+      "pubDate": "2026-07-13T03:18:00.000Z",
+      "contentSnippet": "Anthropicは2026年7月12日、Claude Fable 5をサブスクリプションの利用枠に含める期間を7月19日まで延長すると発表した。一方、OpenAIのコアプロダクト部門責任者Thibault Sottiaux氏は同日、Cha",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "Meta、エージェント型タスク向けモデル「Muse Spark 1.1」を発表",
       "link": "https://gihyo.jp/article/2026/07/meta-muse-spark-1.1?utm_source=feed",
       "pubDate": "2026-07-10T09:07:00.000Z",
@@ -1504,7 +1525,7 @@
       "title": "Ubuntu 26.04 LTS “Resolute Raccoon”のリリース",
       "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202604/24?utm_source=feed",
       "pubDate": "2026-04-23T22:41:00.000Z",
-      "contentSnippet": "4月23日、Ubuntu 26.04 LTS “Resolute Reccoon”（⁠決然としたアライグマ）がリリースされました。",
+      "contentSnippet": "4月23日、Ubuntu 26.04 LTS “Resolute Raccoon”（⁠決然としたアライグマ）がリリースされました。",
       "param": "gihyo_jp"
     },
     {
@@ -5792,17 +5813,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {
