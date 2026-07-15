@@ -3,6 +3,20 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "第919回　Ubuntu 26.04 LTSとsbuildで始めるパッケージビルド生活",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0919?utm_source=feed",
+      "pubDate": "2026-07-14T23:59:00.000Z",
+      "contentSnippet": "今回は新しいsbuildについて、インストールからセットアップ、パッケージビルド環境の活用方法について紹介しましょう。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Markdownからドキュメントサイトを構築、Astro/ViteベースのOSS「Blume」v1が公開",
+      "link": "https://gihyo.jp/article/2026/07/blume?utm_source=feed",
+      "pubDate": "2026-07-14T02:50:00.000Z",
+      "contentSnippet": "開発者のHayden Bleasel氏は7月13日、MarkdownやMDXを基にドキュメントサイトを構築するオープンソースフレームワーク「Blume」の正式版となるv1.0.0を公開した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "第182回　「Affinity by Canva」の実力と、「ツールの民主化」の先にあるもの",
       "link": "https://gihyo.jp/design/serial/01/website-pickup/0182?utm_source=feed",
       "pubDate": "2026-07-14T00:05:00.000Z",
@@ -5813,17 +5827,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {

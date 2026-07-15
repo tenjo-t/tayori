@@ -272,18 +272,18 @@
       "title": "Passkey への道 #7: そして Username-Less へ",
       "link": "https://blog.jxck.io/entries/2025-07-14/load-to-passkey-7.html",
       "pubDate": "2025-07-14T00:00:00.000Z",
-      "contentSnippet": "Apple が突如発表した Passkey。実態は「WebAuthn の秘密鍵を iCloud で共有」するサービスだった。そして、業界は本格的な Password-Less に向けて進んでいく。",
+      "contentSnippet": "Apple が突如発表した Passkey。実態は「WebAuthN の秘密鍵を iCloud で共有」するサービスだった。そして、業界は本格的な Password-Less に向けて進んでいく。",
       "param": "blog_jxck"
     },
     {
       "title": "Passkey への道 #6: タブーを破った Apple",
       "link": "https://blog.jxck.io/entries/2025-07-13/load-to-passkey-6.html",
       "pubDate": "2025-07-13T00:00:00.000Z",
-      "contentSnippet": "TOTP/WebAuthn は、バックアップコードの適切な保管方法が示されないまま、移行だけが推し進められた。YubiKey などの物理 Authenticator の扱いとして、「二本登録して、片方は普段使い、もう片方は貸金庫へ」などと、",
+      "contentSnippet": "TOTP/WebAuthN は、バックアップコードの適切な保管方法が示されないまま、移行だけが推し進められた。YubiKey などの物理 Authenticator の扱いとして、「二本登録して、片方は普段使い、もう片方は貸金庫へ」などと、",
       "param": "blog_jxck"
     },
     {
-      "title": "Passkey への道 #5: 2FA/WebAuthn",
+      "title": "Passkey への道 #5: 2FA/WebAuthN",
       "link": "https://blog.jxck.io/entries/2025-07-12/load-to-passkey-5.html",
       "pubDate": "2025-07-12T00:00:00.000Z",
       "contentSnippet": "Infostealer は、ユーザの権限でインストールされ、ユーザがアクセスできるあらゆる情報を盗んで去っていく。そこから、どんなに暗号化して保存しても、使用時には平文にしないといけない「パスワード」という文字列を守り抜くのは非常に難しい。",
@@ -1399,7 +1399,7 @@
       "title": "Web Authentication API で FIDO U2F(YubiKey) 認証",
       "link": "https://blog.jxck.io/entries/2018-05-15/webauthentication-api.html",
       "pubDate": "2018-05-15T00:00:00.000Z",
-      "contentSnippet": "Web Authentication(WebAuthn) API の策定と実装が進んでいる。これを用いると、FIDO(Fast IDentity Online) U2F(Universal Second Factor) 認証が可能になる。今",
+      "contentSnippet": "Web Authentication(WebAuthN) API の策定と実装が進んでいる。これを用いると、FIDO(Fast IDentity Online) U2F(Universal Second Factor) 認証が可能になる。今",
       "param": "blog_jxck"
     },
     {
