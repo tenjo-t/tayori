@@ -3,6 +3,20 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "物理キーボード搭載端末から見える、すべてに開かれたUI設計要件とは",
+      "link": "https://gihyo.jp/article/2026/07/android-weekly-topics-260716?utm_source=feed",
+      "pubDate": "2026-07-16T00:31:00.000Z",
+      "contentSnippet": "今回は、物理キーボードを前提としたスマートフォンの動作要件を整理し、アプリの体験を一段上のレベルへ引き上げるポイントを掘り下げてみます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Discourse、無料の公式ホスティングプラン「Free」の一般提供を開始",
+      "link": "https://gihyo.jp/article/2026/07/discourse-free-plan?utm_source=feed",
+      "pubDate": "2026-07-15T02:01:00.000Z",
+      "contentSnippet": "コミュニティプラットフォーム「Discourse」は2026年7月14日、無料プラン「Free」の一般提供開始を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "第919回　Ubuntu 26.04 LTSとsbuildで始めるパッケージビルド生活",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0919?utm_source=feed",
       "pubDate": "2026-07-14T23:59:00.000Z",
@@ -5827,17 +5841,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {
