@@ -3,6 +3,34 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "VS Code拡張機能「Draw.io Integration」、Markdownのプレビュー上で図をインライン編集する機能、プレリリース版で提供",
+      "link": "https://gihyo.jp/article/2026/07/vscode-drawio-extension-inline-editing?utm_source=feed",
+      "pubDate": "2026-07-17T07:03:00.000Z",
+      "contentSnippet": "draw.ioの公式Xアカウントは2026年7月9日、Visual Studio Code（VS Code）用の拡張機能「Draw.io Integration」に、図をインライン編集する機能が加わったと紹介した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "NotebookLMが「Gemini Notebook」に ―Googleエコシステム全体で使えるノートブックへの進化を目指して",
+      "link": "https://gihyo.jp/article/2026/07/notebooklm-gemini-notebook?utm_source=feed",
+      "pubDate": "2026-07-17T06:09:00.000Z",
+      "contentSnippet": "Googleは2026年7月16日、NotebookLMの名称を「Gemini Notebook」に変更したことを発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "マルチモーダル対応、2.8兆パラメータのMoEオープンモデル「Kimi K3」リリース",
+      "link": "https://gihyo.jp/article/2026/07/kimi-k3?utm_source=feed",
+      "pubDate": "2026-07-17T02:58:00.000Z",
+      "contentSnippet": "中国Moonshot AIは2026年7月17日、同社のフロンティアモデルKimiの最新バージョンKimi K3をリリースした。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Ubuntu 26.10（Stonking）の開発; ubuntu-lint、“Januscape”（CVE-2026-53359）脆弱性の緩和策",
+      "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202607/17?utm_source=feed",
+      "pubDate": "2026-07-17T01:36:00.000Z",
+      "contentSnippet": "KVMのゲストマシンから仮想化ホストを侵害できる、“Januscape”脆弱性（CVE-2026-53359）への緩和策についての解説が行われています。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "Thinking Machines Lab、オープンウェイトAIモデル「Inkling」を公開 ——テキスト・画像・音声を横断して推論",
       "link": "https://gihyo.jp/article/2026/07/inkling?utm_source=feed",
       "pubDate": "2026-07-16T07:00:00.000Z",
@@ -280,6 +308,13 @@
       "link": "https://gihyo.jp/article/2026/07/claude-sonnet-5?utm_source=feed",
       "pubDate": "2026-07-01T02:38:00.000Z",
       "contentSnippet": "Anthropicは2026年6月30日、Claudeの新モデル「Claude Sonnet 5」を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第19回　『幾何で見える一般相対性理論』が生まれた経緯",
+      "link": "https://gihyo.jp/science/serial/01/pythagoras/0019?utm_source=feed",
+      "pubDate": "2026-07-01T02:11:00.000Z",
+      "contentSnippet": "書籍『幾何で見える必ずわかる一般相対性理論』の補講、第19回です。",
       "param": "gihyo_jp"
     },
     {
@@ -5848,17 +5883,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {
