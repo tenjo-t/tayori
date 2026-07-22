@@ -3,6 +3,34 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "Google、Flashシリーズの新モデルGemini 3.6 Flash、3.5 Flash-Lite、3.5 Flash Cyberをリリース",
+      "link": "https://gihyo.jp/article/2026/07/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber?utm_source=feed",
+      "pubDate": "2026-07-22T00:34:00.000Z",
+      "contentSnippet": "Googleは2026年7月21日、同社の軽量モデルGemini Flashシリーズの新モデル「Gemini 3.6 Flash」、「Gemini 3.5 Flash-Lite」、「Gemini 3.5 Flash Cyber」をリリースし",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第920回　GNOME向けのデスクトップAIアシスタント、Newelleを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0920?utm_source=feed",
+      "pubDate": "2026-07-21T23:52:00.000Z",
+      "contentSnippet": "今回はGNOMEデスクトップ向けのAIアシスタントである、Newelleを紹介します。多機能なので今回は初期設定のみを解説します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Sakana AI、オーケストレーションモデルFuguのサイバーセキュリティ強化版「Fugu-Cyber」をリリース ―セキュリティベンチマークで“SOTAパフォーマンス”を達成",
+      "link": "https://gihyo.jp/article/2026/07/fugu-cyber?utm_source=feed",
+      "pubDate": "2026-07-21T05:19:00.000Z",
+      "contentSnippet": "Sakana AIは2026年7月21日、同社が提供するAIオーケストレーションモデル「Sakana Fugu」をアップデートし、サイバー防御機能を特別に強化した「Fugu-Cyber」をリリースした。\r\n",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "さまざまなインフラ上でWebアプリケーションを構築、デプロイ、運用できるオープンソースのデプロイ基盤「OpenShip」リリース",
+      "link": "https://gihyo.jp/article/2026/07/openship?utm_source=feed",
+      "pubDate": "2026-07-21T02:46:00.000Z",
+      "contentSnippet": "Oblien LLCは2026年7月18日、オープンソースのデプロイメントプラットフォーム「OpenShip」をApache 2.0ライセンスのもとGitHub上で公開した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "第275回　Replication Applier Metricsでレプリケーションの詳細を確認する",
       "link": "https://gihyo.jp/article/2026/07/mysql-rcn0275?utm_source=feed",
       "pubDate": "2026-07-20T23:57:00.000Z",
@@ -5897,17 +5925,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {
