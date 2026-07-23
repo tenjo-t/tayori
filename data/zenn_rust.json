@@ -4,11 +4,67 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "坂本師哉 Moroya Sakamoto",
+      "title": "「broad-phase だけ double にすれば速くなる」でも、それは Fix128 の決定論物理では採用できませんでした",
+      "link": "https://zenn.dev/sakamoro/articles/699a64ab5dadda",
+      "pubDate": "2026-07-22T11:00:06.000Z",
+      "contentSnippet": "決定論は最も弱いリンクで壊れる — これがこの記事のテーマです\n物理エンジンを bit-exact な決定論 で走らせたい lockstep multiplayer や rollback netcode を作る人にとって、これは死活問題です",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "zhner",
+      "title": "Stripeでは決済済み、DBでは未契約——二重課金を防ぐまで",
+      "link": "https://zenn.dev/zhener/articles/stripe-checkout-double-subscription",
+      "pubDate": "2026-07-22T08:34:34.000Z",
+      "contentSnippet": "TL;DR\nStripeでは決済が成功していたが、WebhookのDB更新だけが失敗し、画面は旧プランのままだった。ユーザーが再試行するたびに別の契約が生まれる構造だった。返金とDB復旧後、PostgreSQL排他、未完了Checkoutの",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "ガラスボー",
+      "title": "Rust 1.97.0で変わったmanglingの仕組みについて",
+      "link": "https://zenn.dev/estie/articles/f310f04c5fe5cc",
+      "pubDate": "2026-07-22T03:00:22.000Z",
+      "contentSnippet": "先日Rust 1.97.0がリリースされて、恒例の勝手にリリースパーティーイベントで主要な変更について解説しました。\nhttps://blog.rust-lang.org/2026/07/09/Rust-1.97.0/\nhttps://yo",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "natori",
+      "title": "herdrにlazy.nvim / LazyVimのようなプラグイン管理が欲しくて作った",
+      "link": "https://zenn.dev/natori_hrj/articles/86c12855df0de2",
+      "pubDate": "2026-07-22T02:36:22.000Z",
+      "contentSnippet": "なぜ作ったか\n最近、herdr というターミナル上で動くエージェントマルチプレクサを使っています。Claude Code や Codex といったコーディングエージェントを1つの画面でまとめて扱えるツールで、tmux のエージェント版のよう",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "mattn",
+      "title": "Rust に書き直さなくても C 言語をメモリ安全にできる Fil-C を試した",
+      "link": "https://zenn.dev/mattn/articles/cace8c5a00b9cc",
+      "pubDate": "2026-07-22T00:54:26.000Z",
+      "contentSnippet": "はじめに\n最近「どの言語で書くか」を巡る話題が続いています。今年 5 月、Zig で書かれていた JavaScript ランタイム Bun が Rust に移植されました。\nhttps://bun.com/blog/bun-in-rust\n",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nkenbou",
+      "title": "mdBook 日本語検索の決定版: インデックスとクエリのトークナイザー不一致を Intl.Segmenter で解消する",
+      "link": "https://zenn.dev/nkenbou/articles/mdbook-japanese-search-intl-segmenter",
+      "pubDate": "2026-07-21T22:09:00.000Z",
+      "contentSnippet": "mdBook でドキュメントを書いていて、組み込みの検索ボックスに日本語を打ってもほとんどヒットしない、という経験はないでしょうか。英単語なら見つかるのに、東京 や 検索 と入力しても何も出てこない。\nこれは「mdBook が日本語に対応し",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "wurly",
       "title": "ESP32でWASMアプリを動かす (9) タッチ入力イベントAPIの設計と実装",
       "link": "https://zenn.dev/wurly/articles/7fc993fd0679a5",
       "pubDate": "2026-07-21T15:15:00.000Z",
       "contentSnippet": "はじめに\n本記事は連載「ESP32でWASMアプリを動かす」MP3プレーヤー編の第 9 回です。編の全体像と到達点は第 8 回: MP3プレーヤーアプリをつくるへ。\nここからは Phase 6「MP3 プレーヤーの WASM アプリ化」に入",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "fujitani sora",
+      "title": "Grok Buildをforkして改変する（背景透過）",
+      "link": "https://zenn.dev/soramarjr/articles/3e56c0f072170e",
+      "pubDate": "2026-07-21T08:42:58.000Z",
+      "contentSnippet": "W杯リアタイ勢をやり切って体調と生活リズムが終わってしまいました。\nfujitani sora です。\nGrok Build のforkにパッチを当てて手元のマシンで使う運用についてです。\n現状は外部PR不可であるため、この対応にしています",
       "param": "zenn_rust"
     },
     {
@@ -309,18 +365,18 @@
     },
     {
       "creator": "wurly",
-      "title": "ESP32でWASMアプリを動かす (1) 構想と調査・計画",
-      "link": "https://zenn.dev/wurly/articles/dede7d02e0329f",
-      "pubDate": "2026-07-11T23:55:34.000Z",
-      "contentSnippet": "この連載が最終的に到達した状態を、実機で動かしている動画です。\nhttps://youtu.be/UdiFrxvP_qg\n\n この連載について\n!\n本連載は、PoC（調査・実装・実機検証・計測）も記事の執筆も、ほぼすべて AI（Claude",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "wurly",
       "title": "ESP32でWASMアプリを動かす (5) 実機で計測する",
       "link": "https://zenn.dev/wurly/articles/e2547c3b6fbcc7",
       "pubDate": "2026-07-11T23:55:34.000Z",
       "contentSnippet": "はじめに\n連載「ESP32でWASMアプリを動かす」の第 5 回、Phase 4 です。ここまでで「同一の .wasm が実機と Linux で動く」ところまで来ました。今回は PoC 完了条件の残り半分、実機での定量計測です。\n!\n本連載",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "wurly",
+      "title": "ESP32でWASMアプリを動かす (1) 構想と調査・計画",
+      "link": "https://zenn.dev/wurly/articles/dede7d02e0329f",
+      "pubDate": "2026-07-11T23:55:34.000Z",
+      "contentSnippet": "この連載が最終的に到達した状態を、実機で動かしている動画です。\nhttps://youtu.be/UdiFrxvP_qg\n\n この連載について\n!\n本連載は、PoC（調査・実装・実機検証・計測）も記事の執筆も、ほぼすべて AI（Claude",
       "param": "zenn_rust"
     },
     {
@@ -557,18 +613,18 @@
     },
     {
       "creator": "nakahide",
-      "title": "NDPC-Iの学習記録",
-      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-i",
-      "pubDate": "2026-07-04T12:00:08.000Z",
-      "contentSnippet": "問題のリンク\n\n\n 問題概要\n長さ N の数列の要素を並び替えて、1列に並べる。\nこのとき、左からの最大値更新回数（prefix max）が L 回、右からの最大値更新回数（suffix max）が R 回となる並べ方の総数を9982443",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "nakahide",
       "title": "NDPC-Hの学習記録",
       "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-h",
       "pubDate": "2026-07-04T12:00:08.000Z",
       "contentSnippet": "問題のリンク\n\n\n 問題概要\nN \\times N のグリッドの左上 (1,1) から右下 (N,N) まで、右または下への移動を繰り返してコインを拾いながら進みます。\n「手持ちのコインがちょうど x 枚である状態で、そのマスに滞在する可能",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "NDPC-Iの学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-i",
+      "pubDate": "2026-07-04T12:00:08.000Z",
+      "contentSnippet": "問題のリンク\n\n\n 問題概要\n長さ N の数列の要素を並び替えて、1列に並べる。\nこのとき、左からの最大値更新回数（prefix max）が L 回、右からの最大値更新回数（suffix max）が R 回となる並べ方の総数を9982443",
       "param": "zenn_rust"
     },
     {
@@ -629,18 +685,18 @@
     },
     {
       "creator": "tomohisa",
-      "title": "イベントソーシングとWasmは相性がいい: SekibanWasmRuntimeが目指す多言語ES+CQRS",
-      "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-concept",
-      "pubDate": "2026-07-02T00:02:18.000Z",
-      "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nSekiban という、C# のイベントソーシング / CQRS フレームワークを作っています。\nhttps://github.com/J-Tech-Japan/Seki",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "tomohisa",
       "title": "Wasm でイベントソーシングを動かす: C# と Rust のドメインコードで試す",
       "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-public-container",
       "pubDate": "2026-07-02T00:02:18.000Z",
       "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nこの記事では、SekibanWasmRuntime を公開済みの package と public container で動かす流れを確認します。ランタイム本体は C# ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "tomohisa",
+      "title": "イベントソーシングとWasmは相性がいい: SekibanWasmRuntimeが目指す多言語ES+CQRS",
+      "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-concept",
+      "pubDate": "2026-07-02T00:02:18.000Z",
+      "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nSekiban という、C# のイベントソーシング / CQRS フレームワークを作っています。\nhttps://github.com/J-Tech-Japan/Seki",
       "param": "zenn_rust"
     },
     {
@@ -845,18 +901,18 @@
     },
     {
       "creator": "nakahide",
-      "title": "Next DP Contest（NDPC）の学習記録",
-      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-top",
-      "pubDate": "2026-06-26T12:00:05.000Z",
-      "contentSnippet": "この記事について\nNext DP Contestで筆者が解いた問題(A～Iの9問)について、解法を自分なりに整理した学習記録です。\n後から読み返したときに解法を再構成できるよう、完成したコードだけでなく、DPの状態や遷移、解法のポイントを整",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "nakahide",
       "title": "NDPC-Dの学習記録",
       "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-d",
       "pubDate": "2026-06-26T12:00:05.000Z",
       "contentSnippet": "問題のリンク\n\n\n 問題概要\nある国では、1円紙幣, 10円紙幣, 100円紙幣, ...と10倍ごとに紙幣が流通している。\nN 円の支払いを行う時、「支払う紙幣の枚数」と「お釣りとしてもらう紙幣の枚数」の合計枚数を最小化する問題。\n\n 重",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "Next DP Contest（NDPC）の学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-top",
+      "pubDate": "2026-06-26T12:00:05.000Z",
+      "contentSnippet": "この記事について\nNext DP Contestで筆者が解いた問題(A～Iの9問)について、解法を自分なりに整理した学習記録です。\n後から読み返したときに解法を再構成できるよう、完成したコードだけでなく、DPの状態や遷移、解法のポイントを整",
       "param": "zenn_rust"
     },
     {
