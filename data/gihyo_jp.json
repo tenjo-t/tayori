@@ -3,6 +3,27 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "ChatGPTデスクトップアプリ、ローカルプロジェクトに複数フォルダーを追加可能に ——「ChatGPT Voice」も追加",
+      "link": "https://gihyo.jp/article/2026/07/codex-multi-folder-projects-and-chatgpt-voice?utm_source=feed",
+      "pubDate": "2026-07-24T06:39:00.000Z",
+      "contentSnippet": "OpenAIは2026年7月23日、ChatGPTデスクトップアプリのバージョン26.715で、ローカルプロジェクトに複数のフォルダーを追加できるようにした。あわせて、Chat、Work、Codexで音声による対話やタスクの操作ができる「C",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "「中高生Rubyプログラミングコンテスト2026」開催決定、作品募集開始～2026年9月30日まで",
+      "link": "https://gihyo.jp/article/2026/07/ruby-procon2026-07?utm_source=feed",
+      "pubDate": "2026-07-24T05:22:14.000Z",
+      "contentSnippet": "「中高生Rubyプログラミングコンテスト2026」第16回大会の開催が発表されました。16回目となる今回も、昨年に続き会場（三鷹産業プラザ）での対面開催が予定されています。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Ubuntu 26.10（Stonking）の開発; 閉域網向けのSnap Store、Ubuntu Server向けドキュメントでのAI利用方針",
+      "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202607/24?utm_source=feed",
+      "pubDate": "2026-07-24T01:44:00.000Z",
+      "contentSnippet": "SnapはUbuntuの特徴的な仕組みの一つで、あるパッケージに含まれるライブラリを含めてひとまとめにし、通常の.deb形式のパッケージでは管理に向かないソフトウェアを管理するためのものです。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "LangChain、AIエージェントの評価を対話形式で構築する「Eval Engineering Skill」を公開",
       "link": "https://gihyo.jp/article/2026/07/langchain-eval-engineering-skill?utm_source=feed",
       "pubDate": "2026-07-23T08:56:00.000Z",
@@ -5463,17 +5484,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "LangChain4jを使ってみよう",
-      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
       "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "LangChain4jを使ってみよう",
+      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -5967,17 +5988,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {
