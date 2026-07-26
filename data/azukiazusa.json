@@ -4,6 +4,20 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "HTML-in-Canvas コンポーネントライブラリ Canvas UI",
+      "link": "https://azukiazusa.dev/blog/html-in-canvas-component-library-canvasui",
+      "pubDate": "2026-07-25T11:00:00.000Z",
+      "contentSnippet": "Canvas UI は HTML-in-Canvas API を活用し、液体シミュレーションやシェーダーといったクリエイティブな UI を構築するためのコンポーネントライブラリです。",
+      "param": "azukiazusa"
+    },
+    {
+      "title": "Hermes Agent と Slack で設計し、Linear のチケットから Draft PR まで作成するワークフローの素振りをした",
+      "link": "https://azukiazusa.dev/blog/hermes-agent-slack-workflow",
+      "pubDate": "2026-07-25T10:00:00.000Z",
+      "contentSnippet": "Hermes Agent と Slack を連携して要件を整理し、Linear のチケット作成から Coding Worker による実装・検証・Draft PR 作成までを自動化するワークフローを紹介します。",
+      "param": "azukiazusa"
+    },
+    {
       "title": "最近の AI コーディングで実践している、設計を中心とした開発の進め方",
       "link": "https://azukiazusa.dev/blog/recent-ai-coding-development-process-centered-on-design",
       "pubDate": "2026-07-18T03:09:00.000Z",
@@ -2202,17 +2216,17 @@
       "param": "azukiazusa"
     },
     {
-      "title": "TypeScript + ESModules の開発環境をシュッと作る",
-      "link": "https://azukiazusa.dev/blog/typescript-esmodules",
-      "pubDate": "2023-02-18T15:00:00.000Z",
-      "contentSnippet": "ほぼ設定なしで TypeScript + ESModules の開発環境をシュッと作る時のレシピです。",
-      "param": "azukiazusa"
-    },
-    {
       "title": "Web アプリケーションエンジニアのためのウェブアクセシビリティの基礎",
       "link": "https://azukiazusa.dev/blog/web-accessibility-basics-every-web-application-engineer-needs-to-know",
       "pubDate": "2023-02-18T15:00:00.000Z",
       "contentSnippet": "ウェブアプリケーションエンジニアを対象に、アクセシビリティの対応について解説した記事。アクセシビリティを向上させるためには、正しいHTMLの書き方が必要である。HTML要素には、アクセシビリティに関する機能が元々備わっているため、適切なHT",
+      "param": "azukiazusa"
+    },
+    {
+      "title": "TypeScript + ESModules の開発環境をシュッと作る",
+      "link": "https://azukiazusa.dev/blog/typescript-esmodules",
+      "pubDate": "2023-02-18T15:00:00.000Z",
+      "contentSnippet": "ほぼ設定なしで TypeScript + ESModules の開発環境をシュッと作る時のレシピです。",
       "param": "azukiazusa"
     },
     {
