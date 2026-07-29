@@ -3,6 +3,48 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "第921回　Canonical Workshopでコーディングエージェントの実行環境を作る",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0921?utm_source=feed",
+      "pubDate": "2026-07-29T00:02:00.000Z",
+      "contentSnippet": "今回はCanonicalがリリースしたWorkshopというツールでサンドボックス環境を構築し、ホスト環境を守りながらコーディングエージェントを動作させる方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "「先が見えない領域だからこそ、面白い」 ――monomyth 樋口氏が語る、製造業におけるフィジカルAIの現在地",
+      "link": "https://gihyo.jp/article/2026/07/ai-nagoya-2026-report-01?utm_source=feed",
+      "pubDate": "2026-07-28T23:58:00.000Z",
+      "contentSnippet": "2026年6月16日、名古屋コンベンションホールにて「AI博覧会 Nagoya 2026」が開催された。岡谷鋼機㈱／monomyth（モノミス）㈱の樋口 康太氏は「製造業 x Physical AI実装のリアル」と題して登壇した。本レポート",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "「iOSDC Japan 2026」9/11～9/13に開催",
+      "link": "https://gihyo.jp/article/2026/07/iosdc-japan-2026?utm_source=feed",
+      "pubDate": "2026-07-28T07:00:00.000Z",
+      "contentSnippet": "iOS関連技術テーマとした技術カンファレンス「iOSDC Japan 2026」が2026年09月11日（金）～9月13日（日）の3日間、オフライン＋オンライン形式で開催される。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "NVIDIAやLinux Foundationなどが「Open Secure AI Alliance」設立、AI防御技術の開発・共有へ",
+      "link": "https://gihyo.jp/article/2026/07/open-secure-ai-alliance?utm_source=feed",
+      "pubDate": "2026-07-28T06:16:00.000Z",
+      "contentSnippet": "NVIDIAは2026年7月27日、Linux FoundationやMicrosoft、Hugging Faceなどの創設メンバーとともに「Open Secure AI Alliance」を設立したと発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "8/21～23広島で開催「PyCon JP 2026」カンファレンスのタイムテーブルが公開",
+      "link": "https://gihyo.jp/article/2026/07/pycon-jp-2026-timetable?utm_source=feed",
+      "pubDate": "2026-07-28T05:18:00.000Z",
+      "contentSnippet": "2026年8月21日（金）～23日（日）に開催される「PyCon JP 2026」カンファレンス本編（21日、22日）のタイムテーブルが公式サイトで発表された。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Vercel Labs、TypeScriptからネイティブ実行コードへのコンパイラ「scriptc」をリリース",
+      "link": "https://gihyo.jp/article/2026/07/scriptc?utm_source=feed",
+      "pubDate": "2026-07-28T02:00:00.000Z",
+      "contentSnippet": "Vercel Labsは2026年7月24日、TypeScriptをネイティブコードにコンパイルするコンパイラ「scriptc」をApache 2.0ライセンスのもと、GitHub上に公開した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "先端GPUを支える電力供給と冷却技術（後編）",
       "link": "https://gihyo.jp/article/2026/07/computex2026-2?utm_source=feed",
       "pubDate": "2026-07-27T23:59:00.000Z",
@@ -5512,17 +5554,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "LangChain4jを使ってみよう",
-      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
       "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "LangChain4jを使ってみよう",
+      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -6016,17 +6058,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {

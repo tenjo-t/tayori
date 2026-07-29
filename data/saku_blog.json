@@ -4,6 +4,13 @@
   "description": "Blogs written by saku",
   "items": [
     {
+      "title": "いまさら聞けない CSS の「Shorthand」と「Longhand」って何が違うの？",
+      "link": "https://blog.sakupi01.com/dev/articles/demystify-css-shorthand-longhand-properties/",
+      "pubDate": "2026-07-28T00:00:00.000Z",
+      "contentSnippet": "CSS を書き始めてからずっと知ってるようで、実は知らない Shorthand と Longhand。それぞれのもたらす影響を、その仕組みから理解を試みます。",
+      "param": "saku_blog"
+    },
+    {
       "title": "CSS `ident()` におけるダミーデータを利用した値の早期評価",
       "link": "https://blog.sakupi01.com/dev/articles/ident-eager-parsing-behavior/",
       "pubDate": "2026-06-27T00:00:00.000Z",
