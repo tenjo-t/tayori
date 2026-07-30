@@ -3,6 +3,48 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "OpenAI、Codex SecurityのCLIをオープンソースとして公開",
+      "link": "https://gihyo.jp/article/2026/07/open-source-codex-security-cli?utm_source=feed",
+      "pubDate": "2026-07-30T00:54:00.000Z",
+      "contentSnippet": "OpenAIは2026年7月29日、アプリケーションの脆弱性の検出・修正を支援する「Codex Security」のCLIをオープンソース化したと発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "「AI」とひとくくりにしない。製造現場の異常検知を支える時系列解析 ――メロン 本田氏が語る、異常予兆検知の基礎と時系列予測モデル「FLAIR」",
+      "link": "https://gihyo.jp/article/2026/07/ai-nagoya-2026-report-02?utm_source=feed",
+      "pubDate": "2026-07-30T00:10:00.000Z",
+      "contentSnippet": "2026年6月16日、名古屋コンベンションホールにて「AI博覧会 Nagoya 2026」が開催された。株式会社メロン 取締役CTOの本田 崇人氏は「設備の異常を未然に防ぐ～異常予兆検知AIの開発事例～」と題して登壇した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Android XRが指し示す表示に頼らない空間コンピューティングとは",
+      "link": "https://gihyo.jp/article/2026/07/android-weekly-topics-260730?utm_source=feed",
+      "pubDate": "2026-07-30T00:10:00.000Z",
+      "contentSnippet": "Gemini Nanoの最新世代「v3」がソフトウェア側の最適化でメモリ領域の占有問題を解決しようとしているので取り上げます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "高校数学で解き明かす最先端AIの共通構造 ——問題設定から学習までの4ステップ",
+      "link": "https://gihyo.jp/article/2026/07/mathematical-thinking-04?utm_source=feed",
+      "pubDate": "2026-07-30T00:10:00.000Z",
+      "contentSnippet": "今回は、2冊12章を別の角度から見渡してみましょう。取り上げるのは、先端技術の数理モデルを設計し、その精度を高めていくまでのプロセスです。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "AI開発のペースを調整する仕組みづくりを求める声明「Pacing the Frontier」が公開 ——OpenAIやAnthropicを含むフロンティアAI企業の従業員1,224人が署名",
+      "link": "https://gihyo.jp/article/2026/07/pacing-the-frontier?utm_source=feed",
+      "pubDate": "2026-07-29T10:23:00.000Z",
+      "contentSnippet": "AI開発のペースを意図的に調整できるよう、技術面・ガバナンス面で必要な仕組みづくりを求める声明「Pacing the Frontier」が公開された。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "MCP仕様「2026-07-28」を公開 ——プロトコルをステートレス化、拡張機構や認可も強化",
+      "link": "https://gihyo.jp/article/2026/07/mcp-spec-2026-07-28?utm_source=feed",
+      "pubDate": "2026-07-29T01:51:00.000Z",
+      "contentSnippet": "Model Context Protocol（MCP）プロジェクトは2026年7月28日、新仕様「2026-07-28」を公開した。MCPは、AIアプリケーションと外部のツールやデータソースを接続するためのオープンプロトコル。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "第921回　Canonical Workshopでコーディングエージェントの実行環境を作る",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0921?utm_source=feed",
       "pubDate": "2026-07-29T00:02:00.000Z",
@@ -5554,17 +5596,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
-      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "LangChain4jを使ってみよう",
       "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
+      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -6058,17 +6100,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {
