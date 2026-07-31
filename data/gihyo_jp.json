@@ -3,6 +3,48 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "Non-Human Identityのリスクとセキュリティ対策 クラウド、CI/CD、AIエージェント経由の侵害を防ぐ",
+      "link": "https://gihyo.jp/article/2026/07/non-human-identity-security?utm_source=feed",
+      "pubDate": "2026-07-31T00:01:00.000Z",
+      "contentSnippet": "Non-Human Identity（NHI）は、人のアイデンティティ管理とは多くの点で事情が異なります。クラウド、CI/CD、AIエージェントなどの利用が広がる現代において、NHIを適切に管理することは重要な課題になっています。本稿では、",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "「本物の恋愛」からはじめるAI倫理 ～「AIと親密になる時代の哲学――信頼と責任をめぐる対話」イベントレポート",
+      "link": "https://gihyo.jp/article/2026/07/ai-ethics-and-romance?utm_source=feed",
+      "pubDate": "2026-07-30T23:59:00.000Z",
+      "contentSnippet": "2026年7月26日、AI倫理などを研究する清水氏颯氏の新刊『AIに恋しちゃダメですか？―⁠―AIと生きるための倫理と哲学』の刊行を記念して、丸善ジュンク堂書店池袋本店にてトークイベントが行われた。本稿ではイベント前半の「AIとの恋愛は“本",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "「データサイエンティストの役割は、分析から価値創造へ」 ――JAL、マイナビ、データサイエンティスト協会が語る、生成AI時代のデータ人材の現在地",
+      "link": "https://gihyo.jp/article/2026/07/ai-nagoya-2026-report-03?utm_source=feed",
+      "pubDate": "2026-07-30T23:59:00.000Z",
+      "contentSnippet": "本レポートでは、「AIと共に拓くデータサイエンティスト -分析から価値創造へ-」と題したセッションとその後の取材をもとに、生成AIによって広がりつつあるデータサイエンティストの役割と、事業・経営にインパクトを生むために求められるスキルを整理",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Googleドキュメント、Geminiで文書の内容に沿った画像や図解を直接生成・編集可能に ——Google WorkspaceやGoogle AIの対象プランに順次提供",
+      "link": "https://gihyo.jp/article/2026/07/create-gemini-image-in-google-docs?utm_source=feed",
+      "pubDate": "2026-07-30T08:42:00.000Z",
+      "contentSnippet": "Googleは2026年7月28日、Googleドキュメント内でGeminiを使い、画像や図、インフォグラフィックを生成・編集できる新機能を順次提供すると発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "OpenAI、科学・数学・工学分野の教員・ポスドク研究者にフロンティアモデルを12カ月無償提供するプログラム「ChatGPT for Academic Researchers」を発表",
+      "link": "https://gihyo.jp/article/2026/07/chatgpt-academic-researchers?utm_source=feed",
+      "pubDate": "2026-07-30T07:00:00.000Z",
+      "contentSnippet": "OpenAIは2026年7月29日、対象機関に所属し、科学、数学、工学分野で研究する教員とポスドク研究者にフロンティアモデルや研究支援ツールを12カ月間無償提供するプログラム「ChatGPT for Academic Researchers",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "オープンソースのWebアプリデプロイ基盤「OpenShip」にコマンドライン版「OpenShip CLI」が登場",
+      "link": "https://gihyo.jp/article/2026/07/openship-cli?utm_source=feed",
+      "pubDate": "2026-07-30T01:34:00.000Z",
+      "contentSnippet": "Oblien LLCは2026年7月28日、同社が提供するWebアプリケーションデプロイメントプラットフォーム「OpenShip」に、コマンドラインから実行できる「OpenShip CLI」の機能が追加されたことを発表した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "OpenAI、Codex SecurityのCLIをオープンソースとして公開",
       "link": "https://gihyo.jp/article/2026/07/open-source-codex-security-cli?utm_source=feed",
       "pubDate": "2026-07-30T00:54:00.000Z",
@@ -5596,17 +5638,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "LangChain4jを使ってみよう",
-      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
       "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "LangChain4jを使ってみよう",
+      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -6100,17 +6142,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {

@@ -4,6 +4,78 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "TatsuyaM",
+      "title": "Rust × Odin × Zig の3言語で作るTUI音楽プレイヤー ── ターミナルでMVを再生する技術",
+      "link": "https://zenn.dev/tatsuya_m07/articles/bbb1cd2e9abed2",
+      "pubDate": "2026-07-30T18:30:05.000Z",
+      "contentSnippet": "Rust × Odin × Zig の3言語で作るTUI音楽プレイヤー\n\n はじめに\n音楽プレイヤーと聞いて、どんなUIを思い浮かべるでしょうか？多くの人はSpotifyやApple MusicのようなリッチなGUIアプリを想像するでしょう",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "mskbhd",
+      "title": "RabbittyのClaude Code自己更新ループを検証した",
+      "link": "https://zenn.dev/mskbhd/articles/lab-071-rabbitty-rustai",
+      "pubDate": "2026-07-30T11:24:19.000Z",
+      "contentSnippet": "はじめに\n「Day 9 of building Rabbitty, my Rust terminal: 28 betas shipped, self-updating, and it's my actual daily driver. Th",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "Tasuku Suzuki",
+      "title": "Plymouth のブートスプラッシュを Slint でデザインする",
+      "link": "https://zenn.dev/tasuku/articles/d0a820104566b8",
+      "pubDate": "2026-07-30T10:47:40.000Z",
+      "contentSnippet": "Linux の起動画面(Plymouth のテーマ)を、Slint の .slint ファイルで書けるようにした。\nhttps://github.com/signal-slot/plymouth-slint\n\n\nPlymouth のテーマは",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "BigTree777",
+      "title": "UbuntuでRustの開発環境を構築する",
+      "link": "https://zenn.dev/bigtree777/articles/792718bafa0713",
+      "pubDate": "2026-07-30T08:30:35.000Z",
+      "contentSnippet": "免責事項\n\n筆者は本記事の掲載内容を用いて行う一切の行為について, 何らの責任を負うものではありません.\n本記事を公開するにあたり, 掲載されている情報の正確性については万全を期しておりますが, 筆者は掲載内容の正確性・完全性・信頼性・最新",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "keisuke",
+      "title": "LLMエージェントの「できました」を検証する — OpenTelemetryトレースを完了ゲートの証拠にする",
+      "link": "https://zenn.dev/type37/articles/610ba9bb4b8546",
+      "pubDate": "2026-07-30T07:53:59.000Z",
+      "contentSnippet": "LLM の可観測性について、僕なりの答えを持ってきました。\n先に言ってしまいます。答えは、観測を「証拠」に引き上げることです。式で書くとこうなります。\n\ntelemetry + 信頼境界 + 成果物との結合 + 独立判定 = 証拠\n\nトレー",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "TatsuyaM",
+      "title": "ターミナルで動くLivekitクライアントをRustで作った",
+      "link": "https://zenn.dev/tatsuya_m07/articles/62568a237c7fe6",
+      "pubDate": "2026-07-30T07:30:05.000Z",
+      "contentSnippet": "はじめに\nブラウザを開かず、ターミナルだけで動くビデオ通話クライアントを作りました。\nSSH先のサーバーからでも映像通話に参加できるツールです。\nリポジトリ:\nhttps://github.com/TatsuyaM2667/livekit-",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "濱田優貴",
+      "title": "日本発のLLM API Gateway「teai.io」のアーキテクチャを全公開",
+      "link": "https://zenn.dev/yukibjj/articles/teai-llm-api-gateway-architecture",
+      "pubDate": "2026-07-30T06:14:28.000Z",
+      "contentSnippet": "はじめに\nteai.io は、日本のAI開発者向けに設計されたLLM API Gatewayだ。45以上のモデルをOpenAI互換のAPIで提供し、東京リージョンで低レイテンシを実現している。\nこの記事では、teai.ioの技術的アーキテク",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "濱田優貴",
+      "title": "Claude CodeからKimi K3を直結で使う — teai.ioにAnthropic Messages API互換を自作した話",
+      "link": "https://zenn.dev/yukibjj/articles/teai-claude-code-kimi-k3",
+      "pubDate": "2026-07-30T06:14:27.000Z",
+      "contentSnippet": "はじめに\nteai.io は日本発のLLM API Gatewayで、OpenAI互換のエンドポイントで85以上のモデルを提供している（アーキテクチャの詳細は前回の記事を参照）。\n今回、Claude Code（Anthropic公式のコーデ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "owayo",
+      "title": "SessionStart だけ http hook が使えない：Win/Mac/Linux で外部依存無しでhookからテレメトリを集めた話",
+      "link": "https://zenn.dev/owayo/articles/6955e05d7474ff",
+      "pubDate": "2026-07-30T02:29:18.000Z",
+      "contentSnippet": "はじめに\nClaude Code の利用状況、どうやって集めていますか？\n私は OTEL（Claude Code が対応している OpenTelemetry のメトリクス出力）と hook の 2 系統を併用しています。トークン数・コスト・",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "kakuremi",
       "title": "Rust コアを iOS に載せる — UniFFI と XCFramework で作る FFI 境界の実務",
       "link": "https://zenn.dev/kakuremi/articles/kakuremi-uniffi-xcframework",
@@ -565,18 +637,18 @@
     },
     {
       "creator": "wurly",
-      "title": "ESP32でWASMアプリを動かす (1) 構想と調査・計画",
-      "link": "https://zenn.dev/wurly/articles/dede7d02e0329f",
-      "pubDate": "2026-07-11T23:55:34.000Z",
-      "contentSnippet": "この連載が最終的に到達した状態を、実機で動かしている動画です。\nhttps://youtu.be/UdiFrxvP_qg\n\n この連載について\n!\n本連載は、PoC（調査・実装・実機検証・計測）も記事の執筆も、ほぼすべて AI（Claude",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "wurly",
       "title": "ESP32でWASMアプリを動かす (5) 実機で計測する",
       "link": "https://zenn.dev/wurly/articles/e2547c3b6fbcc7",
       "pubDate": "2026-07-11T23:55:34.000Z",
       "contentSnippet": "はじめに\n連載「ESP32でWASMアプリを動かす」の第 5 回、Phase 4 です。ここまでで「同一の .wasm が実機と Linux で動く」ところまで来ました。今回は PoC 完了条件の残り半分、実機での定量計測です。\n!\n本連載",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "wurly",
+      "title": "ESP32でWASMアプリを動かす (1) 構想と調査・計画",
+      "link": "https://zenn.dev/wurly/articles/dede7d02e0329f",
+      "pubDate": "2026-07-11T23:55:34.000Z",
+      "contentSnippet": "この連載が最終的に到達した状態を、実機で動かしている動画です。\nhttps://youtu.be/UdiFrxvP_qg\n\n この連載について\n!\n本連載は、PoC（調査・実装・実機検証・計測）も記事の執筆も、ほぼすべて AI（Claude",
       "param": "zenn_rust"
     },
     {
@@ -813,18 +885,18 @@
     },
     {
       "creator": "nakahide",
-      "title": "NDPC-Iの学習記録",
-      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-i",
-      "pubDate": "2026-07-04T12:00:08.000Z",
-      "contentSnippet": "問題のリンク\n\n\n 問題概要\n長さ N の数列の要素を並び替えて、1列に並べる。\nこのとき、左からの最大値更新回数（prefix max）が L 回、右からの最大値更新回数（suffix max）が R 回となる並べ方の総数を9982443",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "nakahide",
       "title": "NDPC-Hの学習記録",
       "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-h",
       "pubDate": "2026-07-04T12:00:08.000Z",
       "contentSnippet": "問題のリンク\n\n\n 問題概要\nN \\times N のグリッドの左上 (1,1) から右下 (N,N) まで、右または下への移動を繰り返してコインを拾いながら進みます。\n「手持ちのコインがちょうど x 枚である状態で、そのマスに滞在する可能",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "NDPC-Iの学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-i",
+      "pubDate": "2026-07-04T12:00:08.000Z",
+      "contentSnippet": "問題のリンク\n\n\n 問題概要\n長さ N の数列の要素を並び替えて、1列に並べる。\nこのとき、左からの最大値更新回数（prefix max）が L 回、右からの最大値更新回数（suffix max）が R 回となる並べ方の総数を9982443",
       "param": "zenn_rust"
     },
     {
@@ -885,18 +957,18 @@
     },
     {
       "creator": "tomohisa",
-      "title": "イベントソーシングとWasmは相性がいい: SekibanWasmRuntimeが目指す多言語ES+CQRS",
-      "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-concept",
-      "pubDate": "2026-07-02T00:02:18.000Z",
-      "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nSekiban という、C# のイベントソーシング / CQRS フレームワークを作っています。\nhttps://github.com/J-Tech-Japan/Seki",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "tomohisa",
       "title": "Wasm でイベントソーシングを動かす: C# と Rust のドメインコードで試す",
       "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-public-container",
       "pubDate": "2026-07-02T00:02:18.000Z",
       "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nこの記事では、SekibanWasmRuntime を公開済みの package と public container で動かす流れを確認します。ランタイム本体は C# ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "tomohisa",
+      "title": "イベントソーシングとWasmは相性がいい: SekibanWasmRuntimeが目指す多言語ES+CQRS",
+      "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-concept",
+      "pubDate": "2026-07-02T00:02:18.000Z",
+      "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nSekiban という、C# のイベントソーシング / CQRS フレームワークを作っています。\nhttps://github.com/J-Tech-Japan/Seki",
       "param": "zenn_rust"
     },
     {
@@ -1101,18 +1173,18 @@
     },
     {
       "creator": "nakahide",
-      "title": "Next DP Contest（NDPC）の学習記録",
-      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-top",
-      "pubDate": "2026-06-26T12:00:05.000Z",
-      "contentSnippet": "この記事について\nNext DP Contestで筆者が解いた問題(A～Iの9問)について、解法を自分なりに整理した学習記録です。\n後から読み返したときに解法を再構成できるよう、完成したコードだけでなく、DPの状態や遷移、解法のポイントを整",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "nakahide",
       "title": "NDPC-Dの学習記録",
       "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-d",
       "pubDate": "2026-06-26T12:00:05.000Z",
       "contentSnippet": "問題のリンク\n\n\n 問題概要\nある国では、1円紙幣, 10円紙幣, 100円紙幣, ...と10倍ごとに紙幣が流通している。\nN 円の支払いを行う時、「支払う紙幣の枚数」と「お釣りとしてもらう紙幣の枚数」の合計枚数を最小化する問題。\n\n 重",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "Next DP Contest（NDPC）の学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-top",
+      "pubDate": "2026-06-26T12:00:05.000Z",
+      "contentSnippet": "この記事について\nNext DP Contestで筆者が解いた問題(A～Iの9問)について、解法を自分なりに整理した学習記録です。\n後から読み返したときに解法を再構成できるよう、完成したコードだけでなく、DPの状態や遷移、解法のポイントを整",
       "param": "zenn_rust"
     },
     {
