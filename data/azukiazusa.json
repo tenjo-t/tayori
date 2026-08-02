@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "Flue 2.0 で導入された hook ベースのエージェントフレームワーク",
+      "link": "https://azukiazusa.dev/blog/flue-2-0-hook-agent-framework",
+      "pubDate": "2026-08-01T03:02:00.000Z",
+      "contentSnippet": "Flue 2.0 では従来の静的なエージェントの定義方法から、Agent Hooks と呼ばれる hook ベースのエージェントフレームワークへと進化しました。Agent Hooks では React の hooks と同様の API を用",
+      "param": "azukiazusa"
+    },
+    {
       "title": "矢印キーによるフォーカス移動を宣言的に実装する `focusgroup` 属性",
       "link": "https://azukiazusa.dev/blog/focusgroup-html-attribute",
       "pubDate": "2026-07-28T06:00:00.000Z",
@@ -2230,17 +2237,17 @@
       "param": "azukiazusa"
     },
     {
-      "title": "TypeScript + ESModules の開発環境をシュッと作る",
-      "link": "https://azukiazusa.dev/blog/typescript-esmodules",
-      "pubDate": "2023-02-18T15:00:00.000Z",
-      "contentSnippet": "ほぼ設定なしで TypeScript + ESModules の開発環境をシュッと作る時のレシピです。",
-      "param": "azukiazusa"
-    },
-    {
       "title": "Web アプリケーションエンジニアのためのウェブアクセシビリティの基礎",
       "link": "https://azukiazusa.dev/blog/web-accessibility-basics-every-web-application-engineer-needs-to-know",
       "pubDate": "2023-02-18T15:00:00.000Z",
       "contentSnippet": "ウェブアプリケーションエンジニアを対象に、アクセシビリティの対応について解説した記事。アクセシビリティを向上させるためには、正しいHTMLの書き方が必要である。HTML要素には、アクセシビリティに関する機能が元々備わっているため、適切なHT",
+      "param": "azukiazusa"
+    },
+    {
+      "title": "TypeScript + ESModules の開発環境をシュッと作る",
+      "link": "https://azukiazusa.dev/blog/typescript-esmodules",
+      "pubDate": "2023-02-18T15:00:00.000Z",
+      "contentSnippet": "ほぼ設定なしで TypeScript + ESModules の開発環境をシュッと作る時のレシピです。",
       "param": "azukiazusa"
     },
     {

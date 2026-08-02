@@ -3,6 +3,13 @@
   "title": "blog.jxck.io",
   "items": [
     {
+      "title": "カンファレンス生態系の変化と CFP の功罪",
+      "link": "https://blog.jxck.io/entries/2026-07-31/cfp-over-conference.html",
+      "pubDate": "2026-07-31T00:00:00.000Z",
+      "contentSnippet": "コロナを経て、一旦はシュリンクしてしまったテック系のカンファレンスが、また徐々に増え始めた。再開したというよりは、新しい主催、新しい名前で、全国で開催されている。それ自体は歓迎されるべきことだ。筆者もよく参加したり、招待してもらったりしてい",
+      "param": "blog_jxck"
+    },
+    {
       "title": "Web 標準の議論を LLM-Wiki で追う",
       "link": "https://blog.jxck.io/entries/2026-06-29/tc39-llm-wiki.html",
       "pubDate": "2026-06-29T00:00:00.000Z",
