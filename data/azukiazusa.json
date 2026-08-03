@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "Hono のログを Pino と OpenTelemetry で計装する",
+      "link": "https://azukiazusa.dev/blog/instrument-hono-logs-with-opentelemetry",
+      "pubDate": "2026-08-02T02:43:00.000Z",
+      "contentSnippet": "OpenTelemetry を使用すると、アプリケーションのログをベンダーに依存しない形式で収集し、トレースと関連付けることができます。この記事では Node.js で動作する Hono バックエンドの構造化ログを Pino で出力し、Op",
+      "param": "azukiazusa"
+    },
+    {
       "title": "Flue 2.0 で導入された hook ベースのエージェントフレームワーク",
       "link": "https://azukiazusa.dev/blog/flue-2-0-hook-agent-framework",
       "pubDate": "2026-08-01T03:02:00.000Z",

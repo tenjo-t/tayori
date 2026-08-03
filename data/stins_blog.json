@@ -4,6 +4,13 @@
   "description": "すてぃんの個人ブログです。技術的なこと、日常のこと、雑記など色々書きます。",
   "items": [
     {
+      "title": "Drizzle ORM を使った書き捨てスクリプトから Cloudflare D1 にアクセスしたい（2）",
+      "link": "https://blog.stin.ink/articles/drizzle-cloudflare-remote-d1-2",
+      "pubDate": "2026-08-02T12:53:38.000Z",
+      "contentSnippet": "Intro 以前 Drizzle ORM を使った書き捨てスクリプトから Cloudflare D1 にアクセスしたい という記事を書きました。 こちらの記事では、Cloudflare Workers 環境ではないスクリプトから Cloud",
+      "param": "stins_blog"
+    },
+    {
       "title": "Claude Code で Shiki のテーマを見比べられるサイトを作った (Jotai もあるよ)",
       "link": "https://blog.stin.ink/articles/shiki-theme-viewer-with-claude-code-and-jotai",
       "pubDate": "2026-01-18T05:55:25.000Z",

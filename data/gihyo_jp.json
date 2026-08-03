@@ -3,6 +3,34 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "Microsoft Research、AIがタスクの実行結果を自ら評価し、解法や注意点を蓄積するフレームワーク「EvoLib」を紹介",
+      "link": "https://gihyo.jp/article/2026/08/evolib?utm_source=feed",
+      "pubDate": "2026-08-03T01:00:00.000Z",
+      "contentSnippet": "Microsoft Researchは2026年7月30日、AIがタスクの実行結果を自ら評価し、そこから得た知識を別のタスクに再利用するテスト時学習フレームワーク「EvoLib」を公式ブログで紹介した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Blenderでリファレンス画像を配置してモデリングする方法を知ろう ①最低限の設定～不透明度の変更と画像のロック～",
+      "link": "https://gihyo.jp/article/2026/08/blender-basics-82?utm_source=feed",
+      "pubDate": "2026-08-03T00:32:00.000Z",
+      "contentSnippet": "第82回目は、モデリングをする際に画像を配置して作っていくことのメリットを見ていきます。\r\n\r\n",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "エージェント型開発ツールの普及で問われる、ワークフローの監査可能性［前編］",
+      "link": "https://gihyo.jp/article/2026/07/agent-workflow-auditability-01?utm_source=feed",
+      "pubDate": "2026-08-03T00:06:00.000Z",
+      "contentSnippet": "生成AIと自律型AIエージェントの進化は、ソフトウェア開発のあり方を大きく変えつつあります。特にエージェント型の開発ツールは、コード生成、テスト作成、リファクタリング、ドキュメント更新といった作業を支援し、開発チームの生産性向上に貢献し始め",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第132回　MySQLコミュニティのステアリング・コミッティにAWSとGoogle Cloudが参画、注目のPostgreSQL 19ベータ版追加情報、Tsurugi最新情報",
+      "link": "https://gihyo.jp/article/2026/08/ossdb-various-news0132?utm_source=feed",
+      "pubDate": "2026-08-03T00:06:00.000Z",
+      "contentSnippet": "この連載はOSSコンソーシアム データベース部会のメンバーがオープンソースデータベースの毎月の出来事をお伝えしています。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "ターミナル内で動くブラウザー「terminal-browser」が登場 ——エージェントからも操作可能、現在Apple Silicon Macのみ対応",
       "link": "https://gihyo.jp/article/2026/07/terminal-browser?utm_source=feed",
       "pubDate": "2026-07-31T10:16:00.000Z",
@@ -5680,17 +5708,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
-      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "LangChain4jを使ってみよう",
       "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
+      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -6184,17 +6212,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {
