@@ -3,6 +3,41 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "第276回　EXPLAIN FOR CONNECTIONを使用して実行中のクエリの実行計画を取得する",
+      "link": "https://gihyo.jp/article/2026/08/mysql-rcn0276?utm_source=feed",
+      "pubDate": "2026-08-04T00:02:00.000Z",
+      "contentSnippet": "皆さんは、本番環境でアプリケーションが発行したクエリの実行時間が急に長くなり、原因調査に困った経験はないでしょうか。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "2.4TパラメータのQwenファミリー最高性能モデル「Qwen3.8-Max」リリース ―オープンウェイト版も次週公開予定",
+      "link": "https://gihyo.jp/article/2026/08/qwen3.8-max?utm_source=feed",
+      "pubDate": "2026-08-03T07:28:00.000Z",
+      "contentSnippet": "Alibaba Qwenは2026年8月3日、同社のAIモデルQwenファミリーで最も高性能なモデルとなる「Qwen3.8-Max」を正式リリースした。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Comp AI、自社開発CRMをMITライセンスで公開 ——GoogleとVercelの利用を前提にセルフホスト可能",
+      "link": "https://gihyo.jp/article/2026/08/comp-ai-crm?utm_source=feed",
+      "pubDate": "2026-08-03T07:00:00.000Z",
+      "contentSnippet": "Comp AIは、SOC 2（企業の情報セキュリティ管理体制を外部の監査人が評価する仕組み）などへの対応を自動化するプラットフォームを提供している。同社のLewis Carhart氏は2026年8月1日、自社向けに開発した顧客関係管理（CR",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Sakana AI、日本に特化したLLM「Namazu」をアップデート、APIサービス「Sakana Namazu」として提供開始",
+      "link": "https://gihyo.jp/article/2026/08/sakana-namazu?utm_source=feed",
+      "pubDate": "2026-08-03T05:31:00.000Z",
+      "contentSnippet": "Sakana AIは2026年8月3日、同社のAIチャットサービス「Sakana Chat」に搭載しているLLM「Namazu」をアップデートし、新たにAPIサービス「Sakana Namazu（サカナ・ナマズ）」として提供を開始した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Y Combinator、マルチエージェントハーネス「QM」をオープンソース化 ——組織のクラウド環境で利用者やチャンネルごとの作業環境を管理",
+      "link": "https://gihyo.jp/article/2026/08/yc-qm?utm_source=feed",
+      "pubDate": "2026-08-03T04:00:00.000Z",
+      "contentSnippet": "Y Combinator（YC）は2026年7月31日、社内で利用しているマルチエージェントハーネス「QM」をオープンソースとして公開した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "Microsoft Research、AIがタスクの実行結果を自ら評価し、解法や注意点を蓄積するフレームワーク「EvoLib」を紹介",
       "link": "https://gihyo.jp/article/2026/08/evolib?utm_source=feed",
       "pubDate": "2026-08-03T01:00:00.000Z",
@@ -5708,17 +5743,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "LangChain4jを使ってみよう",
-      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
       "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "LangChain4jを使ってみよう",
+      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -6212,17 +6247,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {
