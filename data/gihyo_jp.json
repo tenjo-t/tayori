@@ -3,6 +3,27 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "10/24開催「Vue Fes Japan 2026」タイムテーブル公開、チケット販売中",
+      "link": "https://gihyo.jp/article/2026/08/vuefes-jp-2026?utm_source=feed",
+      "pubDate": "2026-08-04T07:40:00.000Z",
+      "contentSnippet": "Vue.jsをはじめとするWebフロントエンドに関するカンファレンス「Vue Fes Japan 2026」が2026年10月24日（土）に東京・大手町プレイス ホール＆カンファレンスで開催される。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Gemini Notebook、Studioパネルで作れるクイズや資料、スライドなどをチャットから生成可能に ——Google AI Proの全ユーザーへ展開",
+      "link": "https://gihyo.jp/article/2026/08/gemini-notebook-experience-updates?utm_source=feed",
+      "pubDate": "2026-08-04T05:35:00.000Z",
+      "contentSnippet": "Gemini Notebook（旧NotebookLM）の公式Xアカウントは2026年8月4日、「より強力なNotebook体験」をGoogle AI Proユーザー全員へ展開したと案内した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Next.js 16.3リリース ―メモリ使用量の大幅削減や開発／実行の高速化を実現、インスタントナビゲーションをオプトインで装備",
+      "link": "https://gihyo.jp/article/2026/08/next-js-16-3?utm_source=feed",
+      "pubDate": "2026-08-04T02:42:00.000Z",
+      "contentSnippet": "Vercelは2026年8月3日、JavaScriptフレームワークNext.jsの新バージョンNext.js 16.3をリリースした。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "第276回　EXPLAIN FOR CONNECTIONを使用して実行中のクエリの実行計画を取得する",
       "link": "https://gihyo.jp/article/2026/08/mysql-rcn0276?utm_source=feed",
       "pubDate": "2026-08-04T00:02:00.000Z",
@@ -5743,17 +5764,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
-      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "LangChain4jを使ってみよう",
       "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
+      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -6247,17 +6268,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {
