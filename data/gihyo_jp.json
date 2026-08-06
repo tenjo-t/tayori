@@ -3,6 +3,34 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "ステージングエリアは開発者を成長させるための“ジム”、AI成果提出の場にしないで！ ―GKH、drivers/staging/でのAI/LLM作成パッチの受け入れを却下へ",
+      "link": "https://gihyo.jp/article/2026/08/daily-linux-260806?utm_source=feed",
+      "pubDate": "2026-08-06T00:05:00.000Z",
+      "contentSnippet": "Linuxカーネル開発の古参メンテナーとして知られるGreg Kroah-Hartman（GKH）は8月3日、自身が管理するdrivers/staging/サブシステムにおいて、AI/LLMで作成されたパッチは原則受け入れない方針としたこと",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "スマホ新法時代で変わる配信エコシステム。代替えストアの現在",
+      "link": "https://gihyo.jp/article/2026/07/android-weekly-topics-260806?utm_source=feed",
+      "pubDate": "2026-08-05T23:55:00.000Z",
+      "contentSnippet": "今回は、Android 14から導入された技術的な改善に触れつつ、サードパーティアプリストアの最新動向と開発者へ与える影響を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Firecrawl、オフィス文書やPDFをMarkdownへ変換する「anydoc」をオープンソースで公開",
+      "link": "https://gihyo.jp/article/2026/08/anydoc?utm_source=feed",
+      "pubDate": "2026-08-05T09:01:00.000Z",
+      "contentSnippet": "AI向けWebデータAPIを提供するFirecrawlは2026年8月5日、WordやPowerPoint、Excel、PDFなどの文書をMarkdownへ変換するRust製ライブラリ「anydoc」をオープンソースで公開した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "AI時代のクラウドネイティブを支えるOSS、人材、インフラ ――KubeCon + CloudNativeCon Japan 2026記者発表会レポート",
+      "link": "https://gihyo.jp/article/2026/08/cncf-press-conference-2026-report?utm_source=feed",
+      "pubDate": "2026-08-05T07:57:00.000Z",
+      "contentSnippet": "Linux FoundationとCloud Native Computing Foundation（CNCF）は2026年7月29日、KubeCon + CloudNativeCon Japan 2026にあわせて記者発表会を開催した。本",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "10/24開催「Vue Fes Japan 2026」タイムテーブル公開、チケット販売中",
       "link": "https://gihyo.jp/article/2026/08/vuefes-jp-2026?utm_source=feed",
       "pubDate": "2026-08-04T07:40:00.000Z",
@@ -5764,17 +5792,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "LangChain4jを使ってみよう",
-      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
       "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "LangChain4jを使ってみよう",
+      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -6268,17 +6296,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {
