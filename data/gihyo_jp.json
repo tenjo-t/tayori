@@ -3,6 +3,27 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "OpenAI、GitHubのプルリクエストをセキュリティ面から詳しく調べる「Codex Security Review」を研究プレビューで提供",
+      "link": "https://gihyo.jp/article/2026/08/codex-security-review?utm_source=feed",
+      "pubDate": "2026-08-07T09:52:00.000Z",
+      "contentSnippet": "OpenAIは2026年8月6日、GitHubのプルリクエストをセキュリティ面から詳しく調べる「Codex Security Review」を研究プレビューとして提供を開始した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Vercel、OpenAI、GitHub、Microsoft、AWS、Anysphereらが参加、AIエージェントのプラグイン共通規格「Agent Plugins」発表",
+      "link": "https://gihyo.jp/article/2026/08/agent-plugins?utm_source=feed",
+      "pubDate": "2026-08-07T04:54:00.000Z",
+      "contentSnippet": "2026年8月6日、AIエージェントで再利用可能なコンポーネントをポータブルなプラグインとしてパッケージ化するためのオープンな標準規格「Agent Plugins」が発表された。\r\n",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "ChatGPT、モデル構成を更新 ——Plus／Proプランに改良版GPT-5.6 Sol、Free／GoプランはGPT-5.6 Lunaでテキストチャット無制限に",
+      "link": "https://gihyo.jp/article/2026/08/chatgpt-gpt-5.6-updates?utm_source=feed",
+      "pubDate": "2026-08-07T02:59:00.000Z",
+      "contentSnippet": "OpenAIは2026年8月6日、ChatGPT向けのモデル更新を発表した。Plus／Proプランには改良版GPT-5.6 Solを展開する。Free／GoプランではGPT-5.6 Lunaを標準モデルとし、テキストチャットを無制限に利用で",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "Stonking（Ubuntu 26.10）の開発; OpenSSL4移行とpollinate削除に伴うトラブル、「コンテナにおける神話」の解体",
       "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202608/07?utm_source=feed",
       "pubDate": "2026-08-07T00:35:00.000Z",
@@ -5589,17 +5610,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
-      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
       "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
+      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
       "param": "gihyo_jp"
     },
     {
@@ -5827,17 +5848,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "LangChain4jを使ってみよう",
-      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
       "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "LangChain4jを使ってみよう",
+      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -6331,17 +6352,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {
