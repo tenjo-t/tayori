@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "Fetch API の textStream() でレスポンスをテキストとしてストリーミングする",
+      "link": "https://azukiazusa.dev/blog/fetch-text-stream",
+      "pubDate": "2026-08-08T03:18:00.000Z",
+      "contentSnippet": "Fetch API に textStream() メソッドが追加されました。レスポンスボディを UTF-8 のテキストとして読み出すストリームを返すメソッドで、これまで TextDecoderStream を自分で繋いでいた処理を 1 つの",
+      "param": "azukiazusa"
+    },
+    {
       "title": "Hono のログを Pino と OpenTelemetry で計装する",
       "link": "https://azukiazusa.dev/blog/instrument-hono-logs-with-opentelemetry",
       "pubDate": "2026-08-02T02:43:00.000Z",
@@ -2244,17 +2251,17 @@
       "param": "azukiazusa"
     },
     {
-      "title": "Web アプリケーションエンジニアのためのウェブアクセシビリティの基礎",
-      "link": "https://azukiazusa.dev/blog/web-accessibility-basics-every-web-application-engineer-needs-to-know",
-      "pubDate": "2023-02-18T15:00:00.000Z",
-      "contentSnippet": "ウェブアプリケーションエンジニアを対象に、アクセシビリティの対応について解説した記事。アクセシビリティを向上させるためには、正しいHTMLの書き方が必要である。HTML要素には、アクセシビリティに関する機能が元々備わっているため、適切なHT",
-      "param": "azukiazusa"
-    },
-    {
       "title": "TypeScript + ESModules の開発環境をシュッと作る",
       "link": "https://azukiazusa.dev/blog/typescript-esmodules",
       "pubDate": "2023-02-18T15:00:00.000Z",
       "contentSnippet": "ほぼ設定なしで TypeScript + ESModules の開発環境をシュッと作る時のレシピです。",
+      "param": "azukiazusa"
+    },
+    {
+      "title": "Web アプリケーションエンジニアのためのウェブアクセシビリティの基礎",
+      "link": "https://azukiazusa.dev/blog/web-accessibility-basics-every-web-application-engineer-needs-to-know",
+      "pubDate": "2023-02-18T15:00:00.000Z",
+      "contentSnippet": "ウェブアプリケーションエンジニアを対象に、アクセシビリティの対応について解説した記事。アクセシビリティを向上させるためには、正しいHTMLの書き方が必要である。HTML要素には、アクセシビリティに関する機能が元々備わっているため、適切なHT",
       "param": "azukiazusa"
     },
     {
