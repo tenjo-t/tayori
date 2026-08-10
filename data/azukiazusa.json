@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "`aria-actions` 属性で要素に関連する操作を支援技術へ伝える",
+      "link": "https://azukiazusa.dev/blog/aria-actions-attribute",
+      "pubDate": "2026-08-09T06:00:00.000Z",
+      "contentSnippet": "`aria-actions` 属性は、ある要素に対して実行できる操作を提供する別のインタラクティブ要素を関連付けるための WAI-ARIA のプロパティです。この記事では、メール一覧の各項目と「既読にする」「スターを付ける」「削除する」ボタ",
+      "param": "azukiazusa"
+    },
+    {
       "title": "Fetch API の textStream() でレスポンスをテキストとしてストリーミングする",
       "link": "https://azukiazusa.dev/blog/fetch-text-stream",
       "pubDate": "2026-08-08T03:18:00.000Z",
@@ -2251,17 +2258,17 @@
       "param": "azukiazusa"
     },
     {
-      "title": "TypeScript + ESModules の開発環境をシュッと作る",
-      "link": "https://azukiazusa.dev/blog/typescript-esmodules",
-      "pubDate": "2023-02-18T15:00:00.000Z",
-      "contentSnippet": "ほぼ設定なしで TypeScript + ESModules の開発環境をシュッと作る時のレシピです。",
-      "param": "azukiazusa"
-    },
-    {
       "title": "Web アプリケーションエンジニアのためのウェブアクセシビリティの基礎",
       "link": "https://azukiazusa.dev/blog/web-accessibility-basics-every-web-application-engineer-needs-to-know",
       "pubDate": "2023-02-18T15:00:00.000Z",
       "contentSnippet": "ウェブアプリケーションエンジニアを対象に、アクセシビリティの対応について解説した記事。アクセシビリティを向上させるためには、正しいHTMLの書き方が必要である。HTML要素には、アクセシビリティに関する機能が元々備わっているため、適切なHT",
+      "param": "azukiazusa"
+    },
+    {
+      "title": "TypeScript + ESModules の開発環境をシュッと作る",
+      "link": "https://azukiazusa.dev/blog/typescript-esmodules",
+      "pubDate": "2023-02-18T15:00:00.000Z",
+      "contentSnippet": "ほぼ設定なしで TypeScript + ESModules の開発環境をシュッと作る時のレシピです。",
       "param": "azukiazusa"
     },
     {
@@ -2776,17 +2783,17 @@
       "param": "azukiazusa"
     },
     {
-      "title": "【Vue.js】script setup 構文がすごくすごい",
-      "link": "https://azukiazusa.dev/blog/vue-js-script-setup",
-      "pubDate": "2021-09-25T15:00:00.000Z",
-      "contentSnippet": "Vue.js 3.x から script setup 構文が使えるようになりました。これは単一ファイルコンポーネント(SFC)内で Composition API を使用している際に使える糖衣構文です。下記のようなメリットを得ることができ、",
-      "param": "azukiazusa"
-    },
-    {
       "title": "Vuex 5 でどのように変わるのか。",
       "link": "https://azukiazusa.dev/blog/vuex-5",
       "pubDate": "2021-09-25T15:00:00.000Z",
       "contentSnippet": "現在リリースされている最新のバージョンは Vuex 4 です。 これは Vuex 3 と互換性のあるバージョンで Vue 3 で使用するためのものであり、 Vuex 3 と同じ API となっています。  Vuex 5 は Vue 3 にお",
+      "param": "azukiazusa"
+    },
+    {
+      "title": "【Vue.js】script setup 構文がすごくすごい",
+      "link": "https://azukiazusa.dev/blog/vue-js-script-setup",
+      "pubDate": "2021-09-25T15:00:00.000Z",
+      "contentSnippet": "Vue.js 3.x から script setup 構文が使えるようになりました。これは単一ファイルコンポーネント(SFC)内で Composition API を使用している際に使える糖衣構文です。下記のようなメリットを得ることができ、",
       "param": "azukiazusa"
     },
     {
