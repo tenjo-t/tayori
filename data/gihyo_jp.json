@@ -3,6 +3,55 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "Googleアシスタント終了。音声UIの進化とGemini完全移行の背景",
+      "link": "https://gihyo.jp/article/2026/08/android-weekly-topics-260813?utm_source=feed",
+      "pubDate": "2026-08-12T23:52:00.000Z",
+      "contentSnippet": "今回は、Googleアシスタントの歴史とバトンタッチするGeminiについて整理します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Mojo 1.0がリリース、一部APIを安定化し言語仕様を整理",
+      "link": "https://gihyo.jp/article/2026/08/mojo-1.0?utm_source=feed",
+      "pubDate": "2026-08-12T09:06:00.000Z",
+      "contentSnippet": "Modularは2026年8月11日、プログラミング言語Mojoのバージョン1.0をリリースした。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "NVIDIA、長時間稼働するAIエージェント向け「Nemotron 3.5 Lightning」とモデルルーター「NeMo Switchyard」を公開",
+      "link": "https://gihyo.jp/article/2026/08/nvidia-nemotron-3.5-lightning?utm_source=feed",
+      "pubDate": "2026-08-12T07:59:00.000Z",
+      "contentSnippet": "NVIDIAは2026年8月11日、長時間稼働するAIエージェント向けのオープンモデル「Nemotron 3.5 Lightning」と、処理内容に応じて利用するモデルを切り替えるオープンソースライブラリ「NeMo Switchyard」を",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Google、開発者向けブログでGo言語がAIを活用したソフトウェア開発に適している理由を解説",
+      "link": "https://gihyo.jp/article/2026/08/go-ai-engineering?utm_source=feed",
+      "pubDate": "2026-08-12T07:37:00.000Z",
+      "contentSnippet": "Googleは2026年8月11日、Google for Developersのブログで、プログラミング言語GoがAIを活用したソフトウェア開発に適しているとする記事「Why Go is an Ideal Language for AI-A",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Anthropic、Claudeの生成テキストに不可視のウォーターマーク ——8月2日以降の新モデルは公開時から対応、既存モデルでも導入に向けて作業中",
+      "link": "https://gihyo.jp/article/2026/08/claude-text-watermarks?utm_source=feed",
+      "pubDate": "2026-08-12T02:54:00.000Z",
+      "contentSnippet": "Claude CodeチームのThariq Shihipar氏は8月12日のX投稿で、対応モデルが生成するすべてのテキストに、人の目には見えないが機械的に検出できるウォーターマークが埋め込まれると説明した。Anthropicは、利用者自身が",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "OpenAI、Linux版ChatGPTデスクトップアプリをプレビュー公開 ——Codexも利用可能",
+      "link": "https://gihyo.jp/article/2026/08/chatgpt-app-preview-for-linux?utm_source=feed",
+      "pubDate": "2026-08-12T02:10:00.000Z",
+      "contentSnippet": "OpenAIは2026年8月11日、ChatGPTデスクトップアプリをLinux向けにプレビュー公開した。対応するLinuxシステムで、ChatGPT、ChatGPT Work、Codexを利用でき、プロジェクトやブラウザを使ったワークフロ",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Agent Skills仕様、任意のファイルやディレクトリを同梱できると明記 ——metadataの値は文字列のみ",
+      "link": "https://gihyo.jp/article/2026/08/agent-skills-spec-metadata-files?utm_source=feed",
+      "pubDate": "2026-08-12T02:00:00.000Z",
+      "contentSnippet": "Agent Skillsの公式リポジトリで2026年8月4日、仕様書を更新する2件のプルリクエスト（PR）がマージされた。スキルディレクトリには必須のSKILL.md以外の任意のファイルやディレクトリを含められることと、SKILL.mdのm",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "第922回　GNOME向けのデスクトップAIアシスタント、Newelleを活用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0922?utm_source=feed",
       "pubDate": "2026-08-12T00:00:00.000Z",
@@ -5673,17 +5722,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
-      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
       "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
+      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
       "param": "gihyo_jp"
     },
     {
@@ -5911,17 +5960,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
-      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "LangChain4jを使ってみよう",
       "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
+      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -6415,17 +6464,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {
