@@ -3,6 +3,34 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "Nemotron 3.5 Lightning with Inference Snaps、Ubuntu 26.10（stonking）の開発; 壁紙コンテストの開催",
+      "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202608/14?utm_source=feed",
+      "pubDate": "2026-08-14T00:30:00.000Z",
+      "contentSnippet": "8月11日に、NVIDIAから新しいオープンウェイトモデル、Nemotron 3.5 Lightningが登場しました。ライセンスはOpenMDW-1.1で、特に推論速度が重視されたモデルです。そしてSnap経由でこのモデルを利用できる、I",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第64回　LinuxカーネルのPSI機能（1）",
+      "link": "https://gihyo.jp/article/2026/08/linux_containers-0064?utm_source=feed",
+      "pubDate": "2026-08-14T00:12:00.000Z",
+      "contentSnippet": "今回から、LinuxカーネルのPSI機能について紹介していきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Sakana AI、「Sakana Chat」をアップデート、コード実行に対応 ——Fuguを追加、NamazuをKimi K2.6ベースへ刷新、ファイル添付や成果物のプレビューも可能に",
+      "link": "https://gihyo.jp/article/2026/08/sakana-chat-updates-with-new-namazu-and-fugu?utm_source=feed",
+      "pubDate": "2026-08-13T08:17:00.000Z",
+      "contentSnippet": "Sakana AIは2026年8月13日、AIチャットサービス「Sakana Chat」をアップデートした。オーケストレーターモデル「Sakana Fugu」を追加し、日本語特化LLM「Sakana Namazu」を新世代モデルに刷新した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Zed、エージェントと一緒にコーディングするためのマルチプレイヤー環境「Delta」を発表",
+      "link": "https://gihyo.jp/article/2026/08/zed-delta?utm_source=feed",
+      "pubDate": "2026-08-13T05:15:00.000Z",
+      "contentSnippet": "Zed Industriesは2026年8月12日、エージェントと協働してコーディングを行い、作成したものをレビューできるマルチプレイヤー環境「Delta」を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "Googleアシスタント終了。音声UIの進化とGemini完全移行の背景",
       "link": "https://gihyo.jp/article/2026/08/android-weekly-topics-260813?utm_source=feed",
       "pubDate": "2026-08-12T23:52:00.000Z",
@@ -5722,17 +5750,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
-      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
       "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
+      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
       "param": "gihyo_jp"
     },
     {
@@ -5960,17 +5988,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "LangChain4jを使ってみよう",
-      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
       "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "LangChain4jを使ってみよう",
+      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -6464,17 +6492,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {
