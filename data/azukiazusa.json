@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "Scoped Custom Element Registries でカスタム要素の名前衝突を防ぐ",
+      "link": "https://azukiazusa.dev/blog/scoped-custom-element-registries",
+      "pubDate": "2026-08-15T06:46:00.000Z",
+      "contentSnippet": "Web Components を利用してアプリケーションを構築する際に、異なるコンポーネントライブラリが同じ名前のカスタム要素を定義していると、名前の衝突が発生します。Scoped Custom Element Registries を使用",
+      "param": "azukiazusa"
+    },
+    {
       "title": "ストリーミングされるチャット UI の回答をスクリーンリーダーに伝える手法の調査",
       "link": "https://azukiazusa.dev/blog/accessible-streaming-chat-ui",
       "pubDate": "2026-08-11T01:42:00.000Z",
@@ -2265,17 +2272,17 @@
       "param": "azukiazusa"
     },
     {
-      "title": "Web アプリケーションエンジニアのためのウェブアクセシビリティの基礎",
-      "link": "https://azukiazusa.dev/blog/web-accessibility-basics-every-web-application-engineer-needs-to-know",
-      "pubDate": "2023-02-18T15:00:00.000Z",
-      "contentSnippet": "ウェブアプリケーションエンジニアを対象に、アクセシビリティの対応について解説した記事。アクセシビリティを向上させるためには、正しいHTMLの書き方が必要である。HTML要素には、アクセシビリティに関する機能が元々備わっているため、適切なHT",
-      "param": "azukiazusa"
-    },
-    {
       "title": "TypeScript + ESModules の開発環境をシュッと作る",
       "link": "https://azukiazusa.dev/blog/typescript-esmodules",
       "pubDate": "2023-02-18T15:00:00.000Z",
       "contentSnippet": "ほぼ設定なしで TypeScript + ESModules の開発環境をシュッと作る時のレシピです。",
+      "param": "azukiazusa"
+    },
+    {
+      "title": "Web アプリケーションエンジニアのためのウェブアクセシビリティの基礎",
+      "link": "https://azukiazusa.dev/blog/web-accessibility-basics-every-web-application-engineer-needs-to-know",
+      "pubDate": "2023-02-18T15:00:00.000Z",
+      "contentSnippet": "ウェブアプリケーションエンジニアを対象に、アクセシビリティの対応について解説した記事。アクセシビリティを向上させるためには、正しいHTMLの書き方が必要である。HTML要素には、アクセシビリティに関する機能が元々備わっているため、適切なHT",
       "param": "azukiazusa"
     },
     {
