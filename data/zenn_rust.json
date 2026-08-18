@@ -4,6 +4,86 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "Rhetro",
+      "title": "Rustの「比較」を構造で消す ― 順序付けの幾何構造への還元と帯域飽和",
+      "link": "https://zenn.dev/rhetro/articles/912575e742eb8d",
+      "pubDate": "2026-08-17T15:58:57.000Z",
+      "contentSnippet": "１つ目の記事では、Crate群全体を貫く構造的哲学として、「ランタイムコストを静的なコンパイル時コストへの転嫁」について書きました。\n２つ目の記事では、具体的な[Axioma](https://github.com/rhetro/axiom",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "だいち",
+      "title": "AIが吐いたHTMLとMarkdownを「見たまま」直せるエディタを作った話",
+      "link": "https://zenn.dev/genshi_ai/articles/cfa3ab74646b39",
+      "pubDate": "2026-08-17T13:17:52.000Z",
+      "contentSnippet": "はじめに\nこんにちは。GENSHI AI代表で元医師の長嶋です。\nhttps://daichi.ai/\n今回、Velq（ヴェルク） というデスクトップアプリを作りました。\nMarkdown と HTML を 見たままの画面で直せるエディタで",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "NumazuGaki",
+      "title": "「一覧じゃ流れが見えない」を消すために、React Flow + dagreで依存関係グラフを作った話",
+      "link": "https://zenn.dev/amagi019/articles/wip-task-dependency-visualization",
+      "pubDate": "2026-08-17T12:00:24.000Z",
+      "contentSnippet": "この記事の要点\n\n自社のプロジェクト管理ツール「WIP」(Rust + React、OSS公開済み)に、React Flow + dagreでタスク依存関係をグラフ表示する画面を追加しました\nきっかけは「一覧やガントチャートでは、タスクの流",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "ライト",
+      "title": "[Bevy 入門] #3 Component について",
+      "link": "https://zenn.dev/87right/articles/daee98fa308248",
+      "pubDate": "2026-08-17T11:00:05.000Z",
+      "contentSnippet": "この記事の執筆では補助的にLLMを使用していますが、具体的な内容は全て人間が書いたことを保証します。\n開発環境\n\n\nBevy: 0.19.1 （執筆時最新）\n\nOS: Windows x64\n\n!\nBevy は非常に活発に更新が行われており",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "NumazuGaki",
+      "title": "DjangoからRustへ、AIと二人三脚で移行してOSS公開するまで",
+      "link": "https://zenn.dev/amagi019/articles/wip-django-to-rust-ai",
+      "pubDate": "2026-08-17T10:53:13.000Z",
+      "contentSnippet": "はじめに\n自社のプロジェクト管理ツール「WIP」を、Django + ReactからRust(Axum) + Reactへ全面移行し、先日OSSとして公開しました。\nhttps://github.com/macplanning-labs/w",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "ゴリラビット",
+      "title": "「乳首なぞなぞ」を無限に作りたくて、AI に音を教える MCP サーバを書いた",
+      "link": "https://zenn.dev/gorillabbit/articles/6ba8c684db0532",
+      "pubDate": "2026-08-17T02:56:10.000Z",
+      "contentSnippet": "「乳首なぞなぞ」を無限に作りたかった\nhttps://www.youtube.com/watch?v=H0ZR1N15ASk\nQ「乳首みたいなお菓子ってなんだ？」\nA チョコビ\n\n AI に聞いても、全然それっぽい問題を作ってくれない\n「『",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "kacky",
+      "title": "AI駆動開発の品質はプロンプトよりフィードバックループで決まる：生ログから見る OpenSpec × DDD × 型 × MCP のリアル",
+      "link": "https://zenn.dev/kacky/articles/69510e0534da5b",
+      "pubDate": "2026-08-17T02:48:20.000Z",
+      "contentSnippet": "はじめに\n本記事は、戦国シミュレーションゲームをLLMと「一緒に」プレイするシステム『sengoku-mcp』の開発秘話に迫るアーキテクチャ解説（後編）です。\n前編 25年前の自作ゲームをLLMと一緒に遊んでみたら、アジャイルのトップランナ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "internal ghost",
+      "title": "【Rust】AIに「自分の文脈」を自動で叩き込む、プライバシー重視の生産性ログコンソールを作った",
+      "link": "https://zenn.dev/internal_ghost/articles/4ddefe85717f67",
+      "pubDate": "2026-08-17T00:30:05.000Z",
+      "contentSnippet": "「今日、何してた？」を可視化して、目標に近づくためのRust製アプリ「Internalium」を開発しています。\nちなみに「Internalium」という名前は、「自身の内面（Internal）を、プラネタリウムやアクアリウムのように静かに",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "夕日",
+      "title": "コマンドラインから直接Obsidianのディリーノートに記載するツール『Qwato』を作った",
+      "link": "https://zenn.dev/yuhi_ili/articles/3016549d2593d3",
+      "pubDate": "2026-08-16T23:00:05.000Z",
+      "contentSnippet": "この記事が書かれた時点でのバージョンはqwato 0.1.0です\n\n 作ったもの\nhttps://github.com/c0b23092db/qwato\nhttps://crates.io/crates/qwato\n\n 読者対象\n\nObsi",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "たつはら",
+      "title": "AIエージェント64体に1つのリポジトリを書かせたら、マージの57/64が衝突した。0にするまでの話",
+      "link": "https://zenn.dev/tacyan/articles/75d3ead8130533",
+      "pubDate": "2026-08-16T22:10:05.000Z",
+      "contentSnippet": "64体の書き手に1つのリポジトリを並列で書かせると、何が起きるか。\n素のgit worktreeで実測したら、64回のマージのうち57回が衝突し、衝突ハンクは132個になりました。\nガードを入れたら、衝突は0件になりました。\nただし、この「",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "大乱 -TaiLang-",
       "title": "2000年代初頭のレトロなCGI風掲示板を、RustとAntigravityで作ってみた",
       "link": "https://zenn.dev/tailang1991/articles/fe96ee669c6e1b",
@@ -437,18 +517,18 @@
     },
     {
       "creator": "ohtani",
-      "title": "Test Driven Development for Embedded Rust 3",
-      "link": "https://zenn.dev/tk23ohtani/articles/embedded_tdd_rust_3",
-      "pubDate": "2026-08-01T03:23:46.000Z",
-      "contentSnippet": "テスト駆動開発による組み込みRustプログラミング 3\nこの章では FakeLed を実 GPIO に置き換え、\nLedDriver -> PD12 -> PB1 の電気的経路をテストで確認します。\nサンプルコードは こちら に。\n\n 到達",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "ohtani",
       "title": "Test Driven Development for Embedded Rust 2",
       "link": "https://zenn.dev/tk23ohtani/articles/embedded_tdd_rust_2",
       "pubDate": "2026-08-01T03:23:46.000Z",
       "contentSnippet": "テスト駆動開発による組み込みRustプログラミング 2\nこの章では、logic で作った同じ要求を STM32 上で再実行します。\nまだ実 LED は触らず、FakeLed + Cell<bool> のままターゲット実行します。\nサンプルコ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "ohtani",
+      "title": "Test Driven Development for Embedded Rust 3",
+      "link": "https://zenn.dev/tk23ohtani/articles/embedded_tdd_rust_3",
+      "pubDate": "2026-08-01T03:23:46.000Z",
+      "contentSnippet": "テスト駆動開発による組み込みRustプログラミング 3\nこの章では FakeLed を実 GPIO に置き換え、\nLedDriver -> PD12 -> PB1 の電気的経路をテストで確認します。\nサンプルコードは こちら に。\n\n 到達",
       "param": "zenn_rust"
     },
     {
@@ -1125,18 +1205,18 @@
     },
     {
       "creator": "wurly",
-      "title": "ESP32でWASMアプリを動かす (1) 構想と調査・計画",
-      "link": "https://zenn.dev/wurly/articles/dede7d02e0329f",
-      "pubDate": "2026-07-11T23:55:34.000Z",
-      "contentSnippet": "この連載が最終的に到達した状態を、実機で動かしている動画です。\nhttps://youtu.be/UdiFrxvP_qg\n\n この連載について\n!\n本連載は、PoC（調査・実装・実機検証・計測）も記事の執筆も、ほぼすべて AI（Claude",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "wurly",
       "title": "ESP32でWASMアプリを動かす (5) 実機で計測する",
       "link": "https://zenn.dev/wurly/articles/e2547c3b6fbcc7",
       "pubDate": "2026-07-11T23:55:34.000Z",
       "contentSnippet": "はじめに\n連載「ESP32でWASMアプリを動かす」の第 5 回、Phase 4 です。ここまでで「同一の .wasm が実機と Linux で動く」ところまで来ました。今回は PoC 完了条件の残り半分、実機での定量計測です。\n!\n本連載",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "wurly",
+      "title": "ESP32でWASMアプリを動かす (1) 構想と調査・計画",
+      "link": "https://zenn.dev/wurly/articles/dede7d02e0329f",
+      "pubDate": "2026-07-11T23:55:34.000Z",
+      "contentSnippet": "この連載が最終的に到達した状態を、実機で動かしている動画です。\nhttps://youtu.be/UdiFrxvP_qg\n\n この連載について\n!\n本連載は、PoC（調査・実装・実機検証・計測）も記事の執筆も、ほぼすべて AI（Claude",
       "param": "zenn_rust"
     },
     {
@@ -1373,18 +1453,18 @@
     },
     {
       "creator": "nakahide",
-      "title": "NDPC-Iの学習記録",
-      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-i",
-      "pubDate": "2026-07-04T12:00:08.000Z",
-      "contentSnippet": "問題のリンク\n\n\n 問題概要\n長さ N の数列の要素を並び替えて、1列に並べる。\nこのとき、左からの最大値更新回数（prefix max）が L 回、右からの最大値更新回数（suffix max）が R 回となる並べ方の総数を9982443",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "nakahide",
       "title": "NDPC-Hの学習記録",
       "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-h",
       "pubDate": "2026-07-04T12:00:08.000Z",
       "contentSnippet": "問題のリンク\n\n\n 問題概要\nN \\times N のグリッドの左上 (1,1) から右下 (N,N) まで、右または下への移動を繰り返してコインを拾いながら進みます。\n「手持ちのコインがちょうど x 枚である状態で、そのマスに滞在する可能",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "NDPC-Iの学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-i",
+      "pubDate": "2026-07-04T12:00:08.000Z",
+      "contentSnippet": "問題のリンク\n\n\n 問題概要\n長さ N の数列の要素を並び替えて、1列に並べる。\nこのとき、左からの最大値更新回数（prefix max）が L 回、右からの最大値更新回数（suffix max）が R 回となる並べ方の総数を9982443",
       "param": "zenn_rust"
     },
     {
@@ -1445,18 +1525,18 @@
     },
     {
       "creator": "tomohisa",
-      "title": "イベントソーシングとWasmは相性がいい: SekibanWasmRuntimeが目指す多言語ES+CQRS",
-      "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-concept",
-      "pubDate": "2026-07-02T00:02:18.000Z",
-      "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nSekiban という、C# のイベントソーシング / CQRS フレームワークを作っています。\nhttps://github.com/J-Tech-Japan/Seki",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "tomohisa",
       "title": "Wasm でイベントソーシングを動かす: C# と Rust のドメインコードで試す",
       "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-public-container",
       "pubDate": "2026-07-02T00:02:18.000Z",
       "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nこの記事では、SekibanWasmRuntime を公開済みの package と public container で動かす流れを確認します。ランタイム本体は C# ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "tomohisa",
+      "title": "イベントソーシングとWasmは相性がいい: SekibanWasmRuntimeが目指す多言語ES+CQRS",
+      "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-concept",
+      "pubDate": "2026-07-02T00:02:18.000Z",
+      "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nSekiban という、C# のイベントソーシング / CQRS フレームワークを作っています。\nhttps://github.com/J-Tech-Japan/Seki",
       "param": "zenn_rust"
     },
     {
@@ -1661,18 +1741,18 @@
     },
     {
       "creator": "nakahide",
-      "title": "Next DP Contest（NDPC）の学習記録",
-      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-top",
-      "pubDate": "2026-06-26T12:00:05.000Z",
-      "contentSnippet": "この記事について\nNext DP Contestで筆者が解いた問題(A～Iの9問)について、解法を自分なりに整理した学習記録です。\n後から読み返したときに解法を再構成できるよう、完成したコードだけでなく、DPの状態や遷移、解法のポイントを整",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "nakahide",
       "title": "NDPC-Dの学習記録",
       "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-d",
       "pubDate": "2026-06-26T12:00:05.000Z",
       "contentSnippet": "問題のリンク\n\n\n 問題概要\nある国では、1円紙幣, 10円紙幣, 100円紙幣, ...と10倍ごとに紙幣が流通している。\nN 円の支払いを行う時、「支払う紙幣の枚数」と「お釣りとしてもらう紙幣の枚数」の合計枚数を最小化する問題。\n\n 重",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "Next DP Contest（NDPC）の学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-top",
+      "pubDate": "2026-06-26T12:00:05.000Z",
+      "contentSnippet": "この記事について\nNext DP Contestで筆者が解いた問題(A～Iの9問)について、解法を自分なりに整理した学習記録です。\n後から読み返したときに解法を再構成できるよう、完成したコードだけでなく、DPの状態や遷移、解法のポイントを整",
       "param": "zenn_rust"
     },
     {
