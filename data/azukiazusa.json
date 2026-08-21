@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "TanStack Virtual で大量の要素を仮想化して描画する",
+      "link": "https://azukiazusa.dev/blog/virtualize-large-list-with-tanstack-virtual",
+      "pubDate": "2026-08-18T12:25:00.000Z",
+      "contentSnippet": "大量の要素を一度に DOM へ追加すると、初期描画や更新のコストが増加します。TanStack Virtual はスクロール位置に応じて必要な要素だけを描画するヘッドレスな仮想化ライブラリです。この記事では React 向けの @tanst",
+      "param": "azukiazusa"
+    },
+    {
       "title": "React でアクセシブルな Tree View を実装する",
       "link": "https://azukiazusa.dev/blog/react-accessible-tree-view",
       "pubDate": "2026-08-18T05:16:00.000Z",

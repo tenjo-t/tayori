@@ -3,6 +3,55 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "Ubuntu 26.10（stonking）の開発; Auto-MIRとOpenSSL4投入、Advantech AOM-2721のUbuntu Certified、WSLの増加ペース",
+      "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202608/21?utm_source=feed",
+      "pubDate": "2026-08-21T00:41:00.000Z",
+      "contentSnippet": "Ubuntuの開発において、LLMによる省力化が行われる場所が少しずつ増えています。今回はMIRのための作業を支援するツールとして、Auto-MIRというソフトウェアが開発されていることが表明されています。\r\n",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "NVIDIA、エージェントスキルの効果を測る「SkillEvaluator」をオープンソースで公開",
+      "link": "https://gihyo.jp/article/2026/08/skillevaluator?utm_source=feed",
+      "pubDate": "2026-08-20T09:04:00.000Z",
+      "contentSnippet": "NVIDIAは2026年8月19日、AIエージェントに特定の作業手順やツールの使い方などを教えるエージェントスキルの効果を測定する「NVIDIA SkillEvaluator」をオープンソースで公開したことを紹介した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Block、キャラクター化したAIエージェントと作業するデスクトップアプリ「Berd」をオープンソース化",
+      "link": "https://gihyo.jp/article/2026/08/berd?utm_source=feed",
+      "pubDate": "2026-08-20T07:28:00.000Z",
+      "contentSnippet": "Blockは2026年8月19日、社内で利用してきたデスクトップアプリ「Berd」をオープンソース化したと発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "「OpenAI DevDay Exchange 2026」10月20日に東京で開催",
+      "link": "https://gihyo.jp/article/2026/08/openai-devdayexchange2026?utm_source=feed",
+      "pubDate": "2026-08-20T07:20:00.000Z",
+      "contentSnippet": "OpenAIは技術イベント「OpenAI DevDay Exchange」を、2026年10月から11月にかけて世界の各都市で開催することを発表した。東京での開催は10月20日。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "これが“ニューノーマル” ―Linux 7.2リリース、AIレビューによる大量の修正が常態化へ",
+      "link": "https://gihyo.jp/article/2026/08/daily-linux-260820?utm_source=feed",
+      "pubDate": "2026-08-20T06:48:00.000Z",
+      "contentSnippet": "Linus Torvaldsは8月16日、「Linux 7.2」の公開をアナウンスした。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Firefox 154がCSSのsibling-count()、sibling-index()、text-boxに対応、主要ブラウザーで利用可能に",
+      "link": "https://gihyo.jp/article/2026/08/firefox-154-support-css-sibling-count-index-and-text-box?utm_source=feed",
+      "pubDate": "2026-08-20T05:36:00.000Z",
+      "contentSnippet": "Mozillaは2026年8月18日、Firefox 154をリリースした。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Vercel Labs、Zig製の小型コーディングエージェント「fx」をオープンソースで公開",
+      "link": "https://gihyo.jp/article/2026/08/vercel-labs-fx?utm_source=feed",
+      "pubDate": "2026-08-20T04:07:00.000Z",
+      "contentSnippet": "Vercel Labsは2026年8月18日、単一のネイティブバイナリとして動作するコンパクトなコーディングエージェントハーネス兼CLI「fx」をApache 2.0ライセンスのもと、GitHub上でオープンソースとして公開した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "いざというときの「届かない！」をなくす。緊急速報メール設定をチェック",
       "link": "https://gihyo.jp/article/2026/08/android-weekly-topics-260820?utm_source=feed",
       "pubDate": "2026-08-20T00:04:00.000Z",
@@ -5834,17 +5883,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
-      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
       "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
+      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
       "param": "gihyo_jp"
     },
     {
@@ -6072,17 +6121,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
-      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "LangChain4jを使ってみよう",
       "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
+      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -6576,17 +6625,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {
