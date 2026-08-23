@@ -4,6 +4,54 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "ししゃも",
+      "title": "日本語で書きやすく、Rustで堅牢に。8g言語を育てたい理由",
+      "link": "https://zenn.dev/pompokotanu/articles/882186403b0a1e",
+      "pubDate": "2026-08-22T14:06:00.000Z",
+      "contentSnippet": "日本語で書きやすく、Rustで堅牢に。8g言語を育てたい理由\nRust +\nBevyを土台に、日本語でゲームロジックを書ける独自スクリプト言語「8g」を作っています。\n開発を進めながら考えているのは、単に「英語の命令を日本語へ翻訳した言語」",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "ししゃも",
+      "title": "Bevyで「日本語ゲームスクリプト言語」を作る：Rustコード生成から8gランタイム方式へ",
+      "link": "https://zenn.dev/pompokotanu/articles/a86fa98cd71a55",
+      "pubDate": "2026-08-22T12:42:34.000Z",
+      "contentSnippet": "はじめに\nRust + Bevy\nで、和風MMO向けの自作ゲームエンジン「八百万エンジン」を開発しています。\nこのエンジンでは、ゲーム側のスクリプトを Rust\nで直接書くのではなく、日本語でゲームの指示を書ける独自言語 .8g\nを用意する",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "たくしお",
+      "title": "tako開発日記 #1: AIエージェントが画面を操作するターミナル",
+      "link": "https://zenn.dev/takushio2525/articles/20260818-tako-ai-terminal-intro",
+      "pubDate": "2026-08-22T11:09:21.000Z",
+      "contentSnippet": "!\nこのシリーズは、Rust + GPUI製のAIエージェント特化ターミナル「tako」の開発日記です。開発はほぼ全部AIエージェント（Claude Code）と一緒に進めていて、その現場で起きたことを記録していきます。第1回は全体像から。",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "00_4",
+      "title": "Rust + Slint 事始め",
+      "link": "https://zenn.dev/00_4/articles/slint-rust-getting-started",
+      "pubDate": "2026-08-22T10:04:31.000Z",
+      "contentSnippet": "概要\n\nmacOS 環境で Rust + Slint のデスクトップアプリ開発を始めるための最初の手順を簡潔にまとめます\nゴール: 最小限のコードがビルドできて、デスクトップ上にウィンドウが表示できるまで\n執筆時の環境:\n\nmacOS Ta",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "黒ヰ樹",
+      "title": "RustでRustFSのS3にアップロードするやつ",
+      "link": "https://zenn.dev/tkithrta/articles/7f7f20b022b46e",
+      "pubDate": "2026-08-22T09:45:31.000Z",
+      "contentSnippet": "最近celldやらCursorのContinuityやら、Rustで書かれたS3にWALをアップロードする何かが流行っているので、RustFSにアップロードするやつを素振りしておきたいと思います。\nhttps://celld.dev/\nht",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "eye-of-japetus",
+      "title": "絵文字Brainfuck「emoji_bf」で比べるMojo 1.0 / Rust / JavaScript / Pythonの実行速度",
+      "link": "https://zenn.dev/eyeofjapetus/articles/emoji-bf-speed-mojo-rust-js-python",
+      "pubDate": "2026-08-22T06:58:59.000Z",
+      "contentSnippet": "はじめに\nMojo 1.0がリリースされたので、実際に手を動かして他言語と速度比較をしてみました。自作のBrainfuck派生言語「emoji_bf」のインタプリタを、Python / JavaScript(Node.js) / Rust ",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "Daming Wu",
       "title": "音声入力で「ギットハブ」が「ギット ハブ」になる——カタカナ複合語の分割と、言語ごとに非対称な辞書マッチの話",
       "link": "https://zenn.dev/damingwu/articles/181d18a221c0d1",
@@ -33,6 +81,14 @@
       "link": "https://zenn.dev/ai_eris_log/articles/eris-20260804-rtk-real-savings",
       "pubDate": "2026-08-21T00:07:47.000Z",
       "contentSnippet": "この記事は何か\n私は Claude Code のスケジュールタスクを日常的に運用していて、シェルコマンドの出力を圧縮してトークン消費を削減する CLI ツール「RTK（Rust Token Killer）」を、ほぼ全てのコマンドの前に付けて",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "たくしお",
+      "title": "tako開発日記 #2: 仮想リストでチャットのメモリ残留を1/10に",
+      "link": "https://zenn.dev/takushio2525/articles/20260816-gpui-chat-virtual-list",
+      "pubDate": "2026-08-20T23:00:00.000Z",
+      "contentSnippet": "!\ntako開発日記シリーズ: Rust + GPUI製のAIエージェント特化ターミナル「tako」の開発記録です。全体像は第1回にまとめています。\n\n最近のtakoはパフォーマンス改善スプリントの真っ最中で、これはその中で残っていた宿題の",
       "param": "zenn_rust"
     },
     {
@@ -637,18 +693,18 @@
     },
     {
       "creator": "ohtani",
-      "title": "Test Driven Development for Embedded Rust 2",
-      "link": "https://zenn.dev/tk23ohtani/articles/embedded_tdd_rust_2",
-      "pubDate": "2026-08-01T03:23:46.000Z",
-      "contentSnippet": "テスト駆動開発による組み込みRustプログラミング 2\nこの章では、logic で作った同じ要求を STM32 上で再実行します。\nまだ実 LED は触らず、FakeLed + Cell<bool> のままターゲット実行します。\nサンプルコ",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "ohtani",
       "title": "Test Driven Development for Embedded Rust 3",
       "link": "https://zenn.dev/tk23ohtani/articles/embedded_tdd_rust_3",
       "pubDate": "2026-08-01T03:23:46.000Z",
       "contentSnippet": "テスト駆動開発による組み込みRustプログラミング 3\nこの章では FakeLed を実 GPIO に置き換え、\nLedDriver -> PD12 -> PB1 の電気的経路をテストで確認します。\nサンプルコードは こちら に。\n\n 到達",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "ohtani",
+      "title": "Test Driven Development for Embedded Rust 2",
+      "link": "https://zenn.dev/tk23ohtani/articles/embedded_tdd_rust_2",
+      "pubDate": "2026-08-01T03:23:46.000Z",
+      "contentSnippet": "テスト駆動開発による組み込みRustプログラミング 2\nこの章では、logic で作った同じ要求を STM32 上で再実行します。\nまだ実 LED は触らず、FakeLed + Cell<bool> のままターゲット実行します。\nサンプルコ",
       "param": "zenn_rust"
     },
     {
@@ -1325,18 +1381,18 @@
     },
     {
       "creator": "wurly",
-      "title": "ESP32でWASMアプリを動かす (5) 実機で計測する",
-      "link": "https://zenn.dev/wurly/articles/e2547c3b6fbcc7",
-      "pubDate": "2026-07-11T23:55:34.000Z",
-      "contentSnippet": "はじめに\n連載「ESP32でWASMアプリを動かす」の第 5 回、Phase 4 です。ここまでで「同一の .wasm が実機と Linux で動く」ところまで来ました。今回は PoC 完了条件の残り半分、実機での定量計測です。\n!\n本連載",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "wurly",
       "title": "ESP32でWASMアプリを動かす (1) 構想と調査・計画",
       "link": "https://zenn.dev/wurly/articles/dede7d02e0329f",
       "pubDate": "2026-07-11T23:55:34.000Z",
       "contentSnippet": "この連載が最終的に到達した状態を、実機で動かしている動画です。\nhttps://youtu.be/UdiFrxvP_qg\n\n この連載について\n!\n本連載は、PoC（調査・実装・実機検証・計測）も記事の執筆も、ほぼすべて AI（Claude",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "wurly",
+      "title": "ESP32でWASMアプリを動かす (5) 実機で計測する",
+      "link": "https://zenn.dev/wurly/articles/e2547c3b6fbcc7",
+      "pubDate": "2026-07-11T23:55:34.000Z",
+      "contentSnippet": "はじめに\n連載「ESP32でWASMアプリを動かす」の第 5 回、Phase 4 です。ここまでで「同一の .wasm が実機と Linux で動く」ところまで来ました。今回は PoC 完了条件の残り半分、実機での定量計測です。\n!\n本連載",
       "param": "zenn_rust"
     },
     {
@@ -1573,18 +1629,18 @@
     },
     {
       "creator": "nakahide",
-      "title": "NDPC-Hの学習記録",
-      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-h",
-      "pubDate": "2026-07-04T12:00:08.000Z",
-      "contentSnippet": "問題のリンク\n\n\n 問題概要\nN \\times N のグリッドの左上 (1,1) から右下 (N,N) まで、右または下への移動を繰り返してコインを拾いながら進みます。\n「手持ちのコインがちょうど x 枚である状態で、そのマスに滞在する可能",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "nakahide",
       "title": "NDPC-Iの学習記録",
       "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-i",
       "pubDate": "2026-07-04T12:00:08.000Z",
       "contentSnippet": "問題のリンク\n\n\n 問題概要\n長さ N の数列の要素を並び替えて、1列に並べる。\nこのとき、左からの最大値更新回数（prefix max）が L 回、右からの最大値更新回数（suffix max）が R 回となる並べ方の総数を9982443",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "NDPC-Hの学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-h",
+      "pubDate": "2026-07-04T12:00:08.000Z",
+      "contentSnippet": "問題のリンク\n\n\n 問題概要\nN \\times N のグリッドの左上 (1,1) から右下 (N,N) まで、右または下への移動を繰り返してコインを拾いながら進みます。\n「手持ちのコインがちょうど x 枚である状態で、そのマスに滞在する可能",
       "param": "zenn_rust"
     },
     {
@@ -1645,18 +1701,18 @@
     },
     {
       "creator": "tomohisa",
-      "title": "Wasm でイベントソーシングを動かす: C# と Rust のドメインコードで試す",
-      "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-public-container",
-      "pubDate": "2026-07-02T00:02:18.000Z",
-      "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nこの記事では、SekibanWasmRuntime を公開済みの package と public container で動かす流れを確認します。ランタイム本体は C# ",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "tomohisa",
       "title": "イベントソーシングとWasmは相性がいい: SekibanWasmRuntimeが目指す多言語ES+CQRS",
       "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-concept",
       "pubDate": "2026-07-02T00:02:18.000Z",
       "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nSekiban という、C# のイベントソーシング / CQRS フレームワークを作っています。\nhttps://github.com/J-Tech-Japan/Seki",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "tomohisa",
+      "title": "Wasm でイベントソーシングを動かす: C# と Rust のドメインコードで試す",
+      "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-public-container",
+      "pubDate": "2026-07-02T00:02:18.000Z",
+      "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nこの記事では、SekibanWasmRuntime を公開済みの package と public container で動かす流れを確認します。ランタイム本体は C# ",
       "param": "zenn_rust"
     },
     {
@@ -1861,18 +1917,18 @@
     },
     {
       "creator": "nakahide",
-      "title": "NDPC-Dの学習記録",
-      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-d",
-      "pubDate": "2026-06-26T12:00:05.000Z",
-      "contentSnippet": "問題のリンク\n\n\n 問題概要\nある国では、1円紙幣, 10円紙幣, 100円紙幣, ...と10倍ごとに紙幣が流通している。\nN 円の支払いを行う時、「支払う紙幣の枚数」と「お釣りとしてもらう紙幣の枚数」の合計枚数を最小化する問題。\n\n 重",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "nakahide",
       "title": "Next DP Contest（NDPC）の学習記録",
       "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-top",
       "pubDate": "2026-06-26T12:00:05.000Z",
       "contentSnippet": "この記事について\nNext DP Contestで筆者が解いた問題(A～Iの9問)について、解法を自分なりに整理した学習記録です。\n後から読み返したときに解法を再構成できるよう、完成したコードだけでなく、DPの状態や遷移、解法のポイントを整",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "NDPC-Dの学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-d",
+      "pubDate": "2026-06-26T12:00:05.000Z",
+      "contentSnippet": "問題のリンク\n\n\n 問題概要\nある国では、1円紙幣, 10円紙幣, 100円紙幣, ...と10倍ごとに紙幣が流通している。\nN 円の支払いを行う時、「支払う紙幣の枚数」と「お釣りとしてもらう紙幣の枚数」の合計枚数を最小化する問題。\n\n 重",
       "param": "zenn_rust"
     },
     {
