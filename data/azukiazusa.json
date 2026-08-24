@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "Vitest のモックを using で自動的に復元する",
+      "link": "https://azukiazusa.dev/blog/vitest-using-mock",
+      "pubDate": "2026-08-23T06:55:00.000Z",
+      "contentSnippet": "Vitest で作成したスパイを復元し忘れると、別のテストへモックの状態が漏れるおそれがあります。Vitest 3.2.0 以降では `vi.spyOn()` の戻り値を `using` で宣言すると、スコープを抜けるときに元の実装を自動的",
+      "param": "azukiazusa"
+    },
+    {
       "title": "AI に技術ブログを書かせてみてわかったこと",
       "link": "https://azukiazusa.dev/blog/what-i-learned-writing-technical-blog-posts-with-ai",
       "pubDate": "2026-08-22T05:59:00.000Z",
@@ -2307,17 +2314,17 @@
       "param": "azukiazusa"
     },
     {
-      "title": "TypeScript + ESModules の開発環境をシュッと作る",
-      "link": "https://azukiazusa.dev/blog/typescript-esmodules",
-      "pubDate": "2023-02-18T15:00:00.000Z",
-      "contentSnippet": "ほぼ設定なしで TypeScript + ESModules の開発環境をシュッと作る時のレシピです。",
-      "param": "azukiazusa"
-    },
-    {
       "title": "Web アプリケーションエンジニアのためのウェブアクセシビリティの基礎",
       "link": "https://azukiazusa.dev/blog/web-accessibility-basics-every-web-application-engineer-needs-to-know",
       "pubDate": "2023-02-18T15:00:00.000Z",
       "contentSnippet": "ウェブアプリケーションエンジニアを対象に、アクセシビリティの対応について解説した記事。アクセシビリティを向上させるためには、正しいHTMLの書き方が必要である。HTML要素には、アクセシビリティに関する機能が元々備わっているため、適切なHT",
+      "param": "azukiazusa"
+    },
+    {
+      "title": "TypeScript + ESModules の開発環境をシュッと作る",
+      "link": "https://azukiazusa.dev/blog/typescript-esmodules",
+      "pubDate": "2023-02-18T15:00:00.000Z",
+      "contentSnippet": "ほぼ設定なしで TypeScript + ESModules の開発環境をシュッと作る時のレシピです。",
       "param": "azukiazusa"
     },
     {
