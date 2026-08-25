@@ -3,6 +3,27 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "差動機構の仕組みを理解して差動装置をプリントしよう",
+      "link": "https://gihyo.jp/article/2026/08/3dp-jungle-18?utm_source=feed",
+      "pubDate": "2026-08-25T00:13:00.000Z",
+      "contentSnippet": "前回は傘歯車をAIと協業しつつ作る方法を解説しました。記事の最後では、曲がり傘歯車も作成することができました。そこで今回は差動機構の解説と作成をしてみます。また、少しだけ3DPでベアリングを使う際のコツもお伝えします。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "高校数学から最先端AIまでを「横断的」に学ぶ理由(続き) ——最先端AI/ロボティクスの仕組みを数理思考で解き明かす",
+      "link": "https://gihyo.jp/article/2026/08/mathematical-thinking-05?utm_source=feed",
+      "pubDate": "2026-08-25T00:12:00.000Z",
+      "contentSnippet": "連載第2回で詳しく取り上げたのはベクトル、行列、微分、確率、物理学の5つでした。今回は、残る5つに注目します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Claude Mythos 5がClaude Securityで利用可能に ―エンタープライズユーザー向けに提供開始",
+      "link": "https://gihyo.jp/article/2026/08/mythos-5-to-claude-security?utm_source=feed",
+      "pubDate": "2026-08-24T05:57:00.000Z",
+      "contentSnippet": "Anthropicは2026年8月21日、エンタープライズプラン向けに提供しているセキュリティ機能Claude SecurityのスキャンモデルとしてClaude Mythos 5が利用可能となったことを発表した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "VS Codeベースのエディターをターミナル内で使える「terminal-code」が登場 ——SSH経由でも利用可能、ターミナルの配色を反映",
       "link": "https://gihyo.jp/article/2026/08/terminal-code?utm_source=feed",
       "pubDate": "2026-08-21T06:38:00.000Z",
@@ -5904,17 +5925,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
-      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
       "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
+      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
       "param": "gihyo_jp"
     },
     {
@@ -6142,17 +6163,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
-      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "LangChain4jを使ってみよう",
       "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
+      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -6646,17 +6667,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {

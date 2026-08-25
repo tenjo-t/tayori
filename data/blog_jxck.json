@@ -3,6 +3,13 @@
   "title": "blog.jxck.io",
   "items": [
     {
+      "title": "CSS Color Module v6 ベースの色設計",
+      "link": "https://blog.jxck.io/entries/2026-08-24/color-over-web.html",
+      "pubDate": "2026-08-24T00:00:00.000Z",
+      "contentSnippet": "Web における「色」を扱う API は、気づいたら色々増えている。デザインシステムの中で、デザイントークンとして色を一元管理するといった構成は増えているが、その先の定義が RGB Hex なことはまだ多いだろう。今の Web の API ",
+      "param": "blog_jxck"
+    },
+    {
       "title": "カンファレンス生態系の変化と CFP の功罪",
       "link": "https://blog.jxck.io/entries/2026-07-31/cfp-over-conference.html",
       "pubDate": "2026-07-31T00:00:00.000Z",
