@@ -4,6 +4,13 @@
   "description": "すてぃんの個人ブログです。技術的なこと、日常のこと、雑記など色々書きます。",
   "items": [
     {
+      "title": "Cloudflare Workers Tech Talks in Tokyo #8 に参加してきたので感想を書く",
+      "link": "https://blog.stin.ink/articles/cloudflare-workers-tech-talks-in-tokyo-8",
+      "pubDate": "2026-08-27T19:46:14.000Z",
+      "contentSnippet": "こんにちは、ハロー！プロジェクトのファンです。 2026年8月27日に開催された Cloudflare Workers Tech Talks in Tokyo #8 に参加してきました。宮本佳林さんが出演するということで、行ってきました。一",
+      "param": "stins_blog"
+    },
+    {
       "title": "Drizzle ORM を使った書き捨てスクリプトから Cloudflare D1 にアクセスしたい（2）",
       "link": "https://blog.stin.ink/articles/drizzle-cloudflare-remote-d1-2",
       "pubDate": "2026-08-02T12:53:38.000Z",

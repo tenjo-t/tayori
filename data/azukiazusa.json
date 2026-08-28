@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "ChatGPT デスクトップの Codex から WebMCP 対応 TODO アプリを操作する",
+      "link": "https://azukiazusa.dev/blog/chatgpt-desktop-codex-webmcp-todo-app",
+      "pubDate": "2026-08-27T11:09:00.000Z",
+      "contentSnippet": "ChatGPT デスクトップの内蔵ブラウザが、Web サイトの機能を AI エージェント向けのツールとして公開する WebMCP に対応しました。この記事では WebMCP に対応した TODO アプリを実装し、Codex が呼び出した S",
+      "param": "azukiazusa"
+    },
+    {
       "title": "IndexedDB と React・Dexie.js でタスク管理アプリを作ってみる",
       "link": "https://azukiazusa.dev/blog/indexeddb-react-dexie-task-app",
       "pubDate": "2026-08-25T05:56:00.000Z",
@@ -2846,17 +2853,17 @@
       "param": "azukiazusa"
     },
     {
-      "title": "【Vue.js】script setup 構文がすごくすごい",
-      "link": "https://azukiazusa.dev/blog/vue-js-script-setup",
-      "pubDate": "2021-09-25T15:00:00.000Z",
-      "contentSnippet": "Vue.js 3.x から script setup 構文が使えるようになりました。これは単一ファイルコンポーネント(SFC)内で Composition API を使用している際に使える糖衣構文です。下記のようなメリットを得ることができ、",
-      "param": "azukiazusa"
-    },
-    {
       "title": "Vuex 5 でどのように変わるのか。",
       "link": "https://azukiazusa.dev/blog/vuex-5",
       "pubDate": "2021-09-25T15:00:00.000Z",
       "contentSnippet": "現在リリースされている最新のバージョンは Vuex 4 です。 これは Vuex 3 と互換性のあるバージョンで Vue 3 で使用するためのものであり、 Vuex 3 と同じ API となっています。  Vuex 5 は Vue 3 にお",
+      "param": "azukiazusa"
+    },
+    {
+      "title": "【Vue.js】script setup 構文がすごくすごい",
+      "link": "https://azukiazusa.dev/blog/vue-js-script-setup",
+      "pubDate": "2021-09-25T15:00:00.000Z",
+      "contentSnippet": "Vue.js 3.x から script setup 構文が使えるようになりました。これは単一ファイルコンポーネント(SFC)内で Composition API を使用している際に使える糖衣構文です。下記のようなメリットを得ることができ、",
       "param": "azukiazusa"
     },
     {
