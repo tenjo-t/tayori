@@ -3,6 +3,41 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "Google、Play Booksで購入した対象書籍をGemini Notebookで活用できる「Expert Intelligence」を提供開始",
+      "link": "https://gihyo.jp/article/2026/08/gemini-notebook-expert-intelligence?utm_source=feed",
+      "pubDate": "2026-08-28T08:13:00.000Z",
+      "contentSnippet": "Googleは2026年8月27日、Google Play Booksで購入した対象の電子書籍をGemini Notebookで活用できる新たな取り組み「Expert Intelligence」の提供開始を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Hugging Face、動作学習型AI搭載のアヒル型二足歩行ロボット「Microduck」を発表、399ドルで予約販売を開始 ―学習用SDKはオープンソースとして公開",
+      "link": "https://gihyo.jp/article/2026/08/microduck?utm_source=feed",
+      "pubDate": "2026-08-28T06:02:00.000Z",
+      "contentSnippet": "Hugging Faceと傘下のPollen Roboticsは2026年8月27日、強化学習でトレーニングできるAI搭載のアヒル型二足歩行ロボット「Microduck」をリリース、販売予約を開始した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "OpenAI、AnthropicやAWS、Google、Microsoft、Oracleなど100以上の企業・団体とサイバー防御強化を求める公開書簡を発表",
+      "link": "https://gihyo.jp/article/2026/08/a-call-for-collective-action-on-cyber-defense?utm_source=feed",
+      "pubDate": "2026-08-28T04:14:00.000Z",
+      "contentSnippet": "OpenAIは2026年8月27日、Anthropic、AWS、Google、Microsoft、Oracleなどとともに、サイバー防御の強化を求める公開書簡を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Anthropic、AIエージェントによる物理デバイス操作の共通規格「Model Hardware Standard」を発表",
+      "link": "https://gihyo.jp/article/2026/08/model-hardware-standard?utm_source=feed",
+      "pubDate": "2026-08-28T02:24:00.000Z",
+      "contentSnippet": "Anthropicは2026年8月27日、AIエージェントが物理デバイスを安全に操作するための共通仕様「Model Hardware Standard」（MHS）のリサーチプレビューを、先進的な科学研究機関および製造業者向けに公開した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Ubuntu 26.10（stonking）の開発; Feature Freezeとその周辺、26.04.1の準備、Arduino VENTUNO Q",
+      "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202608/28?utm_source=feed",
+      "pubDate": "2026-08-28T01:34:00.000Z",
+      "contentSnippet": "stonkingはFeature Freezeの時期に入り、品質向上のための時間が開始されました。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "LibreOffice 26.8リリース、AI機能は「あえて搭載しない」",
       "link": "https://gihyo.jp/article/2026/08/daily-linux-260827?utm_source=feed",
       "pubDate": "2026-08-27T07:44:00.000Z",
@@ -6002,17 +6037,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
-      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
       "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
+      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
       "param": "gihyo_jp"
     },
     {
@@ -6240,17 +6275,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
-      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "LangChain4jを使ってみよう",
       "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
+      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -6744,17 +6779,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {
