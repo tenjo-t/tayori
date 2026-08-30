@@ -4,6 +4,20 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "CSS の shape() 関数でレスポンシブな図形を作る",
+      "link": "https://azukiazusa.dev/blog/responsive-shapes-with-css-shape-function",
+      "pubDate": "2026-08-29T10:12:00.000Z",
+      "contentSnippet": "clip-path の path() 関数で複雑な図形を作ると、固定座標のため要素のサイズへ追従させにくいという問題があります。shape() 関数ではパーセントや CSS の単位、カスタムプロパティを使って曲線を含む図形を定義できます。こ",
+      "param": "azukiazusa"
+    },
+    {
+      "title": "ローカル開発中に現れる GET /.well-known/appspecific/com.chrome.devtools.json とは何か",
+      "link": "https://azukiazusa.dev/blog/chrome-devtools-automatic-workspaces",
+      "pubDate": "2026-08-29T00:32:00.000Z",
+      "contentSnippet": "Chrome でローカル開発をしていると、開発サーバーへ GET /.well-known/appspecific/com.chrome.devtools.json という見慣れないリクエストが送られることがあります。これは Chrome ",
+      "param": "azukiazusa"
+    },
+    {
       "title": "ChatGPT デスクトップの Codex から WebMCP 対応 TODO アプリを操作する",
       "link": "https://azukiazusa.dev/blog/chatgpt-desktop-codex-webmcp-todo-app",
       "pubDate": "2026-08-27T11:09:00.000Z",
