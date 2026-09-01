@@ -3,6 +3,55 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "Claude Codeの対話モードで会話を始めてみよう",
+      "link": "https://gihyo.jp/article/2026/09/claude-code-ai-driven-development-01?utm_source=feed",
+      "pubDate": "2026-09-01T00:02:00.000Z",
+      "contentSnippet": "本連載は2026年9月刊行予定の『Claude Codeで作って学ぶ AI駆動アプリ開発入門』から一部、抜粋・編集してお届けします。第1回目は、Claude Codeで指示を出すための対話モードの使いこなし方を解説します。複数行入力やキーボ",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "自宅でローカルLLMを動かしてみた ローカルなら実現できる遊びとこだわり",
+      "link": "https://gihyo.jp/article/2026/09/home-local-llm-guide?utm_source=feed",
+      "pubDate": "2026-09-01T00:02:00.000Z",
+      "contentSnippet": "技術の進化により、ローカルLLMを個人のPCで動かすことも現実的になってきました。本稿では、ローカルLLMを手元で実際に動かしてみた知見をまとめます。快適に動かすための構成、性能と速度のトレードオフ、そして動かしてみて初めて見えてくるローカ",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第278回　MySQL 9.7で変わったDATE型の挙動を確認してみる",
+      "link": "https://gihyo.jp/article/2026/09/mysql-rcn0278?utm_source=feed",
+      "pubDate": "2026-09-01T00:01:00.000Z",
+      "contentSnippet": "MySQL 9.7.0のリリースノートを見ていると、DATE型に関する修正がいくつかまとめて入っていることに気付きます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第133回　連載12年目に突入、オープンソースカンファレンス京都報告、MySQLのステアリング・コミッティにJPMorganChaseとBooking. comが参画、PostgreSQLの多数の脆弱性が修正",
+      "link": "https://gihyo.jp/article/2026/09/ossdb-various-news0133?utm_source=feed",
+      "pubDate": "2026-09-01T00:01:00.000Z",
+      "contentSnippet": "この連載はOSSコンソーシアム データベース部会のメンバーがオープンソースデータベースの毎月の出来事をお伝えしています。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "OpenClaw 2.0リリース ―インストール、メッセージング、メモリ機能、スキル、モデル、自動化など大幅に機能強化",
+      "link": "https://gihyo.jp/article/2026/08/openclaw-2-0?utm_source=feed",
+      "pubDate": "2026-08-31T07:43:00.000Z",
+      "contentSnippet": "OpenClaw開発チームは2026年8月30日、AIアシスタントOpenClawの新バージョンOpenClaw 2.0をリリースした。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Debian、「生成AIの責任ある使用」を容認へ",
+      "link": "https://gihyo.jp/article/2026/08/daily-linux-260831?utm_source=feed",
+      "pubDate": "2026-08-31T06:37:00.000Z",
+      "contentSnippet": "Debianプロジェクトは8月29日、数週間に渡ってプロジェクト内で議論されてきたAI/LLMの利用ポリシーに関する一般決議（General Resolution）の結果を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "ChatGPT、Business／EnterpriseプランなどでGitHub上のプラグインマーケットプレイスを同期可能に",
+      "link": "https://gihyo.jp/article/2026/08/chatgpt-github-plugin-marketplace-sync?utm_source=feed",
+      "pubDate": "2026-08-31T04:57:00.000Z",
+      "contentSnippet": "OpenAIのVaibhav Srivastav氏は2026年8月29日、Xへの投稿で、BusinessやEnterpriseなどのChatGPTプランで、ワークスペース管理者がGitHub上のプラグインマーケットプレイスを継続的に同期でき",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "Blenderのスカルプトモードの概要を知ろう",
       "link": "https://gihyo.jp/article/2026/08/blender-basics-84?utm_source=feed",
       "pubDate": "2026-08-31T00:14:00.000Z",
@@ -6051,17 +6100,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
-      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
       "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
+      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
       "param": "gihyo_jp"
     },
     {
@@ -6289,17 +6338,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "LangChain4jを使ってみよう",
-      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
       "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "LangChain4jを使ってみよう",
+      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -6793,17 +6842,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {
