@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "`:playing` や `:muted` で video 要素の状態に応じたスタイルを適用する",
+      "link": "https://azukiazusa.dev/blog/style-video-with-media-state-pseudo-classes",
+      "pubDate": "2026-09-01T11:00:00.000Z",
+      "contentSnippet": "video 要素の再生やミュート状態に応じて見た目を変えるには、JavaScript でイベントを監視して CSS クラスを同期する方法が使われてきました。メディア状態擬似クラスを使うと、ブラウザが管理する再生、一時停止、シーク、バッファリ",
+      "param": "azukiazusa"
+    },
+    {
       "title": "flex-wrap: balance で Flexbox の折り返しを均等にする",
       "link": "https://azukiazusa.dev/blog/balance-flex-lines-with-flex-wrap-balance",
       "pubDate": "2026-08-30T10:06:00.000Z",
@@ -2881,17 +2888,17 @@
       "param": "azukiazusa"
     },
     {
-      "title": "【Vue.js】script setup 構文がすごくすごい",
-      "link": "https://azukiazusa.dev/blog/vue-js-script-setup",
-      "pubDate": "2021-09-25T15:00:00.000Z",
-      "contentSnippet": "Vue.js 3.x から script setup 構文が使えるようになりました。これは単一ファイルコンポーネント(SFC)内で Composition API を使用している際に使える糖衣構文です。下記のようなメリットを得ることができ、",
-      "param": "azukiazusa"
-    },
-    {
       "title": "Vuex 5 でどのように変わるのか。",
       "link": "https://azukiazusa.dev/blog/vuex-5",
       "pubDate": "2021-09-25T15:00:00.000Z",
       "contentSnippet": "現在リリースされている最新のバージョンは Vuex 4 です。 これは Vuex 3 と互換性のあるバージョンで Vue 3 で使用するためのものであり、 Vuex 3 と同じ API となっています。  Vuex 5 は Vue 3 にお",
+      "param": "azukiazusa"
+    },
+    {
+      "title": "【Vue.js】script setup 構文がすごくすごい",
+      "link": "https://azukiazusa.dev/blog/vue-js-script-setup",
+      "pubDate": "2021-09-25T15:00:00.000Z",
+      "contentSnippet": "Vue.js 3.x から script setup 構文が使えるようになりました。これは単一ファイルコンポーネント(SFC)内で Composition API を使用している際に使える糖衣構文です。下記のようなメリットを得ることができ、",
       "param": "azukiazusa"
     },
     {
