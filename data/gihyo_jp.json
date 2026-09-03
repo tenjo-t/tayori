@@ -3,6 +3,41 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "AIエージェントプラットフォームに潜む見えないコスト［前編］",
+      "link": "https://gihyo.jp/article/2026/09/ai-agent-platform-hidden-costs-01?utm_source=feed",
+      "pubDate": "2026-09-03T00:08:00.000Z",
+      "contentSnippet": "今回は前後編にわたり、金融や保険をはじめとする規制の厳しい業界の企業が、AIエージェントを導入するときに必ず突き当たる「自社で構築するか、製品を導入するか」という選択を取り上げます。前編では、なぜ社内でツールの断片化が進むのか、そしてAIエ",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Googleがアプリへの品質要件を刷新、メモリ削減義務化の詳細と対策",
+      "link": "https://gihyo.jp/article/2026/09/android-weekly-topics-260903?utm_source=feed",
+      "pubDate": "2026-09-03T00:08:00.000Z",
+      "contentSnippet": "Googleがアプリに対して新しい品質要件を発表しました。今回追加された基準の中でもとくに開発者に大きな影響を与える要素が、動的メモリ使用量やビットマップ消費量に関する厳しい閾値の設定です。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "GitHub CLIに​-​-​​attachフラグ、コマンドラインからIssueやPull Requestへ画像・動画を添付可能に",
+      "link": "https://gihyo.jp/article/2026/09/github-cli-attach-flag?utm_source=feed",
+      "pubDate": "2026-09-02T07:47:00.000Z",
+      "contentSnippet": "GitHubは2026年9月1日、GitHub CLIにローカルの画像や動画をアップロードできる--attachフラグを追加したと発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Google、AI画像作成・編集ツール「Google Pics」の一般提供を順次開始、オブジェクト単位の編集や画像内テキストの翻訳に対応",
+      "link": "https://gihyo.jp/article/2026/09/google-pics?utm_source=feed",
+      "pubDate": "2026-09-02T05:58:00.000Z",
+      "contentSnippet": "Googleは2026年9月1日、AI画像作成・編集ツール「Google Pics」の一般提供を順次開始した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Anthropic、Claude Fable 5.1とMythos 5.1を発表",
+      "link": "https://gihyo.jp/article/2026/09/claude-fable-5.1-and-mythos-5.1?utm_source=feed",
+      "pubDate": "2026-09-02T01:38:00.000Z",
+      "contentSnippet": "Anthropicは2026年9月1日、AIモデル「Claude Fable 5.1」と「Claude Mythos 5.1」を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "第925回　UbuntuでセルフホストFaaS「Orva」を使ってみよう",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0925?utm_source=feed",
       "pubDate": "2026-09-02T00:12:00.000Z",
@@ -6121,17 +6156,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
-      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
       "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
+      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
       "param": "gihyo_jp"
     },
     {
@@ -6359,17 +6394,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "LangChain4jを使ってみよう",
-      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
       "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "LangChain4jを使ってみよう",
+      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -6863,17 +6898,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {
