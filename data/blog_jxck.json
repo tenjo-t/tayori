@@ -3,6 +3,13 @@
   "title": "blog.jxck.io",
   "items": [
     {
+      "title": "W3C Japan 30 周年記念パネルのモデレートをした #web_together",
+      "link": "https://blog.jxck.io/entries/2026-09-05/web-together.html",
+      "pubDate": "2026-09-05T00:00:00.000Z",
+      "contentSnippet": "W3C Japan が創設 30 周年ということで、記念イベントが開催された。W3C Japan 30 周年記念イベント - Web Together - connpasshttps://w3c-japan.connpass.com/eve",
+      "param": "blog_jxck"
+    },
+    {
       "title": "CSS Color Module v6 ベースの色設計",
       "link": "https://blog.jxck.io/entries/2026-08-24/color-over-web.html",
       "pubDate": "2026-08-24T00:00:00.000Z",

@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "新しいグラフライブラリ TanStack Charts の設計思想と使い方",
+      "link": "https://azukiazusa.dev/blog/tanstack-charts-design-and-usage",
+      "pubDate": "2026-09-05T04:33:00.000Z",
+      "contentSnippet": "多くのグラフライブラリがある中、TanStack Charts はなぜ作られたのでしょうか。この記事では、TanStack Charts の設計思想を整理し、React で売上の折れ線にキャンペーンの注釈を重ねるサンプルを紹介します。",
+      "param": "azukiazusa"
+    },
+    {
       "title": "pnpm update で GitHub Actions もまとめて更新する",
       "link": "https://azukiazusa.dev/blog/pnpm-update-include-github-actions",
       "pubDate": "2026-09-04T13:05:00.000Z",
@@ -2370,17 +2377,17 @@
       "param": "azukiazusa"
     },
     {
-      "title": "TypeScript + ESModules の開発環境をシュッと作る",
-      "link": "https://azukiazusa.dev/blog/typescript-esmodules",
-      "pubDate": "2023-02-18T15:00:00.000Z",
-      "contentSnippet": "ほぼ設定なしで TypeScript + ESModules の開発環境をシュッと作る時のレシピです。",
-      "param": "azukiazusa"
-    },
-    {
       "title": "Web アプリケーションエンジニアのためのウェブアクセシビリティの基礎",
       "link": "https://azukiazusa.dev/blog/web-accessibility-basics-every-web-application-engineer-needs-to-know",
       "pubDate": "2023-02-18T15:00:00.000Z",
       "contentSnippet": "ウェブアプリケーションエンジニアを対象に、アクセシビリティの対応について解説した記事。アクセシビリティを向上させるためには、正しいHTMLの書き方が必要である。HTML要素には、アクセシビリティに関する機能が元々備わっているため、適切なHT",
+      "param": "azukiazusa"
+    },
+    {
+      "title": "TypeScript + ESModules の開発環境をシュッと作る",
+      "link": "https://azukiazusa.dev/blog/typescript-esmodules",
+      "pubDate": "2023-02-18T15:00:00.000Z",
+      "contentSnippet": "ほぼ設定なしで TypeScript + ESModules の開発環境をシュッと作る時のレシピです。",
       "param": "azukiazusa"
     },
     {
