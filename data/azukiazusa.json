@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "フォームの Enter 送信で isComposing と keyCode === 229 を併用する理由",
+      "link": "https://azukiazusa.dev/blog/ime-enter-submit",
+      "pubDate": "2026-09-06T04:46:00.000Z",
+      "contentSnippet": "IME の変換確定に使う Enter キーで、書きかけのメッセージが送信されることがあります。isComposing と非推奨の keyCode === 229 を併用して、変換中の Enter を送信処理から除外する理由を解説します。",
+      "param": "azukiazusa"
+    },
+    {
       "title": "新しいグラフライブラリ TanStack Charts の設計思想と使い方",
       "link": "https://azukiazusa.dev/blog/tanstack-charts-design-and-usage",
       "pubDate": "2026-09-05T04:33:00.000Z",
@@ -2377,17 +2384,17 @@
       "param": "azukiazusa"
     },
     {
-      "title": "Web アプリケーションエンジニアのためのウェブアクセシビリティの基礎",
-      "link": "https://azukiazusa.dev/blog/web-accessibility-basics-every-web-application-engineer-needs-to-know",
-      "pubDate": "2023-02-18T15:00:00.000Z",
-      "contentSnippet": "ウェブアプリケーションエンジニアを対象に、アクセシビリティの対応について解説した記事。アクセシビリティを向上させるためには、正しいHTMLの書き方が必要である。HTML要素には、アクセシビリティに関する機能が元々備わっているため、適切なHT",
-      "param": "azukiazusa"
-    },
-    {
       "title": "TypeScript + ESModules の開発環境をシュッと作る",
       "link": "https://azukiazusa.dev/blog/typescript-esmodules",
       "pubDate": "2023-02-18T15:00:00.000Z",
       "contentSnippet": "ほぼ設定なしで TypeScript + ESModules の開発環境をシュッと作る時のレシピです。",
+      "param": "azukiazusa"
+    },
+    {
+      "title": "Web アプリケーションエンジニアのためのウェブアクセシビリティの基礎",
+      "link": "https://azukiazusa.dev/blog/web-accessibility-basics-every-web-application-engineer-needs-to-know",
+      "pubDate": "2023-02-18T15:00:00.000Z",
+      "contentSnippet": "ウェブアプリケーションエンジニアを対象に、アクセシビリティの対応について解説した記事。アクセシビリティを向上させるためには、正しいHTMLの書き方が必要である。HTML要素には、アクセシビリティに関する機能が元々備わっているため、適切なHT",
       "param": "azukiazusa"
     },
     {
