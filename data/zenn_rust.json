@@ -4,6 +4,46 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "ししゃも",
+      "title": "Rustで自分専用エディタを作ったら、Git・検索・コマンドパレットまで生えてきた話",
+      "link": "https://zenn.dev/pompokotanu/articles/b76be377c9a654",
+      "pubDate": "2026-09-07T16:21:50.000Z",
+      "contentSnippet": "はじめに\n制作ノート、仕様書、TODO、開発ログ、Git操作。\n開発していると、必要なものがどんどん増えていきます。\n普段は既存のエディタを使えば十分なのですが、私の場合はゲーム開発やBlenderアドオン、配信ソフトなど、複数の制作物を並",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "夕日",
+      "title": "Rustの記事で文字列結合に関する奇妙なコードがあったので調べた",
+      "link": "https://zenn.dev/yuhi_ili/articles/cce0c46bafbab0",
+      "pubDate": "2026-09-07T12:00:05.000Z",
+      "contentSnippet": "記事で使われたコードに奇妙な書き方を見つけました。\nlet mut c = a.clone().to_string().push_str(&(format!(\"{}{}\", \"\\n\", b.clone())));\nlet mut c = &",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "habakan",
+      "title": "wasm 上で動く Stan ランタイムを作った",
+      "link": "https://zenn.dev/habakan/articles/wasm-stan-runtime-rust",
+      "pubDate": "2026-09-07T11:33:42.000Z",
+      "contentSnippet": "ベイズ推論を Web でできたら面白いだろうなぁという理由で、Stan を WebAssembly 上で動かせる stanwasm を作りました。\nStan 言語のサブセットを、パースからコンパイル、サンプリングまでブラウザの中だけで完結さ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "7788",
+      "title": "AIエージェントの「探索税」を払うのをやめる — コード知識グラフ CodeGraph 実践ガイド",
+      "link": "https://zenn.dev/7788/articles/49475bcf07c66f",
+      "pubDate": "2026-09-07T07:07:47.000Z",
+      "contentSnippet": "毎セッション、同じ地図を描き直していないか\nClaude Code や Cursor に「この認証まわりを直して」と頼むと、エージェントはまず grep を打ち、ファイルを開き、また grep を打つ。数十回のツールコールと十数万トークンを",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "Rick2200",
+      "title": "RustでWebフロントとモバイルの複雑なドメインロジックを共通化する（UniFFI + WASM）",
+      "link": "https://zenn.dev/rick2200/articles/16ee74ef2464b8",
+      "pubDate": "2026-09-06T23:55:05.000Z",
+      "contentSnippet": "背景\nWeb・iOS・Androidのマルチプラットフォームで展開するサービスでは、同じビジネスロジックを3つの言語で別々に実装することが珍しくありません。たとえば「送料無料の判定」のような、金額計算が絡む処理です。\nもちろん最終的な確定値",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "ふじき　てつはる",
       "title": "CVE-2026-53362 (Frag Gap) はコンテナ脱獄をどう成立させるか、RoamSwitchの緩和策とその限界を正直に書く",
       "link": "https://zenn.dev/lafine/articles/958b229c48b027",
@@ -1101,18 +1141,18 @@
     },
     {
       "creator": "ohtani",
-      "title": "Test Driven Development for Embedded Rust 2",
-      "link": "https://zenn.dev/tk23ohtani/articles/embedded_tdd_rust_2",
-      "pubDate": "2026-08-01T03:23:46.000Z",
-      "contentSnippet": "テスト駆動開発による組み込みRustプログラミング 2\nこの章では、logic で作った同じ要求を STM32 上で再実行します。\nまだ実 LED は触らず、FakeLed + Cell<bool> のままターゲット実行します。\nサンプルコ",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "ohtani",
       "title": "Test Driven Development for Embedded Rust 3",
       "link": "https://zenn.dev/tk23ohtani/articles/embedded_tdd_rust_3",
       "pubDate": "2026-08-01T03:23:46.000Z",
       "contentSnippet": "テスト駆動開発による組み込みRustプログラミング 3\nこの章では FakeLed を実 GPIO に置き換え、\nLedDriver -> PD12 -> PB1 の電気的経路をテストで確認します。\nサンプルコードは こちら に。\n\n 到達",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "ohtani",
+      "title": "Test Driven Development for Embedded Rust 2",
+      "link": "https://zenn.dev/tk23ohtani/articles/embedded_tdd_rust_2",
+      "pubDate": "2026-08-01T03:23:46.000Z",
+      "contentSnippet": "テスト駆動開発による組み込みRustプログラミング 2\nこの章では、logic で作った同じ要求を STM32 上で再実行します。\nまだ実 LED は触らず、FakeLed + Cell<bool> のままターゲット実行します。\nサンプルコ",
       "param": "zenn_rust"
     },
     {
@@ -1789,18 +1829,18 @@
     },
     {
       "creator": "wurly",
-      "title": "ESP32でWASMアプリを動かす (5) 実機で計測する",
-      "link": "https://zenn.dev/wurly/articles/e2547c3b6fbcc7",
-      "pubDate": "2026-07-11T23:55:34.000Z",
-      "contentSnippet": "はじめに\n連載「ESP32でWASMアプリを動かす」の第 5 回、Phase 4 です。ここまでで「同一の .wasm が実機と Linux で動く」ところまで来ました。今回は PoC 完了条件の残り半分、実機での定量計測です。\n!\n本連載",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "wurly",
       "title": "ESP32でWASMアプリを動かす (1) 構想と調査・計画",
       "link": "https://zenn.dev/wurly/articles/dede7d02e0329f",
       "pubDate": "2026-07-11T23:55:34.000Z",
       "contentSnippet": "この連載が最終的に到達した状態を、実機で動かしている動画です。\nhttps://youtu.be/UdiFrxvP_qg\n\n この連載について\n!\n本連載は、PoC（調査・実装・実機検証・計測）も記事の執筆も、ほぼすべて AI（Claude",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "wurly",
+      "title": "ESP32でWASMアプリを動かす (5) 実機で計測する",
+      "link": "https://zenn.dev/wurly/articles/e2547c3b6fbcc7",
+      "pubDate": "2026-07-11T23:55:34.000Z",
+      "contentSnippet": "はじめに\n連載「ESP32でWASMアプリを動かす」の第 5 回、Phase 4 です。ここまでで「同一の .wasm が実機と Linux で動く」ところまで来ました。今回は PoC 完了条件の残り半分、実機での定量計測です。\n!\n本連載",
       "param": "zenn_rust"
     },
     {
@@ -2037,18 +2077,18 @@
     },
     {
       "creator": "nakahide",
-      "title": "NDPC-Hの学習記録",
-      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-h",
-      "pubDate": "2026-07-04T12:00:08.000Z",
-      "contentSnippet": "問題のリンク\n\n\n 問題概要\nN \\times N のグリッドの左上 (1,1) から右下 (N,N) まで、右または下への移動を繰り返してコインを拾いながら進みます。\n「手持ちのコインがちょうど x 枚である状態で、そのマスに滞在する可能",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "nakahide",
       "title": "NDPC-Iの学習記録",
       "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-i",
       "pubDate": "2026-07-04T12:00:08.000Z",
       "contentSnippet": "問題のリンク\n\n\n 問題概要\n長さ N の数列の要素を並び替えて、1列に並べる。\nこのとき、左からの最大値更新回数（prefix max）が L 回、右からの最大値更新回数（suffix max）が R 回となる並べ方の総数を9982443",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "NDPC-Hの学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-h",
+      "pubDate": "2026-07-04T12:00:08.000Z",
+      "contentSnippet": "問題のリンク\n\n\n 問題概要\nN \\times N のグリッドの左上 (1,1) から右下 (N,N) まで、右または下への移動を繰り返してコインを拾いながら進みます。\n「手持ちのコインがちょうど x 枚である状態で、そのマスに滞在する可能",
       "param": "zenn_rust"
     },
     {
@@ -2109,18 +2149,18 @@
     },
     {
       "creator": "tomohisa",
-      "title": "Wasm でイベントソーシングを動かす: C# と Rust のドメインコードで試す",
-      "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-public-container",
-      "pubDate": "2026-07-02T00:02:18.000Z",
-      "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nこの記事では、SekibanWasmRuntime を公開済みの package と public container で動かす流れを確認します。ランタイム本体は C# ",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "tomohisa",
       "title": "イベントソーシングとWasmは相性がいい: SekibanWasmRuntimeが目指す多言語ES+CQRS",
       "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-concept",
       "pubDate": "2026-07-02T00:02:18.000Z",
       "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nSekiban という、C# のイベントソーシング / CQRS フレームワークを作っています。\nhttps://github.com/J-Tech-Japan/Seki",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "tomohisa",
+      "title": "Wasm でイベントソーシングを動かす: C# と Rust のドメインコードで試す",
+      "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-public-container",
+      "pubDate": "2026-07-02T00:02:18.000Z",
+      "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nこの記事では、SekibanWasmRuntime を公開済みの package と public container で動かす流れを確認します。ランタイム本体は C# ",
       "param": "zenn_rust"
     },
     {
@@ -2325,18 +2365,18 @@
     },
     {
       "creator": "nakahide",
-      "title": "NDPC-Dの学習記録",
-      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-d",
-      "pubDate": "2026-06-26T12:00:05.000Z",
-      "contentSnippet": "問題のリンク\n\n\n 問題概要\nある国では、1円紙幣, 10円紙幣, 100円紙幣, ...と10倍ごとに紙幣が流通している。\nN 円の支払いを行う時、「支払う紙幣の枚数」と「お釣りとしてもらう紙幣の枚数」の合計枚数を最小化する問題。\n\n 重",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "nakahide",
       "title": "Next DP Contest（NDPC）の学習記録",
       "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-top",
       "pubDate": "2026-06-26T12:00:05.000Z",
       "contentSnippet": "この記事について\nNext DP Contestで筆者が解いた問題(A～Iの9問)について、解法を自分なりに整理した学習記録です。\n後から読み返したときに解法を再構成できるよう、完成したコードだけでなく、DPの状態や遷移、解法のポイントを整",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "NDPC-Dの学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-d",
+      "pubDate": "2026-06-26T12:00:05.000Z",
+      "contentSnippet": "問題のリンク\n\n\n 問題概要\nある国では、1円紙幣, 10円紙幣, 100円紙幣, ...と10倍ごとに紙幣が流通している。\nN 円の支払いを行う時、「支払う紙幣の枚数」と「お釣りとしてもらう紙幣の枚数」の合計枚数を最小化する問題。\n\n 重",
       "param": "zenn_rust"
     },
     {
