@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "React の browser() API でブラウザ専用のコンポーネントを描画する",
+      "link": "https://azukiazusa.dev/blog/react-browser-api",
+      "pubDate": "2026-09-08T11:05:00.000Z",
+      "contentSnippet": "SSR を使う React アプリで localStorage を読む場合、従来は useEffect と state を使って初回表示を管理していました。browser() API では、ブラウザでのみ描画する意図を use(browse",
+      "param": "azukiazusa"
+    },
+    {
       "title": "フォームの Enter 送信で isComposing と keyCode === 229 を併用する理由",
       "link": "https://azukiazusa.dev/blog/ime-enter-submit",
       "pubDate": "2026-09-06T04:46:00.000Z",
