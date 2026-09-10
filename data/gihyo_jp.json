@@ -3,6 +3,48 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "AIエージェントプラットフォームに潜む見えないコスト［後編］",
+      "link": "https://gihyo.jp/article/2026/09/ai-agent-platform-hidden-costs-02?utm_source=feed",
+      "pubDate": "2026-09-10T00:16:00.000Z",
+      "contentSnippet": "前編では、金融や保険をはじめとする規制の厳しい業界で、AIエージェントの断片化がなぜ起きるのか、そしてその難しさがオーケストレーションの層に潜んでいることを見てきました。後編では、判断の軸となる3つの問いと、規制の厳しい業界で使うプラットフ",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Qualcommのチップ値上げ波紋はスペック調整とリユース品の拡大か？",
+      "link": "https://gihyo.jp/article/2026/09/android-weekly-topics-260910?utm_source=feed",
+      "pubDate": "2026-09-10T00:15:00.000Z",
+      "contentSnippet": "Googleがアプリに対して新しい品質要件を発表しました。今回追加された基準の中でもとくに開発者に大きな影響を与える要素が、動的メモリ使用量やビットマップ消費量に関する厳しい閾値の設定です。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Chrome、バージョン153を公開。2週間ごとのリリースに移行 ——EdgeとFirefoxもすでに2週間周期に",
+      "link": "https://gihyo.jp/article/2026/09/chrome-two-week-release-cycle?utm_source=feed",
+      "pubDate": "2026-09-09T09:37:00.000Z",
+      "contentSnippet": "Googleは9月8日、WebブラウザーChrome 153（安定版）を公開し、リリース周期を4週間から2週間へ短縮した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Meta、個人向けAIエージェント「Muse」を米国で提供開始",
+      "link": "https://gihyo.jp/article/2026/09/meta-muse?utm_source=feed",
+      "pubDate": "2026-09-09T07:59:00.000Z",
+      "contentSnippet": "Metaは9月8日、個人向けAIエージェント「Muse」を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "深刻化する“サイバー蝗害”―Linuxカーネルソースに群がる貪欲で超非効率な「AIイナゴ」たち",
+      "link": "https://gihyo.jp/article/2026/09/daily-linux-260909?utm_source=feed",
+      "pubDate": "2026-09-09T06:49:00.000Z",
+      "contentSnippet": "前回でも紹介したように、AIノイズ ―AI/LLMに由来する大量のパッチやバグ報告がLinuxカーネル開発メンテナーたちの労力を増大させており、カーネル開発のサイクルにも影響を及ぼしつつあるが、AIによる負荷に疲弊しているのはメンテナーだけ",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "OpenAI、「ChatGPT Images 2.5」を発表 ——画像生成を高速化、画像への直接コメントにも対応",
+      "link": "https://gihyo.jp/article/2026/09/chatgpt-images-2.5?utm_source=feed",
+      "pubDate": "2026-09-09T02:25:00.000Z",
+      "contentSnippet": "OpenAIは2026年9月8日、画像生成・編集モデル「ChatGPT Images 2.5」を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "第926回　UbuntuからYAMAHA RTX830に設定したIKEv2に接続する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0926?utm_source=feed",
       "pubDate": "2026-09-08T23:57:00.000Z",
@@ -6254,17 +6296,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
-      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
       "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
+      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
       "param": "gihyo_jp"
     },
     {
@@ -6492,17 +6534,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
-      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "LangChain4jを使ってみよう",
       "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
+      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -6996,17 +7038,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {
