@@ -4,6 +4,13 @@
   "description": "JavaScriptの最新情報を紹介する週刊ブログ",
   "items": [
     {
+      "title": "2026-09-10のJS: Vitest 5.0、Zod 4.5、ShopifyがTailwind Labsを買収",
+      "link": "https://jser.info/2026/09/10/vitest-5.0-zod-4.5-shopifytailwind-labs/",
+      "pubDate": "2026-09-10T13:24:54.000Z",
+      "contentSnippet": "JSer.info #779 - Vitest 5.0がリリースされました。\nVitest 5.0 is out! | Vitest\nclearMocksがデフォルトで有効になり、locatorが完全一致で検索するように変更されています。\n",
+      "param": "jser_info"
+    },
+    {
       "title": "2026-08-27のJS: pnpm 12、Bun 1.4、Solid 2.0 RC",
       "link": "https://jser.info/2026/08/27/pnpm-12-bun-1.4-solid-2.0-rc/",
       "pubDate": "2026-08-27T12:55:43.000Z",
