@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "AI エージェントとアプリを動かす Cloudflare OS を試してみた",
+      "link": "https://azukiazusa.dev/blog/cloudflare-os",
+      "pubDate": "2026-09-12T11:04:00.000Z",
+      "contentSnippet": "AI エージェントを業務に使うには、社内の知識やシステムへのアクセスと、成果物を共有する仕組みが必要です。Cloudflare OS は、エージェントと小さなアプリを動かすワークスペースを提供します。この記事ではローカルでの利用手順と、アプ",
+      "param": "azukiazusa"
+    },
+    {
       "title": "React の browser() API でブラウザ専用のコンポーネントを描画する",
       "link": "https://azukiazusa.dev/blog/react-browser-api",
       "pubDate": "2026-09-08T11:05:00.000Z",
