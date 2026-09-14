@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "React 19.3 の Fragment Refs で子コンポーネント内の入力欄にフォーカスする",
+      "link": "https://azukiazusa.dev/blog/react-fragment-refs",
+      "pubDate": "2026-09-13T02:53:00.000Z",
+      "contentSnippet": "React 19.3 の Fragment Refs は、ラッパー要素を追加せずに複数の DOM 要素を操作する機能です。この記事では配送先フォームを例に、Fragment Refs の使い方を紹介します。",
+      "param": "azukiazusa"
+    },
+    {
       "title": "AI エージェントとアプリを動かす Cloudflare OS を試してみた",
       "link": "https://azukiazusa.dev/blog/cloudflare-os",
       "pubDate": "2026-09-12T11:04:00.000Z",
