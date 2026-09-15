@@ -3,6 +3,55 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "便利なスラッシュコマンドを使いこなそう",
+      "link": "https://gihyo.jp/article/2026/09/claude-code-ai-driven-development-03?utm_source=feed",
+      "pubDate": "2026-09-15T00:11:00.000Z",
+      "contentSnippet": "本連載は2026年9月刊行の『Claude Codeで作って学ぶ AI駆動アプリ開発入門』から一部、抜粋・編集してお届けします。第3回目は、Claude Codeの対話モード内で使用する「スラッシュコマンド」の基本とよく使うコマンドを解説し",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第279回　MySQL Group ReplicationのDistributed Recoveryについて",
+      "link": "https://gihyo.jp/article/2026/09/mysql-rcn0279?utm_source=feed",
+      "pubDate": "2026-09-15T00:08:00.000Z",
+      "contentSnippet": "MySQL Group Replicationでは、新規メンバーの参加や障害からの復帰の際に、グループから離脱していた期間に発生したトランザクションの同期が必要になります。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Dario Amodei氏、最先端AIの開発減速を呼びかけ、Musk氏やAltman氏も反応 ──アライメントの確保と第三者評価が論点に",
+      "link": "https://gihyo.jp/article/2026/09/must-pace-the-frontier?utm_source=feed",
+      "pubDate": "2026-09-14T09:08:00.000Z",
+      "contentSnippet": "AnthropicのDario Amodei氏は9月12日、最先端AIの能力向上の速度を抑え、安全対策に取り組む時間を確保するよう呼びかけるブログ「We Must Pace the Frontier」をXで紹介した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Safari 27、top-level awaitの不具合を修正、モジュールローダーを刷新",
+      "link": "https://gihyo.jp/article/2026/09/safari-top-level-await?utm_source=feed",
+      "pubDate": "2026-09-14T05:51:00.000Z",
+      "contentSnippet": "WebKitは2026年9月2日、Safari 27でJavaScriptのtop-level awaitを仕様に完全準拠させたとする解説記事を公開した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "pnpm 12.4リリース、RustとPythonの依存関係もまとめてインストール可能に",
+      "link": "https://gihyo.jp/article/2026/09/pnpm-12.4?utm_source=feed",
+      "pubDate": "2026-09-14T05:23:00.000Z",
+      "contentSnippet": "パッケージマネージャーpnpmのバージョン12.4が2026年9月8日にリリースされた。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Anthropic、Claude Codeのプラグイン評価コマンド「claude plugin eval」を紹介",
+      "link": "https://gihyo.jp/article/2026/09/claude-plugin-eval?utm_source=feed",
+      "pubDate": "2026-09-14T02:36:00.000Z",
+      "contentSnippet": "Anthropicは2026年9月11日、Claude Codeのプラグインやスキルの効果を評価するコマンド「claude plugin eval」を公式XアカウントのClaudeDevsで紹介した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "ObsidianのCEO、Markdown生成向けの「Knap」を紹介 ——Web Clipperから独立したテンプレート言語",
+      "link": "https://gihyo.jp/article/2026/09/knap?utm_source=feed",
+      "pubDate": "2026-09-14T02:21:00.000Z",
+      "contentSnippet": "ObsidianのCEOを務めるSteph Ango氏（kepano）は9月10日、データからMarkdownを生成するテンプレート言語「Knap」をXで紹介した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "Blenderのスカルプトモードの操作方法を知ろう 〜ブラシの設定や便利なマスク機能など〜",
       "link": "https://gihyo.jp/article/2026/09/blender-basics-85?utm_source=feed",
       "pubDate": "2026-09-14T00:32:00.000Z",
@@ -6359,17 +6408,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
-      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
       "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
+      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
       "param": "gihyo_jp"
     },
     {
@@ -6597,17 +6646,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "LangChain4jを使ってみよう",
-      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
       "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "LangChain4jを使ってみよう",
+      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -7101,17 +7150,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {
