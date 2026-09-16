@@ -3,6 +3,34 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "第927回　「Backrest」でResticのバックアップをWebから管理する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0927?utm_source=feed",
+      "pubDate": "2026-09-16T00:17:00.000Z",
+      "contentSnippet": "第765回と第766回では、多機能で使いやすいバックアップツールとしてResticを紹介しました。今回はResticのWeb UI兼オーケストレーターであるBackrestを紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Java 27リリース――ヒープ使用効率向上と安全性の重視",
+      "link": "https://gihyo.jp/article/2026/09/java27?utm_source=feed",
+      "pubDate": "2026-09-15T22:00:00.000Z",
+      "contentSnippet": "2026年9月15日（米国時間）にJava 27がリリースされました。アップデート内容およびセキュリティ関連の話題などについて紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "GitHub Copilot、モデル自動選択「Auto」に3つのティアを追加 ——コストと品質の重視度を調整可能に",
+      "link": "https://gihyo.jp/article/2026/09/github-copilot-auto-model-selection?utm_source=feed",
+      "pubDate": "2026-09-15T07:12:00.000Z",
+      "contentSnippet": "GitHubは2026年9月14日、GitHub Copilotのモデル自動選択機能「Auto」に、コスト・品質・応答時間の重視度を調整する3つの選択肢を追加したと発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "オープンソースのコーディングエージェントClineのデスクトップアプリ「Cline Desktop」が登場",
+      "link": "https://gihyo.jp/article/2026/09/cline-desktop?utm_source=feed",
+      "pubDate": "2026-09-15T02:56:00.000Z",
+      "contentSnippet": "Cline Bot Inc.は2026年9月14日、オープンソースのコーディングエージェントClineのデスクトップ版「Cline Desktop」をベータ版として公開した。macOSおよびWindows上で動作する。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "便利なスラッシュコマンドを使いこなそう",
       "link": "https://gihyo.jp/article/2026/09/claude-code-ai-driven-development-03?utm_source=feed",
       "pubDate": "2026-09-15T00:11:00.000Z",
@@ -6408,17 +6436,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
-      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
       "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
+      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
       "param": "gihyo_jp"
     },
     {
@@ -6646,17 +6674,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
-      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "LangChain4jを使ってみよう",
       "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
+      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -7150,17 +7178,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {
