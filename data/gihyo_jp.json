@@ -3,6 +3,48 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "さようなら「Pixel Tablet」。大画面Androidが歩んだ試行錯誤と折りたたみ・デスクトップの今",
+      "link": "https://gihyo.jp/article/2026/09/android-weekly-topics-260917?utm_source=feed",
+      "pubDate": "2026-09-17T00:05:00.000Z",
+      "contentSnippet": "Google StoreからPixel Tabletの製品ページが削除され、主要なECサイトでも在庫が終了しました。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Gemini Notebook、モバイルアプリに音声対話や録音機能を順次追加へ ——レポート作成に「学習の概要」機能も",
+      "link": "https://gihyo.jp/article/2026/09/gemini-notebook-study-updates?utm_source=feed",
+      "pubDate": "2026-09-16T10:08:00.000Z",
+      "contentSnippet": "Googleは2026年9月15日、登録した資料（ソース）を使って調査や学習ができる「Gemini Notebook」に新機能を順次追加すると発表した。モバイルアプリには、リアルタイム音声対話や録音機能を追加する。このほか、要約文に図解やク",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Lovable、ViteからRust製開発ツール「OJ」への切り替えを紹介",
+      "link": "https://gihyo.jp/article/2026/09/oj?utm_source=feed",
+      "pubDate": "2026-09-16T09:14:00.000Z",
+      "contentSnippet": "AIによるアプリ開発サービスを提供するLovableは9月15日、開発中のアプリを動かして画面や動作を確認するプレビュー機能で、Rust製の開発ツール「OJ」の導入を進めていると発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Cloudflare、検索を許可しながらAI学習を拒否する「Disallow AI Training」を発表",
+      "link": "https://gihyo.jp/article/2026/09/cloudflare-news-disallow-ai-training-setting?utm_source=feed",
+      "pubDate": "2026-09-16T06:22:00.000Z",
+      "contentSnippet": "Cloudflareは2026年9月15日、Webサイトの検索インデックスへの登録を維持しながら、コンテンツのAI学習への利用を拒否する設定「Disallow AI Training」を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "TypeSafe AI、AIモデル「Jev」の早期提供を開始 ——判断結果を構造化データで高速出力、ソフトウェアでの活用を想定",
+      "link": "https://gihyo.jp/article/2026/09/jev-early-access?utm_source=feed",
+      "pubDate": "2026-09-16T02:22:00.000Z",
+      "contentSnippet": "TypeSafe AIは9月15日、ソフトウェア内の判断処理に特化したAIモデル「Jev」の早期アクセス提供を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Google、Gemini 3.8 Liveを発表 ——会話を続けながら推論やツール実行が可能",
+      "link": "https://gihyo.jp/article/2026/09/gemini-3.8-live?utm_source=feed",
+      "pubDate": "2026-09-16T02:01:00.000Z",
+      "contentSnippet": "Googleは2026年9月15日、音声対話AIモデル「Gemini 3.8 Live」と「Gemini 3.8 Live Extended Thinking」を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "第927回　「Backrest」でResticのバックアップをWebから管理する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0927?utm_source=feed",
       "pubDate": "2026-09-16T00:17:00.000Z",
@@ -6436,17 +6478,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
-      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
       "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
+      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
       "param": "gihyo_jp"
     },
     {
@@ -6674,17 +6716,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "LangChain4jを使ってみよう",
-      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
       "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "LangChain4jを使ってみよう",
+      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -7178,17 +7220,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {
