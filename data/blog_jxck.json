@@ -3,6 +3,20 @@
   "title": "blog.jxck.io",
   "items": [
     {
+      "title": "mozaic.fm v4 リリースノート #2 - ネットワーク編",
+      "link": "https://blog.jxck.io/entries/2026-09-17/mozaic-v4-network.html",
+      "pubDate": "2026-09-17T00:00:00.000Z",
+      "contentSnippet": "mozaic.fm v4 をリリースした。概要編ネットワーク編UI 編VTT 編LLM-Wiki 編今回は、採用したネットワーク周りの変更について解説する。ずっとやってみたかった実験を多分に入れているため、場合によっては接続すらできないだろ",
+      "param": "blog_jxck"
+    },
+    {
+      "title": "mozaic.fm v4 リリースノート #1 - 概要編",
+      "link": "https://blog.jxck.io/entries/2026-09-16/mozaic-v4.html",
+      "pubDate": "2026-09-16T00:00:00.000Z",
+      "contentSnippet": "mozaic.fm v4 をリリースした。かなり大幅なアップデートになる。",
+      "param": "blog_jxck"
+    },
+    {
       "title": "W3C Japan 30 周年記念パネルのモデレートをした #web_together",
       "link": "https://blog.jxck.io/entries/2026-09-05/web-together.html",
       "pubDate": "2026-09-05T00:00:00.000Z",
