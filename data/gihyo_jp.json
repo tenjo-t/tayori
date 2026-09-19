@@ -3,6 +3,48 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "Noto Emoji、3D絵文字のフォントと画像を公開、Unicode Emoji 18.0にも対応",
+      "link": "https://gihyo.jp/article/2026/09/google-noto-3d-emoji?utm_source=feed",
+      "pubDate": "2026-09-18T08:58:00.000Z",
+      "contentSnippet": "Googleは2026年9月17日、絵文字ライブラリ「Noto Emoji」の立体的なデザイン「Noto 3D」の展開を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "GPU上で動く高級言語「Bend 2」公開 ——AIが書くコードを数学的な証明で検証",
+      "link": "https://gihyo.jp/article/2026/09/bend-2?utm_source=feed",
+      "pubDate": "2026-09-18T07:31:00.000Z",
+      "contentSnippet": "CPU・GPUで並列実行できる高級言語「Bend」の開発者Victor Taelin氏は9月17日、「Bend 2」の公開をXで発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Anthropic、Claudeの「Projects」を刷新 ——1つの会話から作業を振り分け、クラウドで並行実行",
+      "link": "https://gihyo.jp/article/2026/09/claude-code-new-projects-feature?utm_source=feed",
+      "pubDate": "2026-09-18T06:44:00.000Z",
+      "contentSnippet": "Anthropicは9月17日、Claudeで関連する作業や資料をまとめて扱う機能「Projects」を刷新し、Claude Codeのデスクトップ版とWeb版で一部ユーザー向けにベータ提供を開始した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Sakana Chatにメモリー機能を追加、Sakana Fuguを「Fugu Max」に更新",
+      "link": "https://gihyo.jp/article/2026/09/sakana-chat-updates-with-memory-feature?utm_source=feed",
+      "pubDate": "2026-09-18T02:25:00.000Z",
+      "contentSnippet": "Sakana AIは9月17日、チャットサービス「Sakana Chat」をアップデートした。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第32回　プログラミングと図書の役割の違い ――「読むこと」と「作ること」が生み出す学びのシナジー",
+      "link": "https://gihyo.jp/article/2026/09/32-getting-started-with-scratch?utm_source=feed",
+      "pubDate": "2026-09-18T01:47:00.000Z",
+      "contentSnippet": "「スクラッチでプログラミングをはじめよう」第32回です。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Microsoft Word用ChatGPTアドインがリリース",
+      "link": "https://gihyo.jp/article/2026/09/chatgpt-for-word?utm_source=feed",
+      "pubDate": "2026-09-18T01:27:00.000Z",
+      "contentSnippet": "OpenAIは2026年9月17日、Microsoft Office用のChatGPTアドインがWordに対応したことを発表した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "Ruby biz Grand prix 2026 ［前編］",
       "link": "https://gihyo.jp/article/2026/09/rubybiz-2026-01?utm_source=feed",
       "pubDate": "2026-09-18T00:00:00.000Z",
@@ -6534,17 +6576,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
-      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
       "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
+      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
       "param": "gihyo_jp"
     },
     {
@@ -6772,17 +6814,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "LangChain4jを使ってみよう",
-      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
       "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "LangChain4jを使ってみよう",
+      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -7276,17 +7318,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {
