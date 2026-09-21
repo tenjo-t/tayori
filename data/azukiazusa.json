@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "json-render と Jev で UI を組み立ててみた",
+      "link": "https://azukiazusa.dev/blog/json-render-jev",
+      "pubDate": "2026-09-20T03:41:00.000Z",
+      "contentSnippet": "json-render の Jev 連携では、文言やデータを含むコンポーネントの候補を用意し、モデルに選択と配置を任せます。従来の json-render では、モデルが新しい Props を生成していました。この記事では Jev 連携の仕",
+      "param": "azukiazusa"
+    },
+    {
       "title": "TypeSafe AI の Jev を TypeScript で試してみた",
       "link": "https://azukiazusa.dev/blog/jev-support-routing",
       "pubDate": "2026-09-19T01:17:00.000Z",
