@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "MCP サーバーからエージェントスキルを配布する Skills Extension",
+      "link": "https://azukiazusa.dev/blog/mcp-skills-extension",
+      "pubDate": "2026-09-21T06:10:00.000Z",
+      "contentSnippet": "MCP サーバーが提供するツールを使いこなすには、複数のツールを組み合わせる手順や判断基準も必要です。Skills Extension は、こうした知識を記した Agent Skills を MCP 経由で発見・取得するための拡張です。この",
+      "param": "azukiazusa"
+    },
+    {
       "title": "json-render と Jev で UI を組み立ててみた",
       "link": "https://azukiazusa.dev/blog/json-render-jev",
       "pubDate": "2026-09-20T03:41:00.000Z",
