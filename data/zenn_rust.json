@@ -4,6 +4,70 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "猫",
+      "title": "fuzzy finder で「選ぶ」「探す」「辿る」を軸にした git CLI 拡張「fuzgit」を作りました",
+      "link": "https://zenn.dev/gingertoffee/articles/6be11bd84ce538",
+      "pubDate": "2026-09-23T17:28:35.000Z",
+      "contentSnippet": "GitHub で PR を開く。ブランチ名の横にあるコピーボタンを押す。ターミナルに戻って、git checkout を実行する。\nチームメンバーからレビュー依頼が来るたびに、これをやっていました。1 日に 3 〜 5 本。さすがに面倒なの",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "sahen",
+      "title": "Rustは女の子だし、AIが重すぎる",
+      "link": "https://zenn.dev/sahenjpn/articles/e62635d4614248",
+      "pubDate": "2026-09-23T11:55:54.000Z",
+      "contentSnippet": "Rustは女の子なの。異論は認めません。\nRust\nfn main() {\n    let rust = String::from(\"rust\");\n\n    // 所有権：rustは俺のもの\n    let mut mine = rust",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "八取來亜",
+      "title": "スクリーンキーボードを自作していたら半年失踪した @Linuxを2in1端末で使いたい！#3",
+      "link": "https://zenn.dev/raia_hattori/articles/861742af2f92de",
+      "pubDate": "2026-09-23T09:39:50.000Z",
+      "contentSnippet": "皆さんこんにちは！\n八取來亜(ハットリ・ライア)です。\nこの記事は前回記事の続きですが、この記事のみ見ていただいても問題ありません。\n↓前回記事↓\nhttps://zenn.dev/raia_hattori/articles/3126f34",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "ふじき　てつはる",
+      "title": "DNSトンネリング検知のカウンタが、宛先ドメインを見ていなかった",
+      "link": "https://zenn.dev/lafine/articles/41a3433da0a296",
+      "pubDate": "2026-09-23T06:12:26.000Z",
+      "contentSnippet": "RoamSwitchは、MacとLinux向けに一人で作っている常駐型のセキュリティソフトだ。知らないネットワークに繋いだら自動でファイアウォールを締めたり、ランサムウェアなど侵入の兆候を検知したら通信を遮断したりする。その中の機能の一つに",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "syarihu",
+      "title": "コーディングエージェント向けのローカル知識ベースに決定モデルLayaを組み込んで実データで測ったら、単純な方法に勝てなかった話",
+      "link": "https://zenn.dev/syarihu/articles/a96bf19fed9db0",
+      "pubDate": "2026-09-23T04:09:50.000Z",
+      "contentSnippet": "はじめに\nこんにちは。Androidエンジニアの@syarihuです。\n以前、Claude Codeなどのコーディングエージェントのためのローカル知識ベースCLIツールとして、local-knowledge-cli（コマンド名はlk）を紹介",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "Le chat",
+      "title": "新しい言語を作る。Craneliftとスタックレス非同期ランタイムを備えたGC付きネイティブ言語Willow",
+      "link": "https://zenn.dev/lechat/articles/787c7a5661c7fb",
+      "pubDate": "2026-09-22T22:52:04.000Z",
+      "contentSnippet": "作ったものの紹介\nGitHub:\nhttps://github.com/lechatthecat/willow\nWillowは、Craneliftを利用してネイティブコードへコンパイルする、実験的な静的型付きプログラミング言語です。\nクラス",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "mskbhd",
+      "title": "Switchyardの分類器をJevに替えた: 判定102ms、精度は別の所で落ちた",
+      "link": "https://zenn.dev/mskbhd/articles/lab-731-nemo-switchyard-classifierjev",
+      "pubDate": "2026-09-22T21:40:04.000Z",
+      "contentSnippet": "NVIDIA の NeMo Switchyard は LLM トラフィックのプロキシです。ルーティング方式のひとつに llm_classifier があり、判定役の LLM にリクエストを読ませて「これは弱いモデルでいい / 強いモデルが要",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "yuto",
+      "title": "AIは質問者の意見に引っ張られるのか？ PythonとRustの比較で試してみた",
+      "link": "https://zenn.dev/yuto999/articles/ai-opinion-bias-python-rust",
+      "pubDate": "2026-09-22T16:59:55.000Z",
+      "contentSnippet": "この記事は、2026年9月23日に行った小規模な実験の記録です。各条件5回ずつの結果であり、モデル全般の傾向を示すものではありません。\n\n\n文章作成に生成AIを使用し、筆者が確認・加筆しています。\n\n\n はじめに\n私は普段AIを壁打ち相手に",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "Joichiro Hayashi",
       "title": "Enum / TraitでプレーンオブジェクトをRust風に抽象化する：Valofの紹介（後編）",
       "link": "https://zenn.dev/jo16oh/articles/293d00878a441f",
@@ -1629,18 +1693,18 @@
     },
     {
       "creator": "ohtani",
-      "title": "Test Driven Development for Embedded Rust 2",
-      "link": "https://zenn.dev/tk23ohtani/articles/embedded_tdd_rust_2",
-      "pubDate": "2026-08-01T03:23:46.000Z",
-      "contentSnippet": "テスト駆動開発による組み込みRustプログラミング 2\nこの章では、logic で作った同じ要求を STM32 上で再実行します。\nまだ実 LED は触らず、FakeLed + Cell<bool> のままターゲット実行します。\nサンプルコ",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "ohtani",
       "title": "Test Driven Development for Embedded Rust 3",
       "link": "https://zenn.dev/tk23ohtani/articles/embedded_tdd_rust_3",
       "pubDate": "2026-08-01T03:23:46.000Z",
       "contentSnippet": "テスト駆動開発による組み込みRustプログラミング 3\nこの章では FakeLed を実 GPIO に置き換え、\nLedDriver -> PD12 -> PB1 の電気的経路をテストで確認します。\nサンプルコードは こちら に。\n\n 到達",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "ohtani",
+      "title": "Test Driven Development for Embedded Rust 2",
+      "link": "https://zenn.dev/tk23ohtani/articles/embedded_tdd_rust_2",
+      "pubDate": "2026-08-01T03:23:46.000Z",
+      "contentSnippet": "テスト駆動開発による組み込みRustプログラミング 2\nこの章では、logic で作った同じ要求を STM32 上で再実行します。\nまだ実 LED は触らず、FakeLed + Cell<bool> のままターゲット実行します。\nサンプルコ",
       "param": "zenn_rust"
     },
     {
@@ -2317,18 +2381,18 @@
     },
     {
       "creator": "wurly",
-      "title": "ESP32でWASMアプリを動かす (5) 実機で計測する",
-      "link": "https://zenn.dev/wurly/articles/e2547c3b6fbcc7",
-      "pubDate": "2026-07-11T23:55:34.000Z",
-      "contentSnippet": "はじめに\n連載「ESP32でWASMアプリを動かす」の第 5 回、Phase 4 です。ここまでで「同一の .wasm が実機と Linux で動く」ところまで来ました。今回は PoC 完了条件の残り半分、実機での定量計測です。\n!\n本連載",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "wurly",
       "title": "ESP32でWASMアプリを動かす (1) 構想と調査・計画",
       "link": "https://zenn.dev/wurly/articles/dede7d02e0329f",
       "pubDate": "2026-07-11T23:55:34.000Z",
       "contentSnippet": "この連載が最終的に到達した状態を、実機で動かしている動画です。\nhttps://youtu.be/UdiFrxvP_qg\n\n この連載について\n!\n本連載は、PoC（調査・実装・実機検証・計測）も記事の執筆も、ほぼすべて AI（Claude",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "wurly",
+      "title": "ESP32でWASMアプリを動かす (5) 実機で計測する",
+      "link": "https://zenn.dev/wurly/articles/e2547c3b6fbcc7",
+      "pubDate": "2026-07-11T23:55:34.000Z",
+      "contentSnippet": "はじめに\n連載「ESP32でWASMアプリを動かす」の第 5 回、Phase 4 です。ここまでで「同一の .wasm が実機と Linux で動く」ところまで来ました。今回は PoC 完了条件の残り半分、実機での定量計測です。\n!\n本連載",
       "param": "zenn_rust"
     },
     {
@@ -2565,18 +2629,18 @@
     },
     {
       "creator": "nakahide",
-      "title": "NDPC-Hの学習記録",
-      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-h",
-      "pubDate": "2026-07-04T12:00:08.000Z",
-      "contentSnippet": "問題のリンク\n\n\n 問題概要\nN \\times N のグリッドの左上 (1,1) から右下 (N,N) まで、右または下への移動を繰り返してコインを拾いながら進みます。\n「手持ちのコインがちょうど x 枚である状態で、そのマスに滞在する可能",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "nakahide",
       "title": "NDPC-Iの学習記録",
       "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-i",
       "pubDate": "2026-07-04T12:00:08.000Z",
       "contentSnippet": "問題のリンク\n\n\n 問題概要\n長さ N の数列の要素を並び替えて、1列に並べる。\nこのとき、左からの最大値更新回数（prefix max）が L 回、右からの最大値更新回数（suffix max）が R 回となる並べ方の総数を9982443",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "NDPC-Hの学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-h",
+      "pubDate": "2026-07-04T12:00:08.000Z",
+      "contentSnippet": "問題のリンク\n\n\n 問題概要\nN \\times N のグリッドの左上 (1,1) から右下 (N,N) まで、右または下への移動を繰り返してコインを拾いながら進みます。\n「手持ちのコインがちょうど x 枚である状態で、そのマスに滞在する可能",
       "param": "zenn_rust"
     },
     {
@@ -2637,18 +2701,18 @@
     },
     {
       "creator": "tomohisa",
-      "title": "Wasm でイベントソーシングを動かす: C# と Rust のドメインコードで試す",
-      "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-public-container",
-      "pubDate": "2026-07-02T00:02:18.000Z",
-      "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nこの記事では、SekibanWasmRuntime を公開済みの package と public container で動かす流れを確認します。ランタイム本体は C# ",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "tomohisa",
       "title": "イベントソーシングとWasmは相性がいい: SekibanWasmRuntimeが目指す多言語ES+CQRS",
       "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-concept",
       "pubDate": "2026-07-02T00:02:18.000Z",
       "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nSekiban という、C# のイベントソーシング / CQRS フレームワークを作っています。\nhttps://github.com/J-Tech-Japan/Seki",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "tomohisa",
+      "title": "Wasm でイベントソーシングを動かす: C# と Rust のドメインコードで試す",
+      "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-public-container",
+      "pubDate": "2026-07-02T00:02:18.000Z",
+      "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nこの記事では、SekibanWasmRuntime を公開済みの package と public container で動かす流れを確認します。ランタイム本体は C# ",
       "param": "zenn_rust"
     },
     {
@@ -2853,18 +2917,18 @@
     },
     {
       "creator": "nakahide",
-      "title": "NDPC-Dの学習記録",
-      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-d",
-      "pubDate": "2026-06-26T12:00:05.000Z",
-      "contentSnippet": "問題のリンク\n\n\n 問題概要\nある国では、1円紙幣, 10円紙幣, 100円紙幣, ...と10倍ごとに紙幣が流通している。\nN 円の支払いを行う時、「支払う紙幣の枚数」と「お釣りとしてもらう紙幣の枚数」の合計枚数を最小化する問題。\n\n 重",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "nakahide",
       "title": "Next DP Contest（NDPC）の学習記録",
       "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-top",
       "pubDate": "2026-06-26T12:00:05.000Z",
       "contentSnippet": "この記事について\nNext DP Contestで筆者が解いた問題(A～Iの9問)について、解法を自分なりに整理した学習記録です。\n後から読み返したときに解法を再構成できるよう、完成したコードだけでなく、DPの状態や遷移、解法のポイントを整",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "NDPC-Dの学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-d",
+      "pubDate": "2026-06-26T12:00:05.000Z",
+      "contentSnippet": "問題のリンク\n\n\n 問題概要\nある国では、1円紙幣, 10円紙幣, 100円紙幣, ...と10倍ごとに紙幣が流通している。\nN 円の支払いを行う時、「支払う紙幣の枚数」と「お釣りとしてもらう紙幣の枚数」の合計枚数を最小化する問題。\n\n 重",
       "param": "zenn_rust"
     },
     {
