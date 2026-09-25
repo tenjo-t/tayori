@@ -3,6 +3,55 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "Ubuntu 26.10（stonking）の開発; Snapshot 4とカーネル 7.3への切り替え、デスクトップのOOMハンドリング",
+      "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202609/25?utm_source=feed",
+      "pubDate": "2026-09-25T00:49:00.000Z",
+      "contentSnippet": "stonkingのSnapshot 4がリリースされました。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Debian、開発者向けに無料のAI推論サービス「Debian Inference Portal」を提供開始",
+      "link": "https://gihyo.jp/article/2026/09/daily-linux-260925?utm_source=feed",
+      "pubDate": "2026-09-25T00:06:00.000Z",
+      "contentSnippet": "2026年8月にDebianプロジェクトが一般決議の投票を経て、（一定の条件の下での）AI/LLMの貢献を認める決定を下したことは記憶に新しいが、Debianプロジェクトはこの決定をさらに一歩進めた取り組みを進めているようだ。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "ボトムアップの文化と「Policy as Code」とともにステップアップするgrasys流大規模インフラエンジニアリング",
+      "link": "https://gihyo.jp/article/2026/09/grasys?utm_source=feed",
+      "pubDate": "2026-09-25T00:06:00.000Z",
+      "contentSnippet": "世の中にAIが浸透してきた中、これからの株式会社grasysはどのような戦略でさまざまなインフラを支えていくのか――今回、CloudTech Div. Cloud Infrastructure Sec.のManagerである泉水朝匡氏に、企",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "PyCon Korea 2026 参加レポート",
+      "link": "https://gihyo.jp/article/2026/09/pycon-korea-2026?utm_source=feed",
+      "pubDate": "2026-09-25T00:03:00.000Z",
+      "contentSnippet": "2026年8月に韓国のソウルで開催された、プログラミング言語Pythonのカンファレンス「PyCon Korea 2026」に参加してきたので、その様子をレポートします。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Googleドキュメント、Gemini Notebookを参照可能に ——ノートブックの情報をもとに文章を生成",
+      "link": "https://gihyo.jp/article/2026/09/google-docs-with-gemini-notebook?utm_source=feed",
+      "pubDate": "2026-09-24T08:09:00.000Z",
+      "contentSnippet": "Googleは9月23日、Google DocsとGemini Notebookの連携機能を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Google、音声生成モデルGemini 3.8 Flash TTSとGemini 3.8 Flash-Lite TTSをリリース ―100以上の言語と方言の音声を表現力豊かに生成",
+      "link": "https://gihyo.jp/article/2026/09/gemini-3-8-tts?utm_source=feed",
+      "pubDate": "2026-09-24T05:26:00.000Z",
+      "contentSnippet": "Googleは2026年9月23日、テキスト読み上げモデル「Gemini 3.8 Flash TTS」と「Gemini 3.8 Flash-Lite TTS」をリリースした。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Cloudflare、Gitブランチごとに実行環境を作る「Worker Previews」を提供開始",
+      "link": "https://gihyo.jp/article/2026/09/cloudflare-worker-previews?utm_source=feed",
+      "pubDate": "2026-09-24T02:47:00.000Z",
+      "contentSnippet": "Cloudflareは9月22日、Cloudflare Workers向けの「Worker Previews」の提供を開始した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "iPhone Duoが投じる波紋……Androidが試行錯誤を重ねた7年間の歴史",
       "link": "https://gihyo.jp/article/2026/09/android-weekly-topics-260924?utm_source=feed",
       "pubDate": "2026-09-23T23:57:00.000Z",
@@ -6653,17 +6702,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
-      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
       "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
+      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
       "param": "gihyo_jp"
     },
     {
@@ -6891,17 +6940,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "LangChain4jを使ってみよう",
-      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
       "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "LangChain4jを使ってみよう",
+      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -7395,17 +7444,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {
