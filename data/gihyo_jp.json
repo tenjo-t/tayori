@@ -3,6 +3,34 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "AI-SQLエンジン「Quail」公開 ——LLMによるデータの絞り込み・結合を効率化",
+      "link": "https://gihyo.jp/article/2026/09/quail?utm_source=feed",
+      "pubDate": "2026-09-25T07:59:00.000Z",
+      "contentSnippet": "Full Stack Data LabのShreya Shankar氏らは9月24日、Modalとの共同開発によるオープンソースのAI-SQLエンジン「Quail」を公式ブログで発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "「TSKaigi Sendai 2026」11/1に開催、チケット販売中",
+      "link": "https://gihyo.jp/article/2026/09/tskaigi-sendai?utm_source=feed",
+      "pubDate": "2026-09-25T07:06:00.000Z",
+      "contentSnippet": "TypeScriptに関する技術カンファレンス「TSKaigi Sendai 2026」が、2026年11月1日（日）に仙台市内のYUI NOSで開催される。チケット販売も開始されている。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Docker、エージェント権限に関するオープン仕様「Docker Sandbox Kit Specification」を公開、CNCFとの提携を発表",
+      "link": "https://gihyo.jp/article/2026/09/docker-sandbox-kit-spec?utm_source=feed",
+      "pubDate": "2026-09-25T04:25:00.000Z",
+      "contentSnippet": "Dockerは2026年9月24日、AIエージェントがサンドボックス内で動作する際のアクセス範囲や権限を定めた共通仕様「Docker Sandbox Kit Specification」をApache 2.0ライセンスのもとオープンソースと",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "次の操作や使うツールを高速に選ぶAIモデル「CLM-8B」公開 ——Jevと比べて最大9倍の推論速度と報告",
+      "link": "https://gihyo.jp/article/2026/09/contrastive-language-models?utm_source=feed",
+      "pubDate": "2026-09-25T02:53:00.000Z",
+      "contentSnippet": "スタンフォード大学のJacky Kwok氏らは9月23日、AIモデルの新たな方式「Contrastive Language Model（CLM）」と、この方式で開発した「CLM-8B」を公式サイトで発表した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "Ubuntu 26.10（stonking）の開発; Snapshot 4とカーネル 7.3への切り替え、デスクトップのOOMハンドリング",
       "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202609/25?utm_source=feed",
       "pubDate": "2026-09-25T00:49:00.000Z",
@@ -6702,17 +6730,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
-      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
       "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
+      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
       "param": "gihyo_jp"
     },
     {
@@ -6940,17 +6968,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
-      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "LangChain4jを使ってみよう",
       "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
+      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -7444,17 +7472,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {
