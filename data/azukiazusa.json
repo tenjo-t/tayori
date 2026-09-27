@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "CSS の scroll-axis-lock で斜め方向にスクロールできる UI を作る",
+      "link": "https://azukiazusa.dev/blog/css-scroll-axis-lock",
+      "pubDate": "2026-09-26T05:12:00.000Z",
+      "contentSnippet": "ブラウザはスクロール操作の方向を縦か横の一方向に固定することがあります。scroll-axis-lock プロパティを使うと、この軸ロックを解除できます。この記事で scroll-axis-lock の基本的な使い方を紹介します。",
+      "param": "azukiazusa"
+    },
+    {
       "title": "MCP サーバーからエージェントスキルを配布する Skills Extension",
       "link": "https://azukiazusa.dev/blog/mcp-skills-extension",
       "pubDate": "2026-09-21T06:10:00.000Z",
