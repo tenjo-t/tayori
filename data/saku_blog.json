@@ -4,6 +4,13 @@
   "description": "Blogs written by saku",
   "items": [
     {
+      "title": "CSS Masonry のあゆみと現状",
+      "link": "https://blog.sakupi01.com/dev/articles/the-state-of-css-masonry/",
+      "pubDate": "2026-09-27T00:00:00.000Z",
+      "contentSnippet": "CSS Masonry（Grid-Lanes）の仕様策定の経緯と現状のまとめ",
+      "param": "saku_blog"
+    },
+    {
       "title": "Frontend Conference Fukuoka 2026 を開催しました",
       "link": "https://blog.sakupi01.com/dev/articles/organizing-fec-f-2026/",
       "pubDate": "2026-09-24T00:00:00.000Z",
@@ -50,13 +57,6 @@
       "link": "https://blog.sakupi01.com/life/articles/2025-in-review/",
       "pubDate": "2025-12-31T00:00:00.000Z",
       "contentSnippet": "2025年の振り返り",
-      "param": "saku_blog"
-    },
-    {
-      "title": "CSS Masonry のあゆみと現状",
-      "link": "https://blog.sakupi01.com/dev/articles/the-state-of-css-masonry/",
-      "pubDate": "2025-12-21T00:00:00.000Z",
-      "contentSnippet": "CSS Masonry（Grid-Lanes）の仕様策定の経緯と現状のまとめ",
       "param": "saku_blog"
     },
     {

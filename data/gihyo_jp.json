@@ -3,6 +3,55 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "Snapdragon X2の公式サポート、24.04 LTSからのLTSアップグレード開始、カーネルの更新ポリシーの周期変更",
+      "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202610/02?utm_source=feed",
+      "pubDate": "2026-10-02T00:28:00.000Z",
+      "contentSnippet": "QualcommのSnapdragon X2シリーズにおけるUbuntuのネイティブサポートが近日登場することが予告されています。リリースは2027年予定です。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Agentic Codingとハーネスエンジニアリング ——AIの自走性能を最大化するためのしくみと考え方",
+      "link": "https://gihyo.jp/article/2026/10/agentic-coding-and-harness-engineering?utm_source=feed",
+      "pubDate": "2026-10-02T00:20:00.000Z",
+      "contentSnippet": "AIエージェントによるコーディングが登場した当時、「生成物をすべて人間がチェックする」のは当たり前のことでした。しかし、LLMの性能向上により、この前提は大きく変わっています。本章では、現在のAgentic Codingのあり方と、なぜハー",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Amazon Aurora PostgreSQL、S3上のApache Iceberg、Parquetデータへの直接クエリ実行が可能に ―DuckDBを組み込み高速に実行",
+      "link": "https://gihyo.jp/article/2026/10/amazon-aurora-postgresql-direct-querying-iceberg-parquet?utm_source=feed",
+      "pubDate": "2026-10-01T06:34:00.000Z",
+      "contentSnippet": "AWSは2026年9月30日、同社のマネージドRDBサービス「Amazon Aurora PostgreSQL」で、Apache IcebergおよびParquet形式のデータレイクに保存されたデータに対して直接クエリ実行できるようになった",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Google、Geminiのチャットに「Skills」を導入、個人向けから順次提供 ——Gemsは自動移行へ",
+      "link": "https://gihyo.jp/article/2026/09/gemini-skills?utm_source=feed",
+      "pubDate": "2026-10-01T03:57:00.000Z",
+      "contentSnippet": "Googleは2026年9月30日、Geminiアプリの通常のチャットで、作業ごとの指示を保存して繰り返し使える「Skills」の個人向け提供を順次開始した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Google、Gemini 4 Argonを発表、サイバー防御向けに先行提供",
+      "link": "https://gihyo.jp/article/2026/10/gemini-4-argon?utm_source=feed",
+      "pubDate": "2026-10-01T03:00:00.000Z",
+      "contentSnippet": "Googleは2026年9月30日、AIモデル「Gemini 4 Argon」を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "vCPUを減らせばVMが速くなる！？ Linux 7.4でマージが期待される“Steal Governor”",
+      "link": "https://gihyo.jp/article/2026/10/daily-linux-261001?utm_source=feed",
+      "pubDate": "2026-10-01T02:41:00.000Z",
+      "contentSnippet": "Linuxカーネルは現在、10月中旬（10/18または10/24）に予定されている「Linux 7.3」の正式リリースに向けてリリース候補版（RC）を重ねているが、その次のバージョンである「Linux 7.4」に向けた新しい機能も着々と準備",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "AWSがサインイン画面を刷新、Google、GitHub、Appleのアカウントで利用可能に",
+      "link": "https://gihyo.jp/article/2026/10/aws-sign-in-updates?utm_source=feed",
+      "pubDate": "2026-10-01T01:41:00.000Z",
+      "contentSnippet": "AWSはサインイン画面をリニューアルし、Amazon.comのほかGoogle、GitHub、Appleのアカウントを使用してサインイン、利用ができるようになったことをXなどで発表した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "新デバイス！ Googlebookが登場！ かつての惨敗を超えて描くAI時代のPC",
       "link": "https://gihyo.jp/article/2026/10/android-weekly-topics-261001?utm_source=feed",
       "pubDate": "2026-09-30T23:57:00.000Z",
@@ -6870,17 +6919,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
-      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
       "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
+      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
       "param": "gihyo_jp"
     },
     {
@@ -7108,17 +7157,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
-      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "LangChain4jを使ってみよう",
       "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
+      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -7612,17 +7661,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {
