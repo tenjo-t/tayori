@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "CSS の margin-trim でコンテナーの端の余白を取り除く",
+      "link": "https://azukiazusa.dev/blog/css-margin-trim",
+      "pubDate": "2026-09-27T08:32:00.000Z",
+      "contentSnippet": "カードの内側に padding を設定しても、先頭の見出しや最後の段落の margin が加わり、上下の余白が意図より大きくなることがあります。margin-trim を使うと、要素間の余白を保ったまま、コンテナーの端のマージンを取り除けま",
+      "param": "azukiazusa"
+    },
+    {
       "title": "iframe の高さをコンテンツに合わせる CSS の frame-sizing",
       "link": "https://azukiazusa.dev/blog/responsive-iframes",
       "pubDate": "2026-09-27T00:38:00.000Z",
