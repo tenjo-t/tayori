@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "自然言語で操作し、結果を検証するテストフレームワーク e2e",
+      "link": "https://azukiazusa.dev/blog/e2e-ai-testing",
+      "pubDate": "2026-10-02T03:52:00.000Z",
+      "contentSnippet": "e2e は自然言語による操作と、要素を指定した操作・アサーションを組み合わせられるテストフレームワークです。この記事では Todo アプリを対象に、AI に操作を任せて結果をコードで検証するテストを作成します。",
+      "param": "azukiazusa"
+    },
+    {
       "title": "CSS の margin-trim でコンテナーの端の余白を取り除く",
       "link": "https://azukiazusa.dev/blog/css-margin-trim",
       "pubDate": "2026-09-27T08:32:00.000Z",
