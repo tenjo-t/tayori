@@ -3,6 +3,55 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "Ubuntu 26.10（stonking）の開発; BetaのリリースとFinal Freeze",
+      "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202610/09?utm_source=feed",
+      "pubDate": "2026-10-09T00:57:00.000Z",
+      "contentSnippet": "stonkingのBetaがリリースされ、そのままFinal Freezeに突入しました。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Microsoft、Windows MLにllama.cppとGGUFモデルの実験的サポートを追加",
+      "link": "https://gihyo.jp/article/2026/10/windows-ml-llamacpp-gguf-support?utm_source=feed",
+      "pubDate": "2026-10-08T11:11:00.000Z",
+      "contentSnippet": "Microsoftは2026年10月7日、Windows向けのローカルAI推論基盤Windows MLに、大規模言語モデル（LLM）を実行する推論エンジンのllama.cppを実験的に統合したと発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Google、AI電子透かしの検出サイト「SynthID Detector」を一般向けに公開 ——OpenAI・NVIDIA・KakaoのAI生成コンテンツにも対応、Appleの生成物も近く確認可能に",
+      "link": "https://gihyo.jp/article/2026/10/synthid-detector?utm_source=feed",
+      "pubDate": "2026-10-08T09:50:00.000Z",
+      "contentSnippet": "Googleは10月7日、画像・動画・音声の電子透かしを検出するWebサイト「SynthID Detector」の利用対象を一般に広げた。。Googleのほか、OpenAI、NVIDIA、KakaoのAIで作られたコンテンツに対応し、App",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "OpenAI、ChatGPTのChatタブにGPT-6 Sol/LunaとIntelligent UIを順次提供 ——図やグラフを交えた回答に対応、思考の途中から回答を表示",
+      "link": "https://gihyo.jp/article/2026/10/chatgpt-gpt-6-with-intelligent-ui?utm_source=feed",
+      "pubDate": "2026-10-08T06:22:00.000Z",
+      "contentSnippet": "OpenAIは2026年10月7日、ChatGPTのChatタブに、日常的な会話向けに調整したGPT-6 Sol／Lunaと新機能「Intelligent UI」の提供を開始したと発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Microsoft Execution Containersの一般提供が開始 ―Windows/Linux/macOS対応、AIエージェントをサンドボックスで安全実行",
+      "link": "https://gihyo.jp/article/2026/10/microsoft-execution-containers?utm_source=feed",
+      "pubDate": "2026-10-08T05:43:00.000Z",
+      "contentSnippet": "Microsoftは2026年10月7日、AIエージェント向けポリシー駆動型コンテナ「Microsoft Execution Containers」（MXC）の一般提供を開始したことを発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Anthropic、Claude Haiku 5.5を発表——実行コストはHaiku 4.5比で平均約75％減、OSWorld 2.1のオフライン評価で72.4％、Sonnet 5.5は83.9％",
+      "link": "https://gihyo.jp/article/2026/10/claude-haiku-5.5?utm_source=feed",
+      "pubDate": "2026-10-08T04:14:00.000Z",
+      "contentSnippet": "Anthropicは10月7日、AIモデル「Claude Haiku 5.5」を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "日本とアジアのPythonコミュニティをつなぐ「PyCon mini Tokyo with PythonAsia conference」12/12に開催",
+      "link": "https://gihyo.jp/article/2026/10/pycontokyo-with-pao?utm_source=feed",
+      "pubDate": "2026-10-08T01:59:00.000Z",
+      "contentSnippet": "PyCon JPとアジアのコミュニティPython Asia Organization（PAO）のコラボイベント「PyCon mini Tokyo with PythonAsia conference」が2026年12月12日（土）、東京・",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "EUの「Android開放命令」にGoogleが反抗。Gemini優遇見直しがもたらす影響",
       "link": "https://gihyo.jp/article/2026/10/android-weekly-topics-261008?utm_source=feed",
       "pubDate": "2026-10-08T00:03:00.000Z",
@@ -7010,17 +7059,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
-      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
       "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
+      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
       "param": "gihyo_jp"
     },
     {
@@ -7248,17 +7297,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "LangChain4jを使ってみよう",
-      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
       "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "LangChain4jを使ってみよう",
+      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -7752,17 +7801,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {
