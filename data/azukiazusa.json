@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "Element-scoped View Transitions で要素ごとに View Transition を実行する",
+      "link": "https://azukiazusa.dev/blog/element-scoped-view-transitions",
+      "pubDate": "2026-10-10T05:58:00.000Z",
+      "contentSnippet": "`document.startViewTransition()` の遷移はドキュメント全体で 1 つしか実行できず、ページ全体の上に描画されます。`element.startViewTransition()` を使うと、遷移を特定の要素に限",
+      "param": "azukiazusa"
+    },
+    {
       "title": "Go でデスクトップアプリを作る MyGo を試してみた",
       "link": "https://azukiazusa.dev/blog/mygo-desktop-app",
       "pubDate": "2026-10-05T00:49:00.000Z",
