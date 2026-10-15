@@ -3,6 +3,62 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "Alexaタブレットの衝撃。純正Android採用とパノス・パネイが仕掛けるハード再定義",
+      "link": "https://gihyo.jp/article/2026/10/android-weekly-topics-261015?utm_source=feed",
+      "pubDate": "2026-10-15T00:05:00.000Z",
+      "contentSnippet": "Amazonが次世代AIアシスタント「Alexa+」を内蔵した、Android搭載の「Alexaタブレット」シリーズを発表しました。2011年の「Kindle Fire」登場以来、15年にわたって展開されてきた独自OS「Fire OS」ブラ",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "U-22プログラミング・コンテスト2026 事前審査結果を発表 ―29作品が一次審査へ",
+      "link": "https://gihyo.jp/article/2026/10/u22-procon-pre-select?utm_source=feed",
+      "pubDate": "2026-10-15T00:03:00.000Z",
+      "contentSnippet": "U-22プログラミング・コンテスト実行委員会は2026年10月14日、「U-22プログラミング・コンテスト2026」エントリー443作品のうち、事前審査を通過した29作品を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "ファイルの内容から探せるMac向けOSSアプリ「DigUp」、EmbeddingGemma 2をローカル実行",
+      "link": "https://gihyo.jp/article/2026/10/digup?utm_source=feed",
+      "pubDate": "2026-10-14T11:38:00.000Z",
+      "contentSnippet": "開発者のAbdur Rahim氏は2026年10月9日、Mac内のファイルを内容から検索するアプリDigUpをXで紹介した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "仕組みを動く図で説明するエージェントスキルAnatomy公開",
+      "link": "https://gihyo.jp/article/2026/10/anatomy?utm_source=feed",
+      "pubDate": "2026-10-14T11:37:00.000Z",
+      "contentSnippet": "開発者のRyan氏は2026年10月10日、さまざまな仕組みを動く図で説明するエージェントスキル「Anatomy」をXで紹介した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Anthropic、社内モノレポをGitから独自基盤へ移行 ——AIエージェントによるコード変更の急増に対応",
+      "link": "https://gihyo.jp/article/2026/10/anthropic-source-control?utm_source=feed",
+      "pubDate": "2026-10-14T10:32:00.000Z",
+      "contentSnippet": "Anthropicは2026年10月13日、社内のソース管理基盤Scionへの移行を扱う技術記事を公開した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "AWS、Lambda Web Functionsを提供開始 ——WebアプリをLambda用のイベントハンドラーへ書き換えずにデプロイ",
+      "link": "https://gihyo.jp/article/2026/10/aws-lambda-web-functions?utm_source=feed",
+      "pubDate": "2026-10-14T10:30:00.000Z",
+      "contentSnippet": "Amazon Web Services（AWS）は2026年10月12日、WebアプリケーションをLambda上で動かす新しい実行方式「AWS Lambda Web Functions」の提供開始を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "OpenCode 2.0、ターミナル・Web・デスクトップでセッション共有をデフォルトに ——レビューやテストをバックグラウンドで実行",
+      "link": "https://gihyo.jp/article/2026/10/opencode-2.0?utm_source=feed",
+      "pubDate": "2026-10-14T05:57:00.000Z",
+      "contentSnippet": "Anomalyは2026年10月12日、オープンソースのAIコーディングエージェント「OpenCode 2.0」の主な変更点を公式ブログで紹介した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Meta、AIエージェント向けモデル「Muse Wonder」「Muse Wonder Full」を発表 ——会話の情報を引き継ぎ、長時間の開発作業にも対応",
+      "link": "https://gihyo.jp/article/2026/10/muse-wonder?utm_source=feed",
+      "pubDate": "2026-10-14T05:56:00.000Z",
+      "contentSnippet": "Metaは2026年10月12日、AIモデル「Muse Wonder」と「Muse Wonder Full」を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "第930回　Ubuntu 26.10の変更点",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0930?utm_source=feed",
       "pubDate": "2026-10-14T00:40:00.000Z",
@@ -7108,17 +7164,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
-      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
       "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
+      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
       "param": "gihyo_jp"
     },
     {
@@ -7346,17 +7402,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "LangChain4jを使ってみよう",
-      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
       "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "LangChain4jを使ってみよう",
+      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -7850,17 +7906,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {

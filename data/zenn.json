@@ -4,6 +4,126 @@
   "description": "現在Zennでトレンドとなっている投稿のRSSフィードです",
   "items": [
     {
+      "creator": "aki",
+      "title": "【2026/10/8 アップデート】GuardDuty RDS Protectionのデータ流出・破壊の検出について調べた",
+      "link": "https://zenn.dev/aki42/articles/aws-20261008-guardduty-rds-data-activity",
+      "pubDate": "2026-10-14T15:56:29.000Z",
+      "contentSnippet": "はじめに\n2026/10/8 に発表された「Amazon GuardDuty RDS Protection が Aurora および RDS データベースでのデータ流出とデータ破壊を検出可能に」について、調べたことをまとめます。\nhttps",
+      "param": "zenn"
+    },
+    {
+      "creator": "Subara3",
+      "title": "【セキュリティ】お客さんからの「うちは大丈夫？」に答えるため、IPAの点検項目をレガシーPHPのECサイトで上から順にやってみた",
+      "link": "https://zenn.dev/subara3/articles/b90ff538d87aa6",
+      "pubDate": "2026-10-14T12:21:10.000Z",
+      "contentSnippet": "連日の情報漏洩により、世間は何かと騒がしいものですが、やっぱりみんな心配なようで、お仕事をしていると「うちは大丈夫なのか」とお問い合わせがやみません。\n「これ、どういうつくりになってるんだっけ？　外部にデータ保存してましたっけ？」なーんてね",
+      "param": "zenn"
+    },
+    {
+      "creator": "JSON FU",
+      "title": "【Node.js性能検証 #2】：Workerは増やすほど速くなるのか？ QPS・P99・キュー待ちから考える",
+      "link": "https://zenn.dev/jsonfoo/articles/aeb53698ef0a1a",
+      "pubDate": "2026-10-14T11:11:48.000Z",
+      "contentSnippet": "シリーズ：Node.jsの性能限界――負荷試験からアーキテクチャ設計へ\n第2回：PiscinaのWorker Poolにおける並列処理、キュー待ち、性能のボトルネック\n技術スタック： Node.js / Next.js / Worker T",
+      "param": "zenn"
+    },
+    {
+      "creator": "Takaki Ihara",
+      "title": "【SWTT 2026】Snowflake Well-Architected Frameworkで実現する実践的なデータマネジメント",
+      "link": "https://zenn.dev/finatext/articles/swtt2026-snow-waf-datamanagement",
+      "pubDate": "2026-10-14T08:51:39.000Z",
+      "contentSnippet": "はじめに\nこんにちは！ナウキャストの庵原です。\n先日 Snowflake World Tour Tokyo 2026 に登壇させていただきました！\nタイトルは「Snowflake Well-Architected Framework で実現",
+      "param": "zenn"
+    },
+    {
+      "creator": "大賀愛一郎（oga_aiichiro）",
+      "title": "Gemini 4 Argonの日本語性能を検証してみた",
+      "link": "https://zenn.dev/algoartis/articles/19bb1705ea4b16",
+      "pubDate": "2026-10-14T08:22:28.000Z",
+      "contentSnippet": "本日 2026年10月14日、Gemini 4 Argon が公開されました。\nこの記事では、Gemini 3.8 Flash と並べて日本語を書かせ、その能力を検証しています。\nAIの日本語を推敲するスキル「yomiyasu」を開発してい",
+      "param": "zenn"
+    },
+    {
+      "creator": "しまだせいや＠プログラマ",
+      "title": "就活用DirectX12アクションゲーム作成 第三十三回",
+      "link": "https://zenn.dev/seisei89628/articles/cd976e4c7d78c7",
+      "pubDate": "2026-10-14T06:06:40.000Z",
+      "contentSnippet": "※筆者は初学者なので、間違ったことを書いていれば教えてくれると助かります。\n\n はじめに\n前回は、C++側の基盤とC#側のゲーム層を分け、ゲーム側から描画、物理、音声を扱えるようにしました。\n今回はプレイヤーの操作と戦闘を作りました。歩く・",
+      "param": "zenn"
+    },
+    {
+      "creator": "にしはら",
+      "title": "【備忘録】CSSのstickyで作る、せり上がりながら背景が見える演出",
+      "link": "https://zenn.dev/crayfisher_zari/articles/75619d5860f885",
+      "pubDate": "2026-10-14T05:59:58.000Z",
+      "contentSnippet": "時々作っては作り方を忘れるので備忘録も兼ねて記事にします。正式名称を知らないのですが、スクロールしていくと前景のコンテンツがカーテンみたいにせり上がって背景が見えてくる演出のやつです。\n▼こういうやつ\n\n\n position: sticky",
+      "param": "zenn"
+    },
+    {
+      "creator": "t.toda",
+      "title": "決定モデルの分類精度をKaggleの過去NLPコンペで検証する",
+      "link": "https://zenn.dev/trtd56/articles/a3a65631b5e773",
+      "pubDate": "2026-10-14T04:37:53.000Z",
+      "contentSnippet": "最近話題のJevをはじめとする決定モデルですが、活用先としてメール分類など昔からあるNLPタスクが挙げられている事例をいくつか見かけました。Zero-shotで手軽に構築できる点は大きな魅力ですが、追加学習なしで実際どの程度の分類精度が出る",
+      "param": "zenn"
+    },
+    {
+      "creator": "HIROKI KUROGI",
+      "title": "mobile_scanner で本の ISBN を読む。裏表紙の2段バーコードは両方 EAN-13 だった",
+      "link": "https://zenn.dev/hk_work/articles/mobile-scanner-isbn-barcode",
+      "pubDate": "2026-10-14T02:00:21.000Z",
+      "contentSnippet": "蔵書管理アプリ「本棚（hondana）」を Flutter で個人開発しています。本の登録は、裏表紙のバーコードをカメラで読んで ISBN を取り、そこから書誌を引く流れです。書誌の引き方は openBD と Google Books で ",
+      "param": "zenn"
+    },
+    {
+      "creator": "スマサテ株式会社",
+      "title": "開発しながら同じPCでローカルLLMを動かしてみた話",
+      "link": "https://zenn.dev/sumasate_tec/articles/test-local-llm",
+      "pubDate": "2026-10-14T01:31:20.000Z",
+      "contentSnippet": "はじめに\nスマサテでWebアプリケーション開発を担当している上田です。\n普段の開発では Claude Code を使っていますが、便利な反面使っていると気になってくるのが使用量です。調査で大量のファイルを読ませたり、同じ作業を何度もやり直さ",
+      "param": "zenn"
+    },
+    {
+      "creator": "m-tk",
+      "title": "Unityで立体物の衣装が変わるプロジェクションマッピングを試作した",
+      "link": "https://zenn.dev/m_tk/articles/e39b61a8136a29",
+      "pubDate": "2026-10-14T01:20:24.000Z",
+      "contentSnippet": "はじめに\nUnityを用いてマネキン曲面への3Dプロジェクションマッピングを試作しました。\n着手のきっかけは『CGWORLD』2025年11月号に掲載された「大カプコン展」の事例です。\n春麗の等身大立像に映像を投影し、ワイヤーフレームから衣",
+      "param": "zenn"
+    },
+    {
+      "creator": "Yoshi Yamaguchi",
+      "title": "Amazon BedrockとSageMakerのAIエージェントでOpenTelemetryの自動計装が行われる範囲",
+      "link": "https://zenn.dev/ymotongpoo/articles/20261014-bedrock-sagemaker-otel",
+      "pubDate": "2026-10-14T00:00:08.000Z",
+      "contentSnippet": "!\n一次情報は2026年10月13日の時点のものを確認しました。AWSのサービス側の仕様もOpenTelemetry側の規約も動いている最中なので、採用前に同じページを読み直してください。本文のうち実際に動かして確かめた部分も同じ日に実施し",
+      "param": "zenn"
+    },
+    {
+      "creator": "Takei Kazuya",
+      "title": "Nimの引数パーサーにconfutilsを採用してみた",
+      "link": "https://zenn.dev/attakei/articles/introduce-nim-confutils",
+      "pubDate": "2026-10-14T00:00:07.000Z",
+      "contentSnippet": "最近になってまたNimでCLIツールの作成をしています。\nサブコマンドが必要なケースがほどんどなのもあり、以前はこの記事などを参考にしつつcligenを利用していました。\n今回のツールでは「せっかくだし違うものも試してみよう」という発想から",
+      "param": "zenn"
+    },
+    {
+      "creator": "EndBear",
+      "title": "Rustのstrumでenumの管理が簡単になる【備忘】",
+      "link": "https://zenn.dev/echigo/articles/c527aaedfd021b",
+      "pubDate": "2026-10-13T23:00:06.000Z",
+      "contentSnippet": "はじめに\nRustでenumを利用したカテゴリ管理を実装したところ、管理する値の数が減って感動したので、その記録を残しておく。\n読むとわかることは3つある。\n\nenum名・DBに保存するキー・日本語の表示名の3つを、Rustの strum ",
+      "param": "zenn"
+    },
+    {
+      "creator": "塚本",
+      "title": "『現場で役立つシステム設計の原則』を読んで学んだこと、実践したこと、これからやりたいこと",
+      "link": "https://zenn.dev/wwwave/articles/38b8284f96bd9e",
+      "pubDate": "2026-10-13T22:00:06.000Z",
+      "contentSnippet": "はじめに\nこんにちは、塚本です。\n私が担当している業務では、長年運用されてきたシステムを少しずつ改善する取り組みを続けています。これまでに、『レガシーコードからの脱却』を読んでRSpecを導入した話や、Access VBAのシステムを撤退さ",
+      "param": "zenn"
+    },
+    {
       "creator": "アジサシ",
       "title": "画像は「言葉だけ」でどこまで送れるか――中間特徴とプロンプト再生成を比較した小規模検証",
       "link": "https://zenn.dev/lube8163/articles/594bea1c0f8397",
@@ -16,7 +136,7 @@
       "title": "話題の逆解析 MCP「REA」を Claude Code に隔離してつないだ——静的解析の A/B 試験と安全設計",
       "link": "https://zenn.dev/keigoly/articles/8738d8d241b5a1",
       "pubDate": "2026-10-13T17:54:44.000Z",
-      "contentSnippet": "はじめに\n2026 年 10 月 13 日、話題の逆解析ツール「REA」を、AI エージェントである Claude Code に接続して試験導入を行いました。逆解析の道具をそのままエージェントに渡す運用には安全上の懸念があるため、専用の隔離",
+      "contentSnippet": "https://eof.keigoly.jp/tech-1\n\n はじめに\n2026 年 10 月 13 日、話題の逆解析ツール「REA」を、AI エージェントである Claude Code に接続して試験導入を行いました。逆解析の道具をその",
       "param": "zenn"
     },
     {
@@ -25,6 +145,14 @@
       "link": "https://zenn.dev/otinpan/articles/8557e9c3930540",
       "pubDate": "2026-10-13T15:58:13.000Z",
       "contentSnippet": "はじめに\n\n Crackmes.oneとは\nCrackmeとは、リバースエンジニアリングの技術を練習するために作られたプログラムのことです。一般的なCrackmeには、パスワードやシリアルキーの入力を求める認証処理が組み込まれています。例え",
+      "param": "zenn"
+    },
+    {
+      "creator": "とすり",
+      "title": "Lambda Web FunctionsでNext.jsアプリを爆速ホストしよう！",
+      "link": "https://zenn.dev/tosuri13/articles/64f17d8c75e147",
+      "pubDate": "2026-10-13T15:01:05.000Z",
+      "contentSnippet": "こんにちは👋\n最近Lambda Web Functionsという機能がLambdaに増えました。\nhttps://aws.amazon.com/jp/blogs/aws/announcing-aws-lambda-web-function",
       "param": "zenn"
     },
     {
@@ -1366,7 +1494,7 @@
     {
       "creator": "Aki 🚀 Product Engineer @ PeopleX",
       "title": "Claude Opus 5.5によるピクセルアニメーション生成の検証",
-      "link": "https://zenn.dev/aki1990/articles/1bc5c181ad19f0",
+      "link": "https://zenn.dev/peoplex_blog/articles/1bc5c181ad19f0",
       "pubDate": "2026-09-23T07:20:05.000Z",
       "contentSnippet": "はじめに\nClaude Opus 5.5が公開されたので、まずは何か作ってもらい、どんなことができるのか検証してみました。「お手並み拝見」という気持ちで選んだのが、ピクセルアニメーションの生成です。\n題材は、別のClaudeと相談しながら「",
       "param": "zenn"
@@ -1374,7 +1502,7 @@
     {
       "creator": "Aki 🚀 Product Engineer @ PeopleX",
       "title": "Claude Opus 5.5によるピクセルアニメーション生成の検証",
-      "link": "https://zenn.dev/peoplex_blog/articles/1bc5c181ad19f0",
+      "link": "https://zenn.dev/aki1990/articles/1bc5c181ad19f0",
       "pubDate": "2026-09-23T07:20:05.000Z",
       "contentSnippet": "はじめに\nClaude Opus 5.5が公開されたので、まずは何か作ってもらい、どんなことができるのか検証してみました。「お手並み拝見」という気持ちで選んだのが、ピクセルアニメーションの生成です。\n題材は、別のClaudeと相談しながら「",
       "param": "zenn"
@@ -2302,7 +2430,7 @@
     {
       "creator": "山田 哲也 / Tetsuya Yamada",
       "title": "React 19移行で学んだpnpmの依存関係解決の仕組み",
-      "link": "https://zenn.dev/yamatechi/articles/vite-monorepo-react-dedupe",
+      "link": "https://zenn.dev/dress_code/articles/vite-monorepo-react-dedupe",
       "pubDate": "2026-09-08T03:00:05.000Z",
       "contentSnippet": "こんにちは、Dress Code でプロダクトエンジニアをしているてちです！\n少し前にアプリケーションで利用しているReactについて、React18からReact19への移行を行いました。\n今回は移行で遭遇した不具合について、調査をしてい",
       "param": "zenn"
@@ -2310,7 +2438,7 @@
     {
       "creator": "山田 哲也 / Tetsuya Yamada",
       "title": "React 19移行で学んだpnpmの依存関係解決の仕組み",
-      "link": "https://zenn.dev/dress_code/articles/vite-monorepo-react-dedupe",
+      "link": "https://zenn.dev/yamatechi/articles/vite-monorepo-react-dedupe",
       "pubDate": "2026-09-08T03:00:05.000Z",
       "contentSnippet": "こんにちは、Dress Code でプロダクトエンジニアをしているてちです！\n少し前にアプリケーションで利用しているReactについて、React18からReact19への移行を行いました。\n今回は移行で遭遇した不具合について、調査をしてい",
       "param": "zenn"
@@ -2446,7 +2574,7 @@
     {
       "creator": "issei_y",
       "title": "ルービックキューブを一撃で解く専用LLMを作った",
-      "link": "https://zenn.dev/turing_motors/articles/4178a603322b8e",
+      "link": "https://zenn.dev/issei_y/articles/4178a603322b8e",
       "pubDate": "2026-09-06T10:48:04.000Z",
       "contentSnippet": "CUBE ZERO — ルービックキューブを一撃で解く専用LLMをゼロから育てた\n\n\n 1. なぜ作った？\n事前知識ゼロから育ち、ルービックキューブを一撃で解くLLMがあったら、かっこいいですよね。ということで、CEOの夏休みの自由研究とし",
       "param": "zenn"
@@ -2454,7 +2582,7 @@
     {
       "creator": "issei_y",
       "title": "ルービックキューブを一撃で解く専用LLMを作った",
-      "link": "https://zenn.dev/issei_y/articles/4178a603322b8e",
+      "link": "https://zenn.dev/turing_motors/articles/4178a603322b8e",
       "pubDate": "2026-09-06T10:48:04.000Z",
       "contentSnippet": "CUBE ZERO — ルービックキューブを一撃で解く専用LLMをゼロから育てた\n\n\n 1. なぜ作った？\n事前知識ゼロから育ち、ルービックキューブを一撃で解くLLMがあったら、かっこいいですよね。ということで、CEOの夏休みの自由研究とし",
       "param": "zenn"
@@ -2580,19 +2708,19 @@
       "param": "zenn"
     },
     {
-      "creator": "wellPicker",
-      "title": "ルールではなくskillに指示を書くことで、Claudeのコメントを減らせた",
-      "link": "https://zenn.dev/uzu_tech/articles/58a84a9346b910",
-      "pubDate": "2026-09-03T03:00:07.000Z",
-      "contentSnippet": "はじめに\n株式会社Sally 所属エンジニアの @wellPicker です。\n弊社では、スマホやパソコンでマダミスを遊べるアプリであるウズや、マダミス情報・予約管理サイトマダミス.jp、マダミス開発ツールウズスタジオを開発しています。\nマ",
-      "param": "zenn"
-    },
-    {
       "creator": "toshiki.cho",
       "title": "プッシュ通知を「無理やり許可させない」ために、表現も実装も選び直した話",
       "link": "https://zenn.dev/wn_engineering/articles/4f914e97053eac",
       "pubDate": "2026-09-03T03:00:07.000Z",
       "contentSnippet": "この記事はウェルスナビ 2026年9月テックブログ企画 「【UI/UX特集】画面の向こうのユーザーのためにできること」の特集記事です。\n\n\n はじめに\nこんにちは、iOSエンジニアの長です。\nウェルスナビアプリでは今年、お客様に対しプッシュ",
+      "param": "zenn"
+    },
+    {
+      "creator": "wellPicker",
+      "title": "ルールではなくskillに指示を書くことで、Claudeのコメントを減らせた",
+      "link": "https://zenn.dev/uzu_tech/articles/58a84a9346b910",
+      "pubDate": "2026-09-03T03:00:07.000Z",
+      "contentSnippet": "はじめに\n株式会社Sally 所属エンジニアの @wellPicker です。\n弊社では、スマホやパソコンでマダミスを遊べるアプリであるウズや、マダミス情報・予約管理サイトマダミス.jp、マダミス開発ツールウズスタジオを開発しています。\nマ",
       "param": "zenn"
     },
     {
@@ -3388,19 +3516,19 @@
       "param": "zenn"
     },
     {
-      "creator": "bun913",
-      "title": "QAエンジニアが実践型Webセキュリティ試験『BSCP』に合格するまで",
-      "link": "https://zenn.dev/knowledgework/articles/197309c80efb28",
-      "pubDate": "2026-08-20T03:00:05.000Z",
-      "contentSnippet": "こんにちは。特撮熱が爆上がり中のbun913と申します。\n2026年8月より株式会社ナレッジワークでQAエンジニアとして働き始めました。\n早速ですが、みなさんは「Webセキュリティについて攻撃者目線で実践的に学びたいな」と思ったことはありま",
-      "param": "zenn"
-    },
-    {
       "creator": "ぷーじ",
       "title": "Type-Aware を Stable にし、React Compiler の lint も載せた",
       "link": "https://zenn.dev/dress_code/articles/2b2832d66b883b",
       "pubDate": "2026-08-20T03:00:05.000Z",
       "contentSnippet": "Type-Aware Linting Stable と React Compiler Support を載せた。TypeScript 7 への一本化はこれから。PR の CI の正は tsc のまま\n\n はじめに\nこんにちは。ぷーじ（@yu",
+      "param": "zenn"
+    },
+    {
+      "creator": "bun913",
+      "title": "QAエンジニアが実践型Webセキュリティ試験『BSCP』に合格するまで",
+      "link": "https://zenn.dev/knowledgework/articles/197309c80efb28",
+      "pubDate": "2026-08-20T03:00:05.000Z",
+      "contentSnippet": "こんにちは。特撮熱が爆上がり中のbun913と申します。\n2026年8月より株式会社ナレッジワークでQAエンジニアとして働き始めました。\n早速ですが、みなさんは「Webセキュリティについて攻撃者目線で実践的に学びたいな」と思ったことはありま",
       "param": "zenn"
     },
     {
@@ -3718,7 +3846,7 @@
     {
       "creator": "colum2131",
       "title": "Databricks の Declarative Automation Bundles を用いた機械学習データセット作成基盤の構築",
-      "link": "https://zenn.dev/turing_motors/articles/46b5560dce0e3a",
+      "link": "https://zenn.dev/colum2131/articles/46b5560dce0e3a",
       "pubDate": "2026-08-14T09:00:05.000Z",
       "contentSnippet": "チューリングの MLOps エンジニアの岩政です。\nチューリングでは、センサ入力から車両の将来の行動を一貫して推定する学習ベースのモデルとして End-to-End (E2E) 自動運転 AI を開発しています。E2E 自動運転 AI の学",
       "param": "zenn"
@@ -3726,7 +3854,7 @@
     {
       "creator": "colum2131",
       "title": "Databricks の Declarative Automation Bundles を用いた機械学習データセット作成基盤の構築",
-      "link": "https://zenn.dev/colum2131/articles/46b5560dce0e3a",
+      "link": "https://zenn.dev/turing_motors/articles/46b5560dce0e3a",
       "pubDate": "2026-08-14T09:00:05.000Z",
       "contentSnippet": "チューリングの MLOps エンジニアの岩政です。\nチューリングでは、センサ入力から車両の将来の行動を一貫して推定する学習ベースのモデルとして End-to-End (E2E) 自動運転 AI を開発しています。E2E 自動運転 AI の学",
       "param": "zenn"
@@ -5276,19 +5404,19 @@
       "param": "zenn"
     },
     {
-      "creator": "りんだ",
-      "title": "AI もデータ基盤のユーザーになる時代の、BigQuery コストとの向き合い方",
-      "link": "https://zenn.dev/linda/articles/1f48bad4d84747",
-      "pubDate": "2026-07-16T01:00:09.000Z",
-      "contentSnippet": "本記事は MEDLEY Summer Tech Blog Relay 4 日目 の記事です。\nhttps://developer.medley.jp/entry/2026/07/09/234777/\n\n はじめに\nメドレーでは「AI for",
-      "param": "zenn"
-    },
-    {
       "creator": "chiba_k",
       "title": "Claude Codeのskillをskillでレビューする ― 静的チェック×LLMレビュー×git hooksの3層ゲート",
       "link": "https://zenn.dev/aldagram_tech/articles/c407ae672c9c0e",
       "pubDate": "2026-07-16T01:00:09.000Z",
       "contentSnippet": "こんにちは！アルダグラムでQAエンジニアをしている千葉です。\n私たちのQAチームでは、テスト分析からテスト設計までのQAプロセスをClaude Codeのskill（スキル）として整備し、チームで共同運用しています。\nその中心が、これらのQ",
+      "param": "zenn"
+    },
+    {
+      "creator": "りんだ",
+      "title": "AI もデータ基盤のユーザーになる時代の、BigQuery コストとの向き合い方",
+      "link": "https://zenn.dev/linda/articles/1f48bad4d84747",
+      "pubDate": "2026-07-16T01:00:09.000Z",
+      "contentSnippet": "本記事は MEDLEY Summer Tech Blog Relay 4 日目 の記事です。\nhttps://developer.medley.jp/entry/2026/07/09/234777/\n\n はじめに\nメドレーでは「AI for",
       "param": "zenn"
     },
     {
@@ -5308,19 +5436,19 @@
       "param": "zenn"
     },
     {
-      "creator": "Kyome",
-      "title": "RunCat Neo カスタムメトリクス入門",
-      "link": "https://zenn.dev/kyome/articles/eb4a9f664002ad",
-      "pubDate": "2026-07-15T09:00:13.000Z",
-      "contentSnippet": "はじめに\nRunCat Neo はmacOSのメニューバーでネコが走る常駐アプリです。\nCPU負荷に応じてネコの走る速さが変わるので、直感的にマシンの状態が確認できます。\n\nこのアプリには カスタムメトリクス という機能があります。自分で用",
-      "param": "zenn"
-    },
-    {
       "creator": "ShoppingShark",
       "title": "Claude Codeが化けた。今使っている3つのプラグイン+標準機能の活用法",
       "link": "https://zenn.dev/sonicmoov/articles/8712598f532b18",
       "pubDate": "2026-07-15T09:00:13.000Z",
       "contentSnippet": "はじめに\n株式会社ソニックムーブでフロントエンドエンジニアとして働いているShoppingSharkです。\nソニックムーブに入社して業務でAIを使い始めて3ヶ月ほど経ちました。昨今はループエンジニアリングが話題ですが、個人ではまだそのレイヤ",
+      "param": "zenn"
+    },
+    {
+      "creator": "Kyome",
+      "title": "RunCat Neo カスタムメトリクス入門",
+      "link": "https://zenn.dev/kyome/articles/eb4a9f664002ad",
+      "pubDate": "2026-07-15T09:00:13.000Z",
+      "contentSnippet": "はじめに\nRunCat Neo はmacOSのメニューバーでネコが走る常駐アプリです。\nCPU負荷に応じてネコの走る速さが変わるので、直感的にマシンの状態が確認できます。\n\nこのアプリには カスタムメトリクス という機能があります。自分で用",
       "param": "zenn"
     },
     {
@@ -5428,19 +5556,19 @@
       "param": "zenn"
     },
     {
-      "creator": "Hirotaka",
-      "title": "Agent-as-a-Judgeは本当に必要なのか — 評価にエージェントを使う意味を考える",
-      "link": "https://zenn.dev/takkuhiro/articles/agent-as-a-judge-necessity",
-      "pubDate": "2026-07-13T22:00:16.000Z",
-      "contentSnippet": "はじめに\nLLMの出力を別のLLMに採点させる LLM-as-a-Judge は、いまや評価手法の定番になりました。その進化形として、2024年に Agent-as-a-Judge という概念が提案されています（Zhuge et al., ",
-      "param": "zenn"
-    },
-    {
       "creator": "kou",
       "title": "調査用スキルを作ってみた",
       "link": "https://zenn.dev/tokium_dev/articles/building-a-research-skill",
       "pubDate": "2026-07-13T22:00:16.000Z",
       "contentSnippet": "はじめに\nTOKIUMでSWEとして働いている@lpvnvsbtfです。ソフトウェアエンジニアとして働いていますが、エージェント開発を進めるにあたって、その技術の進歩の速さから論文からも得られる栄養素が不可欠なのではないかと思いこのスキルを",
+      "param": "zenn"
+    },
+    {
+      "creator": "Hirotaka",
+      "title": "Agent-as-a-Judgeは本当に必要なのか — 評価にエージェントを使う意味を考える",
+      "link": "https://zenn.dev/takkuhiro/articles/agent-as-a-judge-necessity",
+      "pubDate": "2026-07-13T22:00:16.000Z",
+      "contentSnippet": "はじめに\nLLMの出力を別のLLMに採点させる LLM-as-a-Judge は、いまや評価手法の定番になりました。その進化形として、2024年に Agent-as-a-Judge という概念が提案されています（Zhuge et al., ",
       "param": "zenn"
     },
     {
@@ -5844,19 +5972,19 @@
       "param": "zenn"
     },
     {
-      "creator": "Inlet_back",
-      "title": "アプリ層から低レイヤーを打ち抜く：WhatsApp GIF脆弱性(CVE-2019-11932)をGemini×Claudeで徹底検証",
-      "link": "https://zenn.dev/inlet_back/articles/2069cb693dd737",
-      "pubDate": "2026-07-08T00:00:07.000Z",
-      "contentSnippet": "!\n🚨 注意事項・免責事項\n\n本記事は、Awakened氏が発見した過去（2019年）の修正済み脆弱性の技術解説です。\nセキュリティの学習と検証のみを目的としており、実際の攻撃を助長・手助けするものではありません。\n\n\n\n\n 1. はじめ",
-      "param": "zenn"
-    },
-    {
       "creator": "riano_",
       "title": "複数のサービスを支える集約データベースの設計と未来",
       "link": "https://zenn.dev/estie/articles/c6ab2270eaab31",
       "pubDate": "2026-07-08T00:00:07.000Z",
       "contentSnippet": "estie（エスティ）では複数のサービスを提供していますが、お客様から預かるデータはサービスごとのデータベースではなく、単一のデータベースに集約して保存することにしています。この記事は、estieがそれを構築するに至った背景に触れながら、そ",
+      "param": "zenn"
+    },
+    {
+      "creator": "Inlet_back",
+      "title": "アプリ層から低レイヤーを打ち抜く：WhatsApp GIF脆弱性(CVE-2019-11932)をGemini×Claudeで徹底検証",
+      "link": "https://zenn.dev/inlet_back/articles/2069cb693dd737",
+      "pubDate": "2026-07-08T00:00:07.000Z",
+      "contentSnippet": "!\n🚨 注意事項・免責事項\n\n本記事は、Awakened氏が発見した過去（2019年）の修正済み脆弱性の技術解説です。\nセキュリティの学習と検証のみを目的としており、実際の攻撃を助長・手助けするものではありません。\n\n\n\n\n 1. はじめ",
       "param": "zenn"
     },
     {
@@ -6316,19 +6444,19 @@
       "param": "zenn"
     },
     {
-      "creator": "10mo8",
-      "title": "モデルは“使い捨て”でいい 〜AI時代のモデルベースドテスト〜",
-      "link": "https://zenn.dev/edash_tech_blog/articles/ea57d16a4a9a97",
-      "pubDate": "2026-07-01T03:00:19.000Z",
-      "contentSnippet": "こんにちは！e-dashでQAエンジニアをしている10mo8です。\nAIエージェントにテスト設計をさせると、同じ仕様書を渡しているのに、出力されるテストスコープやテスト観点が毎回ぶれる——そんな経験はないでしょうか。AIは非決定的なので、あ",
-      "param": "zenn"
-    },
-    {
       "creator": "rajyan",
       "title": "Preview環境でPRごとに専用DBを使えるようにした話",
       "link": "https://zenn.dev/estie/articles/59ec0ae59c3199",
       "pubDate": "2026-07-01T03:00:19.000Z",
       "contentSnippet": "こんにちは、株式会社estie（エスティ）でソフトウェアエンジニアをしている木村です。\n以前、弊社の徳原が Preview環境の実装について紹介する記事 を書きました。PRごとに専用URLが発行され、変更内容を実際に動かして確認できる仕組み",
+      "param": "zenn"
+    },
+    {
+      "creator": "10mo8",
+      "title": "モデルは“使い捨て”でいい 〜AI時代のモデルベースドテスト〜",
+      "link": "https://zenn.dev/edash_tech_blog/articles/ea57d16a4a9a97",
+      "pubDate": "2026-07-01T03:00:19.000Z",
+      "contentSnippet": "こんにちは！e-dashでQAエンジニアをしている10mo8です。\nAIエージェントにテスト設計をさせると、同じ仕様書を渡しているのに、出力されるテストスコープやテスト観点が毎回ぶれる——そんな経験はないでしょうか。AIは非決定的なので、あ",
       "param": "zenn"
     },
     {
@@ -6396,19 +6524,19 @@
       "param": "zenn"
     },
     {
-      "creator": "a.haruki",
-      "title": "リリースのキャッチアップを、Claude Code Skills と Github CLI で自動化した",
-      "link": "https://zenn.dev/aeyesec/articles/fe599775862786",
-      "pubDate": "2026-06-30T23:00:12.000Z",
-      "contentSnippet": "はじめに\nこんにちは。株式会社エーアイセキュリティラボで、SaaS 型 Web アプリケーション脆弱性診断プラットフォーム「AeyeScan」の開発エンジニアをしている有馬です。\nリリース担当として、2 週間に 1 回ほどのリリースで毎回 ",
-      "param": "zenn"
-    },
-    {
       "creator": "hatamasa",
       "title": "優秀な人ばかりなのに、組織が重い ── AI時代に複利で膨らむ『認識負債』の話",
       "link": "https://zenn.dev/canly/articles/0c01a3124b8480",
       "pubDate": "2026-06-30T23:00:12.000Z",
       "contentSnippet": "こんにちは、株式会社カンリーの波多野（@hatamasa1988）です。\n同じ言葉を使っているのに、話が通じない。\n最近、技術負債よりも厄介だと感じている負債の話をします。それが今回書く「認識負債」です。\n私はカンリー店舗集客プロダクトのエ",
+      "param": "zenn"
+    },
+    {
+      "creator": "a.haruki",
+      "title": "リリースのキャッチアップを、Claude Code Skills と Github CLI で自動化した",
+      "link": "https://zenn.dev/aeyesec/articles/fe599775862786",
+      "pubDate": "2026-06-30T23:00:12.000Z",
+      "contentSnippet": "はじめに\nこんにちは。株式会社エーアイセキュリティラボで、SaaS 型 Web アプリケーション脆弱性診断プラットフォーム「AeyeScan」の開発エンジニアをしている有馬です。\nリリース担当として、2 週間に 1 回ほどのリリースで毎回 ",
       "param": "zenn"
     },
     {
@@ -6532,19 +6660,19 @@
       "param": "zenn"
     },
     {
-      "creator": "numoto",
-      "title": "【個人開発】WEBサービスの収益を最大化するために試したこと",
-      "link": "https://zenn.dev/sonicmoov/articles/1d42acb18af2f5",
-      "pubDate": "2026-06-29T23:00:11.000Z",
-      "contentSnippet": "はじめに\n皆さんはWEBサービスの収益化に取り組んだ経験はありますか？サービスを作ること自体も大変ですが、収益化はさらに難しいと感じる方も多いのではないでしょうか。この記事では、私がWEBサービスの収益を最大化するために試したことを書きます",
-      "param": "zenn"
-    },
-    {
       "creator": "Katsuhisa Kitano",
       "title": "OpenTelemetry に reasoning.level 属性を追加しました",
       "link": "https://zenn.dev/studist/articles/opentelemetry-genai-reasoning-level",
       "pubDate": "2026-06-29T23:00:11.000Z",
       "contentSnippet": "!\nこの記事は、 2026年6月のスタディストブログリレー の記事です。\n\n\n はじめに\n最近、私が出した open-telemetry/semantic-conventions-genai に対する gen_ai.request.reas",
+      "param": "zenn"
+    },
+    {
+      "creator": "numoto",
+      "title": "【個人開発】WEBサービスの収益を最大化するために試したこと",
+      "link": "https://zenn.dev/sonicmoov/articles/1d42acb18af2f5",
+      "pubDate": "2026-06-29T23:00:11.000Z",
+      "contentSnippet": "はじめに\n皆さんはWEBサービスの収益化に取り組んだ経験はありますか？サービスを作ること自体も大変ですが、収益化はさらに難しいと感じる方も多いのではないでしょうか。この記事では、私がWEBサービスの収益を最大化するために試したことを書きます",
       "param": "zenn"
     },
     {
@@ -6636,14 +6764,6 @@
       "param": "zenn"
     },
     {
-      "creator": "k-hoshihara",
-      "title": "イベント駆動アーキテクチャ導入の設計判断",
-      "link": "https://zenn.dev/wn_engineering/articles/dc809eed504f90",
-      "pubDate": "2026-06-29T01:00:09.000Z",
-      "contentSnippet": "この記事はウェルスナビ 2026年6月テックブログ企画\n「選択の物語：金融サービスのシステム設計判断をひもとく」の特集記事です。\n\n\n はじめに\nこんにちは、ウェルスナビでバックエンドエンジニアを担当している星原です。\nウェルスナビのバック",
-      "param": "zenn"
-    },
-    {
       "creator": "GameDev Tool Lab",
       "title": "UnityプロジェクトでAIを効率よく使うためのトークン節約術",
       "link": "https://zenn.dev/gamedev_toollab/articles/a7364d37455a50",
@@ -6652,11 +6772,11 @@
       "param": "zenn"
     },
     {
-      "creator": "Atsuki02",
-      "title": "超便利なClaude Designの実践的な活用方法",
-      "link": "https://zenn.dev/branbran/articles/5730c47e1abac9",
-      "pubDate": "2026-06-29T00:30:05.000Z",
-      "contentSnippet": "はじめに\n先日Claudeから登場したデザインプラットフォーム Claude Design を、ここ数週間にわたって一通り使ってみました。本記事では、その中で見つけた実践的な使い方を紹介します。\nこれから Claude Designを使って",
+      "creator": "k-hoshihara",
+      "title": "イベント駆動アーキテクチャ導入の設計判断",
+      "link": "https://zenn.dev/wn_engineering/articles/dc809eed504f90",
+      "pubDate": "2026-06-29T01:00:09.000Z",
+      "contentSnippet": "この記事はウェルスナビ 2026年6月テックブログ企画\n「選択の物語：金融サービスのシステム設計判断をひもとく」の特集記事です。\n\n\n はじめに\nこんにちは、ウェルスナビでバックエンドエンジニアを担当している星原です。\nウェルスナビのバック",
       "param": "zenn"
     },
     {
@@ -6665,6 +6785,14 @@
       "link": "https://zenn.dev/branbran/articles/9a30731236caac",
       "pubDate": "2026-06-29T00:30:05.000Z",
       "contentSnippet": "はじめに\nショートカット、覚えたいのに覚えられない。そんな悩みはありませんか？\n覚えようとしてもなかなか覚えられず、いざ試してみようと思っても、いつの間にかショートカットを使わずに操作しているということがよくあります。かといって、腰を据えて",
+      "param": "zenn"
+    },
+    {
+      "creator": "Atsuki02",
+      "title": "超便利なClaude Designの実践的な活用方法",
+      "link": "https://zenn.dev/branbran/articles/5730c47e1abac9",
+      "pubDate": "2026-06-29T00:30:05.000Z",
+      "contentSnippet": "はじめに\n先日Claudeから登場したデザインプラットフォーム Claude Design を、ここ数週間にわたって一通り使ってみました。本記事では、その中で見つけた実践的な使い方を紹介します。\nこれから Claude Designを使って",
       "param": "zenn"
     },
     {
@@ -7678,7 +7806,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
+      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"
@@ -7686,7 +7814,7 @@
     {
       "creator": "だいち",
       "title": "AI臭を消すClaude Skillsを作った（stop-ai-slop-jp）",
-      "link": "https://zenn.dev/ikora/articles/88f62861a953c1",
+      "link": "https://zenn.dev/genshi_ai/articles/88f62861a953c1",
       "pubDate": "2026-06-17T01:34:53.000Z",
       "contentSnippet": "はじめに\nどうも、最近はどの技術記事もAI一色で食傷気味の長嶋です。\n前回は比較的ディープなPDF圧縮の話をしましたね。\nhttps://zenn.dev/ikora/articles/b50ca6275eddc9\n今回はずばりAI臭がテー",
       "param": "zenn"
