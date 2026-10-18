@@ -4,10 +4,1270 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "ファイルとGitとGitHubを1画面に並べるgrutが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610181/",
+      "pubDate": "2026-10-18T00:00:00.000Z",
+      "contentSnippet": "ファイル・Git・GitHub・プレビューをパネルに並べて一望できるTUIのgrütの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Webページの余白や配色をデザイントークンとして抜き出せるOpen Inspectorが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610171/",
+      "pubDate": "2026-10-17T00:00:00.000Z",
+      "contentSnippet": "Webページの表示を読み取り、CSS変数やTailwindの設定として書き出せるブラウザ拡張Open Inspectorの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "シェルにIDE風の補完を持ち込むinshellisenseが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610172/",
+      "pubDate": "2026-10-17T00:00:00.000Z",
+      "contentSnippet": "シェルのプロンプト上にIDEのような補完を出すinshellisenseの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "WordもExcelもPowerPointもエージェントに編集させるOfficeCLIが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610161/",
+      "pubDate": "2026-10-16T00:00:00.000Z",
+      "contentSnippet": "Word・Excel・PowerPointの読み書きをAIエージェント向けに1つのバイナリへまとめたOfficeCLIの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "MCPサーバーをシェルコマンドとして叩けるmcpcが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610162/",
+      "pubDate": "2026-10-16T00:00:00.000Z",
+      "contentSnippet": "MCPサーバーのツールやリソースをシェルのコマンドとして呼び出せるCLIクライアントmcpcの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Nixの切り替えコマンドを1つにまとめたnhが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610151/",
+      "pubDate": "2026-10-15T00:00:00.000Z",
+      "contentSnippet": "Nixまわりのコマンドを1つのCLIにまとめ直したnhの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Claude Codeの返答に図や数式をそのまま描けるfiguresが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610152/",
+      "pubDate": "2026-10-15T00:00:00.000Z",
+      "contentSnippet": "Claude Codeの返答に含まれるMermaidなどの図やLaTeXの数式をターミナル上に画像として描画するプラグインfiguresの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "メカニカルキーボードの打鍵音を鳴らせるKeyEchoが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610141/",
+      "pubDate": "2026-10-14T00:00:00.000Z",
+      "contentSnippet": "キーを押すたびにキーボードの打鍵音を再生するデスクトップアプリKeyEchoの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "各地の勤務時間の重なりを可視化するzonetimeline-tuiが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610142/",
+      "pubDate": "2026-10-14T00:00:00.000Z",
+      "contentSnippet": "複数タイムゾーンの勤務時間を帯で並べて比較できるTUIのzonetimeline-tuiの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Wolfram言語をシェルから実行できるWoxiが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610131/",
+      "pubDate": "2026-10-13T00:00:00.000Z",
+      "contentSnippet": "Wolfram言語をRustで実装し直したインタプリタWoxiの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "複数OSでMarkdownを編集できるDBV Markdown Readerが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610132/",
+      "pubDate": "2026-10-13T00:00:00.000Z",
+      "contentSnippet": "クロスプラットフォームMarkdownエディタのDBV Markdown Readerの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "タイル状にエディタとターミナルを並べるIDEのRuneが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610121/",
+      "pubDate": "2026-10-12T00:00:00.000Z",
+      "contentSnippet": "エディタとターミナルのタブを並べて使うGo製IDEのRuneの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ターミナルでコードレビューするtuicrが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610122/",
+      "pubDate": "2026-10-12T00:00:00.000Z",
+      "contentSnippet": "vimキーバインドでコードレビューできるTUIのtuicrの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "エージェントスキルを入れる前に検査するSkillSpectorが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610111/",
+      "pubDate": "2026-10-11T00:00:00.000Z",
+      "contentSnippet": "Claude CodeなどのAgent Skillsを導入前にスキャンするNVIDIA製のSkillSpectorの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "VS Codeをターミナルの中で開くterminal-codeが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610112/",
+      "pubDate": "2026-10-11T00:00:00.000Z",
+      "contentSnippet": "VS Codeをターミナルの中で使えるようにするterminal-codeの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "3D描画ターミナルのrattyが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610101/",
+      "pubDate": "2026-10-10T00:00:00.000Z",
+      "contentSnippet": "GPUレンダリングとインライン3D表示を備えたターミナルエミュレータrattyの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ブラウザブックマークをCLIで管理するbukuが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610102/",
+      "pubDate": "2026-10-10T00:00:00.000Z",
+      "contentSnippet": "ブックマークをローカルのデータベースに持って管理できるCLIのbukuの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ファイルを暗号化転送できるcrocが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610091/",
+      "pubDate": "2026-10-09T00:00:00.000Z",
+      "contentSnippet": "端末間でファイルやフォルダを暗号化して転送できるCLIツールcrocの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Macのウィンドウにセーターを着せるWindow Sweatersが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610092/",
+      "pubDate": "2026-10-09T00:00:00.000Z",
+      "contentSnippet": "macOSのウィンドウの縁を編み目模様で囲むWindow Sweatersの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "テキスト選択時にクイックアクションを出すOpenClipが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610081/",
+      "pubDate": "2026-10-08T00:00:00.000Z",
+      "contentSnippet": "テキストを選ぶと変換や計算といった処理を呼べるフローティングバーを出すmacOSアプリOpenClipの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "セルフホストで短縮URLを作れるrushomonが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610082/",
+      "pubDate": "2026-10-08T00:00:00.000Z",
+      "contentSnippet": "Cloudflare Workers上にセルフホストできてクリック分析も付いた短縮URLサービスrushomonの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "人間でないことを証明する逆CAPTCHAのHATCHAが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610071/",
+      "pubDate": "2026-10-07T00:00:00.000Z",
+      "contentSnippet": "アクセスした者が人間でないことを証明する逆CAPTCHAツールHATCHAの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "高速ディスクアナライザOpenDiskが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610072/",
+      "pubDate": "2026-10-07T00:00:00.000Z",
+      "contentSnippet": "ディスク使用量をサンバーストチャートで可視化するmacOSアプリOpenDiskの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "走っているAIエージェントをtop風に見張れるabtopが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610061/",
+      "pubDate": "2026-10-06T00:00:00.000Z",
+      "contentSnippet": "マシンで動くAIエージェントのセッションを1画面で監視するTUIのabtopの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "AIエージェントの作業環境Sidecar/tdが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610062/",
+      "pubDate": "2026-10-06T00:00:00.000Z",
+      "contentSnippet": "変更差分もエージェントの作業履歴も扱えるTUIのSidecarの紹介です。タスク管理ツールのtdも合わせて紹介します。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "エージェントにコミット整理を教えるgit-surgeonが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610051/",
+      "pubDate": "2026-10-05T00:00:00.000Z",
+      "contentSnippet": "対話プロンプトを使わずに行範囲でのステージやコミット分割ができるgit-surgeonの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Markdownの手順書をその場で実行できるupmdが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610052/",
+      "pubDate": "2026-10-05T00:00:00.000Z",
+      "contentSnippet": "Markdownを表示させながらその場でコードブロックを実行して結果を確認できるupmdの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "画面の動きから自動で作業日誌を作るMeridianが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610041/",
+      "pubDate": "2026-10-04T00:00:00.000Z",
+      "contentSnippet": "画面の動きから1日の作業を要約して次の作業チケットの下書きも作るMeridianの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "クロスプラットフォームのコマンドランチャーLookが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610042/",
+      "pubDate": "2026-10-04T00:00:00.000Z",
+      "contentSnippet": "macOS・Windows・Linuxで動くOSSのコマンドランチャーLookの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Obsidianのvaultをターミナルで開くEmeraldianが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610031/",
+      "pubDate": "2026-10-03T00:00:00.000Z",
+      "contentSnippet": "Obsidianのvaultをそのまま読み書きできるTUIのEmeraldianの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "エージェント用のLinux VMを作るclawkが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610032/",
+      "pubDate": "2026-10-03T00:00:00.000Z",
+      "contentSnippet": "コーディングエージェントを使い捨てのLinux VMの中で走らせるMacアプリclawkの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ブラウザからgRPCリクエストを調査できるgrpcuiが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610021/",
+      "pubDate": "2026-10-02T00:00:00.000Z",
+      "contentSnippet": "gRPCサーバーへのリクエストをブラウザのフォームで組み立てて送れるgrpcuiの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": ".envのミスをチェックするevnxが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610022/",
+      "pubDate": "2026-10-02T00:00:00.000Z",
+      "contentSnippet": ".envファイルの設定ミスと秘密情報の混入をチェックするevnxの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "エージェントのツール接続をMCPにまとめるExecutorが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610011/",
+      "pubDate": "2026-10-01T00:00:00.000Z",
+      "contentSnippet": "MCPやOpenAPIなどのツールを1つに束ねて複数のエージェントから同じ設定で使えるExecutorの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "通信先を世界地図に描くTapMapが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610012/",
+      "pubDate": "2026-10-01T00:00:00.000Z",
+      "contentSnippet": "コンピュータの通信先を世界地図上に描くTapMapの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "可変ピクセルフォントのTiny5がかわいい",
+      "link": "https://kawarimidoll.com/posts/202609301/",
+      "pubDate": "2026-09-30T00:00:00.000Z",
+      "contentSnippet": "原則高さ5ピクセルの可変ピクセルフォントTiny5の紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "コピーしたシークレットを自動で伏せるSecureClipboardが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609302/",
+      "pubDate": "2026-09-30T00:00:00.000Z",
+      "contentSnippet": "クリップボードに入ったシークレットをsecretlintで見つけて自動で隠すSecureClipboardの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "macOSにウィンドウ単位のタスクバーを足すTungsten Edgeが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609291/",
+      "pubDate": "2026-09-29T00:00:00.000Z",
+      "contentSnippet": "macOSのタスクバーをアプリのウィンドウ単位にするTungsten Edgeの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "sshでターミナル共有できるuptermが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609292/",
+      "pubDate": "2026-09-29T00:00:00.000Z",
+      "contentSnippet": "sshだけで共有ターミナルセッションへ入れるuptermの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ターミナルのタブでブラウザを開けるterminal-browserが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609281/",
+      "pubDate": "2026-09-28T00:00:00.000Z",
+      "contentSnippet": "ターミナルのタブの中でChromiumベースのブラウザを開いて操作できるterminal-browserの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "JSONやCSVをクエリできるTUIのqoが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609282/",
+      "pubDate": "2026-09-28T00:00:00.000Z",
+      "contentSnippet": "JSONやCSVをSQLで問い合わせられるTUIのqoの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "VSCodeをTauriで組み直したSideXが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609271/",
+      "pubDate": "2026-09-27T00:00:00.000Z",
+      "contentSnippet": "VSCodeをElectronからTauriに載せ替えたエディタSideXの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "多様な連携先を持つAIアシスタントOpenHumanが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609272/",
+      "pubDate": "2026-09-27T00:00:00.000Z",
+      "contentSnippet": "様々なプロダクトと連携できてローカルに記憶を蓄積していくAIアシスタントOpenHumanの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "TUIテキストエディタのtxtが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609261/",
+      "pubDate": "2026-09-26T00:00:00.000Z",
+      "contentSnippet": "複雑な設定やショートカットの学習なしに使えるRust製ターミナルテキストエディタtxtの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "エージェントの記憶を共有するai-memoryが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609262/",
+      "pubDate": "2026-09-26T00:00:00.000Z",
+      "contentSnippet": "AIコーディングエージェントの記憶を貯めて別のエージェントへ引き継げるai-memoryの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Node.jsを置き換えずに速くするnubが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609251/",
+      "pubDate": "2026-09-25T00:00:00.000Z",
+      "contentSnippet": "Node.jsをそのまま使いながら、TypeScriptの実行やパッケージ管理をまとめて速くするnubの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "MarkdownノートをAIエージェントと共同共有するHubbleが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609252/",
+      "pubDate": "2026-09-25T00:00:00.000Z",
+      "contentSnippet": "MarkdownのディレクトリをAIエージェントと編集するノートアプリHubble.mdの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "cdで開発デーモンの召喚を行うpitchforkが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609241/",
+      "pubDate": "2026-09-24T00:00:00.000Z",
+      "contentSnippet": "ディレクトリの出入りに連動して開発用デーモンを起動・停止するCLIツールpitchforkの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "コンテキストを圧縮してAIに渡すLeanCTXが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609242/",
+      "pubDate": "2026-09-24T00:00:00.000Z",
+      "contentSnippet": "AIエージェントが読むコンテキストを制御・圧縮してトークン消費を削減するLeanCTXの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "git worktreeを横断管理するgwmが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609231/",
+      "pubDate": "2026-09-23T00:00:00.000Z",
+      "contentSnippet": "複数プロジェクトのgit worktreeをCLIとTUIで管理するgwmの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "高速SVGツールチェーンoxvgが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609232/",
+      "pubDate": "2026-09-23T00:00:00.000Z",
+      "contentSnippet": "SVGの最適化・リント・JSX変換を1つのCLIにまとめたRust製ツールチェーンoxvgの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "キー入力とクリックを画面に見せるKeytyが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609221/",
+      "pubDate": "2026-09-22T00:00:00.000Z",
+      "contentSnippet": "キーボードとマウスの操作を画面にオーバーレイ表示するmacOSアプリKeytyの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609222/",
+      "pubDate": "2026-09-22T00:00:00.000Z",
+      "contentSnippet": "Macでの作業をMarkdownで自動記録してAIにまとめさせるAmbient Contextの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "GitHubのレート制限をチームで分け合うoctopoolが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609211/",
+      "pubDate": "2026-09-21T00:00:00.000Z",
+      "contentSnippet": "複数のGitHubトークンのレート制限と読み取りキャッシュを共有するoctopoolの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "好みのアプリが出るかもしれないAppGachaが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609212/",
+      "pubDate": "2026-09-21T00:00:00.000Z",
+      "contentSnippet": "自然言語からデスクトップアプリを生成するAppGachaの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "正規表現を解説するTUIのregexplainが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609201/",
+      "pubDate": "2026-09-20T00:00:00.000Z",
+      "contentSnippet": "正規表現をパースして構成要素を解説してくれるTUIのregexplainの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "初期設定なしで使えるWezTerm派生ターミナルKakuが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609202/",
+      "pubDate": "2026-09-20T00:00:00.000Z",
+      "contentSnippet": "フォントもテーマもシェル連携も設定済みのmacOS向けターミナルKakuの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "GitHubのIssueとPRをローカルでトリアージするgitcrawlが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609191/",
+      "pubDate": "2026-09-19T00:00:00.000Z",
+      "contentSnippet": "GitHubのIssueやPRをローカルのSQLiteへ保存して検索やクラスタリングを行うgitcrawlの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "エージェントの過去のセッションを検索するctxが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609192/",
+      "pubDate": "2026-09-19T00:00:00.000Z",
+      "contentSnippet": "過去のコーディングエージェントのセッションを高速に検索して辿れるctxの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "エージェント用のmacOS環境を量産するGhostVMが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609181/",
+      "pubDate": "2026-09-18T00:00:00.000Z",
+      "contentSnippet": "AIエージェントやプロジェクトごとに隔離されたmacOS仮想マシンを作成・管理できるアプリGhostVMの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "画面を拡大して描き込めるZoomItが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609182/",
+      "pubDate": "2026-09-18T00:00:00.000Z",
+      "contentSnippet": "画面の拡大・描き込みなどをショートカットから呼び出すmacOSアプリZoomItの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "macOSのデフォルトアプリをコマンドから操作するutilutiが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609171/",
+      "pubDate": "2026-09-17T00:00:00.000Z",
+      "contentSnippet": "macOSのデフォルトアプリを調べたり切り替えたりできるCLIのutilutiの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "リポジトリから必要なファイルだけ取得するghgrabが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609172/",
+      "pubDate": "2026-09-17T00:00:00.000Z",
+      "contentSnippet": "リポジトリ全体をクローンせず特定のファイルやフォルダを取得できるCLIツールghgrabの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "巨大なCSVをターミナルで扱えるxanが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609161/",
+      "pubDate": "2026-09-16T00:00:00.000Z",
+      "contentSnippet": "ギガバイト級のCSVの閲覧や集計をできるCLIのxanの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "iPhoneやiPadをMacのサブモニターにするOpenDisplayが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609162/",
+      "pubDate": "2026-09-16T00:00:00.000Z",
+      "contentSnippet": "iPhoneやiPadをMacのディスプレイとして使えるOpenDisplayの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "省メモリで動くコーディングハーネスjcodeが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609151/",
+      "pubDate": "2026-09-15T00:00:00.000Z",
+      "contentSnippet": "セマンティックな記憶と複数エージェントの協調を備えたAIコーディングハーネスjcodeの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Apple containerをGUIで管理するDavitが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609152/",
+      "pubDate": "2026-09-15T00:00:00.000Z",
+      "contentSnippet": "AppleのcontainerをCLIを介さず直接操作して管理するmacOSアプリDavitの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "モダンなデモ動画を録れるRecordlyが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609141/",
+      "pubDate": "2026-09-14T00:00:00.000Z",
+      "contentSnippet": "自動カーソルズームつきの画面録画ができるアプリRecordlyの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "便利機能山盛りアプリのVorssaintが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609142/",
+      "pubDate": "2026-09-14T00:00:00.000Z",
+      "contentSnippet": "アイコン1つにMac用ユーティリティ機能を詰め込んだVorssaintの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "設定ファイルの構造を比較するconfdiffが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609131/",
+      "pubDate": "2026-09-13T00:00:00.000Z",
+      "contentSnippet": "JSONやYAMLなどの設定ファイルを構造として比較するconfdiffの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ターミナルでチェスが遊べるchess-tuiが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609132/",
+      "pubDate": "2026-09-13T00:00:00.000Z",
+      "contentSnippet": "ローカル対戦からBot対戦・オンライン対戦までできるchess-tuiの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "カーソル追従オートズームで録画できるscreenkiteが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609121/",
+      "pubDate": "2026-09-12T00:00:00.000Z",
+      "contentSnippet": "macOS向け画面録画・動画編集アプリscreenkiteの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ターミナルからMacを掃除するMoleが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609122/",
+      "pubDate": "2026-09-12T00:00:00.000Z",
+      "contentSnippet": "クリーンアップ・アンインストール・最適化・監視をこなすmacOSメンテナンスツールMoleの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Homebrewの公式GUIが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609111/",
+      "pubDate": "2026-09-11T00:00:00.000Z",
+      "contentSnippet": "Homebrew公式のネイティブGUIアプリの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "円形メニューを表示してフリックで選択するFlickが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609112/",
+      "pubDate": "2026-09-11T00:00:00.000Z",
+      "contentSnippet": "画面に円形のショートカットメニューを表示するmacOSアプリFlickの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ターミナルだけでObsidian風のノート管理ができるclin-rsが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609101/",
+      "pubDate": "2026-09-10T00:00:00.000Z",
+      "contentSnippet": "Obsidianの代替を目指すノート管理TUIのclin-rsの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "AIエージェントの計画を添削するPlannotatorが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609102/",
+      "pubDate": "2026-09-10T00:00:00.000Z",
+      "contentSnippet": "AIエージェントが出した計画や差分にブラウザから注釈を付けるPlannotatorの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Mac用MarkdownエディタMarkViewerが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609091/",
+      "pubDate": "2026-09-09T00:00:00.000Z",
+      "contentSnippet": "編集も閲覧もエージェント呼び出しもできるMarkViewerの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "一部だけ共有できる黒パンストが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609092/",
+      "pubDate": "2026-09-09T00:00:00.000Z",
+      "contentSnippet": "mac画面の一部だけを映す共有用ウィンドウを作るcropanstの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "SpeechAnalyzerで音声文字起こしするTalkifyが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609081/",
+      "pubDate": "2026-09-08T00:00:00.000Z",
+      "contentSnippet": "SpeechAnalyzerでオンデバイス音声文字起こしするmacOSアプリTalkifyの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "高速Rリンターのjarlが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609082/",
+      "pubDate": "2026-09-08T00:00:00.000Z",
+      "contentSnippet": "Rustで書かれた高速なR言語向けリンターjarlの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "音声録音TUIのnastroが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609071/",
+      "pubDate": "2026-09-07T00:00:00.000Z",
+      "contentSnippet": "macOSのシステム音声とマイクを録音するTUIのnastroの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "VimキーバインドでDBを操作するvi-sqlが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609072/",
+      "pubDate": "2026-09-07T00:00:00.000Z",
+      "contentSnippet": "Vimの操作でDBを扱えるTUIのvi-sqlの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Mac上でmacOSを仮想化するVirtualBuddyが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609061/",
+      "pubDate": "2026-09-06T00:00:00.000Z",
+      "contentSnippet": "Apple Silicon Mac上でmacOSの仮想マシンを手軽に作れるGUIアプリVirtualBuddyの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ブラウザ上でターミナルとGitを練習できるWebTerm Learnが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609062/",
+      "pubDate": "2026-09-06T00:00:00.000Z",
+      "contentSnippet": "ブラウザ内の仮想環境でLinuxコマンドとGitを演習形式で学べるWebTerm Learnの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Rust製の高速MarkdownリンターMadoが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609051/",
+      "pubDate": "2026-09-05T00:00:00.000Z",
+      "contentSnippet": "Rust製でGitHub Actionsでも使える高速MarkdownリンターMadoの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "音声入力をローカルで完結させるMacParakeetが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609052/",
+      "pubDate": "2026-09-05T00:00:00.000Z",
+      "contentSnippet": "macOS上で完全ローカルに動作する音声入力・文字起こしアプリMacParakeetの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "MacアプリにくっつくAIサイドバーのSideKickが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609041/",
+      "pubDate": "2026-09-04T00:00:00.000Z",
+      "contentSnippet": "Macの任意のアプリにAIサイドバーを追加するSideKickの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "エージェントの足跡を3Dマップで再生するmindwalkが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609042/",
+      "pubDate": "2026-09-04T00:00:00.000Z",
+      "contentSnippet": "コーディングエージェントのセッションを3Dマップ上で再生するmindwalkの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "複数のBluetoothデバイスで音声を共有するPairPodsが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609031/",
+      "pubDate": "2026-09-03T00:00:00.000Z",
+      "contentSnippet": "Macの音声を複数のBluetoothデバイスへ同時出力するPairPodsの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "気象表示TUIのlinecastが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609032/",
+      "pubDate": "2026-09-03T00:00:00.000Z",
+      "contentSnippet": "気象関連の公開データをターミナルへ描画するlinecastの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ターミナル出力を編集してから画像にできるboronが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609021/",
+      "pubDate": "2026-09-02T00:00:00.000Z",
+      "contentSnippet": "ターミナル出力をANSIカラーのまま編集し、画像として書き出せるboronの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "大統一パッケージマネージャglazepkgが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609022/",
+      "pubDate": "2026-09-02T00:00:00.000Z",
+      "contentSnippet": "46種類のパッケージマネージャを共通の構文で扱えるようにするglazepkgの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ADRを管理するadrsが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609011/",
+      "pubDate": "2026-09-01T00:00:00.000Z",
+      "contentSnippet": "Architecture Decision Records（ADR）を管理するRust製CLIツールadrsの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "USBのつながりをツリーで見渡せるusbtreeが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202609012/",
+      "pubDate": "2026-09-01T00:00:00.000Z",
+      "contentSnippet": "接続しているUSB機器の階層を確認するTUIのusbtreeの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "AIエージェントの記憶を呼び起こすdeja-vuが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608311/",
+      "pubDate": "2026-08-31T00:00:00.000Z",
+      "contentSnippet": "AIコーディングエージェントのセッションを横断検索するdeja-vuの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "地球儀キーの挙動を改善するbetterglobekeyが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608312/",
+      "pubDate": "2026-08-31T00:00:00.000Z",
+      "contentSnippet": "macOSの地球儀キーによる入力ソースの切り替えを改善するbetterglobekeyの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Whisperでオフライン文字起こしできるBuzzが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608301/",
+      "pubDate": "2026-08-30T00:00:00.000Z",
+      "contentSnippet": "音声や動画をオフラインで文字起こし・翻訳できるBuzzの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "AIエージェントにターミナルを使わせるterminal-useが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608302/",
+      "pubDate": "2026-08-30T00:00:00.000Z",
+      "contentSnippet": "TUIアプリをAIエージェントに操作させるterminal-useの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Macの画面上に自由に描き込めるAnnotateが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608291/",
+      "pubDate": "2026-08-29T00:00:00.000Z",
+      "contentSnippet": "画面の上へ直接線や図形を描けるmacOS用注釈ツールAnnotateの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "外部ディスプレイの設定をmacOSから操作するCrispが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608292/",
+      "pubDate": "2026-08-29T00:00:00.000Z",
+      "contentSnippet": "外部ディスプレイのHiDPIスケーリングや輝度をメニューバーから操作できるCrispの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "DMGを開くだけでインストールまで済ませるEasyDMGが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608281/",
+      "pubDate": "2026-08-28T00:00:00.000Z",
+      "contentSnippet": "DMGからアプリをインストールする一連の操作を自動で済ませてくれるmacOSアプリEasyDMGの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "シェルプロンプトの頭を固定できるbyが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608282/",
+      "pubDate": "2026-08-28T00:00:00.000Z",
+      "contentSnippet": "シェルプロンプトの最初の文字列を自動入力して、続きだけを打っていけるzsh/fishプラグインbyの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ネイティヴでビューティフルなターミナルOttyが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608271/",
+      "pubDate": "2026-08-27T00:00:00.000Z",
+      "contentSnippet": "GPU描画とAIエージェント連携を備えたmacOS用ターミナルOttyの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ディスク使用量をツリーマップ表示するTUIのdiskbloomが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608272/",
+      "pubDate": "2026-08-27T00:00:00.000Z",
+      "contentSnippet": "ディスク使用量をパステル調のツリーマップで表示するTUIのdiskbloomの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "macネイティブなGitクライアントのChangesが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608261/",
+      "pubDate": "2026-08-26T00:00:00.000Z",
+      "contentSnippet": "Liquid GlassのmacOSネイティブなGit GUIクライアントChangesの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "FinderにくっつくアドレスバーFinderCueが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608262/",
+      "pubDate": "2026-08-26T00:00:00.000Z",
+      "contentSnippet": "macOSのFinderにパスをコピペできるアドレスバーを追加するFinderCueの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ターミナル出力をSVGにするtermsnapが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608251/",
+      "pubDate": "2026-08-25T00:00:00.000Z",
+      "contentSnippet": "コマンドの出力をSVG画像として保存するツールtermsnapの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ターミナルに日本語の一句を掲げるkotofetchが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608252/",
+      "pubDate": "2026-08-25T00:00:00.000Z",
+      "contentSnippet": "日本語の名言を訳や読み仮名つきでターミナルに表示するCLIツールkotofetchの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Macの積載量を見張るMister Plimsollが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608241/",
+      "pubDate": "2026-08-24T00:00:00.000Z",
+      "contentSnippet": "Macのディスク容量を監視して通知してくれるメニューバーアプリMister Plimsollの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ターミナルを共有して作業できるsshxが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608242/",
+      "pubDate": "2026-08-24T00:00:00.000Z",
+      "contentSnippet": "ブラウザ上でターミナルを共有してリアルタイム共同作業できるsshxの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "AIエージェントの状態が見えるターミナルMux0が良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608231/",
+      "pubDate": "2026-08-23T00:00:00.000Z",
+      "contentSnippet": "AIコーディングエージェントの稼働状況をサイドバーに表示するmacOS向けターミナルMux0の紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "設定をテキストファイルで完結させる音声入力ツールkoeが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608232/",
+      "pubDate": "2026-08-23T00:00:00.000Z",
+      "contentSnippet": "ホットキーで録音するmacOS音声入力ツールkoeの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ローカルで動くAWSエミュレーターfakecloudが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608221/",
+      "pubDate": "2026-08-22T00:00:00.000Z",
+      "contentSnippet": "LocalStackの代替を目指すfakecloudの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ファイルの変更を監視するLivediffが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608222/",
+      "pubDate": "2026-08-22T00:00:00.000Z",
+      "contentSnippet": "ファイルの変更に反応して差分を表示するTUIツールLivediffの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "RioのスピンオフのCanarioが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608211/",
+      "pubDate": "2026-08-21T00:00:00.000Z",
+      "contentSnippet": "スペースやタブプレビューなどブラウザ由来の操作を備えたmacOS向けターミナルCanarioの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "HaskellのREPLをモダンにするghcittyが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608212/",
+      "pubDate": "2026-08-21T00:00:00.000Z",
+      "contentSnippet": "GHCiにシンタックスハイライトや補完を加えるghcittyの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "MarkdownのQuick Lookを増強するMarkdown Previewが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608201/",
+      "pubDate": "2026-08-20T00:00:00.000Z",
+      "contentSnippet": "macOSのQuick Lookに連携するMarkdown Previewの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Bashに補完を追加するFlylineが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608202/",
+      "pubDate": "2026-08-20T00:00:00.000Z",
+      "contentSnippet": "Bashの行編集を置き換え、構文ハイライトや補完を強化するFlylineの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "あらゆる文書をMarkdownにするanydocが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608191/",
+      "pubDate": "2026-08-19T00:00:00.000Z",
+      "contentSnippet": "多様な形式の文書ファイルをMarkdownに変換するanydocの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "台本の読んでいるところを光らせるTextreamが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608192/",
+      "pubDate": "2026-08-19T00:00:00.000Z",
+      "contentSnippet": "話している箇所に合わせて原稿をハイライトするmacOS向けテレプロンプターTextreamの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ノートをまとめてコピーできるMarkdownエディタmarka.mdが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608181/",
+      "pubDate": "2026-08-18T00:00:00.000Z",
+      "contentSnippet": "メモを集めて書いてAIに渡すMarkdownエディタmarka.mdの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "FirefoxをまるごとWebAssemblyで動かすfirefox-wasmが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608182/",
+      "pubDate": "2026-08-18T00:00:00.000Z",
+      "contentSnippet": "ブラウザ上でFirefoxを動かすfirefox-wasmの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "justのレシピをTUIから実行できるlazyjustが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608171/",
+      "pubDate": "2026-08-17T00:00:00.000Z",
+      "contentSnippet": "justをlazyに使うTUIのlazyjustの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "コードの構造をざっと概観するzatが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608172/",
+      "pubDate": "2026-08-17T00:00:00.000Z",
+      "contentSnippet": "エクスポートされたシンボルなどを一覧表示するAI向けコードアウトラインビューアzatの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Macのノッチをライブアクティビティ化するSuperIslandが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608161/",
+      "pubDate": "2026-08-16T00:00:00.000Z",
+      "contentSnippet": "MacのノッチにiOS風のライブアクティビティを表示するアプリSuperIslandの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ターミナルで3Dモデルを表示するTrophyが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608162/",
+      "pubDate": "2026-08-16T00:00:00.000Z",
+      "contentSnippet": "ターミナル上で3Dモデルファイルを直接表示できるビューアTrophyの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Spacesをアニメーションなしで切り替えるSpace Rabbitが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608151/",
+      "pubDate": "2026-08-15T00:00:00.000Z",
+      "contentSnippet": "macOSのSpaces切り替えアニメーションを取り除くSpace Rabbitの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "開発サーバーにHTTPSドメインでアクセスできるslimが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608152/",
+      "pubDate": "2026-08-15T00:00:00.000Z",
+      "contentSnippet": "ローカル開発サーバーにHTTPSのドメインを割り当て、外への公開もできるCLIツールslimの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "マウスホイールでピンチズームできるScrollToZoomが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608141/",
+      "pubDate": "2026-08-14T00:00:00.000Z",
+      "contentSnippet": "スクロールをピンチイン・ピンチアウトのズーム操作に変えるmacOSアプリScrollToZoomの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ターミナルIDEのTTTが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608142/",
+      "pubDate": "2026-08-14T00:00:00.000Z",
+      "contentSnippet": "LSPやGit連携などを備えるTUI IDEのTTTの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "複数リポジトリを一望するダッシュボードgitpaneが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608131/",
+      "pubDate": "2026-08-13T00:00:00.000Z",
+      "contentSnippet": "複数のGitリポジトリの状態を監視できるTUIダッシュボードgitpaneの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "TUI差分ビューアcritiqueが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608132/",
+      "pubDate": "2026-08-13T00:00:00.000Z",
+      "contentSnippet": "ハイライト・分割ビュー・単語レベル付きgit diff TUIのcritiqueの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "コミットメッセージをlintするcommittedが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608121/",
+      "pubDate": "2026-08-12T00:00:00.000Z",
+      "contentSnippet": "コミットメッセージのスタイルをlintするcommittedの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "コードベースを対話的なナレッジグラフにするUnderstand-Anythingが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608122/",
+      "pubDate": "2026-08-12T00:00:00.000Z",
+      "contentSnippet": "コードベースを解析してインタラクティブなナレッジグラフに変換するツールUnderstand-Anythingの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "モダンなRコンソールarfが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608111/",
+      "pubDate": "2026-08-11T00:00:00.000Z",
+      "contentSnippet": "R言語の高機能REPLのarfの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "todo.txtを管理するTUIツールTuxedoが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608112/",
+      "pubDate": "2026-08-11T00:00:00.000Z",
+      "contentSnippet": "todo.txt形式のタスクを管理できる高速なTUI/CLIツールTuxedoの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ターミナルで動くメールクライアントmatchaが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608101/",
+      "pubDate": "2026-08-10T00:00:00.000Z",
+      "contentSnippet": "ターミナル内でメールを読み書きできるメールクライアントmatchaの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "完全ローカルで音声入力文字起こしができるghost-pepperが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608102/",
+      "pubDate": "2026-08-10T00:00:00.000Z",
+      "contentSnippet": "オンデバイスの音声モデルで文字起こしを行うmacOSアプリghost-pepperの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "AIエージェントと連動するデスクトップペットClawd on Deskが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608091/",
+      "pubDate": "2026-08-09T00:00:00.000Z",
+      "contentSnippet": "Claude CodeなどのAIコーディングエージェントと連動するデスクトップペットClawd on Deskの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "画面上に定規を表示できるFree Rulerが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608092/",
+      "pubDate": "2026-08-09T00:00:00.000Z",
+      "contentSnippet": "画面上に水平・垂直の定規を表示するmacOSアプリFree Rulerの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ディスク使用量を可視化するNeodiskが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608081/",
+      "pubDate": "2026-08-08T00:00:00.000Z",
+      "contentSnippet": "ディスク使用量をツリーマップとサンバーストで可視化するmacOSアプリNeodiskの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Claude Code GUIのClarcが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608082/",
+      "pubDate": "2026-08-08T00:00:00.000Z",
+      "contentSnippet": "ターミナルを開かずにClaude Codeを使えるmacOS用デスクトップクライアントClarcの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "AIエージェントのログとコストを一覧するagtlogが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608071/",
+      "pubDate": "2026-08-07T00:00:00.000Z",
+      "contentSnippet": "Claude CodeとCodexのセッションを一覧するTUIのagtlogの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Redditのスレッドを実況できるTUIのoh-my-redditが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608072/",
+      "pubDate": "2026-08-07T00:00:00.000Z",
+      "contentSnippet": "Redditのスレッドをライブ更新しながらターミナルで読めるoh-my-redditの紹介。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Markdownで組版できるQuarkdownが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608061/",
+      "pubDate": "2026-08-06T00:00:00.000Z",
+      "contentSnippet": "Markdownの書き味のままスライドや書籍まで組版できるQuarkdownの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "デスクトップで日めくりを破れるHimekuriが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608062/",
+      "pubDate": "2026-08-06T00:00:00.000Z",
+      "contentSnippet": "Macのデスクトップに日めくりカレンダーを置いて毎日破れるHimekuriの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ワークツリーを溜めて使い回すtreehouseが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608051/",
+      "pubDate": "2026-08-05T00:00:00.000Z",
+      "contentSnippet": "再利用できるワークツリーのプールを管理するCLIのtreehouseの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "日時の解析・計算・整形をまとめてこなすbttfが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608052/",
+      "pubDate": "2026-08-05T00:00:00.000Z",
+      "contentSnippet": "日時の解析・計算・フォーマットをターミナルで行えるCLIツールbttfの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "気温と時刻だけを写すスクリーンセーバーのdegr°が良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608041/",
+      "pubDate": "2026-08-04T00:00:00.000Z",
+      "contentSnippet": "気温や時刻を大きな数字で映すスクリーンセーバーdegr°の紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "スクショも録画もこなすSnapzyが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608042/",
+      "pubDate": "2026-08-04T00:00:00.000Z",
+      "contentSnippet": "スクリーンショットと画面録画、注釈、動画編集を備えたmacOSアプリSnapzyの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "手持ちの動画をmacOSの壁紙にするPhospheneが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608031/",
+      "pubDate": "2026-08-03T00:00:00.000Z",
+      "contentSnippet": "任意の動画ファイルをmacOSのデスクトップ・ロック画面の壁紙にできるPhospheneの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "すべてがファイルになるSheruが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608032/",
+      "pubDate": "2026-08-03T00:00:00.000Z",
+      "contentSnippet": "ローカル・リモート・クラウドを統一UIで辿れるmacOSのファイルブラウザSheruの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "AIエージェントワークステーションのCodexiaが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608021/",
+      "pubDate": "2026-08-02T00:00:00.000Z",
+      "contentSnippet": "Codex CLIとClaude Codeの作業用に多彩な機能が盛り込まれたCodexiaの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "キー入力を任意のアプリに流し込むTypeCueが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608022/",
+      "pubDate": "2026-08-02T00:00:00.000Z",
+      "contentSnippet": "用意したキー入力を実際のタイピングとして流し込むmacOSアプリTypeCueの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Claude Codeの使い方を分析して最適化するcclensが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608011/",
+      "pubDate": "2026-08-01T00:00:00.000Z",
+      "contentSnippet": "Claude Codeのセッションと設定を分析して無駄や改善点を見つけるCLIツールcclensの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Macのdockをウィジェットで拡張するDockspaceが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202608012/",
+      "pubDate": "2026-08-01T00:00:00.000Z",
+      "contentSnippet": "Macのdockにウィジェットやアプリのまとめ機能を追加するアプリDockspaceの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "JWTを検証するTUIのJWT-UIが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202607311/",
+      "pubDate": "2026-07-31T00:00:00.000Z",
+      "contentSnippet": "ターミナルでJWTをデコード・エンコード・検証できるJWT-UIの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "多様なAppleデバイスで動くエディタNeon Vision Editorが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202607312/",
+      "pubDate": "2026-07-31T00:00:00.000Z",
+      "contentSnippet": "macOSからiOS・visionOSまで動くテキストエディタNeon Vision Editorの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "APIクライアントTUIのPostingが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202607301/",
+      "pubDate": "2026-07-30T00:00:00.000Z",
+      "contentSnippet": "ターミナル上でAPIの開発・テストができるクライアントPostingの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "AIエージェントに仕様と記憶を持たせるTrellisが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202607302/",
+      "pubDate": "2026-07-30T00:00:00.000Z",
+      "contentSnippet": "プロジェクトの仕様・タスク・メモリをリポジトリに残し、AIコーディングエージェントに引き継がせるTrellisの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "AIエージェントと同じ画面でMarkdownを編集できるOpenMarkdownが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202607291/",
+      "pubDate": "2026-07-29T00:00:00.000Z",
+      "contentSnippet": "AIエージェントと同じ内容を見ながらファイルを編集できるMarkdownエディタOpenMarkdownの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "エージェントの登録手順をMarkdownで公開するauth.mdが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202607292/",
+      "pubDate": "2026-07-29T00:00:00.000Z",
+      "contentSnippet": "AIエージェントがユーザーに代わってサービスへ登録するためのオープンプロトコルauth.mdの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "AIエージェントをドット絵オフィスで眺めるpixtuoidが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202607281/",
+      "pubDate": "2026-07-28T00:00:00.000Z",
+      "contentSnippet": "AIコーディングエージェントがドット絵のオフィスで働くTUIのpixtuoidの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "トークンを画像に変換して削減するpxpipeが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202607282/",
+      "pubDate": "2026-07-28T00:00:00.000Z",
+      "contentSnippet": "Claude Codeなどの入力トークンを画像に変換して削減するローカルプロキシpxpipeの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "macOS用コンテナランタイムArcBoxが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202607271/",
+      "pubDate": "2026-07-27T00:00:00.000Z",
+      "contentSnippet": "オープンソースのmacOS向けコンテナランタイムArcBoxの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ディスク使用量をツリーマップ表示するTUIのleavesが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202607272/",
+      "pubDate": "2026-07-27T00:00:00.000Z",
+      "contentSnippet": "ファイルとディレクトリをツリーマップで可視化するTUIのleavesの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "VS Code風3ペインをターミナルで再現するcroftが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202607261/",
+      "pubDate": "2026-07-26T00:00:00.000Z",
+      "contentSnippet": "VS Code風のペイン構成を持つTUI IDEのcroftの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "アーキテクチャ図をコードで管理するStructurizrが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202607262/",
+      "pubDate": "2026-07-26T00:00:00.000Z",
+      "contentSnippet": "単一のモデルから複数のアーキテクチャ図を生成するC4モデル公式実装Structurizrの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ディスク使用量をツリーマップで一望できるGrandPerspectiveが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202607251/",
+      "pubDate": "2026-07-25T00:00:00.000Z",
+      "contentSnippet": "ディスク使用量をツリーマップで可視化するmacOSアプリGrandPerspectiveの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "TRPGの場面に応じた環境音セットのPocketBardが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202607252/",
+      "pubDate": "2026-07-25T00:00:00.000Z",
+      "contentSnippet": "テーブルトークRPGのゲームマスター向けに、場面に応じて変化する環境音を鳴らすアプリPocketBardの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "コンフリクトを3ペインで解決するecが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202607241/",
+      "pubDate": "2026-07-24T00:00:00.000Z",
+      "contentSnippet": "Gitのマージコンフリクトを3ペインのTUIで解決するツールec（easy-conflict）の紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "動物作画のための参考写真集サイトAnimal Photo Referencesが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202607242/",
+      "pubDate": "2026-07-24T00:00:00.000Z",
+      "contentSnippet": "動物を描くアーティスト向けに、種類ごとの参考写真を無料で公開しているサイトAnimal Photo Referencesの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Makefile用TUIのlazymakeが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202607231/",
+      "pubDate": "2026-07-23T00:00:00.000Z",
+      "contentSnippet": "Makefileのターゲットをブラウズ・検索・実行できるTUIツールlazymakeの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Dockerfileを辛口でlintするdroastが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202607232/",
+      "pubDate": "2026-07-23T00:00:00.000Z",
+      "contentSnippet": "Dockerfileを辛口な指摘でlintするdroastの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Raycast拡張が動くコマンドランチャーVicinaeが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202607221/",
+      "pubDate": "2026-07-22T00:00:00.000Z",
+      "contentSnippet": "Raycastの拡張機能をそのまま使えるコマンドランチャーVicinaeの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "AI稼働中にMacを寝かせないAdrafinilが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202607222/",
+      "pubDate": "2026-07-22T00:00:00.000Z",
+      "contentSnippet": "AIコーディングエージェントが動いている間だけMacのスリープを阻止するアプリAdrafinilの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "AIに操作させて自分は監視できるブラウザVessel Browserが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202607211/",
+      "pubDate": "2026-07-21T00:00:00.000Z",
+      "contentSnippet": "AIエージェントが実際にWebを操作し、その様子を監視・制御できるブラウザVessel Browserの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ブログをStandard.siteに対応させた",
+      "link": "https://kawarimidoll.com/posts/202607212/",
+      "pubDate": "2026-07-21T00:00:00.000Z",
+      "contentSnippet": "このブログの記事をStandard.siteに対応させました。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "AIエージェントの実行をノッチで確認するPing Islandが良さげかも",
       "link": "https://kawarimidoll.com/posts/202607201/",
       "pubDate": "2026-07-20T00:00:00.000Z",
       "contentSnippet": "MacのノッチでAIコーディングエージェントのセッションを監視・操作するアプリPing Islandの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "AIとMCPの通信を覗くmcpsnoopが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202607202/",
+      "pubDate": "2026-07-20T00:00:00.000Z",
+      "contentSnippet": "AIクライアントとMCPサーバー間の実際のツール呼び出しを覗けるプロキシmcpsnoopの紹介です。",
       "param": "kawarimidoll"
     },
     {

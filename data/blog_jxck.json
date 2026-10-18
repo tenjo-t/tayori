@@ -3,6 +3,13 @@
   "title": "blog.jxck.io",
   "items": [
     {
+      "title": "example.com が刷新された話",
+      "link": "https://blog.jxck.io/entries/2026-10-17/example.com.html",
+      "pubDate": "2026-10-17T00:00:00.000Z",
+      "contentSnippet": "http://example.com が刷新されてしまった。",
+      "param": "blog_jxck"
+    },
+    {
       "title": "mozaic.fm v4 リリースノート #2 - ネットワーク編",
       "link": "https://blog.jxck.io/entries/2026-09-17/mozaic-v4-network.html",
       "pubDate": "2026-09-17T00:00:00.000Z",
