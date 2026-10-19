@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "シンボルの使われている場所を調べられるcymbalが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610191/",
+      "pubDate": "2026-10-19T00:00:00.000Z",
+      "contentSnippet": "リポジトリをインデックスしてシンボルの定義・呼び出し元・変更の影響範囲を教えてくれるcymbalの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "ファイルとGitとGitHubを1画面に並べるgrutが良さげかも",
       "link": "https://kawarimidoll.com/posts/202610181/",
       "pubDate": "2026-10-18T00:00:00.000Z",
       "contentSnippet": "ファイル・Git・GitHub・プレビューをパネルに並べて一望できるTUIのgrütの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "デスクトップアプリを自動操作できるAUVが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610182/",
+      "pubDate": "2026-10-18T00:00:00.000Z",
+      "contentSnippet": "定型的なGUI操作をスクリプトにまとめて実行できるAUVの紹介です。",
       "param": "kawarimidoll"
     },
     {
