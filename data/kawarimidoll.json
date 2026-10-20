@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "pingしながら問題の切り分けまでしてくれるspingが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610201/",
+      "pubDate": "2026-10-20T00:00:00.000Z",
+      "contentSnippet": "応答時間だけでなくルーターやインターネットの接続状況も調べてどこに問題がありそうかを教えてくれるspingの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "シンボルの使われている場所を調べられるcymbalが良さげかも",
       "link": "https://kawarimidoll.com/posts/202610191/",
       "pubDate": "2026-10-19T00:00:00.000Z",
       "contentSnippet": "リポジトリをインデックスしてシンボルの定義・呼び出し元・変更の影響範囲を教えてくれるcymbalの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "消していいものだけを消すMacクリーナーPurgeが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610192/",
+      "pubDate": "2026-10-19T00:00:00.000Z",
+      "contentSnippet": "安全なキャッシュや不要ファイルだけをゴミ箱に送るMacクリーナーPurgeの紹介です。",
       "param": "kawarimidoll"
     },
     {

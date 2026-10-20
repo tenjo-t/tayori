@@ -3,6 +3,27 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "GitLab Epic Tour Japan 2026キーノートレポート ——AIエージェントによる開発の高速化とガバナンスの両立を目指す「Governed Software Factory」構想",
+      "link": "https://gihyo.jp/article/2026/10/gitlab-epic-tour-japan-2026-keynote-report?utm_source=feed",
+      "pubDate": "2026-10-20T00:24:00.000Z",
+      "contentSnippet": "2026年10月9日、GitLabのイベント「GitLab Epic Tour Japan 2026」が開催されました。本稿では、キーノートの模様を中心にレポートします。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "性能とスピードをアップした「DeepSeek-V4.1-Flash-1017」登場、DeepSeekのSearch APIとFetch APIをすべてのユーザーに公開",
+      "link": "https://gihyo.jp/article/2026/10/deepseek-v4-1-flash-1017?utm_source=feed",
+      "pubDate": "2026-10-19T06:20:00.000Z",
+      "contentSnippet": "DeepSeekは2026年10月17日、9月に発表した軽量なマルチモーダルMoEモデル「DeepSeek-V4.1-Flash」のアップデート版となる「DeepSeek-V4.1-Flash-1017」を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Google検索、AIの回答内のリンク表示を改善へ ——回答上部にインラインリンクをより頻繁に表示、末尾の関連記事は画像付きで見つけやすく",
+      "link": "https://gihyo.jp/article/2026/10/google-search-ai-link-updates?utm_source=feed",
+      "pubDate": "2026-10-19T06:18:00.000Z",
+      "contentSnippet": "Googleは2026年10月15日、Google検索のAIモードとAIによる概要で、Webサイトや記事へのリンク表示をさらに改善すると発表した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "Sakana AI、「The AI Scientist」の第3世代を公開 ——複数エージェントで仮説検証から論文執筆まで、図生成ツール「AutoIllustrate」もオープンソース化",
       "link": "https://gihyo.jp/article/2026/10/the-agentic-scientist-v3?utm_source=feed",
       "pubDate": "2026-10-16T08:08:00.000Z",
@@ -7248,17 +7269,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
-      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
       "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
+      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
       "param": "gihyo_jp"
     },
     {
@@ -7486,17 +7507,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
-      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "LangChain4jを使ってみよう",
       "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
+      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -7990,17 +8011,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {
