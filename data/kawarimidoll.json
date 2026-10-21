@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "プロセスから電力まで1つのウィンドウで見渡せるPulseが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610211/",
+      "pubDate": "2026-10-21T00:00:00.000Z",
+      "contentSnippet": "プロセス・CPU・メモリ・GPU・ディスク・ネットワーク・電力を1つのウィンドウで見られるクロスプラットフォームのシステムモニタPulseの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "pingしながら問題の切り分けまでしてくれるspingが良さげかも",
       "link": "https://kawarimidoll.com/posts/202610201/",
       "pubDate": "2026-10-20T00:00:00.000Z",
       "contentSnippet": "応答時間だけでなくルーターやインターネットの接続状況も調べてどこに問題がありそうかを教えてくれるspingの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "GitHubのプロフィールをneofetch風に表示するghfetchが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610202/",
+      "pubDate": "2026-10-20T00:00:00.000Z",
+      "contentSnippet": "GitHubユーザーのプロフィールをアイコン画像と並べてターミナルに表示するghfetchの紹介です。",
       "param": "kawarimidoll"
     },
     {

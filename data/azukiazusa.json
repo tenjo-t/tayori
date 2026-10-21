@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "Claude Code の Mods で Claude Code 自身に機能を追加する",
+      "link": "https://azukiazusa.dev/blog/claude-code-mods",
+      "pubDate": "2026-10-20T03:47:00.000Z",
+      "contentSnippet": "Claude Code の Mods は、Claude Code のプロセス内で動く TypeScript/JavaScript の関数でイベントを観察・書き換え・代わりに応答できる仕組みです。settings hooks では難しかった ",
+      "param": "azukiazusa"
+    },
+    {
       "title": "Void でフルスタックアプリを構築して Cloudflare にデプロイする",
       "link": "https://azukiazusa.dev/blog/void-vite-cloudflare-deploy",
       "pubDate": "2026-10-17T06:48:00.000Z",
