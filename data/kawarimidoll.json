@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "Officeファイルを開けてAIエージェントからも操作できるGenOfficeが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610221/",
+      "pubDate": "2026-10-22T00:00:00.000Z",
+      "contentSnippet": "Word・Excel・PowerPointのファイルを開いて編集でき、CLIを通してAIエージェントからも操作できるOfficeスイートGenOfficeの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "プロセスから電力まで1つのウィンドウで見渡せるPulseが良さげかも",
       "link": "https://kawarimidoll.com/posts/202610211/",
       "pubDate": "2026-10-21T00:00:00.000Z",
       "contentSnippet": "プロセス・CPU・メモリ・GPU・ディスク・ネットワーク・電力を1つのウィンドウで見られるクロスプラットフォームのシステムモニタPulseの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Markdownを軽く読み書きできるMarkpadが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610212/",
+      "pubDate": "2026-10-21T00:00:00.000Z",
+      "contentSnippet": "クロスプラットフォームで動く軽量なMarkdownエディタMarkpadの紹介です。",
       "param": "kawarimidoll"
     },
     {
