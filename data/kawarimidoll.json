@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "Macのファイルを監視して仕分け続けるForelが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610231/",
+      "pubDate": "2026-10-23T00:00:00.000Z",
+      "contentSnippet": "監視対象フォルダに入ったファイルをルールにしたがって処理するForelの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "Officeファイルを開けてAIエージェントからも操作できるGenOfficeが良さげかも",
       "link": "https://kawarimidoll.com/posts/202610221/",
       "pubDate": "2026-10-22T00:00:00.000Z",
       "contentSnippet": "Word・Excel・PowerPointのファイルを開いて編集でき、CLIを通してAIエージェントからも操作できるOfficeスイートGenOfficeの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "CSVの列をsed風の構文で処理できるxledが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610222/",
+      "pubDate": "2026-10-22T00:00:00.000Z",
+      "contentSnippet": "Excel風の範囲指定とsed風の置換や計算式でCSVを書き換えられるxledの紹介です。",
       "param": "kawarimidoll"
     },
     {

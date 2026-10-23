@@ -3,6 +3,83 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "Ubuntu 27.04 “Tenacious T-Rex” の開発、PHPや証明書失効、CVE-2026-99999（PwnEscape）への対応",
+      "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202610/23?utm_source=feed",
+      "pubDate": "2026-10-23T00:06:00.000Z",
+      "contentSnippet": "Ubuntu 27.04の開発がスタートしました。コードネームは“Tenacious T-Rex”（粘り強いティラノサウルス）、リポジトリ名や愛称としては「tenacious」が用いられることになります。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Anthropic、パーソナルAIアシスタントClaude Duetのリサーチプレビューを発表、米国で先行提供 ——必要な対応を通知、依頼した作業を離席中も継続",
+      "link": "https://gihyo.jp/article/2026/10/claude-duet?utm_source=feed",
+      "pubDate": "2026-10-22T10:59:00.000Z",
+      "contentSnippet": "Anthropicは2026年10月21日、パーソナルAIアシスタントClaude Duetのリサーチプレビューを発表した。利用者の対応が必要なことを自ら知らせるエージェントとして動作する。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "eMudhraの中間CAの秘密鍵が公開された証明書から復元可能と判明、pip・uvなどの開発ツールに修正版",
+      "link": "https://gihyo.jp/article/2026/10/emudhra-ca-key-compromise-dev-tools-fixes?utm_source=feed",
+      "pubDate": "2026-10-22T05:24:00.000Z",
+      "contentSnippet": "認証局eMudhraの中間CA証明書8件で、公開された証明書から秘密鍵を復元できる問題が判明した。このうちTLS用の中間CAの秘密鍵を使えば、攻撃者が偽のHTTPS証明書を作成できる。Python関連ツールやGo、Node.js、Rustな",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "DuckDB 2.0.0リリース、サーバー機能を改善し非同期I/Oを導入",
+      "link": "https://gihyo.jp/article/2026/10/duckdb-2.0.0?utm_source=feed",
+      "pubDate": "2026-10-22T02:44:00.000Z",
+      "contentSnippet": "DuckDBの開発チームは2026年10月21日、分析向けデータベースDuckDBのバージョン2.0.0をリリースした。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "ZKP・MPC・FHEを「学ぶ」から「作る」へ ――Advanced Cryptography Program 2026に参加して見えた、高機能暗号実装の難しさ",
+      "link": "https://gihyo.jp/article/2026/10/advanced-crypto-program-recap?utm_source=feed",
+      "pubDate": "2026-10-22T00:34:00.000Z",
+      "contentSnippet": "本稿では、Advanced Cryptography Program 2026、各週の講義やワークショップ、そして筆者自身がDemo Dayへ向けて成果物を制作した過程を振り返りながら、高機能暗号を「知る」段階から「使う」段階へ進むと、どの",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Android地震アラートが200超の国や地域へ拡大、速報運用の課題と国内提供への期待",
+      "link": "https://gihyo.jp/article/2026/10/android-weekly-topics-261022?utm_source=feed",
+      "pubDate": "2026-10-22T00:20:00.000Z",
+      "contentSnippet": "Googleは、Android端末を活用した「Android地震アラートシステム」の提供エリアを大幅に拡大しました。これまでの98地域から一気に200を超える国や地域へと広がり、グローバル規模での防災インフラとして大きな節目を迎えました。今",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Microsoft、TypeScript 7.1 Betaを公開 ——型検査を高速化し外部ツール向けAPIを追加",
+      "link": "https://gihyo.jp/article/2026/10/_typescript-7.1-beta?utm_source=feed",
+      "pubDate": "2026-10-21T10:52:00.000Z",
+      "contentSnippet": "Microsoftは2026年10月20日、TypeScript 7.1 Betaを公開した。Goで実装したネイティブ版コンパイラーの性能を改善し、同社の測定では7.0に比べて型検査が1.2～1.9倍に高速化した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Zig製GUIツールキット「nanoui」、複数OSでネイティブUIを開発、一部でGPU描画を利用",
+      "link": "https://gihyo.jp/article/2026/10/nanoui?utm_source=feed",
+      "pubDate": "2026-10-21T09:57:00.000Z",
+      "contentSnippet": "開発者のRach Pradhan氏（GitHubではjustrach）は2026年10月18日、Zig製GUIツールキット「nanoui」をXで紹介した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Mermaidの図を高速描画する軽量ライブラリPele、Obsidianの次期版で採用予定",
+      "link": "https://gihyo.jp/article/2026/10/pele?utm_source=feed",
+      "pubDate": "2026-10-21T08:08:00.000Z",
+      "contentSnippet": "ObsidianのCEOを務めるSteph Ango氏（kepano）は10月17日、Mermaid記法で書いた図やチャートを描画するライブラリ「Pele」をXで紹介した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Cloudflare、AIモデル「Clairic」をプレビュー公開 ――文章や画像から金額・日付などを抽出、JSON形式で出力",
+      "link": "https://gihyo.jp/article/2026/10/clairic?utm_source=feed",
+      "pubDate": "2026-10-21T02:44:00.000Z",
+      "contentSnippet": "Cloudflareは2026年10月19日、文章や画像などの非構造化データから値を抽出するAIモデル「Clairic」のプレビュー提供を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "PHP、重大な脆弱性2件を修正 ——認証なしのリモートコード実行に対処。直ちに更新するよう強く推奨（10月22日更新）",
+      "link": "https://gihyo.jp/article/2026/10/php-critical-security-release?utm_source=feed",
+      "pubDate": "2026-10-21T01:14:00.000Z",
+      "contentSnippet": "PHPセキュリティチームは2026年10月20日、重大な脆弱性2件を修正するセキュリティリリースを予告した。公開は10月21日14時（UTC）、日本時間の同日23時を予定している。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "第931回　SolaarでロジクールのBolt・Unifyingレシーバーを管理する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0931?utm_source=feed",
       "pubDate": "2026-10-21T00:02:00.000Z",
@@ -6926,17 +7003,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "みてね写真プリントML自動提案の仕組み",
-      "link": "https://gihyo.jp/article/2025/09/mitene-12-printphoto?utm_source=feed",
-      "pubDate": "2025-09-04T00:07:00.000Z",
-      "contentSnippet": "みてね×gihyo.jpスペシャル企画。12回目はML自動提案による写真プリントの仕組みについて解説します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "自由か、それとも安全か。Androidで開発者認定を導入",
       "link": "https://gihyo.jp/article/2025/09/android-weekly-topics-250904?utm_source=feed",
       "pubDate": "2025-09-04T00:07:00.000Z",
       "contentSnippet": "8月26日、GoogleはAndroid Developer BlogでPlayストア外からアプリをインストールする「サイドロード」の安全性を高めるために、開発者認証制度（Developer Verification）を導入する計画を発表し",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "みてね写真プリントML自動提案の仕組み",
+      "link": "https://gihyo.jp/article/2025/09/mitene-12-printphoto?utm_source=feed",
+      "pubDate": "2025-09-04T00:07:00.000Z",
+      "contentSnippet": "みてね×gihyo.jpスペシャル企画。12回目はML自動提案による写真プリントの仕組みについて解説します。",
       "param": "gihyo_jp"
     },
     {
@@ -7297,17 +7374,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
-      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
       "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
+      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
       "param": "gihyo_jp"
     },
     {
@@ -7535,17 +7612,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
-      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "LangChain4jを使ってみよう",
       "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
+      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -8039,17 +8116,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {
