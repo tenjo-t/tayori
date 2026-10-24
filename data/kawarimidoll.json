@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "AIエージェントを呼び込めるターミナルIDEのCleeCodeが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610241/",
+      "pubDate": "2026-10-24T00:00:00.000Z",
+      "contentSnippet": "AIエージェントのCLIを横に開いて共同編集できるRust製ターミナルIDEのCleeCodeの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "Macのファイルを監視して仕分け続けるForelが良さげかも",
       "link": "https://kawarimidoll.com/posts/202610231/",
       "pubDate": "2026-10-23T00:00:00.000Z",
       "contentSnippet": "監視対象フォルダに入ったファイルをルールにしたがって処理するForelの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ターミナルでMarkdownノートを管理できるTsuzuriが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610232/",
+      "pubDate": "2026-10-23T00:00:00.000Z",
+      "contentSnippet": "ObsidianのようにノートをリンクしNotionのようにブロックを組んで書けるノート管理TUIのTsuzuriの紹介です。",
       "param": "kawarimidoll"
     },
     {

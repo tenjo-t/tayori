@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "react-devtools-cdt-mcp で AI エージェントが React のコンポーネントツリーを調べられるようにする",
+      "link": "https://azukiazusa.dev/blog/react-devtools-cdt-mcp",
+      "pubDate": "2026-10-23T12:55:00.000Z",
+      "contentSnippet": "Chrome DevTools MCP で AI エージェントはブラウザを操作できますが、DOM からはどのコンポーネントが描画したのか、なぜ遅いのかがわかりません。react-devtools-cdt-mcp はページで import す",
+      "param": "azukiazusa"
+    },
+    {
       "title": "エージェントスキル集 pstack の開発原則と使い方",
       "link": "https://azukiazusa.dev/blog/pstack-agent-skills",
       "pubDate": "2026-10-22T06:00:00.000Z",
