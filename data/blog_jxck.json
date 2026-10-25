@@ -3,6 +3,13 @@
   "title": "blog.jxck.io",
   "items": [
     {
+      "title": "eMudhra のインシデントは Web にとって何を意味するのか",
+      "link": "https://blog.jxck.io/entries/2026-10-25/emudhra.html",
+      "pubDate": "2026-10-25T00:00:00.000Z",
+      "contentSnippet": "PHP2Shell は、時の総理大臣も対応を発信するなどの動きがあり、一般のニュースですら大きく報じられていた。しかし、同時期に報じられた eMudhra のインシデントの方が、比較にならないくらいヤバいと、筆者は思っている。Web の信頼",
+      "param": "blog_jxck"
+    },
+    {
       "title": "example.com が刷新された話",
       "link": "https://blog.jxck.io/entries/2026-10-17/example.com.html",
       "pubDate": "2026-10-17T00:00:00.000Z",
