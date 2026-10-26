@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "スクリーンショットも画面録画もできるCapsoが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610261/",
+      "pubDate": "2026-10-26T00:00:00.000Z",
+      "contentSnippet": "静止画と動画の両方に対応しキャプチャ後の編集もできるmacOSアプリCapsoの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "手元の曲もYouTubeもターミナルで聴けるgtmが良さげかも",
       "link": "https://kawarimidoll.com/posts/202610251/",
       "pubDate": "2026-10-25T00:00:00.000Z",
       "contentSnippet": "ローカルの音楽ファイルに加えてYouTubeやSpotifyの音楽、ネットラジオ、Podcastまで再生できるTUIオーディオプレイヤーgtmの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "履歴を見られるスクショアプリPxlShotが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610252/",
+      "pubDate": "2026-10-25T00:00:00.000Z",
+      "contentSnippet": "アノテーションをつけられて過去のキャプチャの履歴も閲覧できるmacOS向けスクショアプリPxlShotの紹介です。",
       "param": "kawarimidoll"
     },
     {

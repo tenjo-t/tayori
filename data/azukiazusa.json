@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "OpenAI の Decisions API で問い合わせの分類と段階評価をする",
+      "link": "https://azukiazusa.dev/blog/openai-decisions-api",
+      "pubDate": "2026-10-25T13:00:00.000Z",
+      "contentSnippet": "OpenAI の Decisions API は、入力に対する条件判定・分類・段階評価を返す API です。TypeScript から問い合わせを評価する例を使い、predicate・choice・score の使い分けについて紹介します。",
+      "param": "azukiazusa"
+    },
+    {
       "title": "AI SDK の MCP Events 対応で MCP サーバーからのイベントを Webhook で受け取る",
       "link": "https://azukiazusa.dev/blog/ai-sdk-mcp-events",
       "pubDate": "2026-10-24T12:50:00.000Z",
@@ -3049,17 +3056,17 @@
       "param": "azukiazusa"
     },
     {
-      "title": "Vuex 5 でどのように変わるのか。",
-      "link": "https://azukiazusa.dev/blog/vuex-5",
-      "pubDate": "2021-09-25T15:00:00.000Z",
-      "contentSnippet": "現在リリースされている最新のバージョンは Vuex 4 です。 これは Vuex 3 と互換性のあるバージョンで Vue 3 で使用するためのものであり、 Vuex 3 と同じ API となっています。  Vuex 5 は Vue 3 にお",
-      "param": "azukiazusa"
-    },
-    {
       "title": "【Vue.js】script setup 構文がすごくすごい",
       "link": "https://azukiazusa.dev/blog/vue-js-script-setup",
       "pubDate": "2021-09-25T15:00:00.000Z",
       "contentSnippet": "Vue.js 3.x から script setup 構文が使えるようになりました。これは単一ファイルコンポーネント(SFC)内で Composition API を使用している際に使える糖衣構文です。下記のようなメリットを得ることができ、",
+      "param": "azukiazusa"
+    },
+    {
+      "title": "Vuex 5 でどのように変わるのか。",
+      "link": "https://azukiazusa.dev/blog/vuex-5",
+      "pubDate": "2021-09-25T15:00:00.000Z",
+      "contentSnippet": "現在リリースされている最新のバージョンは Vuex 4 です。 これは Vuex 3 と互換性のあるバージョンで Vue 3 で使用するためのものであり、 Vuex 3 と同じ API となっています。  Vuex 5 は Vue 3 にお",
       "param": "azukiazusa"
     },
     {
