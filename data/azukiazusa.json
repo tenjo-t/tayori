@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "Device Posture API と Viewport Segments API で折りたたみ端末の画面に対応する",
+      "link": "https://azukiazusa.dev/blog/device-posture-viewport-segments",
+      "pubDate": "2026-10-26T01:18:00.000Z",
+      "contentSnippet": "Safari 27.1 では、iPhone Duo のような折りたたみ端末向けに Device Posture API と Viewport Segments API が機能フラグ付きで実装されました。Device Posture API ",
+      "param": "azukiazusa"
+    },
+    {
       "title": "OpenAI の Decisions API で問い合わせの分類と段階評価をする",
       "link": "https://azukiazusa.dev/blog/openai-decisions-api",
       "pubDate": "2026-10-25T13:00:00.000Z",
