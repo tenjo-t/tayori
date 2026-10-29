@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "コーディングエージェントを並べて操れるGhostexが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610291/",
+      "pubDate": "2026-10-29T00:00:00.000Z",
+      "contentSnippet": "複数のコーディングエージェントの作業やタスクを管理できるGPUI製アプリGhostexの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "Gitの履歴を粘菌のように3Dで見られるPhloemが良さげかも",
       "link": "https://kawarimidoll.com/posts/202610281/",
       "pubDate": "2026-10-28T00:00:00.000Z",
       "contentSnippet": "GitHubリポジトリの履歴を粘菌が広がるような葉脈のネットワークとして3D再生するPhloemの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Markdownのチェックボックスをカンバンに並べられるlazymarkが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610282/",
+      "pubDate": "2026-10-28T00:00:00.000Z",
+      "contentSnippet": "Markdownのノート中のチェックボックスをタスク一覧やカンバンボードとして扱えるTUIのlazymarkの紹介です。",
       "param": "kawarimidoll"
     },
     {
