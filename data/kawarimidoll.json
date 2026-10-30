@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "アイコンを意味で探せるIconsDBが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610301/",
+      "pubDate": "2026-10-30T00:00:00.000Z",
+      "contentSnippet": "オープンソースのアイコンやロゴ、絵文字を自然言語で横断検索できるIconsDBの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "コーディングエージェントを並べて操れるGhostexが良さげかも",
       "link": "https://kawarimidoll.com/posts/202610291/",
       "pubDate": "2026-10-29T00:00:00.000Z",
       "contentSnippet": "複数のコーディングエージェントの作業やタスクを管理できるGPUI製アプリGhostexの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "AIエージェントをサンドボックスで動かすnonoが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610292/",
+      "pubDate": "2026-10-29T00:00:00.000Z",
+      "contentSnippet": "AIエージェントが勝手なファイルを読み書きできないよう制限して動かすnonoの紹介です。",
       "param": "kawarimidoll"
     },
     {

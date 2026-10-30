@@ -3,10 +3,66 @@
   "title": "gihyo.jp",
   "items": [
     {
-      "title": "Google、Elephant-Goldfish Modelプラグインを公開 ——AIが設計文書の作成と検証を分担",
-      "link": "https://gihyo.jp/article/2026/10/elephant-goldfish-model-plugin?utm_source=feed",
-      "pubDate": "2026-10-29T11:04:00.000Z",
-      "contentSnippet": "Googleは2026年10月22日、AIを使ったソフトウェア開発で、実装前の設計とレビューを支援するElephant-Goldfish Model（EGM）プラグインのオープンソース公開を発表した。",
+      "title": "Ubuntu 27.04（tenacious）の開発：渋滞の緩和とUbuntu Core Desktopのリブート",
+      "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202610/30?utm_source=feed",
+      "pubDate": "2026-10-30T00:27:00.000Z",
+      "contentSnippet": "tenaciousの開発がスタートしました。……しかし、Ubuntuのお約束である「Debian sidからの自動的な取り込み」（AutoSync）は有効にされていません。これにより、現状のtenaciousは「ほとんど26.10と差がない",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "カスケード障害を防ぐ境界の防衛線 依存先の障害を局所化する実践手法",
+      "link": "https://gihyo.jp/article/2026/10/prevent-cascading-failures?utm_source=feed",
+      "pubDate": "2026-10-30T00:00:00.000Z",
+      "contentSnippet": "一部の機能や外部APIの障害が無関係な機能にまで波及し、システム全体を巻き込むカスケード障害。本章では、その発生メカニズムを整理し、タイムアウトやサーキットブレーカー、フォールバック、負荷制限など、障害の影響を局所化する設計・実装手法を解説",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "CSSのスクロール連動アニメーションが主要ブラウザーで利用可能に、Firefox 159が対応",
+      "link": "https://gihyo.jp/article/2026/10/css-scroll-driven-animations?utm_source=feed",
+      "pubDate": "2026-10-29T11:48:00.000Z",
+      "contentSnippet": "Mozillaは2026年10月27日、Webブラウザー「Firefox 159」を公開し、CSSのスクロール連動アニメーションをデフォルトで有効にした。スクロールに合わせて画像や文字などを動かす機能で、Chrome、Edge、Safari",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "OpenAI、ChatGPT Pro・Businessに月最大500ドル分のAPIクレジット",
+      "link": "https://gihyo.jp/article/2026/10/chatgpt-pro-business-api-credits?utm_source=feed",
+      "pubDate": "2026-10-29T10:00:00.000Z",
+      "contentSnippet": "OpenAIは2026年10月28日、対象のChatGPT Pro・Businessプラン契約者に、月最大500ドル分のAPIクレジットを提供する特典を開始した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "NVIDIA、音声の文字起こし・翻訳を行うAIモデル「Nemotron 3.5 Transcribe」を公開",
+      "link": "https://gihyo.jp/article/2026/10/nvidia-nemotron-3.5-transcribe?utm_source=feed",
+      "pubDate": "2026-10-29T08:21:00.000Z",
+      "contentSnippet": "NVIDIAは2026年10月28日、音声の文字起こしや翻訳を行うAIモデル「Nemotron 3.5 Transcribe」を公開した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Entire、プライベートリポジトリの無料ホスティングを開始 ——AIレビューと過去の判断の引き継ぎも",
+      "link": "https://gihyo.jp/article/2026/10/entire-independent-git-hosting?utm_source=feed",
+      "pubDate": "2026-10-29T05:02:00.000Z",
+      "contentSnippet": "Entireは2026年10月26日、人とAIエージェントの協働に向けた開発プラットフォーム「Entire」に、プライベートリポジトリを無料で直接ホストする機能を追加した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "画像と本文をまとめて扱うLanceDB 〜pandasとの連携からキーワード・ベクトル検索まで〜",
+      "link": "https://gihyo.jp/article/2026/10/monthly-python-2610?utm_source=feed",
+      "pubDate": "2026-10-29T04:16:00.000Z",
+      "contentSnippet": "2026年10月の「Python Monthly Topics」は、画像やテキストをまとめて保存し、検索にも利用できるデータベースのLanceDBを紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Google、Gemini 4 Carbonを発表 ——長時間の開発作業と脆弱性の発見・修正を強化",
+      "link": "https://gihyo.jp/article/2026/10/gemini-4-carbon?utm_source=feed",
+      "pubDate": "2026-10-29T03:32:00.000Z",
+      "contentSnippet": "Googleは2026年10月28日、新しいAIモデル「Gemini 4 Carbon」を発表した。複数の工程にまたがる長時間の開発作業と、脆弱性の発見から修正までのサイバー防御で能力を高めたとしている。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Node.js 26.13.0リリース、コードネーム「Lithium」として長期サポート（LTS）に移行",
+      "link": "https://gihyo.jp/article/2026/10/node-js-26-13-0-lts?utm_source=feed",
+      "pubDate": "2026-10-29T01:46:00.000Z",
+      "contentSnippet": "Node.js開発チームは2026年10月28日、Node.js 26.13.0をリリースし、このバージョンからNode.js 26.xが「Lithium」というコードネームで長期サポート（LTS）に移行することを発表した。",
       "param": "gihyo_jp"
     },
     {
@@ -21,6 +77,13 @@
       "link": "https://gihyo.jp/article/2026/10/engineer-ai-sounding-board-01?utm_source=feed",
       "pubDate": "2026-10-29T00:15:00.000Z",
       "contentSnippet": "本連載は2026年9月刊行の『エンジニアのAI壁打ち実践術』から一部、抜粋・編集してお届けします。第1回目は、AIと私たちの関係性を整理し、エンジニアとして成長し続けるための関わり方について解説します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Google、Elephant-Goldfish Modelプラグインを公開 ——AIが設計文書の作成と検証を分担",
+      "link": "https://gihyo.jp/article/2026/10/elephant-goldfish-model-plugin?utm_source=feed",
+      "pubDate": "2026-10-28T11:04:00.000Z",
+      "contentSnippet": "Googleは2026年10月22日、AIを使ったソフトウェア開発で、実装前の設計とレビューを支援するElephant-Goldfish Model（EGM）プラグインのオープンソース公開を発表した。",
       "param": "gihyo_jp"
     },
     {
@@ -7122,17 +7185,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "自由か、それとも安全か。Androidで開発者認定を導入",
-      "link": "https://gihyo.jp/article/2025/09/android-weekly-topics-250904?utm_source=feed",
-      "pubDate": "2025-09-04T00:07:00.000Z",
-      "contentSnippet": "8月26日、GoogleはAndroid Developer BlogでPlayストア外からアプリをインストールする「サイドロード」の安全性を高めるために、開発者認証制度（Developer Verification）を導入する計画を発表し",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "みてね写真プリントML自動提案の仕組み",
       "link": "https://gihyo.jp/article/2025/09/mitene-12-printphoto?utm_source=feed",
       "pubDate": "2025-09-04T00:07:00.000Z",
       "contentSnippet": "みてね×gihyo.jpスペシャル企画。12回目はML自動提案による写真プリントの仕組みについて解説します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "自由か、それとも安全か。Androidで開発者認定を導入",
+      "link": "https://gihyo.jp/article/2025/09/android-weekly-topics-250904?utm_source=feed",
+      "pubDate": "2025-09-04T00:07:00.000Z",
+      "contentSnippet": "8月26日、GoogleはAndroid Developer BlogでPlayストア外からアプリをインストールする「サイドロード」の安全性を高めるために、開発者認証制度（Developer Verification）を導入する計画を発表し",
       "param": "gihyo_jp"
     },
     {
@@ -7493,17 +7556,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
-      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
       "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
+      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
       "param": "gihyo_jp"
     },
     {
@@ -7731,17 +7794,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "LangChain4jを使ってみよう",
-      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
       "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "LangChain4jを使ってみよう",
+      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -8235,17 +8298,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {
