@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "自前のPostgreSQLを任意の時刻まで戻せるBarmanが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610311/",
+      "pubDate": "2026-10-31T00:00:00.000Z",
+      "contentSnippet": "PostgreSQLのバックアップとWALを保管して指定した時刻の状態へ戻すBarmanの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "アイコンを意味で探せるIconsDBが良さげかも",
       "link": "https://kawarimidoll.com/posts/202610301/",
       "pubDate": "2026-10-30T00:00:00.000Z",
       "contentSnippet": "オープンソースのアイコンやロゴ、絵文字を自然言語で横断検索できるIconsDBの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "いまいるディレクトリに合ったコマンドを履歴から探すMcFlyが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610302/",
+      "pubDate": "2026-10-30T00:00:00.000Z",
+      "contentSnippet": "実行ディレクトリや直前のコマンドを考慮してシェルの履歴を並べ替えるMcFlyの紹介です。",
       "param": "kawarimidoll"
     },
     {
