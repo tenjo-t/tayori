@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "Markdownナレッジベースを履歴管理できるTolariaが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611011/",
+      "pubDate": "2026-11-01T00:00:00.000Z",
+      "contentSnippet": "Markdownのノート群をブロックエディタで書き、Gitで履歴を管理できるTolariaの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "自前のPostgreSQLを任意の時刻まで戻せるBarmanが良さげかも",
       "link": "https://kawarimidoll.com/posts/202610311/",
       "pubDate": "2026-10-31T00:00:00.000Z",
       "contentSnippet": "PostgreSQLのバックアップとWALを保管して指定した時刻の状態へ戻すBarmanの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "タスクを元に複数のコーディングエージェントを働かせるGas Cityが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202610312/",
+      "pubDate": "2026-10-31T00:00:00.000Z",
+      "contentSnippet": "複数のAIコーディングエージェントに並行して作業させるオーケストレータGas Cityの紹介です。",
       "param": "kawarimidoll"
     },
     {

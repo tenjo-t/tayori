@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "streamAppendHTML() で AI の回答を HTML のままストリーミング描画する",
+      "link": "https://azukiazusa.dev/blog/stream-append-html",
+      "pubDate": "2026-10-31T07:03:00.000Z",
+      "contentSnippet": "LLM の回答を逐次描画するとき、届いた文字列全体を毎回パースして DOM を置き換える実装では、要素が作り直され続けてテキストの選択状態が失われたりします。streamAppendHTML() は WritableStream を返し、届",
+      "param": "azukiazusa"
+    },
+    {
       "title": "Claude Code で MCP Tasks と Elicitation を試す",
       "link": "https://azukiazusa.dev/blog/claude-mcp-tasks-elicitations",
       "pubDate": "2026-10-27T03:06:00.000Z",
@@ -2545,17 +2552,17 @@
       "param": "azukiazusa"
     },
     {
-      "title": "Web アプリケーションエンジニアのためのウェブアクセシビリティの基礎",
-      "link": "https://azukiazusa.dev/blog/web-accessibility-basics-every-web-application-engineer-needs-to-know",
-      "pubDate": "2023-02-18T15:00:00.000Z",
-      "contentSnippet": "ウェブアプリケーションエンジニアを対象に、アクセシビリティの対応について解説した記事。アクセシビリティを向上させるためには、正しいHTMLの書き方が必要である。HTML要素には、アクセシビリティに関する機能が元々備わっているため、適切なHT",
-      "param": "azukiazusa"
-    },
-    {
       "title": "TypeScript + ESModules の開発環境をシュッと作る",
       "link": "https://azukiazusa.dev/blog/typescript-esmodules",
       "pubDate": "2023-02-18T15:00:00.000Z",
       "contentSnippet": "ほぼ設定なしで TypeScript + ESModules の開発環境をシュッと作る時のレシピです。",
+      "param": "azukiazusa"
+    },
+    {
+      "title": "Web アプリケーションエンジニアのためのウェブアクセシビリティの基礎",
+      "link": "https://azukiazusa.dev/blog/web-accessibility-basics-every-web-application-engineer-needs-to-know",
+      "pubDate": "2023-02-18T15:00:00.000Z",
+      "contentSnippet": "ウェブアプリケーションエンジニアを対象に、アクセシビリティの対応について解説した記事。アクセシビリティを向上させるためには、正しいHTMLの書き方が必要である。HTML要素には、アクセシビリティに関する機能が元々備わっているため、適切なHT",
       "param": "azukiazusa"
     },
     {
