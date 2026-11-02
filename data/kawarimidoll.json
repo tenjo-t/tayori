@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "コーディングエージェントに脆弱性を探させるdeepsecが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611021/",
+      "pubDate": "2026-11-02T00:00:00.000Z",
+      "contentSnippet": "コーディングエージェントにコードベースを読ませて脆弱性を探すdeepsecの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "Markdownナレッジベースを履歴管理できるTolariaが良さげかも",
       "link": "https://kawarimidoll.com/posts/202611011/",
       "pubDate": "2026-11-01T00:00:00.000Z",
       "contentSnippet": "Markdownのノート群をブロックエディタで書き、Gitで履歴を管理できるTolariaの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "データの意味をAIにも教えて検索させられるMarmotが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611012/",
+      "pubDate": "2026-11-01T00:00:00.000Z",
+      "contentSnippet": "データベースのテーブルやAPIなどの情報をまとめて検索でき、その情報をAIエージェントにも渡せるデータカタログMarmotの紹介です。",
       "param": "kawarimidoll"
     },
     {
