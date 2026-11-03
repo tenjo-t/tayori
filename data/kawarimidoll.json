@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "Helixのフォーク版エディタMitosが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611031/",
+      "pubDate": "2026-11-03T00:00:00.000Z",
+      "contentSnippet": "Helixの操作感をそのままにGit操作や画像プレビューなどの機能を追加したモーダルエディタMitosの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "コーディングエージェントに脆弱性を探させるdeepsecが良さげかも",
       "link": "https://kawarimidoll.com/posts/202611021/",
       "pubDate": "2026-11-02T00:00:00.000Z",
       "contentSnippet": "コーディングエージェントにコードベースを読ませて脆弱性を探すdeepsecの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "HerdrのGUIアプリ版が良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611022/",
+      "pubDate": "2026-11-02T00:00:00.000Z",
+      "contentSnippet": "AIエージェントを動かすターミナルをスペースごとに並べて作業状態を一覧できるHerdrの紹介です。",
       "param": "kawarimidoll"
     },
     {

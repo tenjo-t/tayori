@@ -3,6 +3,27 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "Claude Codeを使ったバイブコーディングで30分で業務アプリを作ってみよう",
+      "link": "https://gihyo.jp/article/2026/10/claude-business-guide-02?utm_source=feed",
+      "pubDate": "2026-11-03T00:00:00.000Z",
+      "contentSnippet": "10月27日（火）発売の書籍『Claude AI活用 最強の教科書』に書ききれなかった応用的な内容や最新のアップデートについて解説します。書籍をあわせて読むとさらに理解が深まることでしょう。\r\n今回は一歩進めて、業務アプリそのものを作ります",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "OpenAI、ChatGPTとCodexの利用枠を共有へ ―2026年12月から、Instantモードは対象外",
+      "link": "https://gihyo.jp/article/2026/11/chatgpt-and-codex-usage-limits?utm_source=feed",
+      "pubDate": "2026-11-02T05:30:00.000Z",
+      "contentSnippet": "OpenAIは、2026年12月からChatGPT Plus、Pro、Businessの利用枠をChatGPTとコーディングエージェントCodexで共有する予定であることを公式ヘルプページで案内した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "OpenAI・Google・Microsoft、robots.txtでAI学習の許可・拒否を一括指定する新たな仕組みに対応へ",
+      "link": "https://gihyo.jp/article/2026/11/robots-txt-ai-training-controls?utm_source=feed",
+      "pubDate": "2026-11-02T02:47:00.000Z",
+      "contentSnippet": "OpenAI、Google、Microsoftは2026年10月30日、robots.txtでWebコンテンツのAI学習利用を指定する新たな仕組みに対応する方針を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "第135回　MySQL 26.10リリース、PostgreSQL Conference Japanの注目セッション、Tsurugiと分散量子コンピュータ",
       "link": "https://gihyo.jp/article/2026/11/ossdb-various-news0135?utm_source=feed",
       "pubDate": "2026-11-02T00:00:00.000Z",
@@ -7213,17 +7234,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "自由か、それとも安全か。Androidで開発者認定を導入",
-      "link": "https://gihyo.jp/article/2025/09/android-weekly-topics-250904?utm_source=feed",
-      "pubDate": "2025-09-04T00:07:00.000Z",
-      "contentSnippet": "8月26日、GoogleはAndroid Developer BlogでPlayストア外からアプリをインストールする「サイドロード」の安全性を高めるために、開発者認証制度（Developer Verification）を導入する計画を発表し",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "みてね写真プリントML自動提案の仕組み",
       "link": "https://gihyo.jp/article/2025/09/mitene-12-printphoto?utm_source=feed",
       "pubDate": "2025-09-04T00:07:00.000Z",
       "contentSnippet": "みてね×gihyo.jpスペシャル企画。12回目はML自動提案による写真プリントの仕組みについて解説します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "自由か、それとも安全か。Androidで開発者認定を導入",
+      "link": "https://gihyo.jp/article/2025/09/android-weekly-topics-250904?utm_source=feed",
+      "pubDate": "2025-09-04T00:07:00.000Z",
+      "contentSnippet": "8月26日、GoogleはAndroid Developer BlogでPlayストア外からアプリをインストールする「サイドロード」の安全性を高めるために、開発者認証制度（Developer Verification）を導入する計画を発表し",
       "param": "gihyo_jp"
     },
     {
@@ -7584,17 +7605,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
-      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
       "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
+      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
       "param": "gihyo_jp"
     },
     {
@@ -7822,17 +7843,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "LangChain4jを使ってみよう",
-      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
       "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "LangChain4jを使ってみよう",
+      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -8326,17 +8347,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {
