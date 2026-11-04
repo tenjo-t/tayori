@@ -3,6 +3,13 @@
   "title": "blog.jxck.io",
   "items": [
     {
+      "title": "Stand-Up Tech Talk: エコシステム三部作",
+      "link": "https://blog.jxck.io/entries/2026-11-04/stand-up-tech-talk.html",
+      "pubDate": "2026-11-04T00:00:00.000Z",
+      "contentSnippet": "Stand-Up Tech Talk とは、スライドなし、マイク 1 本のみの登壇形式である。ここ 3 年かけて行った、Web のエコシステムに関する Stand-Up Tech Talk 三部作を公開する。",
+      "param": "blog_jxck"
+    },
+    {
       "title": "eMudhra のインシデントは Web にとって何を意味するのか",
       "link": "https://blog.jxck.io/entries/2026-10-25/emudhra.html",
       "pubDate": "2026-10-25T00:00:00.000Z",

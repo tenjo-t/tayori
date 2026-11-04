@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "省メモリでReact開発サーバーを動かせるojが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611041/",
+      "pubDate": "2026-11-04T00:00:00.000Z",
+      "contentSnippet": "Vite + Reactのアプリを設定を変えずに省メモリで開発・ビルド・型チェックできるojの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "Helixのフォーク版エディタMitosが良さげかも",
       "link": "https://kawarimidoll.com/posts/202611031/",
       "pubDate": "2026-11-03T00:00:00.000Z",
       "contentSnippet": "Helixの操作感をそのままにGit操作や画像プレビューなどの機能を追加したモーダルエディタMitosの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Rust向けGUIフレームワークのGPUI Kitが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611032/",
+      "pubDate": "2026-11-03T00:00:00.000Z",
+      "contentSnippet": "ZedのGPUIで表やコードエディタを使ったデスクトップアプリを作れるGPUI Kitの紹介です。",
       "param": "kawarimidoll"
     },
     {
