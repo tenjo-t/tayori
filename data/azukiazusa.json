@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "@custom-media でメディアクエリのプリセットを定義する",
+      "link": "https://azukiazusa.dev/blog/custom-media-presets",
+      "pubDate": "2026-11-04T08:17:00.000Z",
+      "contentSnippet": "同じメディアクエリを複数の CSS ファイルに書くと、ブレークポイントを変えるときにすべての箇所を書き換える必要があります。@custom-media はメディアクエリに --md のような名前を付ける at-rule で、入力方式やブレー",
+      "param": "azukiazusa"
+    },
+    {
       "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
       "link": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli",
       "pubDate": "2026-11-03T05:11:00.000Z",
