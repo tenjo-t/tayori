@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "AI向けに1トークンの単語でIDを作るid-agentが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611061/",
+      "pubDate": "2026-11-06T00:00:00.000Z",
+      "contentSnippet": "AIエージェントやLLM連携のツールを作るとき向けのIDライブラリid-agentの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "サンセリフも等幅もピクセルも同じ系統で揃えられるGeistが良さげかも",
       "link": "https://kawarimidoll.com/posts/202611051/",
       "pubDate": "2026-11-05T00:00:00.000Z",
       "contentSnippet": "Sans・Serif・Mono・Pixelがまとめて公開されているフォントファミリーGeistの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "コーディングエージェントCLIをチャットGUIから使えるWakuが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611052/",
+      "pubDate": "2026-11-05T00:00:00.000Z",
+      "contentSnippet": "複数種類のコーディングエージェントを共通のチャットGUIから使い分けられるWakuの紹介です。",
       "param": "kawarimidoll"
     },
     {

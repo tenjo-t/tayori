@@ -3,6 +3,62 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "Ubuntu 27.04（tenacious）の開発：Rustのための環境整備、LXDのセキュリティ更新、CVE-2026-98432",
+      "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202611/06?utm_source=feed",
+      "pubDate": "2026-11-06T00:41:00.000Z",
+      "contentSnippet": "Rust製ソフトウェアの利用環境の整備と、「Ubuntu上での、Rustを利用した開発」を支えるための基盤の整備が進められています。\r\n",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "PFN、翻訳特化LLM「PLaMo 3 Translate」のモデル重みを公開、0.8Bから31Bまで4サイズ",
+      "link": "https://gihyo.jp/article/2026/11/plamo-3-translate-open-weights?utm_source=feed",
+      "pubDate": "2026-11-05T11:27:18.000Z",
+      "contentSnippet": "Preferred Networks（PFN）は2026年11月5日、翻訳特化LLM「PLaMo 3 Translate」のモデル重みをHugging Faceで公開した。0.8B、2B、8B、31Bの4サイズを用意し、利用する機器や求める",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "GitHub Next、AI生成コードが仕様を満たすことを証明する「PDD Kit」を紹介",
+      "link": "https://gihyo.jp/article/2026/11/pdd-kit?utm_source=feed",
+      "pubDate": "2026-11-05T10:19:56.000Z",
+      "contentSnippet": "GitHub Nextは、Microsoft Researchと共同開発するProof-Driven Development Kit（PDD Kit）を紹介した。PDD Kitは、開発者との対話を通じて要求を機械で検証できる仕様にまとめ、A",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "DependabotがAgent Package Managerに正式対応、AIエージェント用スキルの更新もプルリクエストで提案",
+      "link": "https://gihyo.jp/article/2026/11/dependabot-support-agent-package-manager?utm_source=feed",
+      "pubDate": "2026-11-05T07:05:00.000Z",
+      "contentSnippet": "GitHubは2026年11月3日、Dependabotのバージョン更新機能でAgent Package Manager（APM）への対応が一般提供になったと発表した。Dependabotが、APMで管理するAIエージェント用のスキルやプロ",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "OpenAI、Linuxカーネルを最新セキュリティAIモデルで調査、ローカル権限昇格の脆弱性948件を実証 ―エクスプロイト、パッチまで生成",
+      "link": "https://gihyo.jp/article/2026/11/openai-linux-vulnerabilitiy-investigation?utm_source=feed",
+      "pubDate": "2026-11-05T06:53:00.000Z",
+      "contentSnippet": "OpenAIは2026年11月4日、開発中のサイバーセキュリティ向けAIモデルを活用し、Linuxカーネルの脆弱性をエージェントが自律的に発見し検証した結果を発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "ChatGPT Images 2.6がアニメーションGIFの作成に対応、APIではFlareとSunburstの新バージョンを提供",
+      "link": "https://gihyo.jp/article/2026/11/chatgpt-images-2-6?utm_source=feed",
+      "pubDate": "2026-11-05T03:12:57.000Z",
+      "contentSnippet": "OpenAIは2026年11月4日、ChatGPTの画像生成機能「ChatGPT Images 2.6」の提供を開始した。文章や静止画からアニメーションGIFを作る機能を順次提供している。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "PyCon Taiwan 2026 参加レポート",
+      "link": "https://gihyo.jp/article/2026/11/pycon-tw-2026?utm_source=feed",
+      "pubDate": "2026-11-05T01:51:00.000Z",
+      "contentSnippet": "2026年10月に台湾の台北で開催された、プログラミング言語Pythonのカンファレンス「PyCon Taiwan 2026」に参加してきたので、その様子をレポートします。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "12/12開催「PyCon mini Tokyo with PythonAsia conference」お勧めのトークセッション",
+      "link": "https://gihyo.jp/article/2026/11/pycontokyo-with-pao-speakers?utm_source=feed",
+      "pubDate": "2026-11-05T01:23:00.000Z",
+      "contentSnippet": "PyCon mini Tokyo with PythonAsia conferenceプログラム担当の3人が、それぞれ注目しているスピーカーや楽しみにしているポイントをお伝えします。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "Pixel 6 ProからPixel 11へ。5年越しの買い替えで変わったものと変わらなかったもの",
       "link": "https://gihyo.jp/article/2026/11/android-weekly-topics-261105?utm_source=feed",
       "pubDate": "2026-11-05T00:46:50.000Z",
@@ -7262,17 +7318,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "みてね写真プリントML自動提案の仕組み",
-      "link": "https://gihyo.jp/article/2025/09/mitene-12-printphoto?utm_source=feed",
-      "pubDate": "2025-09-04T00:07:00.000Z",
-      "contentSnippet": "みてね×gihyo.jpスペシャル企画。12回目はML自動提案による写真プリントの仕組みについて解説します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "自由か、それとも安全か。Androidで開発者認定を導入",
       "link": "https://gihyo.jp/article/2025/09/android-weekly-topics-250904?utm_source=feed",
       "pubDate": "2025-09-04T00:07:00.000Z",
       "contentSnippet": "8月26日、GoogleはAndroid Developer BlogでPlayストア外からアプリをインストールする「サイドロード」の安全性を高めるために、開発者認証制度（Developer Verification）を導入する計画を発表し",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "みてね写真プリントML自動提案の仕組み",
+      "link": "https://gihyo.jp/article/2025/09/mitene-12-printphoto?utm_source=feed",
+      "pubDate": "2025-09-04T00:07:00.000Z",
+      "contentSnippet": "みてね×gihyo.jpスペシャル企画。12回目はML自動提案による写真プリントの仕組みについて解説します。",
       "param": "gihyo_jp"
     },
     {
@@ -7633,17 +7689,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
-      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
       "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
+      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
       "param": "gihyo_jp"
     },
     {
@@ -7871,17 +7927,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
-      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "LangChain4jを使ってみよう",
       "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
+      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -8375,17 +8431,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {
