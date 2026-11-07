@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "複数のGitリポジトリの状態を一覧できるgitaが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611071/",
+      "pubDate": "2026-11-07T00:00:00.000Z",
+      "contentSnippet": "登録した複数のGitリポジトリの状態を並べて表示して一括でgitコマンドを実行できるgitaの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "AI向けに1トークンの単語でIDを作るid-agentが良さげかも",
       "link": "https://kawarimidoll.com/posts/202611061/",
       "pubDate": "2026-11-06T00:00:00.000Z",
       "contentSnippet": "AIエージェントやLLM連携のツールを作るとき向けのIDライブラリid-agentの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "オープンソース版のIntelliJ IDEAとPyCharmが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611062/",
+      "pubDate": "2026-11-06T00:00:00.000Z",
+      "contentSnippet": "JetBrains製IDEのオープンソース版IntelliJ IDEAとPyCharmを配布しているintellij-communityの紹介です。",
       "param": "kawarimidoll"
     },
     {
