@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "開発が止まったgit-flowを作り直したgit-flow-nextが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611081/",
+      "pubDate": "2026-11-08T00:00:00.000Z",
+      "contentSnippet": "開発が止まったgit-flowとgitflow-avhを元にGoで作り直されたgit-flow-nextの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "複数のGitリポジトリの状態を一覧できるgitaが良さげかも",
       "link": "https://kawarimidoll.com/posts/202611071/",
       "pubDate": "2026-11-07T00:00:00.000Z",
       "contentSnippet": "登録した複数のGitリポジトリの状態を並べて表示して一括でgitコマンドを実行できるgitaの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "表や図をその場で描画しながらMarkdownを書けるWriterが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611072/",
+      "pubDate": "2026-11-07T00:00:00.000Z",
+      "contentSnippet": "Markdownファイルの中で図表や数式を描画しながら編集できるMac向けの軽量エディタWriterの紹介です。",
       "param": "kawarimidoll"
     },
     {
