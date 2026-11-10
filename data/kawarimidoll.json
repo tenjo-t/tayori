@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "同僚とコーディングエージェントを共有できるLodyが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611101/",
+      "pubDate": "2026-11-10T00:00:00.000Z",
+      "contentSnippet": "ローカルやリモートのコーディングエージェントの会話を共有して指示を出せるLodyの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "URLで文章を共有できるWebエディタNanotypeが良さげかも",
       "link": "https://kawarimidoll.com/posts/202611091/",
       "pubDate": "2026-11-09T00:00:00.000Z",
       "contentSnippet": "アカウント不要で書いた文章をブラウザ内に保存するWebのテキストエディタNanotypeの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ブラウザのタブでシェルを開けるtweetyが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611092/",
+      "pubDate": "2026-11-09T00:00:00.000Z",
+      "contentSnippet": "ブラウザのタブやDevToolsの中でターミナルを開いて操作できるブラウザ拡張tweetyの紹介です。",
       "param": "kawarimidoll"
     },
     {

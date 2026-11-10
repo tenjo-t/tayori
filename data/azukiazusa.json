@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "Zed の UI フレームワーク GPUI で Rust のデスクトップ ToDo アプリを作る",
+      "link": "https://azukiazusa.dev/blog/gpui-todo-app",
+      "pubDate": "2026-11-08T14:53:00.000Z",
+      "contentSnippet": "Electron 製のデスクトップアプリはブラウザエンジンを同梱するため、メモリ使用量や描画性能に課題があります。GPUI は Zed のために開発された、GPU で描画する Rust の UI フレームワークで、Discord も採用を表",
+      "param": "azukiazusa"
+    },
+    {
       "title": "@json-render/chat で AI が組み立てたカードを Slack に投稿する",
       "link": "https://azukiazusa.dev/blog/json-render-chat-slack",
       "pubDate": "2026-11-08T05:38:00.000Z",
