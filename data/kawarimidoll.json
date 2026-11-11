@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "TypeScriptをNodeなしのネイティブバイナリにするscriptcが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611111/",
+      "pubDate": "2026-11-11T00:00:00.000Z",
+      "contentSnippet": "TypeScriptを単体の実行ファイルやWebAssemblyにコンパイルするscriptcの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "同僚とコーディングエージェントを共有できるLodyが良さげかも",
       "link": "https://kawarimidoll.com/posts/202611101/",
       "pubDate": "2026-11-10T00:00:00.000Z",
       "contentSnippet": "ローカルやリモートのコーディングエージェントの会話を共有して指示を出せるLodyの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "YAMLのlintと整形をまとめて速く回せるrylが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611102/",
+      "pubDate": "2026-11-10T00:00:00.000Z",
+      "contentSnippet": "YAMLのlintと自動修正とフォーマットをこなしてyamllintの設定も引き継げるrylの紹介です。",
       "param": "kawarimidoll"
     },
     {

@@ -3,6 +3,48 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "第1回　Gemini Intelligenceは機能の名前ではない。日本版の全体像を整理する",
+      "link": "https://gihyo.jp/article/2026/11/gemini-intelligence-01?utm_source=feed",
+      "pubDate": "2026-11-11T00:16:00.000Z",
+      "contentSnippet": "本連載では、2026年5月に発表され、夏から各種Android端末に搭載されているAI機能群「Gemini Intelligence」について解説します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "OpenAIのdots、複数のローカルPCを接続してタスクに使うPCを選択可能に",
+      "link": "https://gihyo.jp/article/2026/11/openai-dots-multiple-local-computers?utm_source=feed",
+      "pubDate": "2026-11-10T10:50:26.000Z",
+      "contentSnippet": "OpenAIは2026年11月9日、パーソナルAIエージェントのdotsで、1つのdotに複数のローカルPCを接続し、タスクに使うPCを選べるようになったと、開発者向け公式Xアカウントで案内した。ユーザーがノートPCでコードを書き続ける間、",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "MetaのパーソナルAIエージェント「Muse」、Apple WatchとWear OSに対応",
+      "link": "https://gihyo.jp/article/2026/11/muse-watch-device?utm_source=feed",
+      "pubDate": "2026-11-10T07:30:38.000Z",
+      "contentSnippet": "Metaは2026年11月9日、パーソナルAIエージェント「Muse」がApple WatchとWear OS搭載スマートウォッチで利用可能になったと、Museの公式Threadsアカウントで発表した。Wear OSは、Googleが提供す",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Meta、小型AIモデル「Muse Ember」を発表 ——エージェントが繰り返す処理を低コストに",
+      "link": "https://gihyo.jp/article/2026/11/muse-ember?utm_source=feed",
+      "pubDate": "2026-11-10T06:57:51.000Z",
+      "contentSnippet": "Metaは2026年11月9日、ツール呼び出しやコード修正、文書解析など、AIエージェントが繰り返す処理を低コストで実行するための小型モデルMuse Emberを発表した。同日から、コーディングエージェントのMuse Codeと、アプリケー",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "声帯や肺をシミュレートして声を合成する「CHIMERA Vocal Synth」公開 ―Rust製、ブラウザから操作する音声シンセサイザー",
+      "link": "https://gihyo.jp/article/2026/11/chimera-vocal-synth?utm_source=feed",
+      "pubDate": "2026-11-10T05:46:00.000Z",
+      "contentSnippet": "ソフトウェアエンジニアのJameson Hodge氏は2026年11月7日、肺や声帯、声道などを物理モデルで再現して音を作る音声シンセサイザー「CHIMERA Vocal Synth」を公開した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Anthropic、Claude Fable 5.2とMythos 5.2を発表  ——推論や画像理解を改善、長時間のエージェント作業も強化",
+      "link": "https://gihyo.jp/article/2026/11/claude-fable-and-mythos-5.2?utm_source=feed",
+      "pubDate": "2026-11-10T04:39:15.000Z",
+      "contentSnippet": "Anthropicは2026年11月9日、AIモデルClaude Fable 5.2とClaude Mythos 5.2を発表した。コーディングや画像理解を改善し、複雑な推論や長時間にわたるエージェント作業の性能を高めたという。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "Claude CodeでAIの記憶を永続的にして、成果物のクオリティをアップさせよう",
       "link": "https://gihyo.jp/article/2026/11/claude-business-guide-03?utm_source=feed",
       "pubDate": "2026-11-10T00:00:28.000Z",
@@ -7388,17 +7430,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "自由か、それとも安全か。Androidで開発者認定を導入",
-      "link": "https://gihyo.jp/article/2025/09/android-weekly-topics-250904?utm_source=feed",
-      "pubDate": "2025-09-04T00:07:00.000Z",
-      "contentSnippet": "8月26日、GoogleはAndroid Developer BlogでPlayストア外からアプリをインストールする「サイドロード」の安全性を高めるために、開発者認証制度（Developer Verification）を導入する計画を発表し",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "みてね写真プリントML自動提案の仕組み",
       "link": "https://gihyo.jp/article/2025/09/mitene-12-printphoto?utm_source=feed",
       "pubDate": "2025-09-04T00:07:00.000Z",
       "contentSnippet": "みてね×gihyo.jpスペシャル企画。12回目はML自動提案による写真プリントの仕組みについて解説します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "自由か、それとも安全か。Androidで開発者認定を導入",
+      "link": "https://gihyo.jp/article/2025/09/android-weekly-topics-250904?utm_source=feed",
+      "pubDate": "2025-09-04T00:07:00.000Z",
+      "contentSnippet": "8月26日、GoogleはAndroid Developer BlogでPlayストア外からアプリをインストールする「サイドロード」の安全性を高めるために、開発者認証制度（Developer Verification）を導入する計画を発表し",
       "param": "gihyo_jp"
     },
     {
@@ -7759,17 +7801,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
-      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
       "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
+      "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
       "param": "gihyo_jp"
     },
     {
@@ -7997,17 +8039,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "LangChain4jを使ってみよう",
-      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
       "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "LangChain4jを使ってみよう",
+      "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -8501,17 +8543,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
       "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
       "param": "gihyo_jp"
     },
     {
