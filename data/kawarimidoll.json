@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "ブラウザ履歴を自分の検索エンジンにするhisterが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611121/",
+      "pubDate": "2026-11-12T00:00:00.000Z",
+      "contentSnippet": "訪れたWebページと手元のファイルを全文検索するhisterの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "TypeScriptをNodeなしのネイティブバイナリにするscriptcが良さげかも",
       "link": "https://kawarimidoll.com/posts/202611111/",
       "pubDate": "2026-11-11T00:00:00.000Z",
       "contentSnippet": "TypeScriptを単体の実行ファイルやWebAssemblyにコンパイルするscriptcの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "curlで落としたスクリプトを実行前に検査するbashkaが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611112/",
+      "pubDate": "2026-11-11T00:00:00.000Z",
+      "contentSnippet": "curlとパイプでつなぐインストール手順に挟んで使える検査ツールbashkaの紹介です。",
       "param": "kawarimidoll"
     },
     {

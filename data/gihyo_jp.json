@@ -3,6 +3,69 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "第934回　今あえてのCDリッピングアプリ、GrimRipper",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0934?utm_source=feed",
+      "pubDate": "2026-11-12T00:20:00.000Z",
+      "contentSnippet": "今回はCDリッピングアプリのGrimRipperを紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "「UIを作る手前」を伝える仕事の型――cenco岡部千幸さんが現場に根づかせる人間中心設計",
+      "link": "https://gihyo.jp/article/2026/11/hcd-net-2026?utm_source=feed",
+      "pubDate": "2026-11-12T00:05:00.000Z",
+      "contentSnippet": "毎年恒例、HCD-Net認定人間中心設計スペシャリスト／専門家へのインタビュー。2026年は、株式会社cenco 岡部千幸さんに、HCDのプロセスに沿った「型」の使い方と、資格取得がもたらした変化伺いました。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "小さな番人の8年。Titan MからM3へ、Pixelのセキュリティチップ進化史",
+      "link": "https://gihyo.jp/article/2026/11/android-weekly-topics-261112?utm_source=feed",
+      "pubDate": "2026-11-12T00:00:00.000Z",
+      "contentSnippet": "2018年のPixel 3で登場したTitan Mは、Googleのデータセンタを守るTitanの系譜を引く、スマホ向けのセキュリティ専用チップです。2026年のPixel 11で3世代目のTitan M3へ進み、8年の間に番人の仕事は大き",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Python 3.15の新プロファイラーTachyonの紹介",
+      "link": "https://gihyo.jp/article/2026/11/monthly-python-2611?utm_source=feed",
+      "pubDate": "2026-11-12T00:00:00.000Z",
+      "contentSnippet": "今月の「Python Monthly Topics」では、Python 3.15で追加された新しいプロファイラー「Tachyon」（profiling.sampling）を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "AIに複数の案を出してもらい、比較して判断力を鍛える",
+      "link": "https://gihyo.jp/article/2026/10/engineer-ai-sounding-board-03?utm_source=feed",
+      "pubDate": "2026-11-11T23:55:00.000Z",
+      "contentSnippet": "本連載は2026年9月刊行の『エンジニアのAI壁打ち実践術』から一部、抜粋・編集してお届けします。第3回目は、AIの出した複数案を比較し、どれが最も妥当かを見極める「判断力」を鍛える方法について解説します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "U-22プログラミング・コンテスト2026 最終審査に進む16作品が決定",
+      "link": "https://gihyo.jp/article/2026/11/u22-procon-1st-round-result?utm_source=feed",
+      "pubDate": "2026-11-11T23:52:00.000Z",
+      "contentSnippet": "U-22プログラミング・コンテスト実行委員会は一次審査を実施し、最終審査に進む16作品を決定した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "OpenAI、事業者がChatGPTに商品情報などを提供できる「Businesses in ChatGPT」をベータ公開 ——米国の対象事業者には、質問に答えるBusiness Agentも提供",
+      "link": "https://gihyo.jp/article/2026/11/openai-businesses-in-chatgpt?utm_source=feed",
+      "pubDate": "2026-11-11T11:17:30.000Z",
+      "contentSnippet": "OpenAIは2026年11月10日、事業者向けのBusinesses in ChatGPTのベータ提供を開始した。事業者は、プロフィールの管理権限の申請と本人確認が承認されると、紹介文や商品情報などをChatGPTに提供し、ChatGPT",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Anthropic、Claude Sheets・Whiteboardsをベータ提供、Claude Dataは一般提供へ ——インタラクティブコネクターも更新、対応アプリをチャットの横や全画面で操作可能に",
+      "link": "https://gihyo.jp/article/2026/11/claude-whiteboards-and-sheets-and-data-and-interactive-connectors?utm_source=feed",
+      "pubDate": "2026-11-11T08:26:07.000Z",
+      "contentSnippet": "Anthropicは2026年11月10日、Claude内で利用者やチームがAIと共同編集できる表計算機能「Claude Sheets」とホワイトボード機能「Claude Whiteboards」のベータ提供を開始した。データ分析機能のCl",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Microsoft、.NET 11を正式リリース  ——C# 15にunion型を導入、CLIの起動負荷を削減",
+      "link": "https://gihyo.jp/article/2026/11/dotnet-11?utm_source=feed",
+      "pubDate": "2026-11-11T04:22:13.000Z",
+      "contentSnippet": "Microsoftは2026年11月10日、アプリケーション開発基盤.NETの新バージョン「.NET 11」を正式リリースした。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "第1回　Gemini Intelligenceは機能の名前ではない。日本版の全体像を整理する",
       "link": "https://gihyo.jp/article/2026/11/gemini-intelligence-01?utm_source=feed",
       "pubDate": "2026-11-11T00:16:00.000Z",
@@ -7430,17 +7493,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "みてね写真プリントML自動提案の仕組み",
-      "link": "https://gihyo.jp/article/2025/09/mitene-12-printphoto?utm_source=feed",
-      "pubDate": "2025-09-04T00:07:00.000Z",
-      "contentSnippet": "みてね×gihyo.jpスペシャル企画。12回目はML自動提案による写真プリントの仕組みについて解説します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "自由か、それとも安全か。Androidで開発者認定を導入",
       "link": "https://gihyo.jp/article/2025/09/android-weekly-topics-250904?utm_source=feed",
       "pubDate": "2025-09-04T00:07:00.000Z",
       "contentSnippet": "8月26日、GoogleはAndroid Developer BlogでPlayストア外からアプリをインストールする「サイドロード」の安全性を高めるために、開発者認証制度（Developer Verification）を導入する計画を発表し",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "みてね写真プリントML自動提案の仕組み",
+      "link": "https://gihyo.jp/article/2025/09/mitene-12-printphoto?utm_source=feed",
+      "pubDate": "2025-09-04T00:07:00.000Z",
+      "contentSnippet": "みてね×gihyo.jpスペシャル企画。12回目はML自動提案による写真プリントの仕組みについて解説します。",
       "param": "gihyo_jp"
     },
     {
@@ -7801,17 +7864,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
-      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
       "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
+      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
       "param": "gihyo_jp"
     },
     {
@@ -8039,17 +8102,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
-      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "LangChain4jを使ってみよう",
       "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
+      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -8543,17 +8606,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {
