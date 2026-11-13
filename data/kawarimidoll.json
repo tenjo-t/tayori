@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "MacBookの画面の角をタップして操作できるLidTapが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611131/",
+      "pubDate": "2026-11-13T00:00:00.000Z",
+      "contentSnippet": "タッチ操作非搭載のMacBookの画面タップをモーションセンサーで検出して操作するLidTapの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "ブラウザ履歴を自分の検索エンジンにするhisterが良さげかも",
       "link": "https://kawarimidoll.com/posts/202611121/",
       "pubDate": "2026-11-12T00:00:00.000Z",
       "contentSnippet": "訪れたWebページと手元のファイルを全文検索するhisterの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "コードベースから重複した箇所を探せるjscpdが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611122/",
+      "pubDate": "2026-11-12T00:00:00.000Z",
+      "contentSnippet": "プロジェクトのソースコードの中から重複したコードや使われていないコードを洗い出せるjscpdの紹介です。",
       "param": "kawarimidoll"
     },
     {
