@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "Raycast拡張も動くMac用の軽量ランチャーTinycastが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611141/",
+      "pubDate": "2026-11-14T00:00:00.000Z",
+      "contentSnippet": "Raycastの拡張機能も動かせるmacOS用コマンドランチャーTinycastの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "MacBookの画面の角をタップして操作できるLidTapが良さげかも",
       "link": "https://kawarimidoll.com/posts/202611131/",
       "pubDate": "2026-11-13T00:00:00.000Z",
       "contentSnippet": "タッチ操作非搭載のMacBookの画面タップをモーションセンサーで検出して操作するLidTapの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "スクショを物干しロープに吊るすTendederoが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611132/",
+      "pubDate": "2026-11-13T00:00:00.000Z",
+      "contentSnippet": "撮ったスクリーンショットをメニューバーの下に張ったロープへ吊るして表示するmacOSアプリTendederoの紹介です。",
       "param": "kawarimidoll"
     },
     {
