@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "動きながら自分を書き換えられるLispエージェントAutolithが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611151/",
+      "pubDate": "2026-11-15T00:00:00.000Z",
+      "contentSnippet": "Common Lispの実行環境を内蔵し、自分自身も書き換えられるターミナルエージェントAutolithの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "Raycast拡張も動くMac用の軽量ランチャーTinycastが良さげかも",
       "link": "https://kawarimidoll.com/posts/202611141/",
       "pubDate": "2026-11-14T00:00:00.000Z",
       "contentSnippet": "Raycastの拡張機能も動かせるmacOS用コマンドランチャーTinycastの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Zig製の軽量コーディングエージェントfxが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611142/",
+      "pubDate": "2026-11-14T00:00:00.000Z",
+      "contentSnippet": "Zigで書かれ、他のプログラムへの組み込みもできる軽量なコーディングエージェントfxの紹介です。",
       "param": "kawarimidoll"
     },
     {
