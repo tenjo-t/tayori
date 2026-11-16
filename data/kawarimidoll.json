@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "ロボット掃除機がMacのデスクトップを片付けるRoboDustが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611161/",
+      "pubDate": "2026-11-16T00:00:00.000Z",
+      "contentSnippet": "ロボット掃除機がMacのデスクトップを走り回ってファイルを吸い込んで整理してくれるRoboDustの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "動きながら自分を書き換えられるLispエージェントAutolithが良さげかも",
       "link": "https://kawarimidoll.com/posts/202611151/",
       "pubDate": "2026-11-15T00:00:00.000Z",
       "contentSnippet": "Common Lispの実行環境を内蔵し、自分自身も書き換えられるターミナルエージェントAutolithの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "TypeScriptで拡張できるコーディングエージェントzalyが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611152/",
+      "pubDate": "2026-11-15T00:00:00.000Z",
+      "contentSnippet": "TypeScriptでプラグインを書いて拡張できるコーディングエージェントzalyの紹介です。",
       "param": "kawarimidoll"
     },
     {

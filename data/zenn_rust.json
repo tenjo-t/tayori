@@ -4,6 +4,94 @@
   "description": "Zennのトピック「Rust」のRSSフィードです",
   "items": [
     {
+      "creator": "Esperanza",
+      "title": "Rust+TinyMLで構築するエッジAIカメラ：MCU上でのオンデバイス推論実装と、ハード/AI複合プロダクトにおけるPMの指標管理",
+      "link": "https://zenn.dev/esperanza/articles/auto-20261115-092631",
+      "pubDate": "2026-11-16T00:00:18.000Z",
+      "contentSnippet": "クラウド依存のAIシステムから、プライバシー、レイテンシ、通信コスト、耐障害性の観点から「エッジAI（オンデバイスAI）」への移行が加速しています。特にマイコン（MCU）クラスでAIモデルを実行する TinyML は、ハードウェアリソースが",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "akitenkrad",
+      "title": "ゲーム理論×シミュレーション: 囚人のジレンマの定式化と Rust による実装",
+      "link": "https://zenn.dev/akitenkrad/articles/558ng5mfsytahb",
+      "pubDate": "2026-11-15T23:00:08.000Z",
+      "contentSnippet": "囚人のジレンマ は 2 人の囚人が別々に取り調べを受け，黙秘して相棒に協力するか，自白して相棒を裏切るかを選ぶシナリオで有名なゲーム理論のテーマです．\n単純なケースでは 2 人の囚人は自分の刑期が最も短くなるように合理的に行動した結果，2 ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "ゴ エンチョウ",
+      "title": "「当時、何が真だったか」に答えるスクレイパー —— PageSift 1.5「Loop」の設計",
+      "link": "https://zenn.dev/yolow92/articles/f1ab30fba47d93",
+      "pubDate": "2026-11-15T18:49:04.000Z",
+      "contentSnippet": "この記事の前提\nスクレイピングツールが答えるのは、たいてい1つの問いだけです。「このページは今、何と言っているか？」\nしかし、Web から定期的にデータを取る仕事をしていると、必要になるのはだいたい次の3つです。\n\n昨日から何が変わったか？",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "pdfractal",
+      "title": "なぜ、LLM周りのPythonをRustに置き換えた方が良いと主張する人の多くは大きな勘違いをしているのか？",
+      "link": "https://zenn.dev/pdfractal/articles/b35e1bcd993d81",
+      "pubDate": "2026-11-15T17:23:50.000Z",
+      "contentSnippet": "はじめに\n近年、プログラミング言語としてRustの評価が高まっています。C++に匹敵する実行性能を持ちながら、メモリ安全性や並行処理の安全性を言語仕様によって確保できるという特徴は、システムソフトウェアの開発において大きな魅力です。そして、",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "May",
+      "title": "GenBGTに2つの機能を追加！交通予約通知とClaude APIによるスケジュール自動入力",
+      "link": "https://zenn.dev/may04re/articles/3b19f343bb6742",
+      "pubDate": "2026-11-15T11:19:46.000Z",
+      "contentSnippet": "個人開発しているライブ予定・費用管理アプリ「GenBGT」に、本日2026年11月15日、2つの機能を追加しました。\n\n交通情報の予約開始日時の管理・通知機能\nURL・画像からのスケジュール自動入力機能\n\n今回はどちらもCodexを使用して",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "tetsunabe",
+      "title": "ROS 2 × Gazebo でGPSを使わずに飛ぶドローンをシミュレーションする（2）Podman で開発環境を作る",
+      "link": "https://zenn.dev/tetsunabe/articles/drone-sitl-02-dev-container",
+      "pubDate": "2026-11-15T08:14:36.000Z",
+      "contentSnippet": "この記事でやること\nROS 2・Gazebo・PX4・Rust・Python が混ざったシミュレーション環境を、Podman のコンテナ 1 つにまとめます。\nホストに必要なのは Podman と make だけで、次の 2 行で Gaze",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "tetsunabe",
+      "title": "ROS 2 × Gazebo でGPSを使わずに飛ぶドローンをシミュレーションする（1）連載のはじめに",
+      "link": "https://zenn.dev/tetsunabe/articles/drone-sitl-01-introduction",
+      "pubDate": "2026-11-15T08:14:09.000Z",
+      "contentSnippet": "この連載について\nドローンの自律飛行は、GNSS（GPS）で自分の位置が分かることを前提にしています。\nところが、高い建物の谷間や橋の下、電波が妨害される場所では GNSS が届かなくなります。\n位置を見失ったドローンは慣性センサー（IMU",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nogu3",
+      "title": "照明の色と明るさをスマホで操作、2段シートで任意色は保存せず",
+      "link": "https://zenn.dev/nogu3/articles/mando-light-color-brightness-sheet",
+      "pubDate": "2026-11-15T06:15:18.000Z",
+      "contentSnippet": "家族が触るmandoの照明タイルは、最初は点ける・消すのボタンと、電球色・白色といった決まったプリセットのチップだけでした。それで十分な場面がほとんどですが、2つだけ物足りない瞬間があります。来客が「もっと違う色もできるの?」と言う場面と、",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "takeru",
+      "title": "ベリとクロウのOS自作 第3巻 打った文字が返ってきて、tickが出る",
+      "link": "https://zenn.dev/takeru/books/my-rust-raspi-os-3",
+      "pubDate": "2026-11-15T02:20:05.000Z",
+      "contentSnippet": "第2巻で実機から文字を出したベリが、受信、シリアルでのカーネル転送、小さなシェル、EL1、例外ベクタ、タイマー割り込みを作り、Raspberry Pi 3の実機で「打った文字が返ってきて、そのあいだも1秒ごとにtickが出る」まで進む漫画と",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "takeru",
+      "title": "ベリとクロウのOS自作 第2巻 println!を作って実機で動かす",
+      "link": "https://zenn.dev/takeru/books/my-rust-raspi-os-2",
+      "pubDate": "2026-11-15T02:19:58.000Z",
+      "contentSnippet": "第1巻でHelloを出したベリが、Rustの型、トレイト、マクロを覚えながらprintln!を自作し、UARTを初期化して、Raspberry Pi 3の実機から文字を出すまでの漫画と会話の本です。実際の会話と実験をもとに書いています。",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "Hridya Agrawal",
+      "title": "Claude CodeにAndroidとiPhoneを操作させるMCPサーバー「phonedriver」を公開しました",
+      "link": "https://zenn.dev/hridaya423/articles/fba2811d943de1",
+      "pubDate": "2026-11-14T20:22:59.000Z",
+      "contentSnippet": "phonedriver とは\nphonedriver は、Claude Code、Codex、Cursor などの AI エージェントが Android スマートフォンや iPhone を操作できるようにする、Rust 製のオープンソース（",
+      "param": "zenn_rust"
+    },
+    {
       "creator": "shiba-tamago",
       "title": "Kitesurfを実際に動かしてみた。Chromiumなしの軽量ブラウザエンジンでJS実行と描画を試す",
       "link": "https://zenn.dev/shibatamago_dev/articles/kitesurf-hands-on",
@@ -29,7 +117,7 @@
     },
     {
       "creator": "いとけん",
-      "title": "AI に Excel を読ませるなら、Python より3〜13倍速く、メモリ使用量は最大92%減",
+      "title": "Excel を読む道具を AI に渡したら、Python より3〜13倍速く、メモリ使用量は最大92%減",
       "link": "https://zenn.dev/itoken_lab/articles/excel-read-fast-light",
       "pubDate": "2026-11-14T12:30:35.000Z",
       "contentSnippet": "Claude Code などの AI エージェントに Excel を読ませると、Python のライブラリを入れ、スクリプトを書き、動かしては直す往復が始まります。表が大きいと、そのスクリプトも重くなります。excel-read は、Ski",
@@ -1030,7 +1118,7 @@
     {
       "creator": "yuuki0206",
       "title": "Agentの思考量に応じてキーボードが\"カチャカチャ\" 鳴るアプリを使った",
-      "link": "https://zenn.dev/yumemi_inc/articles/72eb6c94e58e6b",
+      "link": "https://zenn.dev/yuuki0206/articles/72eb6c94e58e6b",
       "pubDate": "2026-10-22T12:35:04.000Z",
       "contentSnippet": "Claude Code に仕事を投げたあと、ターミナルの Thinking... をぼーっと眺めている時間、ありませんか。\n自分はかなりあります。で、ある日思いました。\n「これ、横で誰かがタイピングしてる音がしたら、ちょっと楽しくない？」\n",
       "param": "zenn_rust"
@@ -1038,17 +1126,9 @@
     {
       "creator": "yuuki0206",
       "title": "Agentの思考量に応じてキーボードが\"カチャカチャ\" 鳴るアプリを使った",
-      "link": "https://zenn.dev/yuuki0206/articles/72eb6c94e58e6b",
+      "link": "https://zenn.dev/yumemi_inc/articles/72eb6c94e58e6b",
       "pubDate": "2026-10-22T12:35:04.000Z",
       "contentSnippet": "Claude Code に仕事を投げたあと、ターミナルの Thinking... をぼーっと眺めている時間、ありませんか。\n自分はかなりあります。で、ある日思いました。\n「これ、横で誰かがタイピングしてる音がしたら、ちょっと楽しくない？」\n",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "ar1",
-      "title": "「戻せる削除」と「戻せない削除」をどう扱うか。sasurahime の Cleaner trait と --yes の設計",
-      "link": "https://zenn.dev/ar1/articles/sasurahime-v030-internals",
-      "pubDate": "2026-10-22T11:07:02.000Z",
-      "contentSnippet": "ファイルを消す CLI は、機能の追加より「消さない仕組み」の設計が難しいです。sasurahime は macOS の開発キャッシュを消すツールで、対象は 51、テストは 752 件あります。この記事では、削除の契約、--yes の範囲を",
       "param": "zenn_rust"
     },
     {
@@ -1057,6 +1137,14 @@
       "link": "https://zenn.dev/ar1/articles/sasurahime-v030-story",
       "pubDate": "2026-10-22T11:07:02.000Z",
       "contentSnippet": "macOS の「システムデータ」が 135 GB ありました。ストレージ画面にはそう表示されますが、中身は見えません。Apple はシステムデータを明確に定義していません。キャッシュ、ログ、アプリの補助ファイル、仮想マシンのディスクイメージ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "ar1",
+      "title": "「戻せる削除」と「戻せない削除」をどう扱うか。sasurahime の Cleaner trait と --yes の設計",
+      "link": "https://zenn.dev/ar1/articles/sasurahime-v030-internals",
+      "pubDate": "2026-10-22T11:07:02.000Z",
+      "contentSnippet": "ファイルを消す CLI は、機能の追加より「消さない仕組み」の設計が難しいです。sasurahime は macOS の開発キャッシュを消すツールで、対象は 51、テストは 752 件あります。この記事では、削除の契約、--yes の範囲を",
       "param": "zenn_rust"
     },
     {
@@ -3773,18 +3861,18 @@
     },
     {
       "creator": "ohtani",
-      "title": "Test Driven Development for Embedded Rust 3",
-      "link": "https://zenn.dev/tk23ohtani/articles/embedded_tdd_rust_3",
-      "pubDate": "2026-08-01T03:23:46.000Z",
-      "contentSnippet": "テスト駆動開発による組み込みRustプログラミング 3\nこの章では FakeLed を実 GPIO に置き換え、\nLedDriver -> PD12 -> PB1 の電気的経路をテストで確認します。\nサンプルコードは こちら に。\n\n 到達",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "ohtani",
       "title": "Test Driven Development for Embedded Rust 2",
       "link": "https://zenn.dev/tk23ohtani/articles/embedded_tdd_rust_2",
       "pubDate": "2026-08-01T03:23:46.000Z",
       "contentSnippet": "テスト駆動開発による組み込みRustプログラミング 2\nこの章では、logic で作った同じ要求を STM32 上で再実行します。\nまだ実 LED は触らず、FakeLed + Cell<bool> のままターゲット実行します。\nサンプルコ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "ohtani",
+      "title": "Test Driven Development for Embedded Rust 3",
+      "link": "https://zenn.dev/tk23ohtani/articles/embedded_tdd_rust_3",
+      "pubDate": "2026-08-01T03:23:46.000Z",
+      "contentSnippet": "テスト駆動開発による組み込みRustプログラミング 3\nこの章では FakeLed を実 GPIO に置き換え、\nLedDriver -> PD12 -> PB1 の電気的経路をテストで確認します。\nサンプルコードは こちら に。\n\n 到達",
       "param": "zenn_rust"
     },
     {
@@ -4461,18 +4549,18 @@
     },
     {
       "creator": "wurly",
-      "title": "ESP32でWASMアプリを動かす (1) 構想と調査・計画",
-      "link": "https://zenn.dev/wurly/articles/dede7d02e0329f",
-      "pubDate": "2026-07-11T23:55:34.000Z",
-      "contentSnippet": "この連載が最終的に到達した状態を、実機で動かしている動画です。\nhttps://youtu.be/UdiFrxvP_qg\n\n この連載について\n!\n本連載は、PoC（調査・実装・実機検証・計測）も記事の執筆も、ほぼすべて AI（Claude",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "wurly",
       "title": "ESP32でWASMアプリを動かす (5) 実機で計測する",
       "link": "https://zenn.dev/wurly/articles/e2547c3b6fbcc7",
       "pubDate": "2026-07-11T23:55:34.000Z",
       "contentSnippet": "はじめに\n連載「ESP32でWASMアプリを動かす」の第 5 回、Phase 4 です。ここまでで「同一の .wasm が実機と Linux で動く」ところまで来ました。今回は PoC 完了条件の残り半分、実機での定量計測です。\n!\n本連載",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "wurly",
+      "title": "ESP32でWASMアプリを動かす (1) 構想と調査・計画",
+      "link": "https://zenn.dev/wurly/articles/dede7d02e0329f",
+      "pubDate": "2026-07-11T23:55:34.000Z",
+      "contentSnippet": "この連載が最終的に到達した状態を、実機で動かしている動画です。\nhttps://youtu.be/UdiFrxvP_qg\n\n この連載について\n!\n本連載は、PoC（調査・実装・実機検証・計測）も記事の執筆も、ほぼすべて AI（Claude",
       "param": "zenn_rust"
     },
     {
@@ -4709,18 +4797,18 @@
     },
     {
       "creator": "nakahide",
-      "title": "NDPC-Iの学習記録",
-      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-i",
-      "pubDate": "2026-07-04T12:00:08.000Z",
-      "contentSnippet": "問題のリンク\n\n\n 問題概要\n長さ N の数列の要素を並び替えて、1列に並べる。\nこのとき、左からの最大値更新回数（prefix max）が L 回、右からの最大値更新回数（suffix max）が R 回となる並べ方の総数を9982443",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "nakahide",
       "title": "NDPC-Hの学習記録",
       "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-h",
       "pubDate": "2026-07-04T12:00:08.000Z",
       "contentSnippet": "問題のリンク\n\n\n 問題概要\nN \\times N のグリッドの左上 (1,1) から右下 (N,N) まで、右または下への移動を繰り返してコインを拾いながら進みます。\n「手持ちのコインがちょうど x 枚である状態で、そのマスに滞在する可能",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "NDPC-Iの学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-i",
+      "pubDate": "2026-07-04T12:00:08.000Z",
+      "contentSnippet": "問題のリンク\n\n\n 問題概要\n長さ N の数列の要素を並び替えて、1列に並べる。\nこのとき、左からの最大値更新回数（prefix max）が L 回、右からの最大値更新回数（suffix max）が R 回となる並べ方の総数を9982443",
       "param": "zenn_rust"
     },
     {
@@ -4781,18 +4869,18 @@
     },
     {
       "creator": "tomohisa",
-      "title": "イベントソーシングとWasmは相性がいい: SekibanWasmRuntimeが目指す多言語ES+CQRS",
-      "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-concept",
-      "pubDate": "2026-07-02T00:02:18.000Z",
-      "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nSekiban という、C# のイベントソーシング / CQRS フレームワークを作っています。\nhttps://github.com/J-Tech-Japan/Seki",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "tomohisa",
       "title": "Wasm でイベントソーシングを動かす: C# と Rust のドメインコードで試す",
       "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-public-container",
       "pubDate": "2026-07-02T00:02:18.000Z",
       "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nこの記事では、SekibanWasmRuntime を公開済みの package と public container で動かす流れを確認します。ランタイム本体は C# ",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "tomohisa",
+      "title": "イベントソーシングとWasmは相性がいい: SekibanWasmRuntimeが目指す多言語ES+CQRS",
+      "link": "https://zenn.dev/jtechjapan_pub/articles/sekiban-wasm-runtime-concept",
+      "pubDate": "2026-07-02T00:02:18.000Z",
+      "contentSnippet": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。\nSekiban という、C# のイベントソーシング / CQRS フレームワークを作っています。\nhttps://github.com/J-Tech-Japan/Seki",
       "param": "zenn_rust"
     },
     {
@@ -4997,18 +5085,18 @@
     },
     {
       "creator": "nakahide",
-      "title": "Next DP Contest（NDPC）の学習記録",
-      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-top",
-      "pubDate": "2026-06-26T12:00:05.000Z",
-      "contentSnippet": "この記事について\nNext DP Contestで筆者が解いた問題(A～Iの9問)について、解法を自分なりに整理した学習記録です。\n後から読み返したときに解法を再構成できるよう、完成したコードだけでなく、DPの状態や遷移、解法のポイントを整",
-      "param": "zenn_rust"
-    },
-    {
-      "creator": "nakahide",
       "title": "NDPC-Dの学習記録",
       "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-d",
       "pubDate": "2026-06-26T12:00:05.000Z",
       "contentSnippet": "問題のリンク\n\n\n 問題概要\nある国では、1円紙幣, 10円紙幣, 100円紙幣, ...と10倍ごとに紙幣が流通している。\nN 円の支払いを行う時、「支払う紙幣の枚数」と「お釣りとしてもらう紙幣の枚数」の合計枚数を最小化する問題。\n\n 重",
+      "param": "zenn_rust"
+    },
+    {
+      "creator": "nakahide",
+      "title": "Next DP Contest（NDPC）の学習記録",
+      "link": "https://zenn.dev/nakst_hide/articles/explanation-atcoder-ndpc-top",
+      "pubDate": "2026-06-26T12:00:05.000Z",
+      "contentSnippet": "この記事について\nNext DP Contestで筆者が解いた問題(A～Iの9問)について、解法を自分なりに整理した学習記録です。\n後から読み返したときに解法を再構成できるよう、完成したコードだけでなく、DPの状態や遷移、解法のポイントを整",
       "param": "zenn_rust"
     },
     {
