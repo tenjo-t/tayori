@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "プロンプトに埋めるJSONを短縮するTOONが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611171/",
+      "pubDate": "2026-11-17T00:00:00.000Z",
+      "contentSnippet": "LLMへの入力向けにJSONと同じデータを省トークンで書くデータ形式TOONの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "ロボット掃除機がMacのデスクトップを片付けるRoboDustが良さげかも",
       "link": "https://kawarimidoll.com/posts/202611161/",
       "pubDate": "2026-11-16T00:00:00.000Z",
       "contentSnippet": "ロボット掃除機がMacのデスクトップを走り回ってファイルを吸い込んで整理してくれるRoboDustの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "文字の正体をターミナルで調べられるSauvaが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611162/",
+      "pubDate": "2026-11-16T00:00:00.000Z",
+      "contentSnippet": "Unicodeのコードポイントを検索・閲覧し、文字列を分解して調べられるTUIのSauvaの紹介です。",
       "param": "kawarimidoll"
     },
     {
