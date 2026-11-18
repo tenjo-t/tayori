@@ -3,6 +3,41 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "Microsoft、AIコーディングのトークン費用を抑えるTokenEconomizerプラグインを紹介",
+      "link": "https://gihyo.jp/article/2026/11/tokeneconomizer?utm_source=feed",
+      "pubDate": "2026-11-17T06:55:48.000Z",
+      "contentSnippet": "Microsoft Researchは2026年11月16日、AIコーディングエージェントの作業履歴を活用してトークン費用を抑えるオープンソースのプラグイン「TokenEconomizer」を紹介した。同じリポジトリで得た知識を次の作業へ引",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Gemini Notebookでアップロードした資料からインタラクティブなWebサイト作成が可能に",
+      "link": "https://gihyo.jp/article/2026/11/gemini-notebook-interactive-sites?utm_source=feed",
+      "pubDate": "2026-11-17T06:28:00.000Z",
+      "contentSnippet": "Googleは2026年11月16日、AIリサーチアシスタント「Gemini Notebook」に集めた資料をインタラクティブなサイトに変換する機能を追加したことを発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Anthropic、深刻な脆弱性の公開スケジュールを短縮へ ―AIを活用した脆弱性発見に対応",
+      "link": "https://gihyo.jp/article/2026/11/anthropic-update-vulnerability-disclosure-timelines?utm_source=feed",
+      "pubDate": "2026-11-17T01:49:00.000Z",
+      "contentSnippet": "Anthropicは2026年11月16日、同社が発見した脆弱性を開発元へ報告してから一般公開するまでの期限を短縮すると発表した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "「中高生Rubyプログラミングコンテスト2026」の最終審査会進出者12組が決定、2026年11月28日三鷹で最終審査会を開催",
+      "link": "https://gihyo.jp/article/2026/11/ruby-procon2026-11?utm_source=feed",
+      "pubDate": "2026-11-17T01:15:51.000Z",
+      "contentSnippet": "今回で16回目を迎える「中高生Rubyプログラミングコンテスト2026」。2026年11月28日に三鷹で開催される最終審査会進出者10組が決定した。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Claude CodeでAIエージェントの環境設定を非エンジニア向けに最適化しよう",
+      "link": "https://gihyo.jp/article/2026/11/claude-business-guide-04?utm_source=feed",
+      "pubDate": "2026-11-17T00:50:00.000Z",
+      "contentSnippet": "今回は、Git・資格情報・バックアップの3つを設定します。Claude Codeは開発者向けの道具なので、周りにある作法もエンジニアのものです。",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "Google、「Stitch Rapid」を実験公開 ——複数画面からなるプロトタイプを約5秒で生成",
       "link": "https://gihyo.jp/article/2026/11/stitch-rapid?utm_source=feed",
       "pubDate": "2026-11-16T11:56:34.000Z",
@@ -7598,17 +7633,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "みてね写真プリントML自動提案の仕組み",
-      "link": "https://gihyo.jp/article/2025/09/mitene-12-printphoto?utm_source=feed",
-      "pubDate": "2025-09-04T00:07:00.000Z",
-      "contentSnippet": "みてね×gihyo.jpスペシャル企画。12回目はML自動提案による写真プリントの仕組みについて解説します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "自由か、それとも安全か。Androidで開発者認定を導入",
       "link": "https://gihyo.jp/article/2025/09/android-weekly-topics-250904?utm_source=feed",
       "pubDate": "2025-09-04T00:07:00.000Z",
       "contentSnippet": "8月26日、GoogleはAndroid Developer BlogでPlayストア外からアプリをインストールする「サイドロード」の安全性を高めるために、開発者認証制度（Developer Verification）を導入する計画を発表し",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "みてね写真プリントML自動提案の仕組み",
+      "link": "https://gihyo.jp/article/2025/09/mitene-12-printphoto?utm_source=feed",
+      "pubDate": "2025-09-04T00:07:00.000Z",
+      "contentSnippet": "みてね×gihyo.jpスペシャル企画。12回目はML自動提案による写真プリントの仕組みについて解説します。",
       "param": "gihyo_jp"
     },
     {
@@ -7969,17 +8004,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
-      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
       "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
+      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
       "param": "gihyo_jp"
     },
     {
@@ -8207,17 +8242,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
-      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "LangChain4jを使ってみよう",
       "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
+      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -8711,17 +8746,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {

@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "閉じても動き続けるエージェント用ターミナルKeroが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611181/",
+      "pubDate": "2026-11-18T00:00:00.000Z",
+      "contentSnippet": "アプリを閉じてもセッションが動き続け、入力待ちのエージェントをサイドバーと通知で知らせるターミナルアプリKeroの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "プロンプトに埋めるJSONを短縮するTOONが良さげかも",
       "link": "https://kawarimidoll.com/posts/202611171/",
       "pubDate": "2026-11-17T00:00:00.000Z",
       "contentSnippet": "LLMへの入力向けにJSONと同じデータを省トークンで書くデータ形式TOONの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "JSONやYAMLを掘り下げられるvyが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611172/",
+      "pubDate": "2026-11-17T00:00:00.000Z",
+      "contentSnippet": "JSONとYAMLをツリー表示し、検索やjaqクエリで掘り下げられるTUIのvyの紹介です。",
       "param": "kawarimidoll"
     },
     {
