@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "AIエージェントを並べて見張れるターミナルマルチプレクサluvusが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611191/",
+      "pubDate": "2026-11-19T00:00:00.000Z",
+      "contentSnippet": "複数AIコーディングエージェントの作業状況を1画面で管理できるluvusの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "閉じても動き続けるエージェント用ターミナルKeroが良さげかも",
       "link": "https://kawarimidoll.com/posts/202611181/",
       "pubDate": "2026-11-18T00:00:00.000Z",
       "contentSnippet": "アプリを閉じてもセッションが動き続け、入力待ちのエージェントをサイドバーと通知で知らせるターミナルアプリKeroの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ターミナルの配色を見比べて選べるTerminal Themesが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611182/",
+      "pubDate": "2026-11-18T00:00:00.000Z",
+      "contentSnippet": "カラースキームをブラウザ上でプレビューして各種ターミナル向けの形式でダウンロードできるTerminal Themesの紹介です。",
       "param": "kawarimidoll"
     },
     {

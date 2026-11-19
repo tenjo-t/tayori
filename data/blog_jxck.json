@@ -3,6 +3,13 @@
   "title": "blog.jxck.io",
   "items": [
     {
+      "title": "「能動的サイバー防御」と「サイバー対処能力強化法」は何であって・何でないか",
+      "link": "https://blog.jxck.io/entries/2026-11-18/active-cyber-defense.html",
+      "pubDate": "2026-11-18T00:00:00.000Z",
+      "contentSnippet": "GMO の一件で非常に話題になった「能動的サイバー防御」施行されたばかりの「サイバー対処能力強化法」および、それを統括する「国家サイバー統括室」等を含めその全体像と政府における立て付けについて解説する。この記事は、サイバーセキュリティアドベ",
+      "param": "blog_jxck"
+    },
+    {
       "title": "核融合データの正しい隠し方",
       "link": "https://blog.jxck.io/entries/2026-11-11/vivant.html",
       "pubDate": "2026-11-11T00:00:00.000Z",
