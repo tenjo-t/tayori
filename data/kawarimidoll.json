@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "マウスで分割できてスクリプトからも操作できるマルチプレクサsloshが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611201/",
+      "pubDate": "2026-11-20T00:00:00.000Z",
+      "contentSnippet": "マウスでペインを分割・移動でき、スクリプトから外部操作もできるターミナルマルチプレクサsloshの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "AIエージェントを並べて見張れるターミナルマルチプレクサluvusが良さげかも",
       "link": "https://kawarimidoll.com/posts/202611191/",
       "pubDate": "2026-11-19T00:00:00.000Z",
       "contentSnippet": "複数AIコーディングエージェントの作業状況を1画面で管理できるluvusの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "終了してもシェルが走り続けるMac用ターミナルMactermが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611192/",
+      "pubDate": "2026-11-19T00:00:00.000Z",
+      "contentSnippet": "アプリを終了しても作業がバックグラウンドで続き、サイドバーでプロジェクトを整理できるmacOS用ターミナルMactermの紹介です。",
       "param": "kawarimidoll"
     },
     {

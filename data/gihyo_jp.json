@@ -3,6 +3,41 @@
   "title": "gihyo.jp",
   "items": [
     {
+      "title": "“Edge”アーカイブによる先行パッチ、Ubuntu 27.04（tenacious）の開発：「AI Tutor」、メーリングリストのマイグレーション",
+      "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202611/20?utm_source=feed",
+      "pubDate": "2026-11-20T00:27:00.000Z",
+      "contentSnippet": "Ubuntu Proを利用することに新しいメリットが加わりました。“Edge”と呼ばれる新しいセキュリティ対応パッケージラインが加わります。期待するものかどうかは利用用途によって異なるので、内容を見ていきましょう。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Geminiアプリでタスクを定期実行できる「Tasks」、日本など6カ国で無料提供を開始 ——米国では電話や買い物も代行可能に",
+      "link": "https://gihyo.jp/article/2026/11/gemini-app-tasks?utm_source=feed",
+      "pubDate": "2026-11-19T10:29:40.000Z",
+      "contentSnippet": "Googleは2026年11月17日、日本など6カ国で、Geminiアプリの「Tasks」を有料プランを契約していない人にも順次提供し始めた。たとえば旅行の計画を頼めば、Geminiがバックグラウンドで日程を組み、まとまったところで利用者に",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Google、Gemini 4 Neonを発表 ——Carbonをもとに開発、複雑な作業をより短時間で",
+      "link": "https://gihyo.jp/article/2026/11/gemini-4-neon?utm_source=feed",
+      "pubDate": "2026-11-19T08:00:43.000Z",
+      "contentSnippet": "Googleは2026年11月18日、AIモデル「Gemini 4 Neon」を発表し、GeminiアプリやGemini APIなどで順次提供を始めた。Neonは、複数のファイルにまたがるコード修正や科学研究での定量分析など、高い推論能力が",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Microsoft、次期WindowsからPowerShell 7を標準搭載へ、Windows PowerShell 5.1の非推奨化も発表",
+      "link": "https://gihyo.jp/article/2026/11/powershell-7-in-next-windows?utm_source=feed",
+      "pubDate": "2026-11-19T02:54:53.000Z",
+      "contentSnippet": "Microsoftは2026年11月17日、次期Windows[1]からPowerShell 7を標準搭載すると発表した。同日、Windows PowerShell 5.1を非推奨とした。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "NGINX、HTTP/2処理の脆弱性を修正 ——静的ファイルだけを配信する構成でもリモートコード実行を確認",
+      "link": "https://gihyo.jp/article/2026/11/nginx-http2-rce?utm_source=feed",
+      "pubDate": "2026-11-19T02:32:22.000Z",
+      "contentSnippet": "NGINXの開発チームは2026年11月18日、オープンソース版NGINXの複数の脆弱性を修正し、メインライン版1.31.9と安定版1.30.7を公開した。修正対象には、複数の研究チームが独立に発見したHTTP/2処理の脆弱性2件が含まれる",
+      "param": "gihyo_jp"
+    },
+    {
       "title": "今回のテーマは「MTがもたらすWeb運用と開発者体験の新しい形」――MTDDC Meetup TOKYO 2026、12/5に開催",
       "link": "https://gihyo.jp/article/2026/11/mtddc2026?utm_source=feed",
       "pubDate": "2026-11-19T00:29:08.000Z",
@@ -7682,17 +7717,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "みてね写真プリントML自動提案の仕組み",
-      "link": "https://gihyo.jp/article/2025/09/mitene-12-printphoto?utm_source=feed",
-      "pubDate": "2025-09-04T00:07:00.000Z",
-      "contentSnippet": "みてね×gihyo.jpスペシャル企画。12回目はML自動提案による写真プリントの仕組みについて解説します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "自由か、それとも安全か。Androidで開発者認定を導入",
       "link": "https://gihyo.jp/article/2025/09/android-weekly-topics-250904?utm_source=feed",
       "pubDate": "2025-09-04T00:07:00.000Z",
       "contentSnippet": "8月26日、GoogleはAndroid Developer BlogでPlayストア外からアプリをインストールする「サイドロード」の安全性を高めるために、開発者認証制度（Developer Verification）を導入する計画を発表し",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "みてね写真プリントML自動提案の仕組み",
+      "link": "https://gihyo.jp/article/2025/09/mitene-12-printphoto?utm_source=feed",
+      "pubDate": "2025-09-04T00:07:00.000Z",
+      "contentSnippet": "みてね×gihyo.jpスペシャル企画。12回目はML自動提案による写真プリントの仕組みについて解説します。",
       "param": "gihyo_jp"
     },
     {
@@ -8053,17 +8088,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
-      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
-      "pubDate": "2025-08-07T00:00:00.000Z",
-      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "コンテクストから始まるプレイドのAI技術戦略――AIを最大活用するための技術とエンジニアチーム",
       "link": "https://gihyo.jp/article/2025/08/plaid-ai?utm_source=feed",
       "pubDate": "2025-08-07T00:00:00.000Z",
       "contentSnippet": "「データによって人の価値を最大化する」をミッションに掲げるプレイドは、企業への支援を通じて、そこで生成・解析されるデータを生活者一人ひとりの体験価値に還元していくことを目指し、データと技術を最大限活用したプロダクトやソリューションを日々開発",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Android XRとGeminiの組み合わせで起こる化学変化とは",
+      "link": "https://gihyo.jp/article/2025/08/android-weekly-topics-250807?utm_source=feed",
+      "pubDate": "2025-08-07T00:00:00.000Z",
+      "contentSnippet": "Android XRは、Project Moohanの名前で呼ばれており、Samsungがデバイスを開発中で、2025年内（Q3からQ4）には発売されるとされています。",
       "param": "gihyo_jp"
     },
     {
@@ -8291,17 +8326,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
-      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
-      "pubDate": "2025-07-24T00:00:00.000Z",
-      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "LangChain4jを使ってみよう",
       "link": "https://gihyo.jp/article/2025/07/start-java-ai-programming-02?utm_source=feed",
       "pubDate": "2025-07-24T00:00:00.000Z",
       "contentSnippet": "今回は、LLMへの接続に必要な処理を共通化する定番ライブラリであるLangChain4jを使ってチャットアプリを作っていきます。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "Chrome OSとAndroidの統合、Made by Googleイベントなど",
+      "link": "https://gihyo.jp/article/2025/07/android-weekly-topics-250724?utm_source=feed",
+      "pubDate": "2025-07-24T00:00:00.000Z",
+      "contentSnippet": "今週は、小ネタながらAndroid関連の話題がいくつかあったので、気になるものをピックアップしていきます。",
       "param": "gihyo_jp"
     },
     {
@@ -8795,17 +8830,17 @@
       "param": "gihyo_jp"
     },
     {
-      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
-      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
-      "pubDate": "2025-06-24T23:59:00.000Z",
-      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
-      "param": "gihyo_jp"
-    },
-    {
       "title": "第868回　UbuntuでAMD Radeon RX 9060 XTを使用する",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0868?utm_source=feed",
       "pubDate": "2025-06-24T23:59:00.000Z",
       "contentSnippet": "今回はASRock DeskMeet X300にRD-RX9060XT-E16GB/DFを取り付け、Ubuntu 24.04 LTSを使用する方法を紹介します。",
+      "param": "gihyo_jp"
+    },
+    {
+      "title": "3DPでキューブパズルを自作してみる(1) ～構造の理解～",
+      "link": "https://gihyo.jp/article/2025/06/3dp-jungle-12?utm_source=feed",
+      "pubDate": "2025-06-24T23:59:00.000Z",
+      "contentSnippet": "今回から数回にわたり、私がルービックキューブを模したおもちゃを3DPで自作した際の工程を紹介します。",
       "param": "gihyo_jp"
     },
     {
