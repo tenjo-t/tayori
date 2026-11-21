@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "tmuxで動く複数のAIエージェントを一覧できるccmuxが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611211/",
+      "pubDate": "2026-11-21T00:00:00.000Z",
+      "contentSnippet": "tmuxで動く複数のコーディングエージェントの状態を一覧し、承認待ちのペインへすぐ移動できるccmuxの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "マウスで分割できてスクリプトからも操作できるマルチプレクサsloshが良さげかも",
       "link": "https://kawarimidoll.com/posts/202611201/",
       "pubDate": "2026-11-20T00:00:00.000Z",
       "contentSnippet": "マウスでペインを分割・移動でき、スクリプトから外部操作もできるターミナルマルチプレクサsloshの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "複数のAIエージェントを行き来できるTUIのagent-deckが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611202/",
+      "pubDate": "2026-11-20T00:00:00.000Z",
+      "contentSnippet": "コーディングエージェントのセッションをtmux上で管理するTUIのagent-deckの紹介です。",
       "param": "kawarimidoll"
     },
     {
