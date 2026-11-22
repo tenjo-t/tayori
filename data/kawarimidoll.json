@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "worktreeとtmuxウィンドウを組にして管理するworkmuxが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611221/",
+      "pubDate": "2026-11-22T00:00:00.000Z",
+      "contentSnippet": "git worktreeとtmuxのウィンドウを紐付けて管理し、AIエージェントの並列作業を回すworkmuxの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "tmuxで動く複数のAIエージェントを一覧できるccmuxが良さげかも",
       "link": "https://kawarimidoll.com/posts/202611211/",
       "pubDate": "2026-11-21T00:00:00.000Z",
       "contentSnippet": "tmuxで動く複数のコーディングエージェントの状態を一覧し、承認待ちのペインへすぐ移動できるccmuxの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "tmuxのセッションをスクロールバックごと戻せるlazy-tmuxが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611212/",
+      "pubDate": "2026-11-21T00:00:00.000Z",
+      "contentSnippet": "tmuxのセッションを実行中のコマンドやスクロールバックごと保存して復元するlazy-tmuxの紹介です。",
       "param": "kawarimidoll"
     },
     {

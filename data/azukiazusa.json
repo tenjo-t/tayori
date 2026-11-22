@@ -4,6 +4,13 @@
   "description": "Web フロントエンド要素多めの技術ブログです。週に1度更新されます。",
   "items": [
     {
+      "title": "eve 1.0 のフレームワーク統合で Web アプリと AI エージェントを一体開発する",
+      "link": "https://azukiazusa.dev/blog/eve-framework-integration",
+      "pubDate": "2026-11-20T10:38:00.000Z",
+      "contentSnippet": "Vercel の AI エージェントフレームワーク eve 1.0 で、Next.js・Nuxt・SvelteKit・TanStack Start・Vite 向けのフレームワーク統合が拡充されました。この記事では Next.js と use",
+      "param": "azukiazusa"
+    },
+    {
       "title": "AWS Emulator で AWS SDK を使うコードをローカルでテストする",
       "link": "https://azukiazusa.dev/blog/aws-emulator-local-testing",
       "pubDate": "2026-11-14T03:50:00.000Z",
@@ -3126,17 +3133,17 @@
       "param": "azukiazusa"
     },
     {
-      "title": "【Vue.js】script setup 構文がすごくすごい",
-      "link": "https://azukiazusa.dev/blog/vue-js-script-setup",
-      "pubDate": "2021-09-25T15:00:00.000Z",
-      "contentSnippet": "Vue.js 3.x から script setup 構文が使えるようになりました。これは単一ファイルコンポーネント(SFC)内で Composition API を使用している際に使える糖衣構文です。下記のようなメリットを得ることができ、",
-      "param": "azukiazusa"
-    },
-    {
       "title": "Vuex 5 でどのように変わるのか。",
       "link": "https://azukiazusa.dev/blog/vuex-5",
       "pubDate": "2021-09-25T15:00:00.000Z",
       "contentSnippet": "現在リリースされている最新のバージョンは Vuex 4 です。 これは Vuex 3 と互換性のあるバージョンで Vue 3 で使用するためのものであり、 Vuex 3 と同じ API となっています。  Vuex 5 は Vue 3 にお",
+      "param": "azukiazusa"
+    },
+    {
+      "title": "【Vue.js】script setup 構文がすごくすごい",
+      "link": "https://azukiazusa.dev/blog/vue-js-script-setup",
+      "pubDate": "2021-09-25T15:00:00.000Z",
+      "contentSnippet": "Vue.js 3.x から script setup 構文が使えるようになりました。これは単一ファイルコンポーネント(SFC)内で Composition API を使用している際に使える糖衣構文です。下記のようなメリットを得ることができ、",
       "param": "azukiazusa"
     },
     {
