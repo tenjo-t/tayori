@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "設定ファイルなしで使えるMac用タイリングウィンドウマネージャKiwiDeskが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611231/",
+      "pubDate": "2026-11-23T00:00:00.000Z",
+      "contentSnippet": "複雑な設定をせずともウィンドウを自動で並べ、CLIでも操作できるmacOS用タイリングウィンドウマネージャKiwiDeskの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "worktreeとtmuxウィンドウを組にして管理するworkmuxが良さげかも",
       "link": "https://kawarimidoll.com/posts/202611221/",
       "pubDate": "2026-11-22T00:00:00.000Z",
       "contentSnippet": "git worktreeとtmuxのウィンドウを紐付けて管理し、AIエージェントの並列作業を回すworkmuxの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "ファイルにもDBにも同じコマンドでSQLを投げられるrsqlが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611222/",
+      "pubDate": "2026-11-22T00:00:00.000Z",
+      "contentSnippet": "データベースもローカルのファイルもS3上のデータも同じSQLクライアントから扱えるrsqlの紹介です。",
       "param": "kawarimidoll"
     },
     {
@@ -427,7 +441,7 @@
       "title": "ターミナルでMarkdownノートを管理できるTsuzuriが良さげかも",
       "link": "https://kawarimidoll.com/posts/202610232/",
       "pubDate": "2026-10-23T00:00:00.000Z",
-      "contentSnippet": "ObsidianのようにノートをリンクしNotionのようにブロックを組んで書けるノート管理TUIのTsuzuriの紹介です。",
+      "contentSnippet": "ObsidianのようにノートをリンクしNotionのようにブロックを組んで書けるTUIのTsuzuriの紹介です。",
       "param": "kawarimidoll"
     },
     {
@@ -672,7 +686,7 @@
       "title": "エージェントにコミット整理を教えるgit-surgeonが良さげかも",
       "link": "https://kawarimidoll.com/posts/202610051/",
       "pubDate": "2026-10-05T00:00:00.000Z",
-      "contentSnippet": "対話プロンプトを使わずに行範囲でのステージやコミット分割ができるgit-surgeonの紹介です。",
+      "contentSnippet": "対話プロンプトを使わずにhunkや行範囲でのステージやコミット分割ができるgit-surgeonの紹介です。",
       "param": "kawarimidoll"
     },
     {
@@ -735,7 +749,7 @@
       "title": "通信先を世界地図に描くTapMapが良さげかも",
       "link": "https://kawarimidoll.com/posts/202610012/",
       "pubDate": "2026-10-01T00:00:00.000Z",
-      "contentSnippet": "コンピュータの通信先を世界地図上に描くTapMapの紹介です。",
+      "contentSnippet": "コンピューターの通信先を世界地図上に描くTapMapの紹介です。",
       "param": "kawarimidoll"
     },
     {
@@ -2086,7 +2100,7 @@
       "title": "macOS用メディアプレイヤーMac Classic Playerが良さげかも",
       "link": "https://kawarimidoll.com/posts/202606261/",
       "pubDate": "2026-06-26T00:00:00.000Z",
-      "contentSnippet": "キーボード操作できるミニマルなメディアプレイヤーMac Classic Playerの紹介です。",
+      "contentSnippet": "Media Player Classic風の操作感をmacOSで再現したミニマルなメディアプレイヤーMac Classic Playerの紹介です。",
       "param": "kawarimidoll"
     },
     {
@@ -2114,7 +2128,7 @@
       "title": "macOS画面録画アプリBetterCaptureが良さげかも",
       "link": "https://kawarimidoll.com/posts/202606241/",
       "pubDate": "2026-06-24T00:00:00.000Z",
-      "contentSnippet": "オープンソースのmacOSネイティブスクリーンレコーダーBetterCaptureの紹介です。",
+      "contentSnippet": "完全無料でオープンソースのmacOSネイティブスクリーンレコーダーBetterCaptureの紹介です。",
       "param": "kawarimidoll"
     },
     {
@@ -2296,7 +2310,7 @@
       "title": "btrfsのディスク使用量を分析するbtduが良さげかも",
       "link": "https://kawarimidoll.com/posts/202606111/",
       "pubDate": "2026-06-11T00:00:00.000Z",
-      "contentSnippet": "btrfsファイルシステムのディスク使用量をサンプリングで分析するプロファイラbtduの紹介です。",
+      "contentSnippet": "btrfsファイルシステムのディスク使用量をサンプリングで分析するプロファイラーbtduの紹介です。",
       "param": "kawarimidoll"
     },
     {
@@ -2450,7 +2464,7 @@
       "title": "TS/JSコードベース解析ツールのFallowが良さげかも",
       "link": "https://kawarimidoll.com/posts/202605311/",
       "pubDate": "2026-05-31T00:00:00.000Z",
-      "contentSnippet": "TypeScript / JavaScript向けのRust製コードベース分析ツールFallowの紹介です。",
+      "contentSnippet": "TypeScript/JavaScript向けのRust製コードベース分析ツールFallowの紹介です。",
       "param": "kawarimidoll"
     },
     {
@@ -2548,7 +2562,7 @@
       "title": "macOSの壁紙に時計を表示するCadranが良さげかも",
       "link": "https://kawarimidoll.com/posts/202605241/",
       "pubDate": "2026-05-24T00:00:00.000Z",
-      "contentSnippet": "macOSの壁紙に時計を表示するデスクトップアプリCadranの紹介です。",
+      "contentSnippet": "macOSの壁紙レイヤーに時計の文字盤を表示するデスクトップ時計アプリCadranの紹介です。",
       "param": "kawarimidoll"
     },
     {
