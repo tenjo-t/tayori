@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "Vim風キーバインドのTUIヘックスエディタdz6が良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611241/",
+      "pubDate": "2026-11-24T00:00:00.000Z",
+      "contentSnippet": "ターミナルで動くVim風キーバインドの高速ヘックスエディタdz6の紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "設定ファイルなしで使えるMac用タイリングウィンドウマネージャKiwiDeskが良さげかも",
       "link": "https://kawarimidoll.com/posts/202611231/",
       "pubDate": "2026-11-23T00:00:00.000Z",
       "contentSnippet": "複雑な設定をせずともウィンドウを自動で並べ、CLIでも操作できるmacOS用タイリングウィンドウマネージャKiwiDeskの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "macOSをターミナルの中で開くterminal-macが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611232/",
+      "pubDate": "2026-11-23T00:00:00.000Z",
+      "contentSnippet": "仮想マシンで動くmacOSをターミナルに表示してAIエージェントに操作もさせられるterminal-macの紹介です。",
       "param": "kawarimidoll"
     },
     {
