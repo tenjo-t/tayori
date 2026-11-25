@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "Macアプリのウィンドウを自動で敷き詰められるHyprMacが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611251/",
+      "pubDate": "2026-11-25T00:00:00.000Z",
+      "contentSnippet": "開いたウィンドウを自動で配置してキーボードで操作できるmacOS用のタイリングウィンドウマネージャHyprMacの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "Vim風キーバインドのTUIヘックスエディタdz6が良さげかも",
       "link": "https://kawarimidoll.com/posts/202611241/",
       "pubDate": "2026-11-24T00:00:00.000Z",
       "contentSnippet": "ターミナルで動くVim風キーバインドの高速ヘックスエディタdz6の紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "外に開いているポートを色で見分けられるportopが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611242/",
+      "pubDate": "2026-11-24T00:00:00.000Z",
+      "contentSnippet": "待ち受け中のポートが自分のPCの中だけで開いているのか、ほかのマシンからもアクセスできるのかを、持ち主のプロセスやコンテナと一緒に色分けで表示するTUIツールportopの紹介です。",
       "param": "kawarimidoll"
     },
     {
