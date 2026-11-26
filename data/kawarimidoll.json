@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "Macのショートカットの衝突を探すHotkeyClashが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611261/",
+      "pubDate": "2026-11-26T00:00:00.000Z",
+      "contentSnippet": "起動中のアプリやmacOSのシステム設定などからショートカットを取得して同じキーに重複して割り当てられているものを一覧するHotkeyClashの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "Macアプリのウィンドウを自動で敷き詰められるHyprMacが良さげかも",
       "link": "https://kawarimidoll.com/posts/202611251/",
       "pubDate": "2026-11-25T00:00:00.000Z",
       "contentSnippet": "開いたウィンドウを自動で配置してキーボードで操作できるmacOS用のタイリングウィンドウマネージャHyprMacの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "Raycastの拡張を動かせるMac用ランチャーFloeが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611252/",
+      "pubDate": "2026-11-25T00:00:00.000Z",
+      "contentSnippet": "Raycastの拡張機能を動かせるmacOS用コマンドランチャーFloeの紹介です。",
       "param": "kawarimidoll"
     },
     {
