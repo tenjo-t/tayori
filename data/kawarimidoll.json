@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "macOSのメニューバーのアイコンを隠すDimbleが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611271/",
+      "pubDate": "2026-11-27T00:00:00.000Z",
+      "contentSnippet": "macOS自身の仕組みを利用して普段使わないメニューバーアイコンを隠すDimbleの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "Macのショートカットの衝突を探すHotkeyClashが良さげかも",
       "link": "https://kawarimidoll.com/posts/202611261/",
       "pubDate": "2026-11-26T00:00:00.000Z",
       "contentSnippet": "起動中のアプリやmacOSのシステム設定などからショートカットを取得して同じキーに重複して割り当てられているものを一覧するHotkeyClashの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "状態に応じたアニメーションができるReactアイコン集Weaselが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611262/",
+      "pubDate": "2026-11-26T00:00:00.000Z",
+      "contentSnippet": "状態遷移を考慮したアニメーションをできるReact用のアイコン集Weaselの紹介です。",
       "param": "kawarimidoll"
     },
     {
