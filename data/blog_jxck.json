@@ -3,6 +3,13 @@
   "title": "blog.jxck.io",
   "items": [
     {
+      "title": "Verifiable Credentials による個人情報収集の最小化",
+      "link": "https://blog.jxck.io/entries/2026-11-27/verifiable-credentials.html",
+      "pubDate": "2026-11-27T00:00:00.000Z",
+      "contentSnippet": "マイナンバーカードや JPKI を用いて本人確認する方式への移行が急がれている。しかし、確認方法が変わっても、そこで取得した情報を DB に保存していては、漏洩のリスク自体はなくならない。個人情報自体を渡さずに、必要な確認を行うことができれ",
+      "param": "blog_jxck"
+    },
+    {
       "title": "タイムズはどうすべきだったのか、JPKI を用いた eKYC の今後",
       "link": "https://blog.jxck.io/entries/2026-11-25/ekyc-over-jpki.html",
       "pubDate": "2026-11-25T00:00:00.000Z",

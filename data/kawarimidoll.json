@@ -4,10 +4,24 @@
   "description": "first of all, kawarimidoll",
   "items": [
     {
+      "title": "DNSの反映状況をターミナルの世界地図で見るdnsglobeが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611281/",
+      "pubDate": "2026-11-28T00:00:00.000Z",
+      "contentSnippet": "世界中のDNSリゾルバへ並列に問い合わせ、回答の違いを地図に描くTUIツールdnsglobeの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
       "title": "macOSのメニューバーのアイコンを隠すDimbleが良さげかも",
       "link": "https://kawarimidoll.com/posts/202611271/",
       "pubDate": "2026-11-27T00:00:00.000Z",
       "contentSnippet": "macOS自身の仕組みを利用して普段使わないメニューバーアイコンを隠すDimbleの紹介です。",
+      "param": "kawarimidoll"
+    },
+    {
+      "title": "カーソルがボタンに乗るとトラックパッドが震えて教えてくれるTactileが良さげかも",
+      "link": "https://kawarimidoll.com/posts/202611272/",
+      "pubDate": "2026-11-27T00:00:00.000Z",
+      "contentSnippet": "カーソルがボタンやリンクの上に来たとき、トラックパッドの振動でフィードバックするmacOSアプリTactileの紹介です。",
       "param": "kawarimidoll"
     },
     {
